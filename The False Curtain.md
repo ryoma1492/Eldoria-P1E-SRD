@@ -1,0 +1,1 @@
+[[Zarthas]] hideout on the physical, bowl-like edge of the [[Fool's Curtain]] in northernmost [[Eldoria]]

@@ -23,12 +23,12 @@ Razor Ridge is defined by extreme social stratification.
 Despite this, Razor Ridge fostered strong communal ties among workers, particularly in taverns such as [[The Copper Keg]].
 
 ## Halbrin the Magus
-Razor Ridge was the place of retirement for [[Halbrin]], a former Crown magus and mentor to [[Zarthus]]. By the time of the party’s arrival, Halbrin lived under the supervision of a Crown-affiliated caretaker and appeared mentally diminished.
+Razor Ridge was the place of retirement for [[Halbrin]], a former Crown magus and mentor to [[Zarthas]]. By the time of the party’s arrival, Halbrin lived under the supervision of a Crown-affiliated caretaker and appeared mentally diminished.
 
 Subsequent investigation revealed that Halbrin was being chemically suppressed through daily herbal dosing. Once freed, he confirmed long-held suspicions regarding Crown secrecy, arcane weapons, and Splitter technology.
 
 ## The Riot and the Blast
-Following Halbrin’s rescue, unrest in Razor Ridge escalated into open rebellion. Miners and laborers clashed with Crown guards, sparked in part by speeches made within [[The Copper Keg]] and the death of the miner [[Frye]].
+Following [[Halbrin’]]s rescue, unrest in Razor Ridge escalated into open rebellion. Miners and laborers clashed with Crown guards, sparked in part by speeches made within [[The Copper Keg]] and the death of the miner [[Frye]].
 
 As the riot reached the Crown Top, the Crown responded with overwhelming force.
 
@@ -51,19 +51,22 @@ Survivors quietly refer to the event as a massacre rather than a suppression.
 Razor Ridge represents:
 - The first widely witnessed use of a [[Royal Crown of Eldoria|Crown]] [[superweapon]] against its own citizens
 - Proof that rebellion would be met with annihilation
-- A turning point for dissident movements across Emberfall
+- A turning point for dissident movements across [[Emberfall]]
 
 The destruction of Razor Ridge is frequently cited in connection with later events in [[Lowhaven]].
 
 ## Reputation
 Among Crown loyalists, Razor Ridge is a tragic necessity — a reminder of the dangers of unrest.
 
-Among laborers, Fogborn, and rebels, it is a warning carved in stone and blood.
+Among laborers, [[Fogborn]], and rebels, it is a warning carved in stone and blood.
+
+For the [[Heroes]] and those willing to fight back, this began the need to take the [[Royal Crown of Eldoria]] down.  And if possible, take it down soon.
+
 
 ## See Also
 - [[Sunlance Crystal]]
 - [[Royal Crown of Eldoria]]
-- [[Zarthus]]
+- [[Zarthas]]
 - [[Halbrin]]
 - [[The Copper Keg]]
 - [[Lowhaven]]
