@@ -1,3 +1,3 @@
- - One of the [[strange black crystals]] 
+ - One of the [[black crystals]] 
  - Edible
  - Transforms the user (the character who eats it) into a monstrous [[half-dragon-black-dragon-basilisk|Half-Dragon]] 

@@ -54,13 +54,13 @@ The long-term political and social consequences remain unresolved.
 - Portions of the town lie in ruins
 - Farms are productive but vulnerable
 - Undead roam freely but pose little threat
-- Fortifications surround the Curtain Splitter
+- Fortifications surround the [[Curtain Splitter]]
 
 Despite this, morale remains cautiously hopeful.
 
 ## Reputation
 Lowhaven is increasingly viewed as:
-- A symbol of defiance against the Crown
+- A symbol of defiance against the [[Royal Crown of Eldoria]]
 - Proof that the fog can be pushed back
 - A dangerous precedent
 

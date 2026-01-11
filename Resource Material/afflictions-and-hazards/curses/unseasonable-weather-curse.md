@@ -1,5 +1,7 @@
 ---
 alias: Unseasonable Weather
+tags:
+  - curse
 ---
 
 # Unseasonable Weather

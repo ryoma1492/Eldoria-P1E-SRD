@@ -13,7 +13,7 @@ Curtain Splitter remains operational but vulnerable
 ## Act 1 - The Marked Fields
 In the aftermath of the cultist assault on the Splitter, [[Gargon]] quietly looted the fallen. Among scorched robes and ash, he recovered a half-burned map marked with crude X’s. [[Rhett]] and [[Carls Jr.]] recognized the marks as farms surrounding [[Lowhaven]] — places where crops had failed long before the fog lifted.
 
-Following the map led the party to the buried cause. Underneath the soil were [[strange black crystals]], but the [[cultist magical symbol]] inscribed on these bore a rotten apple sigil rather than the ladder rune used by the cultists. When removed, the land above healed almost instantly. The farmers watched in disbelief as dead fields turned fertile once more.
+Following the map led the party to the buried cause. Underneath the soil were [[black crystals]], but the [[cultist magical symbol]] inscribed on these bore a rotten apple sigil rather than the ladder rune used by the cultists. When removed, the land above healed almost instantly. The farmers watched in disbelief as dead fields turned fertile once more.
 
 At one such site, the party uncovered a satchel containing an ornate key marked with the crest of the [[Wicklow Estate]].
 
