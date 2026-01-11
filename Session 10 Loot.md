@@ -1,6 +1,6 @@
 During [[Session - The Black Crown of Eldoria]]
 
-## Curated Loot
+## Curated Loot again
 #### Real Items (from SRD or 3rd party)
  - Periapt of Wound Closure - https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/periapt-of-wound-closure/
 	 - Recipient intent - [[Finn]] (Peaceful barbarian)
