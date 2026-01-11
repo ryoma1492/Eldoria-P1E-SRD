@@ -1,0 +1,49 @@
+During [[Session - The Black Crown of Eldoria]]
+
+## Curated Loot
+#### Real Items (from SRD or 3rd party)
+ - Periapt of Wound Closure - https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/periapt-of-wound-closure/
+	 - Recipient intent - [[Finn]] (Peaceful barbarian)
+ - Belt of Mighty Hurling - https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-of-mighty-hurling
+	 - Recipient intent - [[Finn]] (throwing axes... when avoiding melee)
+ - Mallet of Building - https://www.d20pfsrd.com/magic-items/wondrous-items/m-p/mallet-of-building/
+	 - Recipient intent - [[Gargon]] (Pocket Dimension Door needs nails)
+ - Shocking Robe - https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/robe-shocking
+	 - Recipient intent - [[Leon]] (guard against his shocking grasp attacks, promotes extra usage of his electricity spells)
+ - Treasure Hunter's Goggles - https://www.d20pfsrd.com/magic-items/wondrous-items/e-g/goggles-treasure-hunter-s
+	 - Recipient intent - [[Caleb]] (always on the look for treasure)
+	 - Generic party benefit - 3/day - [[identify|Identify]]
+ - Cloak of Fiery Vanishing - https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cloak-of-fiery-vanishing
+	 - Recipient intent - [[Jellybean]] or Generic (any fire damage = invisibility for 5 rounds)
+		 - Jellybean - could use to sneak attack more
+ - Cloak of the Duskwalker - https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cloak-of-the-dusk-walker
+	 - Recipient Intent - Generic
+	 - !! Also helps current dungeon
+ - Bracers of the Glib Entertainer - https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bracers-of-the-glib-entertainer
+	 - Recipient intent - [[Nibwick]]
+ - Arrowmaster’s Bracers- https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bracers-arrowmaster-s
+	 - Recipient intent - [[Carls Jr]] (DR/5 plus 1/day +20 attack roll)
+ - Bookplate of Recall - https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bookplate-of-recall
+	 - Recipient intent - [[Leon]] (knowledge lover, 1/day book of known title..)
+	 - Can be a plot device for crown-restricted books as long as they still exist somewhere
+ - Merciful Vambraces - https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/vambraces-merciful
+	 - Recipient intent - [[Gargon]] (additional mercy for lay on hands, additional mercies at 6th lvl)
+#### Theoretical homebrew
+ - Legendary [[locate-object|Locate Object]] magical item
+	 - Object type (pick one)
+		 - Wand (3 total uses)
+			 - Gamble due to limited uses
+			 - Allows an easy (low complexity) One Shot Campaign with [[Leon]]
+		 - Compass (1/person)
+			 - acts like Limited Wish
+				 - it attunes the compass to 
+					 - switch "N" to point to the object at all times
+					 - spin when location indeterminate (due to [[locate-object|Locate Object]] rules)
+	 - Legendary due to Range (it's infinite)
+
+
+#### Good Ones (Honorable Mentions)
+ - Verdant Vine - https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/verdant-vine
+	 - Reason - Battlefield Disruption AoE (entangle)
+ - Stormlure - https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/stormlure
+	 - Reason - Fantastic thematic ability (Storm's are part/parcel to the campaign so far)
