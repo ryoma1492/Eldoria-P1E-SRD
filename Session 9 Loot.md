@@ -1,3 +1,8 @@
+---
+tags:
+  - Loot_Table
+---
+
 During [[Session 9 - The Black Crown of Eldoria]]
 
 ## Curated Loot

@@ -1,5 +1,6 @@
 ---
 tags:
+  - GM_Notes
 ---
 
 ## Pre-Text:

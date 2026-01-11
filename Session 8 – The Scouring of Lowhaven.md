@@ -1,3 +1,7 @@
+---
+tags:
+  - GM_Notes
+---
 
 ## Pre-Text
 With the [[Curtain Splitter]] active and [[Lowhaven]] bathed in sunlight for the first time in a century, hope briefly took root. Crops recovered, spirits lifted, and the [[Heroes]] were hailed as saviors. That hope lasted less than a day.

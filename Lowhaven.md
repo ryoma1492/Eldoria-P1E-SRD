@@ -1,3 +1,9 @@
+---
+aliases:
+  - City  of Lowhaven
+---
+
+
 *Settlement / Eldorian Town*
 
 ## Overview
