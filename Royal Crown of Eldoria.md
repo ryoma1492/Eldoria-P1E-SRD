@@ -40,7 +40,7 @@ The full extent of its arsenal is unknown.
 Public loyalty to the Crown remains strong in many regions, particularly [[Valoria]]. However:
 - Discontent simmers among laborers and miners
 - Peripheral regions report harsher enforcement
-- Refugees such as the Fogborn face systemic discrimination
+- Refugees such as the [[Fogborn]] face systemic discrimination
 
 ## Recent History
 - Crackdown on unrest following events in [[Razor Ridge]]
@@ -57,3 +57,5 @@ To critics, it is an authoritarian regime willing to enforce peace at catastroph
 - [[Peace Ordinance]]
 - [[Fool's Curtain]]
 - [[The Scouring of Lowhaven]]
+
+
