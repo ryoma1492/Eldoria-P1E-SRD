@@ -33,7 +33,7 @@ Zarthas is angry with us for stealing a splitter and installing it at Lowhaven
 		1. MacKenson (Jaggery) - businessman and smooth talker
 	3. Person 3 - Posse member
 		1. Alaria (Soylent) Fleetfin - Mallard's wife
-2. Recently, Oargull has had some trouble with strange forces and even stranger creatures coming at night.
+2. Recently, [[Oargull]] has had some trouble with strange forces and even stranger creatures coming at night.
 	1. They promise a pirates pone to you which would guarantee safe passage and trade among the seven pirate towns.
 		1. Serpentstone miniature oar which makes a sound like a seagull when lightly struck (Oar-gull)
 	2. They also personally have a dry dock for their ship rebuilding and refitting business which would be open to you for larger scale repairs at a discount of 15%
@@ -43,7 +43,7 @@ Zarthas is angry with us for stealing a splitter and installing it at Lowhaven
 	1. (**  the zombies and dark creatures alarmed Oargull and any efforts to defend are being met with greater and greater dark creatures.  They've lost some workers and ship mates and children to the creatures already.  Also the creatures seem to steal old town artifacts)
 
 # Leg Two - pirate Town and nighttime harassment
-1. "Here is the pirate town of Oargull, dusk is in 4 hours for the characters and 30 minutes for you all"
+1. "Here is the pirate town of [[Oargull]], dusk is in 4 hours for the characters and 30 minutes for you all"
 2. There are several notable places here
 	1. there is a massive brewery near the coastal wall
 		1. Owned by Mallard Fleetfin - primary export for this town is rum and barley beer 

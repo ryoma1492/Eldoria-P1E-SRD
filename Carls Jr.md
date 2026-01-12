@@ -4,4 +4,6 @@ tags:
 ---
 
 
-Ranger and Survivor of <some military event> in 
+Ranger and Survivor of <some military event> in his backstory
+
+Familiar: wolf [[Cheeburger Cheeburger]]

@@ -1,0 +1,1 @@
+captain of the [[Crimson Lady]] which is now the [[Lipless Squid]] and principally carried the [[Heroes]] along their adventures 
