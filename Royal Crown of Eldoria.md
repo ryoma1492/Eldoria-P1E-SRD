@@ -10,7 +10,7 @@ Its authority extends over all former kingdoms, including [[Eldoria]], [[Atheria
 - **Monarch:** [[King Balfour IV]]
 - **Military:** Royal Navy, Crown Guard, specialized arcane divisions
 - **Clergy & Orders:** Includes paladins such as [[Caldus]]
-- **Bureaucracy:** Regional governors, inspectors, and Crown caretakers
+- **Bureaucracy:** Regional governors, inspectors, and Crown caretakers [[bananas]] 
 
 ## Public Doctrine
 The Crown teaches that:
