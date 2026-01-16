@@ -83,6 +83,8 @@ desc_short: The dry rasping of spidery legs brings this hideous monstrosity into
 Created from the body of a drow, warped and mutated through special poisons and elixirs to take on the characteristics of a giant spider, the drider is a dangerous creature.
 
 Driders are sexually dimorphic. A female drider’s lower spider body is sleek and graceful, often similar to a black widow’s body, while its upper drow torso retains its alluring curves and beautiful face (with the exception of sharp, poisonous fangs). A male drider’s lower body is bulky like a tarantula, while its upper body is wiry and bears a hideous face more spider than drow, complete with fanged mandibles.
+
+In [[Session 9 - The Black Crown of Eldoria]] This creature has a legendary action of Movement 5/round
 ## Source Link
 [Archives of Nethys](https://aonprd.com/MonsterDisplay.aspx?ItemName=Drider)
 ```encounter-table
