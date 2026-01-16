@@ -4,7 +4,7 @@ tags:
 ---
 
 ## Pre-Text:
-The [[Heroes]] have found themselves in [[Lowhaven]] after having survived the [[Crown's Scouring of Lowhaven]] through a magical [[Superweapon]] called [[Peace Ordinance]] .  Loads of now non-violent [[human-zombie|Zombies]] were destroyed, but some remain.  The [[Curtain splitter]] is currently still functioning normally, despite both the [[Crystal Cultists]] and the [[Royal Crown of Eldoria]] both having attempted to stop the splitter once set to function.  [[Lowhaven]] is in a state of temporary calm, with hopeful agriculture and the town praising the [[Heroes]] for cleaning the farmland from the [[black crystals]] with a rotten apple shaped [[cultist magical symbol]]
+The [[Heroes]] have found themselves in [[Lowhaven]] after having survived the [[Crown's Scouring of Lowhaven]] through a magical [[Superweapon]] called [[Peace Ordinance|The Peace Ordinance]] .  Loads of now non-violent [[human-zombie|Zombies]] were destroyed, but some remain.  The [[Curtain splitter]] is currently still functioning normally, despite both the [[Crystal Cultists]] and the [[Royal Crown of Eldoria]] both having attempted to stop the splitter once set to function.  [[Lowhaven]] is in a state of temporary calm, with hopeful agriculture and the town praising the [[Heroes]] for cleaning the farmland from the [[black crystals]] with a rotten apple shaped [[cultist magical symbol]]
 
 ## Current state
 Zombies roaming free, not violent
