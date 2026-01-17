@@ -34,9 +34,9 @@ During [[Session 9 - The Black Crown of Eldoria]]
  - Bracers of the Glib Entertainer - https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bracers-of-the-glib-entertainer
 	 - Recipient intent - [[Nibwick]]
 	 - 7,900 gp
- - Arrowmaster’s Bracers- https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bracers-arrowmaster-s
-	 - Recipient intent - [[Carls Jr]] (DR/5 plus 1/day +20 attack roll)
-	 - 13,900 gp
+ - Belt of Physical Might - https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-of-physical-might
+	 - Recipient intent - [[Carls Jr]] (+2 Dex & Str)
+	 - 10,000 gp
  - Bookplate of Recall - https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bookplate-of-recall
 	 - Recipient intent - [[Leon]] (knowledge lover, 1/day book of known title..)
 	 - Can be a plot device for crown-restricted books as long as they still exist somewhere
@@ -44,7 +44,7 @@ During [[Session 9 - The Black Crown of Eldoria]]
  - Merciful Vambraces - https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/vambraces-merciful
 	 - Recipient intent - [[Gargon]] (additional mercy for lay on hands, additional mercies at 6th lvl)
 	 - 8,000 gp
-- Total = 94.8
+- Total = 94.8 (since... I have switched out arrow masters bracers for belt of physical might)
 #### Theoretical homebrew
  - Legendary [[locate-object|Locate Object]] magical item
 	 - Object type (pick one)
