@@ -31,9 +31,10 @@ During [[Session 9 - The Black Crown of Eldoria]]
 	 - Recipient Intent - Generic
 	 - !! Also helps current dungeon
 	 - 10,000 gp
- - Bracers of the Glib Entertainer - https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bracers-of-the-glib-entertainer
+ - (REMOVED) Bracers of the Glib Entertainer - https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/bracers-of-the-glib-entertainer
 	 - Recipient intent - [[Nibwick]]
 	 - 7,900 gp
+	 - Destroyed by [[Nibwick]] during a test to see what happens during the trial
  - Belt of Physical Might - https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/belt-of-physical-might
 	 - Recipient intent - [[Carls Jr]] (+2 Dex & Str)
 	 - 10,000 gp
@@ -44,8 +45,8 @@ During [[Session 9 - The Black Crown of Eldoria]]
  - Merciful Vambraces - https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/vambraces-merciful
 	 - Recipient intent - [[Gargon]] (additional mercy for lay on hands, additional mercies at 6th lvl)
 	 - 8,000 gp
-- Total = 94.8 (since... I have switched out arrow masters bracers for belt of physical might)
-#### Theoretical homebrew
+- Total = 94.8 (since... I have switched out arrow masters bracers for belt of physical might - minus ~13,000)
+#### Theoretical homebrew (UNUSED)
  - Legendary [[locate-object|Locate Object]] magical item
 	 - Object type (pick one)
 		 - Wand (3 total uses)
@@ -59,7 +60,7 @@ During [[Session 9 - The Black Crown of Eldoria]]
 	 - Legendary due to Range (it's infinite)
 
 
-#### Good Ones (Honorable Mentions)
+#### Good Ones (Honorable Mentions) - none were used
  - Verdant Vine - https://www.d20pfsrd.com/magic-items/wondrous-items/a-b/verdant-vine
 	 - Reason - Battlefield Disruption AoE (entangle)
  - Stormlure - https://www.d20pfsrd.com/magic-items/wondrous-items/r-z/stormlure
