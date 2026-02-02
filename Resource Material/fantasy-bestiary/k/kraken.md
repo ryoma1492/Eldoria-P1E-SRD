@@ -31,35 +31,7 @@ reach: 20 ft. (60 ft. with arm, 40 ft. with tentacle)
 pf1e_stats: [30, 10, 29, 21, 20, 21]
 BAB: 20
 CMB: 34 (+38 grappling)
-CMD: 44 (can’t be tripped)
-feats: Bleeding Critical, Blind-Fight, Cleave, Combat Expertise, Critical Focus, Improved Critical (arm), Improved Initiative, Improved Trip, Multiattack, Power Attack
-skills: Intimidate +25, Knowledge (geography) +25, Knowledge (nature) +25, Perception +28, Stealth +11, Swim +41, Use Magic Device +25
-languages: Aquan, Common
-special_qualities: tenacious grapple
-ecology:
-  - name: Environment
-    desc: any ocean
-  - name: Organisation
-    desc: solitary
-  - name: Treasure
-    desc: triple
-special_abilities:
-  - name: Ink Cloud (Ex)
-    desc: A kraken can emit a cloud of black, venomous ink in an 80-foot spread once per minute as a free action while underwater. This cloud provides total concealment, which the kraken can use to escape a fight that is going badly. Creatures within the cloud are considered to be in darkness. In addition, the ink is toxic, functioning as contact poison against all creatures caught within it. The ink cloud persists for 1 minute before dispersing. The save DC against the poison effect is Constitution-based.Kraken Ink: Ink cloud-contact; save Fort DC 29; frequency 1/round for 10 rounds; effect 1 Str damage plus nausea; cure 2 consecutive saves.
-  - name: Jet (Ex)
-    desc: A kraken can jet backward as a full-round action, at a speed of 280 feet. It must move in a straight line, but does not provoke attacks of opportunity while jetting.
-  - name: Rend Ship (Ex)
-    desc: As a full-round action, a kraken can attempt to use four of its tentacles to grapple a ship of its size or smaller. It makes a CMB check opposed by the ship’s captain’s Profession (sailor) check, but the kraken gets a cumulative +4 bonus on the check for each size category smaller than Gargantuan the ship is. If the kraken grapples the ship, it holds the ship motionless; it can attack targets anywhere on or within the ship with its tentacles, but can only attack foes on deck with its free arms and can’t attack foes at all with its beak. Each round it maintains its hold on the ship, it automatically inflicts bite damage on the ship’s hull.
-  - name: Tenacious Grapple (Ex)
-    desc: A kraken does not gain the grappled condition if it grapples a foe with its arms or tentacles.
-spell-like_abilities:
-  - name:
-    desc: (CL 15)
-  - name: 1/day
-    desc: control weather, control winds, dominate monster (DC 24), resist energy
-sources:
-  - name: Pathfinder RPG Bestiary
-    desc: 184
+CMD: 44
 desc_short: This tremendous leviathan resembles a vast squid, yet the markings on its body are strangely unsettling to look upon.
 ```
 ## Description

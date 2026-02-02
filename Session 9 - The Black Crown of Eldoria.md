@@ -21,6 +21,8 @@ Farms getting better
 ## Nearby world
 Zarthas is angry with us for stealing a splitter and installing it at Lowhaven
 
+[[MyDrider]]
+
 
 # Leg One - meet the pirate posse
 
