@@ -3,7 +3,7 @@ tags:
   - Loot_Table
 ---
 
-During [[Session 9 - The Black Crown of Eldoria]]
+During [[Session 9 - Oargull and the Southern Forest]]
 
 ## Curated Loot
 #### Real Items (from SRD or 3rd party)
