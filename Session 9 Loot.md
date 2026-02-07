@@ -67,3 +67,7 @@ During [[Session 9 - Oargull and the Southern Forest]]
 	 - Reason - Fantastic thematic ability (Storm's are part/parcel to the campaign so far)
  - Dowsing Syrup - https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/dowsing-syrup
 	 - Reason - Canon way to give direction to a find person without the spell
+
+### homebrew ancient blessed leshy doll
+ - (whole page for him)  [[Ancient Leshy Doll]]
+
