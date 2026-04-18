@@ -1,6 +1,7 @@
 ---
 tags:
   - monster
+  - kids
 statblock: inline
 ---
 

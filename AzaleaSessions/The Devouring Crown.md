@@ -1,3 +1,9 @@
+---
+tags:
+  - kids
+---
+
+
 
 Consists of 2 creatures, bound in 1, but separatable 
 

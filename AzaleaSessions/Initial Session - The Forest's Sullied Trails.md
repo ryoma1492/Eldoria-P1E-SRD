@@ -1,4 +1,9 @@
-## Pre-Text:
+---
+tags:
+  - kids
+---
+
+#### Pre-Text:
 
 [[Initial Session Speeches]]
 

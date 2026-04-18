@@ -1,3 +1,9 @@
+---
+tags:
+  - kids
+---
+
+
 ## Prologue I – _“The Quiet Before the Thinning”_
 
 _(Lightly ominous, wide scope, enticing)_

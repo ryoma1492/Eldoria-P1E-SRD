@@ -3,6 +3,7 @@ aliases:
   - King's Parasite
 tags:
   - monster
+  - kids
 statblock: inline
 ---
 

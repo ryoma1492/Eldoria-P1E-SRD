@@ -4,6 +4,7 @@ aliases:
 statblock: inline
 tags:
   - monster
+  - kids
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
