@@ -5,25 +5,21 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
 
-  footer: Component.Flex({
-    components: [
-      Component.RecentNotes({
+    Component.RecentNotes({
         title: "Recent Lore Updates",
         limit: 25,
         showTags: true,
         filter: (page) =>
           !page.fileData.slug.includes("index"),
       }),
-
-      Component.Footer({
-        links: {
-          GitHub: "https://github.com/jackyzha0/quartz",
-          "Discord Community": "https://discord.gg/cRFFHYye7t",
-        },
-      }),
-    ],
+  ],
+  footer: Component.Footer({
+    links: {
+      GitHub: "https://github.com/jackyzha0/quartz",
+      "Discord Community": "https://discord.gg/cRFFHYye7t",
+    },
   }),
 }
 
@@ -38,7 +34,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
   ],
-
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -54,7 +49,6 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
@@ -62,14 +56,9 @@ export const defaultContentPageLayout: PageLayout = {
   ],
 }
 
-// components for pages that display lists of pages (e.g. tags or folders)
+// components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [
-    Component.Breadcrumbs(),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
-  ],
-
+  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
@@ -84,6 +73,5 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer(),
   ],
-
   right: [],
 }
