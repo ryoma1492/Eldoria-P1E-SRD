@@ -11,8 +11,6 @@ export const sharedPageComponents: SharedLayout = {
         title: "Recent Lore Updates",
         limit: 25,
         showTags: true,
-        filter: (page) =>
-          !page.fileData.slug.includes("index"),
       }),
   ],
   footer: Component.Footer({
