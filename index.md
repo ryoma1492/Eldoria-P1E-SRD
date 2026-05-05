@@ -32,45 +32,17 @@ tag:session
 
 ## Locations
 
-```
-query
-tag:location
-```
-
+[[tag:location]]
 ---
 
 ## NPCs & Characters
 
-```
-query
-tag:npc
-```
+[[tag:npc]]
 
 ---
 
 ## Artifacts & Items
 
-```
-query
-tag:item
-```
+[[tag:item]]
 
 ---
-
-## Recent Updates
-
-```
-query
-recent:25
-```
-
----
-
-## World Notes
-
-These are uncategorized or lore-rich entries that may not yet be tagged cleanly, but are still part of the world archive.
-
-```
-query
-untagged:true
-```
