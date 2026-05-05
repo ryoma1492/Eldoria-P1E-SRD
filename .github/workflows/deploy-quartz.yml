@@ -25,6 +25,16 @@ jobs:
         run: |
           cd quartz
           npm install
+      - name: Prepare content for Quartz
+        run: |
+          rm -rf quartz/content
+          mkdir -p quartz/content
+
+          # copy everything except quartz itself
+          rsync -av \
+            --exclude='quartz' \
+            --exclude='.git' \
+            ./ quartz/content/
 
       - name: Build site
         run: |
