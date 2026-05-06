@@ -2,213 +2,189 @@
 tags:
   - GM_Notes
 ---
+
 ## Pre-Text:
-For the first time, members of the [[Heroes]] find themselves beyond the [[Fool’s Curtain]].
+The [[Heroes]] remain aboard the shattered remains of the [[Wreck Island]], where the aftermath of the [[Malazar]] encounter has destabilized both physical and metaphysical structures.
 
-Here, the rules that govern Emberfall feel distant. The fog does not press in. The air is clearer—but carries a weight that is difficult to name.
+The once-stable draconic containment system within the wreckage has begun to fail. The "dragon-spirit" anchoring the flotilla is decaying, and the [[Fool's Curtain]] continues to thicken as a mass of accumulated wreckage and ritual disposal.
 
-They are not alone in this place.
-
-And they are not the first to come here seeking gold.
+The gold hoard within the wreck has been given to the [[Heroes]]  but no way to use it.
 
 ## Current state
-- Party outside the Curtain:
-  - [[Finn]]
-  - [[Jellybean]]
-  - [[Gargon]]
-  - [[Leon]]
-  - [[Nibwick]]
-- In possession of:
-  - Crown ship (damaged)
-  - Party ship
-  - ~1,000,000 gold (barreled)
-- Location:
-  - Near [[Wreck Island]]
-- [[Captain Killian]]:
-  - Contained within extradimensional doorway (held by [[Gargon]])
-- Known threat:
-  - Ancient black dragon (non-hostile *for now*)
+- [[Malazar]] is no longer present
+- The Flotilla is structurally collapsing
+  - Gold hoard is given to the [[Heroes]]
+- [[Captain Killian]] remains unstable but alive within a pocket dimension accessible via door
+- The [[Fool's Curtain]] continues to writhe and undulate ominously on the nearby horizon
 
 ---
 
-## Leg One – Not Alone
+# Leg One – The Vulture’s Bargain
 
-The stillness does not last.
+A scavenger vessel known as [[The Silver Vulture]] approaches the wreckage field. They are not hostile, but operate under strict salvage law tied to the regional pirate accords.
 
-Before the party can meaningfully assess:
-- Their ships
-- Their gold
-- Their situation
+## Key NPCs
+- [[Salty Marrow]] – appointed guide to inland regions
+- Looters Captain (unnamed salvage authority)
 
-A sail appears on the horizon.
+## Interaction Summary
 
-### The Incoming Vessel
+The Looters observe the ownership change and suggest a bargain. Dragon gold doesn't translate well to real wealth due to both the stench and greed magic the gold underwent while in the presence of a dragon for so long.  They offer a formal exchange:
 
-A pirate ship approaches cautiously.
+- A functional pirate sloop for party use
+- A designated guide to the inland regions ([[Salty Marrow]])
+- Safe passage under salvage law
 
-Not aggressive.
+In return:
+- 10% claim of Crown-associated gold reserves
+- Rights to wreckage salvage from the Flotilla
+- Transfer of the party’s damaged vessel for dismantling
 
-Not fleeing.
-
-**Expectant.**
-
----
-
-## Leg Two – The Gold Runners
-
-The crew aboard the ship are not random pirates.
-
-They are **repeat visitors** to the outside of the Curtain.
-
-### Their Expectation
-- The Curtain opens
-- Debris, wreckage, and *wealth* spill outward
-- They arrive shortly after
-- They collect what they can
-- They leave before anything larger takes interest
-
-This is a practiced operation.
+## Unspoken Truth
+The Looters are less interested in trade and more interested in the *pattern collapse* of draconic sites. This is not their first.
 
 ---
 
-## Leg Three – The Disruption
+# Leg Two – The Path of the Departed
 
-What they see instead:
+The party sails inland toward the looming structure known as the [[Savage Spire]].
 
-- Two intact ships
-- Armed individuals
-- Organized cargo
-- No signs of chaos
-- No dragon in sight
+## Environmental Progression
 
-This is **wrong**.
+As they travel:
+- The sea becomes increasingly congested with drifting wreckage
+- "Burial barges" appear carrying elderly and terminal populations
+- Each vessel is directed toward the [[Fool's Curtain]]
 
-### Immediate Reaction
+## Key Revelation
 
-- Confusion → suspicion → caution
-- Weapons not drawn, but hands close
-- They will initiate contact—but carefully
+According to [[Salty Marrow]]:
+> The Spire folk believe these barges carry the old into a sacred continuation beyond the fog.
 
----
+However, observation reveals:
+- Barges do not pass through safely
+- They are absorbed into the Curtain mass
+- They become structural reinforcement for the barrier
 
-## Leg Four – First Contact
-
-This scene should breathe a bit.
-
-Let the party speak first if they want.
-
-Otherwise, the pirates call out.
-
-### Opening Tone Options
-
-**Professional:**
-> “You’re early. Or we’re late. Which is it?”
-
-**Suspicious:**
-> “That gold usually comes with bodies.”
-
-**Blunt:**
-> “You take it… or did something bigger let you keep it?”
+## Emotional Beat
+The party witnesses the scale of systemic disposal masked as ritual passage.
 
 ---
 
-## Leg Five – What the Pirates Know
+# Leg Three – Vertical Port of the Savage Spire
 
-They are a *fantastic exposition tool*, but keep it grounded.
+The party arrives at the base of the [[Savage Spire]], a massive mesa structure layered with jungle growth and vertical dock infrastructure.
 
-### They can reveal:
+## Environmental Structure
+- Cliffside ladder ports
+- Rope-and-crane cargo systems
+- Vertical trade platforms
 
-- The Curtain opening is predictable (to those tracking it)
-- Gold and wreckage are **not unusual**
-- Survivors *are*
-- The dragon:
-  - Known
-  - Avoided
-  - Respected
+## Key NPCs
+- Mycelial Kin Mutanophemes
+- Avian and feline-kin port workers
 
-### They do NOT know:
+## Notable Condition
+All Kin present exhibit signs of:
+- Biological thinning
+- Energy depletion
+- Fungal resonance saturation
 
-- The full truth of the dragon pact
-- Anything about [[Malazar]] or inland events
-- The scale of current changes
+## Key Encounter
 
----
+The party is met by a [[The Mycelial Elder]]-linked Kin interface, whose body is interwoven with glowing fungal latticework.
 
-## Leg Six – Social Tension
+## Revelation
+- The Spire is under internal ecological pressure from a central Primal force
+- The “King-Root” presence is destabilizing biological systems
+- The [[Pocket Door]] resonates strongly with this system
 
-This is the core of the encounter.
+## Outcome
+The Elder confirms:
+> The Primal within must be vented, or the Spire will collapse inward.
 
-The pirates are evaluating:
-
-- Are the party:
-  - Lucky?
-  - Dangerous?
-  - Liars?
-  - Competition?
-
-### Possible Directions
-
-#### Trade
-- Offer to “help offload” gold
-- Provide safe routes or timing knowledge
-- Exchange information
-
-#### Probe
-- Ask what happened during the opening
-- Test for inconsistencies
-
-#### Soft Threat
-- Suggest that this territory is “understood”
-- Imply that taking everything may attract attention
+The party is granted access to the summit system via mycelial stabilization of the Pocket Door.
 
 ---
 
-## Leg Seven – Killian Thread (Optional Insert)
+# Leg Four – The Mycelial Bind
 
-If the party brings up [[Captain Killian]] or opens the door:
+At the summit plateau of the [[Savage Spire]], the ecosystem is dense, ancient, and artificially balanced.
 
-- The pirates react strongly to:
-  - Strange magic
-  - Contained individuals
-- They may:
-  - Back off
-  - Become more cautious
-  - Attempt to understand (carefully)
+## Key NPC
+- [[The Mycelial Elder]]
 
-This can reinforce:
-> The party is *not normal* by outside standards
+## Cultural Constraint
+Spire Kin refuse integration of draconic Primal essence into their lineage systems due to ecological collapse risk.
 
----
+## Mechanism Event
 
-## Leg Eight – Stakes Clarified
+The Mycelial Kin:
+- Encircle the [[Pocket Door]] with fungal conduits
+- Convert it into a controlled “lightning rod” system
+- Stabilize the contained Primal resonance
 
-By the end of the interaction, the party should understand:
+## Critical Event
 
-- This place is **used**, not unknown
-- The flow of gold is **part of a pattern**
-- They have disrupted that pattern
+A resonance scan confirms:
+- [[Captain Killian]] is still present within the primal storm layer
+- His soul signature is intact but destabilized
 
-And most importantly:
-
-> They now exist inside someone else’s expectations.
+This provides the final confirmation required to breach containment.
 
 ---
 
-## Resolution
+# Leg Five – Aqueous Immersion (Mirror Temple Event)
 
-The party is no longer isolated.
+The party activates the sealed system while submerged within ancient stone basins filled with Naming-Day mist.
 
-They now have:
-- Witnesses
-- Potential allies or rivals
-- A clearer understanding of how the outside world interacts with the Curtain
+## Encounter Type
+Psychic immersion / mirrored dungeon projection
 
-Their next move will determine:
-- Whether they remain anomalies
-- Or become part of the system that already exists here
+## Primary Threat
+[[Lesser Draconic Avatar]]
 
-## Loose Threads
-- Who organizes or tracks these gold runs?
-- How many ships operate like this?
-- What happens when the dragon *does* return?
-- How long before word spreads about surviving crews?
+Manifestation composed of:
+- Residual Malazar lightning
+- Corrupted crystalline draconic essence
+
+## Mechanics
+- Avatar regenerates unless lightning energy is absorbed by party members
+- Absorption causes physical and metaphysical mutation
+
+## Key Outcome
+- Avatar is neutralized
+- [[Captain Killian]] is fully restored to human state
+- Primal energy is redistributed into party members
+
+---
+
+# Leg Six – Aftermath & First Flight
+
+The party awakens within the stone basins.
+
+## Immediate Outcomes
+- [[Captain Killian]] fully restored
+- Malazar’s corruption signal eliminated
+- Primal resonance permanently bound to party
+
+## Permanent Changes
+
+Each party member gains:
+- Draconic flight manifestation
+- Acid resistance (baseline)
+- Controlled purple lightning breath discharge
+
+(Collectively known as [[Primal Dragon Essence]])
+
+## World State Change
+- The Primal system has begun integrating into mortal biology
+- The [[Fool's Curtain]] continues expanding, now reacting to Primal resonance shifts
+- A second wave of burial barges is observed approaching the Curtain boundary
+
+## Closing Hook
+The party departs the basin system as the Savage Spire continues to pulse with restrained internal collapse.
+
+The world has not ended.
+
+It has begun to *mutate in response*.
