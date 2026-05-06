@@ -1,0 +1,1 @@
+[[Evan Taylor]]'s sister, and citizen of [[Lowhaven]] who was abducted and brought to [[Thalemor]] to serve in a ritual sacrifice
