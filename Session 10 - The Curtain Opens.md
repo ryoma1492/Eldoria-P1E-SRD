@@ -22,8 +22,8 @@ The influence behind the [[black crystals]] has not receded. It has adapted.
 
 The session opens in [[Oargull]].
 
-- [[Mallard Fleetfin]] unveils a new brew:
-  - **Lightbringer’s End**
+- [[Mallard Fleetfin]] unveils a new one of [[Fleetfin's brews]]:
+  - [[Lightbringer’s End]]
   - Dark, bitter, with a sweet finish
 - [[Jellybean]] trades with [[Nibwick]]:
   - Receives magical belt
@@ -80,7 +80,7 @@ The ritual collapses.
 
 For a brief moment, visible to all:
 
-> A jagged black crystal forming inside the body.
+> A jagged [[black crystals]] forming inside the body.
 
 ---
 
