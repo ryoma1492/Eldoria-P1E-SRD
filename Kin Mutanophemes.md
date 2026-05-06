@@ -3,8 +3,8 @@ tags:
   - lore
   - creatures
   - mutation
-  - savage-lands
   - ecology
+  - savage-spire
 aliases:
   - Wild-kin
   - Echo-forms
@@ -13,96 +13,58 @@ aliases:
 type: species
 status: active-lore
 ---
-(noun, plural): Also known as *"Wild-kin," "Echo-forms,"* or *"Feral-Speakers."*
+
+# Kin Mutanophemes: Spire Variants
+
+(noun, plural): Locally referred to as *"Spire-kin"* or *"The Thin-Blooded."*
 
 ---
 
-## 1. Definition
+## 1. The Spire Definition
+In the vertical ecosystem of the **Savage Spire**, Kin Mutanophemes (leopard-kin porters, hawk-eyed guards, and mycelial-integrated administrators) function as a managed biological community. They live within a delicate equilibrium where their mutation is regulated by the **Mycelial Network**—a fungal control lattice that anchors the Spire’s vertical infrastructure.
 
-Kin Mutanophemes are a sentient, metamorphic lifeform category defined by the radical fusion of organic beings (most commonly humans, elves, dwarves, or similar kin) with the hyper-accelerated growth cycles of unstable magical wilderness.
-
-The transformation is a profound **biological divergence** triggered by exposure to a **Mutanopheme Event**. This event functions as an environmental catalyst that rewrites living tissue into adaptive, hyper-specialized ecological forms.
-
-Kin Mutanophemes are **biologically anchored**. Their physiology is a literal manifestation of their surroundings, expressed through dense animalian adaptation and vigorous botanical overgrowth. They represent the ultimate triumph of environment over ancestry.
+They are the "living maintenance" of the Spire, but their specialized forms are subject to the natural law of **Hereditary Decay**.
 
 ---
 
-## 2. Physical Characteristics
+## 2. The Nature of the Thinning
+The "Thinning" at Savage Spire is not caused by a malevolent force, but by the passage of time. Over generations, the vibrant animalian and botanical traits of the Kin begin to fade.
 
-### Organic Affinity Expression
-Their bodies resolve into recognizable natural analogs, prioritizing survival and utility over original humanoid symmetry:
-
-- **Dermal Layering:** Thickened coats of fur, plumage, overlapping scales, or rugged, bark-like skin.
-- **Vascular Integration:** Circulatory systems often intertwine with plant-root networks, moving nutrient-rich sap alongside blood.
-- **Skeletal Drift:** Bone structures warp toward animalistic evolutionary branches, favoring the limb ratios of local apex predators or hardy foragers.
-- **Locomotion:** Limbs adapt for specific environmental niches, such as quadrupedal sprinting, arboreal climbing, or webbed aquatic movement.
-
-### Living Ecosystem Integration
-The mutation presents as a seamless blending of the individual into the local biome:
-
-- **Floral Embedding:** Living moss, parasitic vines, or hardy leaf structures grow directly from the dermis and musculature.
-- **Sensory Hypertrophy:** Development of compound eyes, expanded auditory ridges, or sensitive, whisker-like tendrils for detecting vibration.
-- **Metabolic Cycles:** Their bodies follow the seasons, entering deep dormancy during winters or experiencing "bloom" states of high activity during spring.
-
-### Biological Residue
-When injured, their physiology reveals its hybrid nature:
-- **Exudate:** Blood is often thick with spores, seed-like particulates, or potent pheromonal chemicals.
-- **Reflexive Vitality:** Severed tissue may exhibit independent plant-like regrowth or the frantic muscle twitching seen in high-adrenaline animal survival responses.
+### Observed Biological Strain:
+- **Loss of Definition:** The Leopard-kin porters exhibit thinning coats and reduced climbing grip; the Hawk-eyed guards suffer from dulled visual acuity as their "Mutanopheme" edge recedes.
+- **Ecological Dissociation:** Without periodic reinvigoration, the Kin lose their ability to "hear" the Mycelial Network, making the management of the Spire’s lifts, cranes, and terraces physically exhausting and dangerous.
+- **The Fade:** This is the natural biological end-state the Spire-kin fear—reverting to mundane forms that can no longer survive or maintain the mesa’s high-altitude environment.
 
 ---
 
-## 3. Abilities & Ecology
+## 3. Reinvigoration & The Shared Burden
+The Spire is equipped with ancient **Temple Water** systems specifically designed to halt the Thinning through **Primal Integration**.
 
-### Arcane-Biological Resonance
-Kin Mutanophemes process arcane energy as a metabolic fuel rather than a tool for spellcasting. They respond to magical pressure through **physiological spikes**:
-- **Botanical Variants:** Rapidly accelerate their own growth, decay, or regeneration cycles to suit the immediate threat.
-- **Animalian Variants:** Develop instantaneous spikes in muscle density, reflex speed, or predatory instincts.
-
-### Shared Ecological Awareness
-They maintain a decentralized consciousness through biological networks that mirror the natural world:
-- **Root-Path Communication:** Plant-affined clusters share sensory data through subterranean fungal or root connections.
-- **Instinctual Resonance:** Animal-affined clusters move with the unified precision of a migrating herd or a hunting pack.
-
-This allows for:
-- **Pheromonal Signaling:** Immediate transmission of complex emotional states and warnings.
-- **Collective Coordination:** Silent, synchronized movement and decision-making without the need for verbal language.
-
-### Environmental Adaptation
-The mutation is a pursuit of perfect stability within a specific niche:
-- **Dense Forests:** Results in arboreal forms with vine-integrated limbs.
-- **Wetlands:** Produces amphibious physiology with reed-fused dermal camouflage.
-- **Open Plains:** Favors herd-adapted endurance or high-speed predator mimicry.
+- **The Mycelial Elder:** The Elder acts as the primary root and administrator of the **Pocket Door** and the surrounding resonance lattice. It is the Elder's role to identify "Primal" sources and facilitate the ritual of shared hydration.
+- **The Primal Sense:** Because they are "Thin-Blooded," the Spire-kin possess a hyper-acute biological "hunger" or sense for Primal energy. They view a High-Primal source (such as the draconic presence within the party) with profound reverence and awe—not as an enemy, but as a "Source-Code" capable of restoring their people.
+- **The Ritual of Sharing:** The Temple Waters allow a concentrated Primal essence to be shared safely. By "thinning" a heavy draconic burden into the community, the host is relieved of the soul-crushing pressure, while the Kin-born receive the genetic "update" required to trigger a **New Bloom**.
 
 ---
 
-## 4. Social Behavior (Lore)
+## 4. Key Spire Entities
 
-Kin Mutanophemes are self-aware ecosystems carrying the fading memory-traces of their original kin identities.
+### [[The Mycelial Elder]]
+The Elder is the anchor for the Spire’s stability. It uses its vast root system to conduct the Temple Water Ritual, acting as the bridge between the Primal source and the Thin-Blooded Kin. Its interest in the Heroes is purely restorative and utilitarian.
 
-- **Organization:** They organize into **groves, packs, or migratory clusters** rather than political entities.
-- **Territoriality:** Their defensive behavior is a drive for environmental homeostasis. They protect the stability of their "home" biome with the fervor of a vital organ protecting a body.
-
-They are most often encountered as:
-- **Apex Stewards:** Protective presences within highly reactive wilderness zones.
-- **Ecological Buffer:** A living immune system for the land that responds to intrusion or imbalance.
-- **Passive Observers:** Quiet sentinels that remain indistinguishable from the flora until the environment is disrupted.
+### [[Salty Marrow]]
+A local pirate who helps bridge the gap for the 
 
 ---
 
-## 5. DM Notes / Mechanics
+## 5. DM Notes: Spire Mechanics
 
-- **Vulnerabilities:** Susceptible to extreme heat (causing rapid desiccation in plant-heavy forms) or intense cold (triggering metabolic shock in animal-heavy forms).
-- **Resistances:** Immune to natural exhaustion from terrain and mundane poisons.
-- **Environmental Bleed:** Extended proximity to a cluster may trigger "instinctual drift" in players (unexplained pack anxiety, a sudden urge to migrate, or hyper-sensitivity to plant life).
-- **Engagement Logic:** Combat is rarely motivated by malice; it is an immune response to the players' presence as "foreign bodies."
+- **Biological Recognition:** The Kin will likely "smell" or "sense" the draconic presence immediately. This creates a tone of desperate hospitality rather than hostility.
+- **The Water Rite:** The ritual at the Spire is a legitimate solution for the party's infested member. It is a biological "venting" process that uses the Kin as a communal sponge for the excess draconic energy.
+- **Tiered Vitality:**
+    - **Current State:** The Kin are sluggish, high-DC for labor tasks, and physically "pale" or brittle.
+    - **Post-Ritual (New Bloom):** After integrating the Primal source, the Kin exhibit vibrant new traits (e.g., iridescent scales on the leopard-kin, or predatory heat-vision for the guards).
 
 ---
 
-## 6. Campaign Role (Savage-Land Context)
-
-In the Savage Lands, Kin Mutanophemes are the primary architects of the living world. They function as both the inhabitants and the habitat itself.
-
-**Encounters should emphasize:**
-- **The Living Biome:** Interacting with a group of Mutanophemes should feel like talking to a forest or a mountain range.
-- **Guides & Deterrents:** They may unintentionally lead travelers toward water or away from danger, or act as the final barrier to a "protected" site.
-- **Indicators:** Their health and form serve as direct barometers for the local ley-line stability.
+## 6. Narrative Role
+The Savage Spire represents the **Symbiosis of the Burden**. It provides a thematic answer to the party's problem: A curse for one individual can be a life-saving blessing for an entire community. The Spire-kin do not seek to steal the Primal power, but to *share* it, ensuring their lineages do not fade into the mundane.
