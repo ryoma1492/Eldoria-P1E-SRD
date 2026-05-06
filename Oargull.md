@@ -7,7 +7,7 @@ tags:
 A pirate town built atop the remains of **Port Malone College of the Arts**, blending maritime trade with the decaying bones of a once-intellectual society.
 
 ## Plots
-- Increasing nightly attacks tied to [[Peace Ordinance]] activation
+- Increasing nightly attacks tied to [[Peace Ordinance]] activation (zombies)
 - Creatures targeting:
   - Pre-collapse artifacts
   - Meat supplies

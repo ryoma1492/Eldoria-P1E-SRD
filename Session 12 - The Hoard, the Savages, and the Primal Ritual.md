@@ -6,14 +6,14 @@ tags:
 ## Pre-Text:
 The [[Heroes]] remain aboard the shattered remains of the [[Wreck Island]], where the aftermath of the [[Malazar]] encounter has destabilized both physical and metaphysical structures.
 
-The once-stable draconic containment system within the wreckage has begun to fail. The "dragon-spirit" anchoring the flotilla is decaying, and the [[Fool's Curtain]] continues to thicken as a mass of accumulated wreckage and ritual disposal.
+The once-stable draconic containment system within the wreckage has begun to fail. The "dragon-spirit" anchoring the [[Wreck Island]] is decaying, and the [[Fool's Curtain]] continues to thicken as a mass of accumulated wreckage and ritual disposal.
 
 The gold hoard within the wreck has been given to the [[Heroes]]  but no way to use it.
 
 ## Current state
 - [[Malazar]] is no longer present
-- The Flotilla is structurally collapsing
-  - Gold hoard is given to the [[Heroes]]
+- The [[Wreck Island]] is structurally collapsing
+- Gold hoard is given to the [[Heroes]]
 - [[Captain Killian]] remains unstable but alive within a pocket dimension accessible via door
 - The [[Fool's Curtain]] continues to writhe and undulate ominously on the nearby horizon
 
@@ -24,8 +24,8 @@ The gold hoard within the wreck has been given to the [[Heroes]]  but no way to 
 A scavenger vessel known as [[The Silver Vulture]] approaches the wreckage field. They are not hostile, but operate under strict salvage law tied to the regional pirate accords.
 
 ## Key NPCs
-- [[Salty Marrow]] – appointed guide to inland regions
-- Looters Captain (unnamed salvage authority)
+- [[Salty Marrow]] – [[Silver Vulture]] crewmate, and outer curtain guide to the [[Heroes]] appointed if the bargain is accepted
+- Nobby Derryman - the looter pirate's  leader and [[The Silver Vulture]]'s captain 
 
 ## Interaction Summary
 
@@ -36,12 +36,12 @@ The Looters observe the ownership change and suggest a bargain. Dragon gold does
 - Safe passage under salvage law
 
 In return:
-- 10% claim of Crown-associated gold reserves
-- Rights to wreckage salvage from the Flotilla
+- Exchange gold on the [[Heroes]] behalf, offering payback of 5% of the hoard's value once cleaned and traded
+- Rights to wreckage salvage from the [[Wreck Island]]
 - Transfer of the party’s damaged vessel for dismantling
 
 ## Unspoken Truth
-The Looters are less interested in trade and more interested in the *pattern collapse* of draconic sites. This is not their first.
+The looter pirates are unscrupulous in the attempt to gain wealth, but offer passage to the nearest islands to help them find any point of interest they wish.
 
 ---
 
