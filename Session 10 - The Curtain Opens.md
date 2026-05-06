@@ -65,7 +65,7 @@ Attempts to interrupt fail:
 
 - Physical disruption blocked
 - Magic redirected or avoided
-- [[Killian]] moves with unnatural speed
+- [[Captain Killian]] moves with unnatural speed
 
 Entering the circle is extremely dangerous:
 - [[Caleb]] nearly dies instantly
@@ -110,7 +110,7 @@ Something is not just calling—it is **curating what is seen**.
 
 Recognizing the danger:
 
-- [[Killian]] surrenders willingly
+- [[Captain Killian]] surrenders willingly
 - [[Gargon]] imprisons him inside extradimensional doorway
   - Interior:
     - Comfortable

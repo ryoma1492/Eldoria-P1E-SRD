@@ -21,7 +21,7 @@ status: active-lore
 ---
 
 ## 1. The Spire Definition
-In the vertical ecosystem of the **Savage Spire**, Kin Mutanophemes (leopard-kin porters, hawk-eyed guards, and mycelial-integrated administrators) function as a managed biological community. They live within a delicate equilibrium where their mutation is regulated by the **Mycelial Network**—a fungal control lattice that anchors the Spire’s vertical infrastructure.
+In the vertical ecosystem of the [[Savage Spire]], Kin Mutanophemes (leopard-kin porters, hawk-eyed guards, and mycelial-integrated administrators) function as a managed biological community. They live within a delicate equilibrium where their mutation is regulated by the **Mycelial Network**—a fungal control lattice that anchors the Spire’s vertical infrastructure.
 
 They are the "living maintenance" of the Spire, but their specialized forms are subject to the natural law of **Hereditary Decay**.
 
@@ -52,7 +52,7 @@ The Spire is equipped with ancient **Temple Water** systems specifically designe
 The Elder is the anchor for the Spire’s stability. It uses its vast root system to conduct the Temple Water Ritual, acting as the bridge between the Primal source and the Thin-Blooded Kin. Its interest in the Heroes is purely restorative and utilitarian.
 
 ### [[Salty Marrow]]
-A local pirate who helps bridge the gap for the 
+A local pirate who helps bridge the gap for the [[Heroes]] regarding the strange happenings here.  Without his aid, they wouldn't have ever reached the Savage Spire
 
 ---
 
