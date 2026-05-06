@@ -3,46 +3,39 @@
 Welcome to the Eldoria Pathfinder 1e setting archive.
 
 ---
-
 ## Core World
 
-- [[Royal Crown of Eldoria]]
-- [[Heroes]]
 - [[Lowhaven]]
-- [[Sunlance Crystal]]
-- [[Superweapon]]
+- [[Wreck Island]]
+- [[Thalemor]]
+- [[Heaven's Gate]]
+- [[Oargull]]
 
 ---
 
 ## Factions & Politics
 
 - [[Royal Crown of Eldoria]]
-- [[The False Curtain]]
-
----
-
-## Sessions
-
-```
-query
-tag:session
-```
+- [[Malazar]]
+- [[Heroes]]
 
 ---
 
 ## Locations
 
-[[tag:location]]
+[[tags/World]]
 ---
 
 ## NPCs & Characters
 
-[[tag:npc]]
+[[tags/npc]]
+[[tags/pc]]
+[[tags/bbeg]]
 
 ---
 
 ## Artifacts & Items
 
-[[tag:item]]
+[[tags/item]]
 
 ---
