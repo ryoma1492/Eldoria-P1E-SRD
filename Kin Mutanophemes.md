@@ -40,7 +40,7 @@ The "Thinning" at Savage Spire is not caused by a malevolent force, but by the p
 ## 3. Reinvigoration & The Shared Burden
 The Spire is equipped with ancient **Temple Water** systems specifically designed to halt the Thinning through **Primal Integration**.
 
-- **The Mycelial Elder:** The Elder acts as the primary root and administrator of the **Pocket Door** and the surrounding resonance lattice. It is the Elder's role to identify "Primal" sources and facilitate the ritual of shared hydration.
+- **The Mycelial Elder:** The Elder acts as the primary root and administrator of the surrounding resonance lattice. It is the Elder's role to identify "Primal" sources and facilitate the ritual of shared hydration.
 - **The Primal Sense:** Because they are "Thin-Blooded," the Spire-kin possess a hyper-acute biological "hunger" or sense for Primal energy. They view a High-Primal source (such as the draconic presence within the party) with profound reverence and awe—not as an enemy, but as a "Source-Code" capable of restoring their people.
 - **The Ritual of Sharing:** The Temple Waters allow a concentrated Primal essence to be shared safely. By "thinning" a heavy draconic burden into the community, the host is relieved of the soul-crushing pressure, while the Kin-born receive the genetic "update" required to trigger a **New Bloom**.
 
