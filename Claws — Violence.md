@@ -54,13 +54,13 @@ The bearer becomes a living apex predator.
 
 - Claws become 1d8
 - Gain Grab special attack
-- Gain Pounce
-- Claws deal +1d6 elemental damage
+- Gain Pounce https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules#TOC-Pounce-Ex-
+- Claws deal +1d4 acid damage
 
 ### Devastation Toss
 Thrown grappled enemies:
-- take impact damage
-- damage nearby creatures on collision
+- gains Bleed effect  https://www.d20pfsrd.com/bestiary/rules-for-monsters/universal-monster-rules/#:~:text=Forum,Bleed%20(Ex)
+- damage nearby creatures on collision (1d4 +1 /size category)
 
 ---
 
@@ -75,6 +75,6 @@ Thrown grappled enemies:
 
 ## Related Pages
 
-- [[Thematic Structure of the Whole Party]]
+- [[Water Ritual Aftermath - Dragon Boons]]
 - [[Malazar]]
 - [[Deck of Draconic Will]]
