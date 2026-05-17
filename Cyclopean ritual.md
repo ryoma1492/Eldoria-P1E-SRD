@@ -1,24 +1,51 @@
+---
+type: ritual
+source: cyclopean-scroll
+status: completed
+tags:
+  - lore
+  - magic
+  - prophecy
+---
 
+# The Ritual of the Shared Future
 
-### Phase I: The Offering of Memories
+A highly anticipated divination ritual gleaned from a cyclopean scroll provided by [[Polyphemus]]. This ceremony demands a high price from its participants: trading a foundational piece of the past to receive a glimpse of what is to come.
 
-The scent of burning kindling mixes with the heavy, organic aroma of the crushed sheep’s heart, the sharp tang of dill, and salt. At the exact center of your circle lies the stone, resting over the offering. The silence is absolute.
+## Setup & Ingredients
 
-One by one, you must approach the stone, touch its cold surface, and silently surrender your most significant memory—the anchor of who you are.
+The [[Heroes]] must construct the ritual space with mathematical precision. 
 
-- **If a true memory is offered:** The stone drinks the thought, pulsing a deep, vibrant green.
-    
-- **If the offering is half-hearted or false:** The stone flashes an angry, jarring red. A cold, echoing voice rings directly inside your skull: _“Try again. Nothing is free.”_
-    
-
-Once the final, true memory is accepted, the stone shifts. It begins to glow with a pale, amber-yellow light, humming with a vibration you can feel in your teeth. In perfect sync, you step forward, join hands, and look down into the amber light.
+* **The Circle:** The party stands in a perfect circle. A ceremonial fire must be built directly behind each participant.
+* **The Anchor:** In the dead center of the circle—meticulously measured at exactly **3 feet** from each player—lies a single, unmarked rock.
+* **The Offering:** Underneath the central rock, [[Leon]] must gather, grind with a mortar and pestle, and place the following ingredients:
+	* 3 pounds of dill
+	* 1 teaspoon of salt
+	* 1 human tear
+	* The crushed and dried heart of a sheep
 
 ---
 
-### Phase II: The Trade and The Descent
+## Phase I: The Offering of Memories
 
-Looking into the stone is like peering through a glass viewport at first. You see a city of sprawling grandeur—**Eldoni, the capital of Eldoria**. But the view is fleeting.
+Once the circle is formed, absolute silence must be maintained. One at a time, each member of the [[Heroes]] must stand, approach the central stone, touch its cold surface, and mentally offer up their most significant memory (whether embarrassing, funny, tragic, or deeply personal).
 
-Suddenly, your mind experiences a violent tearing sensation. You feel a core piece of your own past being physically dragged out of your consciousness. In its place, a heavy, uninvited memory forces its way in. Around the edges of your mind, only a faint, frustrating wisp of what you used to know remains. You cannot remember the old memory; you only know the void it left behind.
+The stone judges the honesty of the offering:
+* **Accepted:** The stone drinks the thought and pulses a vibrant **green**. The memory is cleanly severed from the user's mind.
+* **Rejected:** If the stone senses the offering is a falsehood or not the *most* significant memory, it flashes an angry, jarring **red**. A cold, echoing voice rings directly inside the candidate's skull: 
+  > *"Try again. Nothing is free."*
 
-The viewport shatters. You aren't looking down anymore. You are there.
+---
+
+## Phase II: The Alignment
+
+After the final, true memory is accepted from the last of the [[Heroes]], the rock shifts state. It begins to glow with a pale, amber-yellow light, humming with a physical vibration that can be felt through the earth. 
+
+In perfect synchronization, all players must stand, walk toward the stone in sync, join hands, and gaze downward into the amber light.
+
+## Consequences & Triggers
+
+* **The Trade:** Upon completion, each participant feels their chosen anchor memory physically dragged from their consciousness, leaving only a faint, frustrating wisp of something forgotten around the edges of their mind.
+* **The Result:** The void left by the forgotten past is instantly filled by a collective [[Future Memory]], plunging the party into a vivid, shared vision of the fate of [[Eldoni]].
+* **The Scroll**: on completing the ritual,  the words from the ritual part disappear from the scroll ass if the cyclopean and giant brethren wasted a scrolls middle section on blank space.
+
