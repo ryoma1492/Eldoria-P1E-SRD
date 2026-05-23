@@ -1,5 +1,7 @@
 ---
 alias: Nitharit
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Nitharit

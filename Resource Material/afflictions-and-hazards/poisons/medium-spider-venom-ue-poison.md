@@ -1,5 +1,7 @@
 ---
 alias: Medium spider venom
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Medium spider venom

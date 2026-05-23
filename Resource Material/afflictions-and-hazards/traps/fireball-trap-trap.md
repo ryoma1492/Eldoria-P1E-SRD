@@ -1,5 +1,7 @@
 ---
 alias: Fireball Trap
+tags:
+  - traps
 ---
 
 ## Fireball Trap

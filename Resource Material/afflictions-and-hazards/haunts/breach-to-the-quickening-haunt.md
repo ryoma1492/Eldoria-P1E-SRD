@@ -1,5 +1,7 @@
 ---
 alias: Breach to the Quickening
+tags:
+  - haunts
 ---
 
 # Breach to the Quickening

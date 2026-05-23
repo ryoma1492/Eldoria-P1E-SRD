@@ -1,5 +1,7 @@
 ---
 alias: Arcane Storm
+tags:
+  - haunts
 ---
 
 # Arcane Storm

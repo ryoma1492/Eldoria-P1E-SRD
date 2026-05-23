@@ -1,5 +1,7 @@
 ---
 alias: Sleeping Sickness
+tags:
+  - diseases
 ---
 
 # Sleeping Sickness

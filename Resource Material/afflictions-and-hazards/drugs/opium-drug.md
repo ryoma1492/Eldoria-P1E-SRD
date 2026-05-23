@@ -1,5 +1,7 @@
 ---
 alias: Opium
+tags:
+  - drugs
 ---
 
 # Opium

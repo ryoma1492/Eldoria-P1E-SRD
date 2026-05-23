@@ -1,5 +1,7 @@
 ---
 alias: Inspiration Dust
+tags:
+  - drugs
 ---
 
 # Inspiration Dust

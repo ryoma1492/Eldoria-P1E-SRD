@@ -1,5 +1,7 @@
 ---
 alias: Scour
+tags:
+  - drugs
 ---
 
 # Scour

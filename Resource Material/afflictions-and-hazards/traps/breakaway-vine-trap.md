@@ -1,5 +1,7 @@
 ---
 alias: Breakaway Vine
+tags:
+  - traps
 ---
 
 ## Breakaway Vine

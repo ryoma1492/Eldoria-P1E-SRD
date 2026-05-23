@@ -1,5 +1,7 @@
 ---
 alias: Glacier Plague
+tags:
+  - diseases
 ---
 
 # Glacier Plague

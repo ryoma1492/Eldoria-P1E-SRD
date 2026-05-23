@@ -1,5 +1,7 @@
 ---
 alias: Liquid persuasion
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Liquid persuasion

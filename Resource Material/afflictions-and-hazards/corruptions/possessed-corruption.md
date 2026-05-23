@@ -1,5 +1,7 @@
 ---
 alias: Possessed Corruption
+tags:
+  - corruptions
 ---
 
 # Possessed Corruption

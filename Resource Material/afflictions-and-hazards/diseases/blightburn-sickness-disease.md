@@ -1,5 +1,7 @@
 ---
 alias: Sickness
+tags:
+  - diseases
 ---
 
 # Blightburn Sickness

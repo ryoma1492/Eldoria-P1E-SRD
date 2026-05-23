@@ -1,5 +1,7 @@
 ---
 alias: Cloudthorn venom
+tags:
+  - poisons
 ---
 
 # Cloudthorn venom

@@ -1,5 +1,7 @@
 ---
 alias: Deadly Spear Trap
+tags:
+  - traps
 ---
 
 ## Deadly Spear Trap

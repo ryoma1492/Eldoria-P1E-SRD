@@ -1,5 +1,7 @@
 ---
 alias: Insidious Presence
+tags:
+  - haunts
 ---
 
 # Insidious Presence

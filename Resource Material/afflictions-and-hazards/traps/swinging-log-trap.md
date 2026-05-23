@@ -1,5 +1,7 @@
 ---
 alias: Swinging Log
+tags:
+  - traps
 ---
 
 ## Swinging Log

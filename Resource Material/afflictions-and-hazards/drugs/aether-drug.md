@@ -1,5 +1,7 @@
 ---
 alias: Aether
+tags:
+  - drugs
 ---
 
 # Aether

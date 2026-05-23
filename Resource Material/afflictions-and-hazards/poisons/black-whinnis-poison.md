@@ -1,5 +1,7 @@
 ---
 alias: Black whinnis
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Black whinnis

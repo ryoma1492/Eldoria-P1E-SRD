@@ -1,5 +1,7 @@
 ---
 alias: Black adder venom
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Black adder venom

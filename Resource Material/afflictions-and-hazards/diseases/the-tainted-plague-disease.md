@@ -1,5 +1,7 @@
 ---
 alias: The Tainted Plague
+tags:
+  - diseases
 ---
 
 # [[3.5]] The Tainted Plague

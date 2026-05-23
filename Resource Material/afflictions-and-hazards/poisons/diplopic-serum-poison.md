@@ -1,5 +1,7 @@
 ---
 alias: Diplopic serum
+tags:
+  - poisons
 ---
 
 # Diplopic serum

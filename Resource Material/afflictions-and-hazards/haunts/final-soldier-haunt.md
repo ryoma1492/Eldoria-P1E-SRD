@@ -1,5 +1,7 @@
 ---
 alias: Final Soldier
+tags:
+  - haunts
 ---
 
 # Final Soldier

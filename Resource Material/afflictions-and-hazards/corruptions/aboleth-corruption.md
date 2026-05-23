@@ -1,5 +1,7 @@
 ---
 alias: Aboleth Corruption
+tags:
+  - corruptions
 ---
 
 # Aboleth Corruption

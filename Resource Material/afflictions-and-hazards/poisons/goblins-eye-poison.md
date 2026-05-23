@@ -1,5 +1,7 @@
 ---
 alias: Goblin's eye
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Goblin's eye

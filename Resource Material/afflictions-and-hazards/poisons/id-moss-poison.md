@@ -1,5 +1,7 @@
 ---
 alias: Id Moss
+tags:
+  - poisons
 ---
 
 # Id Moss

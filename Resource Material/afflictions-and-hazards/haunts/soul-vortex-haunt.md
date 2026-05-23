@@ -1,5 +1,7 @@
 ---
 alias: Soul Vortex
+tags:
+  - haunts
 ---
 
 # Soul Vortex

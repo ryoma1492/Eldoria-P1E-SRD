@@ -1,5 +1,7 @@
 ---
 alias: Dark reaver powder (Ultimate Equipment)
+tags:
+  - poisons
 ---
 
 # Dark reaver powder (Ultimate Equipment)

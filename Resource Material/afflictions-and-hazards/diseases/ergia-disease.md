@@ -1,5 +1,7 @@
 ---
 alias: Ergia
+tags:
+  - diseases
 ---
 
 # Ergia

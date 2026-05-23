@@ -1,5 +1,7 @@
 ---
 alias: Concentrated laxative
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Concentrated laxative

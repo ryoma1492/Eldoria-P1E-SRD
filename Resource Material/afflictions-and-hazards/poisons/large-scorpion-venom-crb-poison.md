@@ -1,5 +1,7 @@
 ---
 alias: Large Scorpion Venom (CRB)
+tags:
+  - poisons
 ---
 
 # Large Scorpion Venom (CRB)

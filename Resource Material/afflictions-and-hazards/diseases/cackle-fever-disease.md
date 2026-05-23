@@ -1,5 +1,7 @@
 ---
 alias: Cackle Fever
+tags:
+  - diseases
 ---
 
 # Cackle Fever

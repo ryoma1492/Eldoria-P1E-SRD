@@ -1,5 +1,7 @@
 ---
 alias: Smell of fear
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Smell of fear

@@ -1,5 +1,7 @@
 ---
 alias: Lich Dust (CRB)
+tags:
+  - poisons
 ---
 
 # Lich Dust (CRB)

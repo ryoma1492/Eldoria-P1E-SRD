@@ -1,5 +1,7 @@
 ---
 alias: Grinding joint paste
+tags:
+  - poisons
 ---
 
 # Grinding joint paste

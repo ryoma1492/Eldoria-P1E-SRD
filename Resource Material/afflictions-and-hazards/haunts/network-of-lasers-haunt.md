@@ -1,5 +1,7 @@
 ---
 alias: Network of Lasers
+tags:
+  - haunts
 ---
 
 # Network of Lasers

@@ -1,5 +1,7 @@
 ---
 alias: Tar Snare
+tags:
+  - traps
 ---
 
 ## Tar Snare

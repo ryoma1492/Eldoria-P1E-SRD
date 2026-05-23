@@ -1,5 +1,7 @@
 ---
 alias: Whisperwound
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Whisperwound

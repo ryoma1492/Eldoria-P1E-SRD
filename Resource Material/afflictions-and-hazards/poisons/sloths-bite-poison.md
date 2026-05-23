@@ -1,5 +1,7 @@
 ---
 alias: Sloth's bite
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Sloth's bite

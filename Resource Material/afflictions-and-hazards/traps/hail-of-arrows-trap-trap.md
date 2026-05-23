@@ -1,5 +1,7 @@
 ---
 alias: Hail of Arrows Trap
+tags:
+  - traps
 ---
 
 ## Hail of Arrows Trap

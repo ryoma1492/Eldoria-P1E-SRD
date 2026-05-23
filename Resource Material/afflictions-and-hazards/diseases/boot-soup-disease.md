@@ -1,5 +1,7 @@
 ---
 alias: Boot Soup
+tags:
+  - diseases
 ---
 
 # Boot Soup

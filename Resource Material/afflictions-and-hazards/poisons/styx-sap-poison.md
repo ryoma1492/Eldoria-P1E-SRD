@@ -1,5 +1,7 @@
 ---
 alias: Styx sap
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Styx sap

@@ -1,5 +1,7 @@
 ---
 alias: Slaver's Drops
+tags:
+  - drugs
 ---
 
 # Slaver's Drops

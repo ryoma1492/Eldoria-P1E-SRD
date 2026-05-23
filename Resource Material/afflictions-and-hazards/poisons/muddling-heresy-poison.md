@@ -1,5 +1,7 @@
 ---
 alias: Muddling heresy
+tags:
+  - poisons
 ---
 
 # [[PFS-Boons-Only]] Muddling heresy

@@ -1,5 +1,7 @@
 ---
 alias: Greenblood Oil
+tags:
+  - poisons
 ---
 
 # Greenblood Oil

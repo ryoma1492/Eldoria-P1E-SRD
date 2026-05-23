@@ -1,5 +1,7 @@
 ---
 alias: Bonechill
+tags:
+  - diseases
 ---
 
 # Bonechill

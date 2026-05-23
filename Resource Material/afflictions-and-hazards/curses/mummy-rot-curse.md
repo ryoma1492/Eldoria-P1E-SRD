@@ -1,5 +1,7 @@
 ---
 alias: Mummy Rot
+tags:
+  - curses
 ---
 
 # Mummy Rot

@@ -1,5 +1,7 @@
 ---
 alias: Frostspore
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Frostspore

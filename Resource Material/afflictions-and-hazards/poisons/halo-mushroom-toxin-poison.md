@@ -1,5 +1,7 @@
 ---
 alias: Halo mushroom toxin
+tags:
+  - poisons
 ---
 
 # Halo mushroom toxin

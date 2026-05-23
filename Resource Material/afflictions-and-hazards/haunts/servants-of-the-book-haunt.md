@@ -1,5 +1,7 @@
 ---
 alias: Servants of the Book
+tags:
+  - haunts
 ---
 
 # Servants of the Book

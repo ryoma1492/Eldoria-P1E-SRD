@@ -1,5 +1,7 @@
 ---
 alias: Scratching Behind the Wall
+tags:
+  - haunts
 ---
 
 # Scratching Behind the Wall

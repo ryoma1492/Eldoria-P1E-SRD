@@ -1,5 +1,7 @@
 ---
 alias: Peasant's woe
+tags:
+  - poisons
 ---
 
 # Peasant's woe

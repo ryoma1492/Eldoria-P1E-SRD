@@ -1,5 +1,7 @@
 ---
 alias: Psychometabolic Corruption
+tags:
+  - corruptions
 ---
 
 # Psychometabolic Corruption

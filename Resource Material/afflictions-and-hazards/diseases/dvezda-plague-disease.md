@@ -1,5 +1,7 @@
 ---
 alias: Dvezda Plague
+tags:
+  - diseases
 ---
 
 # Dvezda Plague

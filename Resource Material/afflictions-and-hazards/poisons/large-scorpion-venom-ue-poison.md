@@ -1,5 +1,7 @@
 ---
 alias: Large scorpion venom
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Large scorpion venom

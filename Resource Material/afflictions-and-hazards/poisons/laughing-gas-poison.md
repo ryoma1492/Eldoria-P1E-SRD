@@ -1,5 +1,7 @@
 ---
 alias: Laughing gas
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Laughing gas

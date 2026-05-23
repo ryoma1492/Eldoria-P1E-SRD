@@ -1,5 +1,7 @@
 ---
 alias: Poisoned Pit Trap
+tags:
+  - traps
 ---
 
 ## Poisoned Pit Trap

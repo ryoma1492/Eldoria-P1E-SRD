@@ -1,5 +1,7 @@
 ---
 alias: Purple worm poison (Ultimate Equipment)
+tags:
+  - poisons
 ---
 
 # Purple worm poison (Ultimate Equipment)

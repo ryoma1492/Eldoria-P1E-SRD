@@ -1,5 +1,7 @@
 ---
 alias: Hive Corruption
+tags:
+  - corruptions
 ---
 
 # Hive Corruption

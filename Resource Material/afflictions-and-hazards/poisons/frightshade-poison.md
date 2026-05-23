@@ -1,5 +1,7 @@
 ---
 alias: Frightshade
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Frightshade

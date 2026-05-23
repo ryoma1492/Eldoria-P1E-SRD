@@ -1,5 +1,7 @@
 ---
 alias: Third eye
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Third eye

@@ -1,5 +1,7 @@
 ---
 alias: Flaming doom
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Flaming doom

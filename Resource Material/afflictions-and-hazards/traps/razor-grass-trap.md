@@ -1,5 +1,7 @@
 ---
 alias: Razor Grass
+tags:
+  - traps
 ---
 
 ## Razor Grass

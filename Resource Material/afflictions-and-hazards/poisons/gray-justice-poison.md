@@ -1,5 +1,7 @@
 ---
 alias: Gray justice
+tags:
+  - poisons
 ---
 
 # Gray justice

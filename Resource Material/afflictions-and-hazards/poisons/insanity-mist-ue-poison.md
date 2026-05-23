@@ -1,5 +1,7 @@
 ---
 alias: Insanity mist (Ultimate Equipment)
+tags:
+  - poisons
 ---
 
 # Insanity mist (Ultimate Equipment)

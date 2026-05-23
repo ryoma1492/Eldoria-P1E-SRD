@@ -1,5 +1,7 @@
 ---
 alias: Demanding Dead
+tags:
+  - haunts
 ---
 
 # Demanding Dead

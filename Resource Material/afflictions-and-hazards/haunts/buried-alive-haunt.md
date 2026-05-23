@@ -1,5 +1,7 @@
 ---
 alias: Buried Alive
+tags:
+  - haunts
 ---
 
 # Buried Alive

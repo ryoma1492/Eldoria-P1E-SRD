@@ -1,5 +1,7 @@
 ---
 alias: Malyass Root Paste
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Malyass Root Paste

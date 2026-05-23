@@ -1,5 +1,7 @@
 ---
 alias: Curses
+tags:
+  - curses
 ---
 
 | Name | Saving Throw |

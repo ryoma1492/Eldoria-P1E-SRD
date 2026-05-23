@@ -1,5 +1,7 @@
 ---
 alias: Chamber of Blades Trap
+tags:
+  - traps
 ---
 
 ## Chamber of Blades Trap

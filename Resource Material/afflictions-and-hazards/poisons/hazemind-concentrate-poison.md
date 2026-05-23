@@ -1,5 +1,7 @@
 ---
 alias: Hazemind concentrate
+tags:
+  - poisons
 ---
 
 # Hazemind concentrate

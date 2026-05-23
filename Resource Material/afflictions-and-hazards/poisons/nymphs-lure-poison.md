@@ -1,5 +1,7 @@
 ---
 alias: Nymph's lure
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Nymph's lure

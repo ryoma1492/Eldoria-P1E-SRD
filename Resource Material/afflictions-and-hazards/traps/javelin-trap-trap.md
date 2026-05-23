@@ -1,5 +1,7 @@
 ---
 alias: Javelin Trap
+tags:
+  - traps
 ---
 
 ## Javelin Trap

@@ -1,5 +1,7 @@
 ---
 alias: Bestow Curse Trap
+tags:
+  - curses
 ---
 
 # Bestow Curse Trap

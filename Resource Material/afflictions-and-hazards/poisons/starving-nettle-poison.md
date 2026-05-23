@@ -1,5 +1,7 @@
 ---
 alias: Starving nettle
+tags:
+  - poisons
 ---
 
 # Starving nettle

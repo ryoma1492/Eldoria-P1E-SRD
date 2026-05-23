@@ -1,5 +1,7 @@
 ---
 alias: Count Ambras's punishment
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Count Ambras's punishment

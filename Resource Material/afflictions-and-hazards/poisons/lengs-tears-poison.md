@@ -1,5 +1,7 @@
 ---
 alias: Leng's tears
+tags:
+  - poisons
 ---
 
 # Leng's tears

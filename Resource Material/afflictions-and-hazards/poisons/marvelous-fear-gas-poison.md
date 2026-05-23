@@ -1,5 +1,7 @@
 ---
 alias: Marvelous fear gas
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Marvelous fear gas

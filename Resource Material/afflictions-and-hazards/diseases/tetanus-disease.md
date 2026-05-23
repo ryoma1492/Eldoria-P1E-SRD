@@ -1,5 +1,7 @@
 ---
 alias: Tetanus
+tags:
+  - diseases
 ---
 
 # [[3.5]] Tetanus

@@ -1,5 +1,7 @@
 ---
 alias: Wyvern poison (Ultimate Equipment)
+tags:
+  - poisons
 ---
 
 # Wyvern poison (Ultimate Equipment)

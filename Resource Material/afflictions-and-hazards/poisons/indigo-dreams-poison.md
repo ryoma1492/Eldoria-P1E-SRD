@@ -1,5 +1,7 @@
 ---
 alias: Indigo dreams
+tags:
+  - poisons
 ---
 
 # Indigo dreams

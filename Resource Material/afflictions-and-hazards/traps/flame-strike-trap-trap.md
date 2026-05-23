@@ -1,5 +1,7 @@
 ---
 alias: Flame Strike Trap
+tags:
+  - traps
 ---
 
 ## Flame Strike Trap

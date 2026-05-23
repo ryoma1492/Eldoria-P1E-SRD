@@ -1,5 +1,7 @@
 ---
 alias: Numerian Fluids
+tags:
+  - drugs
 ---
 
 # Numerian Fluids

@@ -1,5 +1,7 @@
 ---
 alias: Eternal Pyre
+tags:
+  - haunts
 ---
 
 # Eternal Pyre

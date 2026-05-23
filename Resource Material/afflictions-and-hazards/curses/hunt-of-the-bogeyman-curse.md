@@ -1,5 +1,7 @@
 ---
 alias: Hunt of the Bogeyman
+tags:
+  - curses
 ---
 
 # Hunt of the Bogeyman

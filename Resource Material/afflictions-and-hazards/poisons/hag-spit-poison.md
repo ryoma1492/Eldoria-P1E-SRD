@@ -1,5 +1,7 @@
 ---
 alias: Hag spit
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Hag spit

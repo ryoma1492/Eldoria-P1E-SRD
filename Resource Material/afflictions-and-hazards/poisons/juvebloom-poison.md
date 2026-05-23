@@ -1,5 +1,7 @@
 ---
 alias: Juvebloom
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Juvebloom

@@ -1,5 +1,7 @@
 ---
 alias: Crushing Terror
+tags:
+  - haunts
 ---
 
 # Crushing Terror

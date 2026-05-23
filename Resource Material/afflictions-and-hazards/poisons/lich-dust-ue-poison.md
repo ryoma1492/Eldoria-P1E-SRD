@@ -1,5 +1,7 @@
 ---
 alias: Lich dust (Ultimate Equipment)
+tags:
+  - poisons
 ---
 
 # Lich dust (Ultimate Equipment)

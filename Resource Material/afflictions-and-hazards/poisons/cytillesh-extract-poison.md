@@ -1,5 +1,7 @@
 ---
 alias: Cytillesh extract
+tags:
+  - poisons
 ---
 
 # Cytillesh extract

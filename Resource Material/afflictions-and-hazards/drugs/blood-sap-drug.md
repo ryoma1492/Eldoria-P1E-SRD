@@ -1,5 +1,7 @@
 ---
 alias: Blood Sap
+tags:
+  - drugs
 ---
 
 # Blood Sap

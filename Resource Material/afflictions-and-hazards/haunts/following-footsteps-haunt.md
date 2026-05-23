@@ -1,5 +1,7 @@
 ---
 alias: Following Footsteps
+tags:
+  - haunts
 ---
 
 # Following Footsteps

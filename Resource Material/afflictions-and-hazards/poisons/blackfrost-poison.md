@@ -1,5 +1,7 @@
 ---
 alias: Blackfrost
+tags:
+  - poisons
 ---
 
 # Blackfrost

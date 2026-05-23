@@ -1,5 +1,7 @@
 ---
 alias: Cyanide
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Cyanide

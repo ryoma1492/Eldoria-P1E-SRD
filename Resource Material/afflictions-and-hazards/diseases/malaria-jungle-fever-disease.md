@@ -1,5 +1,7 @@
 ---
 alias: Malaria (Jungle Fever)
+tags:
+  - diseases
 ---
 
 # Malaria (Jungle Fever)

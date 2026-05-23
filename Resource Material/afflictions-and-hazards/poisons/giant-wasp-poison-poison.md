@@ -1,5 +1,7 @@
 ---
 alias: Giant Wasp Poison
+tags:
+  - poisons
 ---
 
 # Giant Wasp Poison

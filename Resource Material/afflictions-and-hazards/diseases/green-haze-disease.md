@@ -1,5 +1,7 @@
 ---
 alias: Green Haze
+tags:
+  - diseases
 ---
 
 # Green Haze

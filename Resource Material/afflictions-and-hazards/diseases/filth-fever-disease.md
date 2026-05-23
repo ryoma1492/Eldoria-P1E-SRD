@@ -1,5 +1,7 @@
 ---
 alias: Filth Fever
+tags:
+  - diseases
 ---
 
 # Filth Fever

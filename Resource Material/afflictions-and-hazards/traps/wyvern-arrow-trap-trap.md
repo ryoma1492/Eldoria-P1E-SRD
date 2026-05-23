@@ -1,5 +1,7 @@
 ---
 alias: Wyvern Arrow Trap
+tags:
+  - traps
 ---
 
 ## Wyvern Arrow Trap

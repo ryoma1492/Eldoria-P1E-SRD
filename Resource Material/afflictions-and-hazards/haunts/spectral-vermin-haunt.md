@@ -1,5 +1,7 @@
 ---
 alias: Spectral Vermin
+tags:
+  - haunts
 ---
 
 # Spectral Vermin

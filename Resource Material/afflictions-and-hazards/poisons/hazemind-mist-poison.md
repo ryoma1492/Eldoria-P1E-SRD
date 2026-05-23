@@ -1,5 +1,7 @@
 ---
 alias: Hazemind mist
+tags:
+  - poisons
 ---
 
 # Hazemind mist

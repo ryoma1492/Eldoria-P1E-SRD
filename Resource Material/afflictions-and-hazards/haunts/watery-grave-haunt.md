@@ -1,5 +1,7 @@
 ---
 alias: Watery Grave
+tags:
+  - haunts
 ---
 
 # Watery Grave

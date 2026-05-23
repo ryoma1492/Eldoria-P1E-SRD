@@ -1,5 +1,7 @@
 ---
 alias: Dark Reaver Powder (CRB)
+tags:
+  - poisons
 ---
 
 # Dark Reaver Powder (CRB)

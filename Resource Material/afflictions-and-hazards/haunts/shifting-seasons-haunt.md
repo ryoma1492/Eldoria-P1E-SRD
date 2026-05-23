@@ -1,5 +1,7 @@
 ---
 alias: Shifting Seasons
+tags:
+  - haunts
 ---
 
 # Shifting Seasons

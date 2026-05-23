@@ -1,5 +1,7 @@
 ---
 alias: Crone's curse
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Crone's curse

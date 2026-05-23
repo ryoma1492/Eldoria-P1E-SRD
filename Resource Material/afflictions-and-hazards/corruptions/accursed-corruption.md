@@ -1,5 +1,7 @@
 ---
 alias: Accursed Corruption
+tags:
+  - corruptions
 ---
 
 # Accursed Corruption

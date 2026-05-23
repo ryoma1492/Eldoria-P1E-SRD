@@ -1,5 +1,7 @@
 ---
 alias: Psychic Echo (Anger)
+tags:
+  - haunts
 ---
 
 # Psychic Echo (Anger)

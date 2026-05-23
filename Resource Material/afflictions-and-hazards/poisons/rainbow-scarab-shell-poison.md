@@ -1,5 +1,7 @@
 ---
 alias: Rainbow scarab shell
+tags:
+  - poisons
 ---
 
 # Rainbow scarab shell

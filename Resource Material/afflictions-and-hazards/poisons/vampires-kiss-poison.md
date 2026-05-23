@@ -1,5 +1,7 @@
 ---
 alias: Vampire's kiss
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Vampire's kiss

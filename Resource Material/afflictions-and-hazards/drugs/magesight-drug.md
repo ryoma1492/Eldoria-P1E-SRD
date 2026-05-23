@@ -1,5 +1,7 @@
 ---
 alias: Magesight
+tags:
+  - drugs
 ---
 
 # Magesight

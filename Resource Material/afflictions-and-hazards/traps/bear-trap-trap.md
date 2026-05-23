@@ -1,5 +1,7 @@
 ---
 alias: Bear Trap
+tags:
+  - traps
 ---
 
 ## Bear Trap

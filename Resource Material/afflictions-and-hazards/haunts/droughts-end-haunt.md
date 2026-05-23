@@ -1,5 +1,7 @@
 ---
 alias: Drought's End
+tags:
+  - haunts
 ---
 
 # Drought's End

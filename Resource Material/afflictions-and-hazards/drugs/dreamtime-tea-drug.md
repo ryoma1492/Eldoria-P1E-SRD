@@ -1,5 +1,7 @@
 ---
 alias: Dreamtime Tea
+tags:
+  - drugs
 ---
 
 # Dreamtime Tea

@@ -1,5 +1,7 @@
 ---
 alias: Tears of perfection
+tags:
+  - poisons
 ---
 
 # Tears of perfection

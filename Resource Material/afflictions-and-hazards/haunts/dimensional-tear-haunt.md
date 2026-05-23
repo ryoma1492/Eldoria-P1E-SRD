@@ -1,5 +1,7 @@
 ---
 alias: Dimensional Tear
+tags:
+  - haunts
 ---
 
 # Dimensional Tear

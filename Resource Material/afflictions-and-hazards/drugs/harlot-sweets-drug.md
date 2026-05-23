@@ -1,5 +1,7 @@
 ---
 alias: Harlot Sweets
+tags:
+  - drugs
 ---
 
 # Harlot Sweets

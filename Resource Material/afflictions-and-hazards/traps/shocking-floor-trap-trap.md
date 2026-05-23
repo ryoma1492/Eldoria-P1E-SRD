@@ -1,5 +1,7 @@
 ---
 alias: Shocking Floor Trap
+tags:
+  - traps
 ---
 
 ## Shocking Floor Trap

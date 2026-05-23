@@ -1,5 +1,7 @@
 ---
 alias: Gossamer Veil
+tags:
+  - drugs
 ---
 
 # Gossamer Veil

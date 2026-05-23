@@ -1,5 +1,7 @@
 ---
 alias: Maiden lily attar
+tags:
+  - poisons
 ---
 
 # Maiden lily attar

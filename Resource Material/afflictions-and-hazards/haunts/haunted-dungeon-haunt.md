@@ -1,5 +1,7 @@
 ---
 alias: Haunted Dungeon
+tags:
+  - haunts
 ---
 
 # Haunted Dungeon

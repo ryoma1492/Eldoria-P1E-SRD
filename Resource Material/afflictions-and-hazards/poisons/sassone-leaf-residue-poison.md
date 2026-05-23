@@ -1,5 +1,7 @@
 ---
 alias: Sassone leaf residue
+tags:
+  - poisons
 ---
 
 # Sassone leaf residue

@@ -1,5 +1,7 @@
 ---
 alias: Old-Mage
+tags:
+  - drugs
 ---
 
 # Old-Mage

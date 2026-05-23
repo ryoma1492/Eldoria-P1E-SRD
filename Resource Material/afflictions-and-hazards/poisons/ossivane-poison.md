@@ -1,5 +1,7 @@
 ---
 alias: Ossivane
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Ossivane

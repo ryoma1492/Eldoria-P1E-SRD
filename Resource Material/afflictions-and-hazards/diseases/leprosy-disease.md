@@ -1,5 +1,7 @@
 ---
 alias: Leprosy
+tags:
+  - diseases
 ---
 
 # Leprosy

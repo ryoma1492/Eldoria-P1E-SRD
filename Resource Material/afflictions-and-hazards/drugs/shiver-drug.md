@@ -1,5 +1,7 @@
 ---
 alias: Shiver
+tags:
+  - drugs
 ---
 
 # Shiver

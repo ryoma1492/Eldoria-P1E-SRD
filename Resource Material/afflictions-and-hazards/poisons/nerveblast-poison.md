@@ -1,5 +1,7 @@
 ---
 alias: Nerveblast
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Nerveblast

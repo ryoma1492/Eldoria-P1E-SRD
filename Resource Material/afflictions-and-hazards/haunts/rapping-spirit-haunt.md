@@ -1,5 +1,7 @@
 ---
 alias: Rapping Spirit
+tags:
+  - haunts
 ---
 
 # Rapping Spirit

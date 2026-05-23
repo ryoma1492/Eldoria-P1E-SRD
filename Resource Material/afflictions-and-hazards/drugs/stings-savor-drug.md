@@ -1,5 +1,7 @@
 ---
 alias: Sting's Savor
+tags:
+  - drugs
 ---
 
 # Sting's Savor

@@ -1,5 +1,7 @@
 ---
 alias: Faceless Statue Trap
+tags:
+  - traps
 ---
 
 ## Faceless Statue Trap

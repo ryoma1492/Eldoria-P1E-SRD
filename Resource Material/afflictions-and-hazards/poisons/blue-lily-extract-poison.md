@@ -1,5 +1,7 @@
 ---
 alias: Blue lily extract
+tags:
+  - poisons
 ---
 
 # Blue lily extract

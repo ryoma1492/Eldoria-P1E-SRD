@@ -1,5 +1,7 @@
 ---
 alias: Spellscar Fever
+tags:
+  - diseases
 ---
 
 # Spellscar Fever

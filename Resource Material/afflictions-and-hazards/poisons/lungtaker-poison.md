@@ -1,5 +1,7 @@
 ---
 alias: Lungtaker
+tags:
+  - poisons
 ---
 
 # Lungtaker

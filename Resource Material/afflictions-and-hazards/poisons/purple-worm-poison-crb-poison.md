@@ -1,5 +1,7 @@
 ---
 alias: Purple Worm Poison (CRB)
+tags:
+  - poisons
 ---
 
 # Purple Worm Poison (CRB)

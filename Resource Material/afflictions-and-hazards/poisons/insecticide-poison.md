@@ -1,5 +1,7 @@
 ---
 alias: Insecticide
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Insecticide

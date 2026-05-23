@@ -1,5 +1,7 @@
 ---
 alias: Elven Absinthe
+tags:
+  - drugs
 ---
 
 # Elven Absinthe

@@ -1,5 +1,7 @@
 ---
 alias: Crypt Fever
+tags:
+  - diseases
 ---
 
 # Crypt Fever

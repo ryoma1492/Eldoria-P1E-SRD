@@ -1,5 +1,7 @@
 ---
 alias: Unsolved Murder
+tags:
+  - haunts
 ---
 
 # Unsolved Murder

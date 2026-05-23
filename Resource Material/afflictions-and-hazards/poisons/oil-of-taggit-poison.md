@@ -1,5 +1,7 @@
 ---
 alias: Oil of Taggit
+tags:
+  - poisons
 ---
 
 # Oil of Taggit

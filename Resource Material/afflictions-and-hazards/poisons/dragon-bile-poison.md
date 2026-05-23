@@ -1,5 +1,7 @@
 ---
 alias: Dragon Bile
+tags:
+  - poisons
 ---
 
 # Dragon Bile

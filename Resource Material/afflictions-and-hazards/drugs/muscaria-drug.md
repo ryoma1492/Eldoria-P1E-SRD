@@ -1,5 +1,7 @@
 ---
 alias: Muscaria
+tags:
+  - drugs
 ---
 
 # Muscaria

@@ -1,5 +1,7 @@
 ---
 alias: Endless Night
+tags:
+  - curses
 ---
 
 # Endless Night

@@ -1,5 +1,7 @@
 ---
 alias: Dissolving Vat
+tags:
+  - haunts
 ---
 
 # Dissolving Vat

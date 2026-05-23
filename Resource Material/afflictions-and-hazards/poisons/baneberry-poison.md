@@ -1,5 +1,7 @@
 ---
 alias: Baneberry
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Baneberry

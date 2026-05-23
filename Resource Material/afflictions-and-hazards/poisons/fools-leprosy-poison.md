@@ -1,5 +1,7 @@
 ---
 alias: Fool's Leprosy
+tags:
+  - poisons
 ---
 
 # Fool's Leprosy

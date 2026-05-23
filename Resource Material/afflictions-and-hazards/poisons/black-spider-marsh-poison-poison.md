@@ -1,5 +1,7 @@
 ---
 alias: Black spider marsh poison
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Black spider marsh poison

@@ -1,5 +1,7 @@
 ---
 alias: Electricity Arc Trap
+tags:
+  - traps
 ---
 
 ## Electricity Arc Trap

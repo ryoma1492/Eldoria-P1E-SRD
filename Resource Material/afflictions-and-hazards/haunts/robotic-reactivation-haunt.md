@@ -1,5 +1,7 @@
 ---
 alias: Robotic Reactivation
+tags:
+  - haunts
 ---
 
 # Robotic Reactivation

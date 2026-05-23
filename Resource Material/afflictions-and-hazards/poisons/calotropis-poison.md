@@ -1,5 +1,7 @@
 ---
 alias: Calotropis
+tags:
+  - poisons
 ---
 
 # Calotropis

@@ -1,5 +1,7 @@
 ---
 alias: Werewolf Lycanthropy
+tags:
+  - curses
 ---
 
 # Werewolf Lycanthropy

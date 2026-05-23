@@ -1,5 +1,7 @@
 ---
 alias: Liquid leprosy
+tags:
+  - poisons
 ---
 
 # Liquid leprosy

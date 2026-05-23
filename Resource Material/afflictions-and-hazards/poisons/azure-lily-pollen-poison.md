@@ -1,5 +1,7 @@
 ---
 alias: Azure lily pollen
+tags:
+  - poisons
 ---
 
 # Azure lily pollen

@@ -1,5 +1,7 @@
 ---
 alias: Flytrap
+tags:
+  - haunts
 ---
 
 # Flytrap

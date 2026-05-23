@@ -1,5 +1,7 @@
 ---
 alias: Breath of the mantis god
+tags:
+  - poisons
 ---
 
 # Breath of the mantis god

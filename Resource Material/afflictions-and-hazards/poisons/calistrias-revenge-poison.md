@@ -1,5 +1,7 @@
 ---
 alias: Calistria's revenge
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Calistria's revenge

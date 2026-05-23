@@ -1,5 +1,7 @@
 ---
 alias: Sweetdream
+tags:
+  - poisons
 ---
 
 # Sweetdream

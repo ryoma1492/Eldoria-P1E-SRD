@@ -1,5 +1,7 @@
 ---
 alias: Blue whinnis (Ultimate Equipment)
+tags:
+  - poisons
 ---
 
 # Blue whinnis (Ultimate Equipment)

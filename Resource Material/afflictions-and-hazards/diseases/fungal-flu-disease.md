@@ -1,5 +1,7 @@
 ---
 alias: Fungal Flu
+tags:
+  - diseases
 ---
 
 # [[3.5]] Fungal Flu

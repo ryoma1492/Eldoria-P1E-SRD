@@ -1,5 +1,7 @@
 ---
 alias: Fury gas
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Fury gas

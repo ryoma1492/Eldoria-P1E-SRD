@@ -1,6 +1,7 @@
 ---
 tags:
   - GM_Notes
+draft: true
 ---
 ## Pre-Text:
 The [[Heroes]] return from [[Oargull]] to a [[Lowhaven]] that is no longer merely recovering—it is *growing*. Word of the town’s resistance and the restoration of sunlight has spread. Migration has begun.
@@ -137,7 +138,7 @@ Time passes.
 ### Independent Actions
 
 - [[Leon]] and [[Finn]] research:
-  - “[[The One]]” → possible dragon deity
+  - “[[The One]]” †’ possible dragon deity
 - [[Gargon]] studies [[Granny Titchwillow]]’s obsidian map:
   - Leads to:
     - North beyond Curtain

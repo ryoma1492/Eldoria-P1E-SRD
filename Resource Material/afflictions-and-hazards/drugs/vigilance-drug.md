@@ -1,5 +1,7 @@
 ---
 alias: Vigilance
+tags:
+  - drugs
 ---
 
 # Vigilance

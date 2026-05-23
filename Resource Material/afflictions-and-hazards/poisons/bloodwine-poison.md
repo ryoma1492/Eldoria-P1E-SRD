@@ -1,5 +1,7 @@
 ---
 alias: Bloodwine
+tags:
+  - poisons
 ---
 
 # Bloodwine

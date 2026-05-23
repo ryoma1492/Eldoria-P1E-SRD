@@ -1,5 +1,7 @@
 ---
 alias: Brain blot
+tags:
+  - poisons
 ---
 
 # Brain blot

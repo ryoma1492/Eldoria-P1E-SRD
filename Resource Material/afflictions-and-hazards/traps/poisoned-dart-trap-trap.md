@@ -1,5 +1,7 @@
 ---
 alias: Poisoned Dart Trap
+tags:
+  - traps
 ---
 
 ## Poisoned Dart Trap

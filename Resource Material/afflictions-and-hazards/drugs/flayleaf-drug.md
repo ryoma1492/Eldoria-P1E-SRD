@@ -1,5 +1,7 @@
 ---
 alias: Flayleaf
+tags:
+  - drugs
 ---
 
 # Flayleaf

@@ -1,5 +1,7 @@
 ---
 alias: Fiddleback venom
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Fiddleback venom

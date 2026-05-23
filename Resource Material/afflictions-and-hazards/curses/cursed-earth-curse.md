@@ -1,5 +1,7 @@
 ---
 alias: Cursed Earth
+tags:
+  - curses
 ---
 
 # Cursed Earth

@@ -1,6 +1,7 @@
 ---
 tags:
   - kids
+draft: true
 ---
 
 
@@ -10,9 +11,9 @@ _(Lightly ominous, wide scope, enticing)_
 
 Long before your first step upon the [[Mosslight Path]],  
 before the breath of your [[Grizzly Companion]] steamed in morning air,  
-before flame ever answered your whisper at the [[Emberstone Shrine]]…
+before flame ever answered your whisper at the [[Emberstone Shrine]]€¦
 
-…the world was older.
+€¦the world was older.
 
 And softer.
 
@@ -20,7 +21,7 @@ There was a time when the forests of [[Evershade Forest]] were not borders on ma
 not timber to be measured,  
 nor territories to be carved and claimed.
 
-They were simply… _alive_.
+They were simply€¦ _alive_.
 
 The great trees spoke in leaf-rustle and root-creak.  
 Rivers ran clear enough to mirror the stars.  
@@ -56,7 +57,7 @@ The birds hold their breath.
 
 The insects cease their song.
 
-And somewhere, far beyond sight…
+And somewhere, far beyond sight€¦
 
 a blade bites into bark.
 

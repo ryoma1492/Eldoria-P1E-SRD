@@ -1,5 +1,7 @@
 ---
 alias: Hush
+tags:
+  - drugs
 ---
 
 # Hush

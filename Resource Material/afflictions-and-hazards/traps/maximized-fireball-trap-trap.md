@@ -1,5 +1,7 @@
 ---
 alias: Maximized Fireball Trap
+tags:
+  - traps
 ---
 
 ## Maximized Fireball Trap

@@ -1,5 +1,7 @@
 ---
 alias: Swampseer poison
+tags:
+  - poisons
 ---
 
 # Swampseer poison

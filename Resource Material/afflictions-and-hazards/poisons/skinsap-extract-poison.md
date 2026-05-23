@@ -1,5 +1,7 @@
 ---
 alias: Skinsap extract
+tags:
+  - poisons
 ---
 
 # Skinsap extract

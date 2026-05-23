@@ -1,5 +1,7 @@
 ---
 alias: Fallen from the Sky
+tags:
+  - haunts
 ---
 
 # Fallen from the Sky

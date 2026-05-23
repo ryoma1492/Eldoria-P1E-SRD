@@ -1,5 +1,7 @@
 ---
 alias: Cold Spot
+tags:
+  - haunts
 ---
 
 # Cold Spot

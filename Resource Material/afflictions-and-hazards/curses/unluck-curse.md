@@ -1,5 +1,7 @@
 ---
 alias: Unluck
+tags:
+  - curses
 ---
 
 # Unluck

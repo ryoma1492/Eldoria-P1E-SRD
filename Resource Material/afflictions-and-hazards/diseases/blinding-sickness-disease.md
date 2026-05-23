@@ -1,5 +1,7 @@
 ---
 alias: Blinding Sickness
+tags:
+  - diseases
 ---
 
 # Blinding Sickness

@@ -1,5 +1,7 @@
 ---
 alias: Burning Hands Trap
+tags:
+  - traps
 ---
 
 ## Burning Hands Trap

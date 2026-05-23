@@ -1,5 +1,7 @@
 ---
 alias: Living Decay
+tags:
+  - haunts
 ---
 
 # Living Decay

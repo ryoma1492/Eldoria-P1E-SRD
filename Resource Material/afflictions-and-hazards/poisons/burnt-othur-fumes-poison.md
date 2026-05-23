@@ -1,5 +1,7 @@
 ---
 alias: Burnt othur fumes
+tags:
+  - poisons
 ---
 
 # Burnt othur fumes

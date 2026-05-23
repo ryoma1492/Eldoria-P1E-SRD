@@ -5,6 +5,7 @@ tags:
 statblock: inline
 aliases:
   - King
+draft: true
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout
