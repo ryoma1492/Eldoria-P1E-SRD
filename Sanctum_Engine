@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sunken Sanctum — Infinite Map Engine</title>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600&family=Crimson+Pro:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
+<style>
+  :root { --ui-bg: #060d1a; --ui-bdr: rgba(90,160,200,0.3); --ui-txt: #8ab4c8; --ui-hi: #5ecfef; --gold: #d4a030; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { width: 100%; height: 100%; overflow: hidden; background: #030810; }
+  body { font-family: 'Crimson Pro', serif; display: flex; flex-direction: column; color: var(--ui-txt); user-select: none; }
+
+  #header { display: flex; flex-direction: column; background: var(--ui-bg); border-bottom: 1px solid var(--ui-bdr); z-index: 10; padding: 5px 10px; gap: 5px; }
+  .toolbar-row { display: flex; align-items: center; gap: 5px; flex-wrap: wrap; }
+  
+  .btn { display: inline-flex; align-items: center; gap: 4px; padding: 4px 8px; border: 1px solid var(--ui-bdr); border-radius: 3px; background: rgba(10,31,80,0.4); color: var(--ui-txt); font-size: 11px; cursor: pointer; transition: 0.15s; font-family: 'Crimson Pro', serif; }
+  .btn:hover { border-color: var(--ui-hi); color: var(--ui-hi); }
+  .btn.active { background: rgba(13,154,191,0.25); border-color: #0d9abf; color: var(--ui-hi); }
+  .btn.gold { border-color: var(--gold); color: var(--gold); }
+  .btn:disabled { opacity: 0.3; cursor: default; }
+  
+  .sep { width: 1px; height: 16px; background: var(--ui-bdr); margin: 0 4px; }
+  input[type="color"] { -webkit-appearance: none; border: none; width: 14px; height: 14px; cursor: pointer; background: none; padding:0; }
+  input[type="number"] { width: 45px; background: rgba(10,31,80,0.4); border: 1px solid var(--ui-bdr); color: var(--ui-txt); font-size: 11px; padding: 2px 4px; border-radius: 2px; }
+  select { background: rgba(10,31,80,0.4); border: 1px solid var(--ui-bdr); color: var(--ui-txt); font-size: 11px; padding: 2px 4px; border-radius: 2px; cursor: pointer;}
+
+  #map-wrap { flex: 1; overflow: hidden; position: relative; background: #01040a; cursor: crosshair; }
+  canvas { display: block; width: 100%; height: 100%; }
+  #statusbar { padding: 3px 10px; background: var(--ui-bg); border-top: 1px solid var(--ui-bdr); font-size: 10px; display: flex; gap: 20px; }
+  #title-text { font-family: 'Cinzel', serif; font-size: 12px; color: var(--gold); letter-spacing: 0.1em; margin-right: 10px; }
+</style>
+</head>
+<body oncontextmenu="return false;">
+
+<div id="header">
+  <div class="toolbar-row">
+    <span id="title-text">Sanctum Engine</span>
+    <button class="btn active" data-t="wall"><input type="color" id="col-wall" value="#3d2e1e"> Wall</button>
+    <button class="btn" data-t="floor"><input type="color" id="col-floor" value="#1a2a3e"> Floor</button>
+    <button class="btn" data-t="acc1"><input type="color" id="col-acc1" value="#6b5a3a"> Acc 1</button>
+    <button class="btn" data-t="acc2"><input type="color" id="col-acc2" value="#2a3f5a"> Acc 2</button>
+    <button class="btn" data-t="other"><input type="color" id="col-other" value="#4a2e3a"> Other</button>
+    <div class="sep"></div>
+    <button class="btn" data-t="outline">⬡ Outline</button>
+    <button class="btn" data-t="erase">Erase (Deep)</button>
+    <div class="sep"></div>
+    <span style="font-size:10px; color:#8ab4c8;">Grid:</span>
+    <input type="number" id="inp-cols" value="60" min="10" max="200">
+    <span style="font-size:10px; color:#8ab4c8;">x</span>
+    <input type="number" id="inp-rows" value="60" min="10" max="200">
+    <button class="btn" onclick="resizeGrid()">Resize</button>
+    <div class="sep"></div>
+    <!-- Deep water color picker -->
+    <span style="font-size:10px; color:#8ab4c8;">Deep:</span>
+    <input type="color" id="col-deep" value="#0a1f50" title="Deep water base color">
+    <!-- Background image loader -->
+    <button class="btn" onclick="document.getElementById('bgImport').click()">🖼️ Set BG</button>
+    <button class="btn" id="btnClearBG" onclick="clearBackground()" style="display:none;">✕ BG</button>
+    <input type="file" id="bgImport" hidden accept="image/*" onchange="loadBackgroundImage(event)">
+  </div>
+  
+  <div class="toolbar-row">
+    <button class="btn" data-t="current"><input type="color" id="col-curr" value="#0d9abf"> River Waypoints</button>
+    <select id="sel-rad" onchange="currentRad=parseInt(this.value)">
+      <option value="1">Radius: 1</option>
+      <option value="3">Radius: 3</option>
+      <option value="5" selected>Radius: 5</option>
+      <option value="7">Radius: 7</option>
+    </select>
+    <button class="btn" onclick="clearCurrents()">Clear River</button>
+    <div class="sep"></div>
+    <span style="font-size:10px; color:#8ab4c8; margin-left:4px;">Platform:</span> <input type="color" id="col-plat" value="#d4a030">
+    <div class="sep"></div>
+    <button class="btn" data-t="select">⬚ Select</button>
+    <button class="btn" onclick="copySelection()">Copy</button>
+    <button class="btn" id="btnPaste" data-t="paste" disabled>Paste</button>
+    <button class="btn" onclick="storePrefab()">Store 1</button>
+    <button class="btn" id="btnPaste1" data-t="paste1" disabled>Paste 1</button>
+    <button class="btn gold" onclick="storePlatform()">⭐ Store Plat</button>
+    <div class="sep"></div>
+    <button class="btn gold" onclick="exportPlayerHTML()">💾 Export Map</button>
+    <button class="btn" onclick="document.getElementById('mI').click()">📂 Load Map</button>
+    <input type="file" id="mI" hidden accept=".html" onchange="importMap(event)">
+  </div>
+</div>
+
+<div id="map-wrap"><canvas id="cv"></canvas></div>
+
+<div id="statusbar">
+  <span>Hex: <span id="hcoord">—</span></span>
+  <span>Waypoint: <span id="hturn">0</span> / <span id="hturntotal">0</span></span>
+  <span>Tools: Right-Click Pan | Scroll Zoom | Left-Click Paint/Select</span>
+</div>
+
+<script>
+// --- CORE STATE ---
+let COLS=60, ROWS=60, SZ=12, HW=SZ*Math.sqrt(3), HH=SZ*2;
+const cv=document.getElementById('cv'), ctx=cv.getContext('2d');
+let grid=[], centerPath=[], waypoints=[], waypointIndices=[], currentMap=new Map();
+let currentRad=5, flowDir=1, hideCurrent=false;
+let platT=0, animT=0, raftMoving=false, lastTime=0;
+let camX=0, camY=0, camZoom=1.0;
+let tool='wall', drawing=false, panning=false;
+
+// Default Platform Shape (-2 to +3 block)
+let platformShape = { baseR: 0, cells: [] };
+for(let dr=-2;dr<=3;dr++) for(let dc=-2;dc<=3;dc++) platformShape.cells.push({dr, dc, t:'plat'});
+
+// Buffers
+let selectStart=null, selectEnd=null, copyBuffer=null, prefabBuffer=null;
+
+function resizeCanvas() { cv.width = cv.clientWidth; cv.height = cv.clientHeight; }
+window.onresize = resizeCanvas; resizeCanvas();
+
+// ── Background Image & Deep Color ────────────────────────────────────────────
+
+let bgImage = null;
+
+function hexToRgb(hex) {
+  const bigint = parseInt(hex.replace('#',''), 16);
+  return { r: (bigint >> 16) & 255, g: (bigint >> 8) & 255, b: bigint & 255 };
+}
+
+function loadBackgroundImage(e) {
+  const file = e.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = (event) => {
+    const img = new Image();
+    img.onload = () => {
+      bgImage = img;
+      document.getElementById('btnClearBG').style.display = '';
+    };
+    img.src = event.target.result;
+  };
+  reader.readAsDataURL(file);
+  // Reset so the same file can be re-selected after clearing
+  e.target.value = '';
+}
+
+function clearBackground() {
+  bgImage = null;
+  document.getElementById('btnClearBG').style.display = 'none';
+}
+
+// ── Helpers ──────────────────────────────────────────────────────────────────
+
+function hc(c,r){ return {x:c*HW+(r%2?HW/2:0)+SZ, y:r*HH*0.75+SZ}; }
+
+function getLocalPos(e) {
+  const rect = cv.getBoundingClientRect();
+  return { x: (e.clientX - rect.left) * (cv.width / rect.width), y: (e.clientY - rect.top) * (cv.height / rect.height) };
+}
+
+function p2h(lx, ly){
+  const wx = (lx - camX) / camZoom, wy = (ly - camY) / camZoom;
+  let best=null, bd=Infinity;
+  const rE=Math.max(0,Math.min(ROWS-1,Math.round((wy/SZ-1)/1.5))), cE=Math.max(0,Math.min(COLS-1,Math.round((wx-SZ)/HW)));
+  for(let dr=-2;dr<=2;dr++) for(let dc=-2;dc<=2;dc++){
+    const r=rE+dr, c=cE+dc; if(r<0||r>=ROWS||c<0||c>=COLS) continue;
+    const {x,y}=hc(c,r); const d=(wx-x)**2+(wy-y)**2; if(d<bd){ bd=d; best={c,r}; }
+  }
+  return (best && Math.sqrt(bd)<SZ*1.05) ? best : null;
+}
+
+function hexPath(cx,cy,sz){
+  ctx.beginPath();
+  for(let i=0;i<6;i++){
+    const a=Math.PI/180*(60*i-30);
+    ctx[i===0?'moveTo':'lineTo'](cx+sz*Math.cos(a), cy+sz*Math.sin(a));
+  }
+  ctx.closePath();
+}
+
+// Math & Layout
+function offsetToCube(c,r){ let q=c-Math.floor(r/2); return {q, r, s:-q-r}; }
+function cubeToOffset(cube){ let r=cube.r; return {c:cube.q+Math.floor(r/2), r}; }
+function cubeRound(f){
+  let q=Math.round(f.q), r=Math.round(f.r), s=Math.round(f.s);
+  let qd=Math.abs(q-f.q), rd=Math.abs(r-f.r), sd=Math.abs(s-f.s);
+  if(qd>rd && qd>sd) q=-r-s; else if(rd>sd) r=-q-s; else s=-q-r;
+  return {q,r,s};
+}
+function getHexLine(A, B){
+  let a=offsetToCube(A.c,A.r), b=offsetToCube(B.c,B.r), N=Math.max(Math.abs(a.q-b.q), Math.abs(a.r-b.r), Math.abs(a.s-b.s)), res=[];
+  for(let i=0; i<=N; i++){ let t=N===0?0:i/N; res.push(cubeToOffset(cubeRound({q:a.q+(b.q-a.q)*t, r:a.r+(b.r-a.r)*t, s:a.s+(b.s-a.s)*t}))); }
+  return res;
+}
+
+// Parity Corrector for shapes/pasting
+function getAdjustedC(baseR, targetR, dr, dc) {
+  const parityDiff = (Math.abs(targetR) % 2) - (Math.abs(baseR) % 2);
+  let adjC = dc;
+  if (dr % 2 !== 0 && parityDiff !== 0) adjC += (Math.abs(targetR) % 2 === 0) ? -1 : 1;
+  return adjC;
+}
+
+function initGrid(){
+  grid=[]; for(let r=0;r<ROWS;r++){ grid[r]=[]; for(let c=0;c<COLS;c++) grid[r][c]='deep'; }
+}
+
+function resizeGrid(){
+  const nc = parseInt(document.getElementById('inp-cols').value);
+  const nr = parseInt(document.getElementById('inp-rows').value);
+  let newGrid = [];
+  for(let r=0;r<nr;r++){
+    newGrid[r]=[];
+    for(let c=0;c<nc;c++){ newGrid[r][c] = (r<ROWS && c<COLS) ? grid[r][c] : 'deep'; }
+  }
+  grid = newGrid; COLS = nc; ROWS = nr;
+}
+
+function rebuildCurrentField(){
+  currentMap.clear(); if(!centerPath.length) return;
+  centerPath.forEach((pt, i)=>{
+    let n=centerPath[i+1], p=centerPath[i-1], ang=Math.PI/2;
+    if(n&&p) ang=Math.atan2(hc(n.c,n.r).y-hc(p.c,p.r).y, hc(n.c,n.r).x-hc(p.c,p.r).x);
+    else if(n) ang=Math.atan2(hc(n.c,n.r).y-hc(pt.c,pt.r).y, hc(n.c,n.r).x-hc(pt.c,pt.r).x);
+    else if(p) ang=Math.atan2(hc(pt.c,pt.r).y-hc(p.c,p.r).y, hc(pt.c,pt.r).x-hc(p.c,p.r).x);
+    
+    const {x,y}=hc(pt.c,pt.r);
+    for(let dr=-currentRad;dr<=currentRad;dr++) for(let dc=-currentRad;dc<=currentRad;dc++){
+      const nr=pt.r+dr, nc=pt.c+dc;
+      if(nr>=0&&nr<ROWS&&nc>=0&&nc<COLS){
+        const p2=hc(nc,nr); if(Math.hypot(p2.x-x, p2.y-y) < currentRad*HW*0.85) {
+          const ex = currentMap.get(`${nc},${nr}`);
+          if(!ex || ex.dist > Math.hypot(p2.x-x,p2.y-y)) currentMap.set(`${nc},${nr}`, {idx:i, angle:ang, dist: Math.hypot(p2.x-x,p2.y-y)});
+        }
+      }
+    }
+  });
+}
+
+function getPlatformHexes() {
+  if(!centerPath.length) return [];
+  const a = centerPath[Math.min(Math.floor(platT), centerPath.length-1)];
+  const out = [];
+  platformShape.cells.forEach(cell => {
+    const adjC = getAdjustedC(platformShape.baseR, a.r, cell.dr, cell.dc);
+    const r = a.r + cell.dr, c = a.c + adjC;
+    if(r>=0&&r<ROWS&&c>=0&&c<COLS) out.push({c,r, t: cell.t});
+  });
+  return out;
+}
+
+// ── Rendering ────────────────────────────────────────────────────────────────
+
+function render(t){
+  // Hard clear
+  ctx.fillStyle='#01040a'; ctx.fillRect(0,0,cv.width,cv.height);
+  ctx.save(); ctx.translate(camX, camY); ctx.scale(camZoom, camZoom);
+
+  // Draw background image scaled to the full grid footprint (behind all hexes)
+  if(bgImage){
+    const gridW = COLS * HW;
+    const gridH = ROWS * HH * 0.75 + HH * 0.25; // +0.25 row to cover the last partial row
+    ctx.drawImage(bgImage, SZ, SZ, gridW, gridH);
+  }
+
+  const colors={ 
+    wall:  document.getElementById('col-wall').value, 
+    floor: document.getElementById('col-floor').value, 
+    acc1:  document.getElementById('col-acc1').value,
+    acc2:  document.getElementById('col-acc2').value,
+    other: document.getElementById('col-other').value,
+    plat:  document.getElementById('col-plat').value,
+    curr:  document.getElementById('col-curr').value
+  };
+
+  // Read deep color once per frame
+  const baseDeep = hexToRgb(document.getElementById('col-deep').value);
+  
+  const platHexes = getPlatformHexes();
+  const platMap = new Map(platHexes.map(h => [`${h.c},${h.r}`, h.t]));
+
+  for(let r=0;r<ROWS;r++) for(let c=0;c<COLS;c++){
+    const {x,y}=hc(c,r);
+    
+    if(platMap.has(`${c},${r}`)){
+      // ── Platform ──────────────────────────────────────────
+      hexPath(x,y,SZ-0.6); 
+      ctx.fillStyle = colors.plat; ctx.fill();
+      ctx.strokeStyle='#fff'; ctx.lineWidth=0.5; ctx.stroke();
+
+    } else if(currentMap.has(`${c},${r}`) && !hideCurrent){
+      // ── River / Current ───────────────────────────────────
+      const d=currentMap.get(`${c},${r}`);
+      const phase = (t*3.5*flowDir) - (d.idx/Math.max(1,centerPath.length))*Math.PI*10;
+      const flow=Math.sin(phase)*0.25;
+      hexPath(x,y,SZ-0.6); 
+      ctx.fillStyle=colors.curr; ctx.globalAlpha = 0.5 + Math.max(0, flow); ctx.fill(); ctx.globalAlpha = 1.0;
+      ctx.save(); ctx.translate(x,y); ctx.rotate(d.angle - (flowDir<0?Math.PI:0)); 
+      ctx.strokeStyle='rgba(255,255,255,0.4)'; ctx.lineWidth=1.5;
+      const mv=((t*60*flowDir)+d.idx*12)%20; 
+      ctx.beginPath(); ctx.moveTo(-8+mv,-3); ctx.lineTo(-4+mv,0); ctx.lineTo(-8+mv,3); ctx.stroke();
+      ctx.restore();
+
+    } else if(grid[r][c]==='deep'){
+      // ── Deep / Background ─────────────────────────────────
+      if(!bgImage){
+        // No background image: draw the oscillating deep water using the custom color
+        const b = 0.5 + Math.sin(t * 1.3 + (r * COLS + c % 100) * 0.06) * 0.2;
+        hexPath(x, y, SZ - 0.6);
+        ctx.fillStyle = `rgb(${Math.round(baseDeep.r * b)}, ${Math.round(baseDeep.g * b)}, ${Math.round(baseDeep.b * b)})`;
+        ctx.fill();
+      }
+      // With a background image: deep hexes are fully transparent — the image shows through.
+
+    } else if(grid[r][c]==='outline'){
+      // ── Outline Only (traversable indicator) ──────────────
+      // No fill — whatever is beneath (image or deep) shows through.
+      hexPath(x, y, SZ - 0.6);
+      ctx.strokeStyle = 'rgba(255, 255, 255, 0.55)';
+      ctx.lineWidth = 1.5;
+      ctx.stroke();
+
+    } else {
+      // ── Standard solid terrain (wall, floor, acc1, acc2, other) ───
+      hexPath(x,y,SZ-0.6);
+      ctx.fillStyle=colors[grid[r][c]]; ctx.fill();
+      ctx.strokeStyle='rgba(0,0,0,0.3)'; ctx.lineWidth=1; ctx.stroke();
+    }
+  }
+
+  // Waypoints (Orange Dotted Rings)
+  if(!hideCurrent) {
+    waypointIndices.forEach(idx => {
+      const {x,y}=hc(centerPath[idx].c, centerPath[idx].r);
+      ctx.beginPath(); ctx.arc(x,y, SZ*0.8, 0, Math.PI*2);
+      ctx.setLineDash([2,3]); ctx.strokeStyle='rgba(212,160,48,0.9)';
+      ctx.lineWidth=1.5; ctx.save(); ctx.translate(x,y); ctx.rotate(t*1.5); ctx.translate(-x,-y); ctx.stroke(); ctx.restore(); ctx.setLineDash([]);
+    });
+  }
+
+  // Selection Overlay
+  if(tool==='select' && selectStart && selectEnd){
+    const p1=hc(selectStart.c, selectStart.r), p2=hc(selectEnd.c, selectEnd.r);
+    const x=Math.min(p1.x,p2.x)-SZ, y=Math.min(p1.y,p2.y)-SZ, w=Math.abs(p1.x-p2.x)+SZ*2, h=Math.abs(p1.y-p2.y)+SZ*2;
+    ctx.strokeStyle='#5ecfef'; ctx.lineWidth=2; ctx.strokeRect(x,y,w,h);
+    ctx.fillStyle='rgba(94,207,239,0.1)'; ctx.fillRect(x,y,w,h);
+  }
+
+  ctx.restore();
+}
+
+function loop(ts){
+  const dt=Math.min((ts-(window.lastTime||ts))/1000, 0.05); window.lastTime=ts; animT+=dt;
+  if(raftMoving && centerPath.length){
+    platT += dt * 5 * flowDir;
+    let idx = Math.floor(platT);
+    if (flowDir > 0) {
+      if(idx >= centerPath.length-1) { platT = centerPath.length-1; raftMoving=false; }
+      else if(waypointIndices.includes(idx) && (platT % 1) < 0.2) { platT = idx; raftMoving = false; }
+    } else {
+      if(idx <= 0) { platT = 0; raftMoving=false; }
+      else if(waypointIndices.includes(idx) && (platT % 1) > 0.8) { platT = Math.ceil(platT); raftMoving = false; }
+    }
+  }
+  render(animT);
+  document.getElementById('hturn').textContent = waypointIndices.indexOf(Math.floor(platT))+1;
+  document.getElementById('hturntotal').textContent = waypoints.length;
+  requestAnimationFrame(loop);
+}
+
+// ── Buffers & Interactions ───────────────────────────────────────────────────
+
+function createBuffer() {
+  if(!selectStart || !selectEnd) return null;
+  const c1=Math.min(selectStart.c,selectEnd.c), c2=Math.max(selectStart.c,selectEnd.c);
+  const r1=Math.min(selectStart.r,selectEnd.r), r2=Math.max(selectStart.r,selectEnd.r);
+  const buf = { baseR: r1, cells: [] };
+  for(let r=r1; r<=r2; r++) for(let c=c1; c<=c2; c++) {
+    if(grid[r][c] !== 'deep') buf.cells.push({dc:c-c1, dr:r-r1, type:grid[r][c]});
+  }
+  return buf;
+}
+
+window.copySelection = () => { copyBuffer = createBuffer(); document.getElementById('btnPaste').disabled = false; };
+window.storePrefab = () => { prefabBuffer = createBuffer(); document.getElementById('btnPaste1').disabled = false; };
+
+window.storePlatform = () => {
+  if(!selectStart || !selectEnd) { alert("Select an area first!"); return; }
+  const c1=Math.min(selectStart.c,selectEnd.c), c2=Math.max(selectStart.c,selectEnd.c);
+  const r1=Math.min(selectStart.r,selectEnd.r), r2=Math.max(selectStart.r,selectEnd.r);
+  const ac = Math.floor((c1+c2)/2), ar = Math.floor((r1+r2)/2);
+  let newShape = { baseR: ar, cells: [] };
+  for(let r=r1; r<=r2; r++) for(let c=c1; c<=c2; c++) {
+    if(grid[r][c] !== 'deep') newShape.cells.push({dc: c - ac, dr: r - ar, t: grid[r][c]});
+  }
+  platformShape = newShape;
+  for(let r=r1; r<=r2; r++) for(let c=c1; c<=c2; c++) grid[r][c] = 'deep';
+  tool = 'current'; document.querySelector('[data-t="current"]').click();
+};
+
+function applyPaste(h, buffer){
+  if(!buffer) return;
+  buffer.cells.forEach(cell => {
+    const adjC = getAdjustedC(buffer.baseR, h.r, cell.dr, cell.dc);
+    const nr=h.r+cell.dr, nc=h.c+adjC;
+    if(nr>=0 && nr<ROWS && nc>=0 && nc<COLS) grid[nr][nc]=cell.type;
+  });
+}
+
+cv.onmousedown=(e)=>{
+  const p = getLocalPos(e);
+  if(e.button===2 || e.button===1){ panning=true; return; }
+  const h=p2h(p.x, p.y); if(!h) return;
+  drawing=true;
+  if(tool==='current'){
+    if(!waypoints.length){ waypoints.push(h); centerPath=[h]; waypointIndices=[0]; }
+    else {
+      let line=getHexLine(waypoints[waypoints.length-1], h);
+      for(let i=1;i<line.length;i++) centerPath.push(line[i]);
+      waypoints.push(h); waypointIndices.push(centerPath.length-1);
+    }
+    rebuildCurrentField();
+  } else if(tool==='select'){ selectStart=h; selectEnd=h; }
+  else if(tool==='paste' && copyBuffer) applyPaste(h, copyBuffer);
+  else if(tool==='paste1' && prefabBuffer) applyPaste(h, prefabBuffer);
+  else { grid[h.r][h.c] = (tool==='erase'?'deep':tool); }
+};
+
+cv.onmousemove=(e)=>{
+  const p = getLocalPos(e);
+  if(panning){ camX += e.movementX; camY += e.movementY; return; }
+  const h=p2h(p.x, p.y); if(!h) return;
+  document.getElementById('hcoord').textContent=`${h.c}, ${h.r}`;
+  if(drawing){
+    if(tool==='select') selectEnd = h;
+    else if(tool!=='current' && tool!=='paste' && tool!=='paste1') grid[h.r][h.c] = (tool==='erase'?'deep':tool);
+  }
+};
+window.onmouseup=()=>{ drawing=false; panning=false; };
+
+cv.onwheel=(e)=>{
+  const oldZoom = camZoom;
+  camZoom *= (e.deltaY > 0 ? 0.9 : 1.1);
+  camZoom = Math.min(Math.max(0.1, camZoom), 5);
+  camX -= (e.clientX - camX) * (camZoom / oldZoom - 1);
+  camY -= (e.clientY - camY) * (camZoom / oldZoom - 1);
+};
+
+window.clearCurrents=()=>{ centerPath=[]; waypoints=[]; waypointIndices=[]; currentMap.clear(); platT=0; raftMoving=false; };
+
+// UI Tool Switcher
+document.querySelectorAll('[data-t]').forEach(b => b.addEventListener('click', () => {
+  document.querySelectorAll('[data-t]').forEach(x=>x.classList.remove('active'));
+  b.classList.add('active'); tool=b.dataset.t;
+}));
+
+// ── Export / Import ──────────────────────────────────────────────────────────
+
+function getColors() {
+  return {
+    wall:  document.getElementById('col-wall').value, 
+    floor: document.getElementById('col-floor').value, 
+    acc1:  document.getElementById('col-acc1').value,
+    acc2:  document.getElementById('col-acc2').value,
+    other: document.getElementById('col-other').value,
+    plat:  document.getElementById('col-plat').value,
+    curr:  document.getElementById('col-curr').value,
+    deep:  document.getElementById('col-deep').value
+  };
+}
+
+function exportPlayerHTML(){
+  const data = {
+    COLS, ROWS, grid, centerPath, waypoints, waypointIndices,
+    platformShape, currentRad, cols: getColors(),
+    bgImageSrc: bgImage ? bgImage.src : null   // base64 data URL or null
+  };
+  
+  const template = `<!DOCTYPE html><html><head><title>Sanctum Session</title>
+  <style>body{margin:0;background:#030810;overflow:hidden;}canvas{display:block;width:100vw;height:100vh;cursor:grab;}canvas:active{cursor:grabbing;}</style>
+  </head><body oncontextmenu="return false;"><canvas id="cv"></canvas>
+  <script>
+  const D=${JSON.stringify(data)};
+  let camX=0,camY=0,camZoom=1,platT=0,animT=0,raftMoving=false,lastTime=0,flowDir=1,hideCurrent=false;
+  const SZ=12,HW=SZ*Math.sqrt(3),HH=SZ*2,cv=document.getElementById('cv'),ctx=cv.getContext('2d');
+  function resize(){cv.width=window.innerWidth;cv.height=window.innerHeight;} window.onresize=resize; resize();
+  function hc(c,r){return {x:c*HW+(r%2?HW/2:0)+SZ,y:r*HH*0.75+SZ};}
+  function hexP(cx,cy,sz){ctx.beginPath();for(let i=0;i<6;i++){const a=Math.PI/180*(60*i-30);ctx[i===0?'moveTo':'lineTo'](cx+sz*Math.cos(a),cy+sz*Math.sin(a));}ctx.closePath();}
+  function getAdjC(bR,tR,dr,dc){const pD=(Math.abs(tR)%2)-(Math.abs(bR)%2);let aC=dc;if(dr%2!==0&&pD!==0)aC+=(Math.abs(tR)%2===0)?-1:1;return aC;}
+  function hexToRgb(hex){const b=parseInt(hex.replace('#',''),16);return{r:(b>>16)&255,g:(b>>8)&255,b:b&255};}
+
+  // Restore background image if present
+  let bgImage=null;
+  if(D.bgImageSrc){const img=new Image();img.onload=()=>{bgImage=img;};img.src=D.bgImageSrc;}
+
+  const curMap=new Map();
+  D.centerPath.forEach((pt,i)=>{
+    let n=D.centerPath[i+1],p=D.centerPath[i-1],ang=Math.PI/2;
+    if(n&&p)ang=Math.atan2(hc(n.c,n.r).y-hc(p.c,p.r).y,hc(n.c,n.r).x-hc(p.c,p.r).x);
+    else if(n)ang=Math.atan2(hc(n.c,n.r).y-hc(pt.c,pt.r).y,hc(n.c,n.r).x-hc(pt.c,pt.r).x);
+    else if(p)ang=Math.atan2(hc(pt.c,pt.r).y-hc(p.c,p.r).y,hc(pt.c,pt.r).x-hc(p.c,p.r).x);
+    const{x,y}=hc(pt.c,pt.r);
+    for(let dr=-D.currentRad;dr<=D.currentRad;dr++)for(let dc=-D.currentRad;dc<=D.currentRad;dc++){
+      const nr=pt.r+dr,nc=pt.c+dc;if(nr>=0&&nr<D.ROWS&&nc>=0&&nc<D.COLS){
+        const p2=hc(nc,nr);if(Math.hypot(p2.x-x,p2.y-y)<D.currentRad*HW*0.85){
+          const ex=curMap.get(\`\${nc},\${nr}\`);
+          if(!ex||ex.dist>Math.hypot(p2.x-x,p2.y-y))curMap.set(\`\${nc},\${nr}\`,{idx:i,angle:ang,dist:Math.hypot(p2.x-x,p2.y-y)});
+        }
+      }
+    }
+  });
+
+  function loop(ts){
+    const dt=Math.min((ts-(lastTime||ts))/1000,0.05);lastTime=ts;animT+=dt;
+    if(raftMoving&&D.centerPath.length){
+      platT+=dt*5*flowDir;let idx=Math.floor(platT);
+      if(flowDir>0){if(idx>=D.centerPath.length-1){platT=D.centerPath.length-1;raftMoving=false;}else if(D.waypointIndices.includes(idx)&&(platT%1)<0.2){platT=idx;raftMoving=false;}}
+      else{if(idx<=0){platT=0;raftMoving=false;}else if(D.waypointIndices.includes(idx)&&(platT%1)>0.8){platT=Math.ceil(platT);raftMoving=false;}}
+    }
+
+    ctx.fillStyle='#01040a';ctx.fillRect(0,0,cv.width,cv.height);
+    ctx.save();ctx.translate(camX,camY);ctx.scale(camZoom,camZoom);
+
+    // Background image
+    if(bgImage){const gW=D.COLS*HW,gH=D.ROWS*HH*0.75+HH*0.25;ctx.drawImage(bgImage,SZ,SZ,gW,gH);}
+
+    const baseDeep=hexToRgb(D.cols.deep||'#0a1f50');
+    const pA=D.centerPath[Math.min(Math.floor(platT),D.centerPath.length-1)];
+    const pSet=new Map();
+    if(pA)D.platformShape.cells.forEach(c=>{const aC=getAdjC(D.platformShape.baseR,pA.r,c.dr,c.dc);const r=pA.r+c.dr,col=pA.c+aC;if(r>=0&&r<D.ROWS&&col>=0&&col<D.COLS)pSet.set(\`\${col},\${r}\`,c.t);});
+
+    for(let r=0;r<D.ROWS;r++)for(let c=0;c<D.COLS;c++){
+      const{x,y}=hc(c,r);
+      if(pSet.has(\`\${c},\${r}\`)){
+        hexP(x,y,SZ-0.6);ctx.fillStyle=D.cols.plat;ctx.fill();ctx.strokeStyle='#fff';ctx.lineWidth=0.5;ctx.stroke();
+      }else if(curMap.has(\`\${c},\${r}\`)&&!hideCurrent){
+        const d=curMap.get(\`\${c},\${r}\`),f=Math.sin((animT*3.5*flowDir)-d.idx/Math.max(1,D.centerPath.length)*Math.PI*10)*0.25;
+        hexP(x,y,SZ-0.6);ctx.fillStyle=D.cols.curr;ctx.globalAlpha=0.5+Math.max(0,f);ctx.fill();ctx.globalAlpha=1;
+        ctx.save();ctx.translate(x,y);ctx.rotate(d.angle-(flowDir<0?Math.PI:0));ctx.strokeStyle='rgba(255,255,255,0.4)';ctx.lineWidth=1.5;
+        const mv=((animT*60*flowDir)+d.idx*12)%20;ctx.beginPath();ctx.moveTo(-8+mv,-3);ctx.lineTo(-4+mv,0);ctx.lineTo(-8+mv,3);ctx.stroke();ctx.restore();
+      }else if(D.grid[r][c]==='deep'){
+        if(!bgImage){
+          const b=0.5+Math.sin(animT*1.3+(r*D.COLS+c%100)*0.06)*0.2;
+          hexP(x,y,SZ-0.6);
+          ctx.fillStyle=\`rgb(\${Math.round(baseDeep.r*b)},\${Math.round(baseDeep.g*b)},\${Math.round(baseDeep.b*b)})\`;
+          ctx.fill();
+        }
+      }else if(D.grid[r][c]==='outline'){
+        hexP(x,y,SZ-0.6);ctx.strokeStyle='rgba(255,255,255,0.55)';ctx.lineWidth=1.5;ctx.stroke();
+      }else{
+        hexP(x,y,SZ-0.6);ctx.fillStyle=D.cols[D.grid[r][c]];ctx.fill();ctx.strokeStyle='rgba(0,0,0,0.3)';ctx.lineWidth=1;ctx.stroke();
+      }
+    }
+
+    if(!hideCurrent){D.waypointIndices.forEach(idx=>{const{x,y}=hc(D.centerPath[idx].c,D.centerPath[idx].r);ctx.beginPath();ctx.arc(x,y,SZ*0.8,0,Math.PI*2);ctx.setLineDash([2,3]);ctx.strokeStyle='rgba(212,160,48,0.9)';ctx.lineWidth=1.5;ctx.save();ctx.translate(x,y);ctx.rotate(animT*1.5);ctx.translate(-x,-y);ctx.stroke();ctx.restore();ctx.setLineDash([]);});}
+    ctx.restore();requestAnimationFrame(loop);
+  }
+
+  let pan=false;cv.onmousedown=()=>pan=true;window.onmouseup=()=>pan=false;
+  cv.onmousemove=(e)=>{if(pan){camX+=e.movementX;camY+=e.movementY;}};
+  cv.onwheel=(e)=>{const o=camZoom;camZoom*=e.deltaY>0?0.9:1.1;camZoom=Math.min(Math.max(0.1,camZoom),5);camX-=(e.clientX-camX)*(camZoom/o-1);camY-=(e.clientY-camY)*(camZoom/o-1);};
+
+  window.onkeydown=(e)=>{
+    if(e.key==='Enter'||e.key==='a'||e.key==='A'){if(!raftMoving&&D.centerPath.length>0){platT+=0.2*flowDir;raftMoving=true;}}
+    if(e.key==='r'||e.key==='R'){camX=0;camY=0;camZoom=1;}
+    if(e.key==='v'||e.key==='V'){flowDir*=-1;}
+    if(e.key==='h'||e.key==='H'){hideCurrent=!hideCurrent;}
+    if(e.code.startsWith('Digit')){let n=parseInt(e.key)-1;if(D.waypointIndices[n]!==undefined){platT=D.waypointIndices[n];raftMoving=false;}}
+  };
+  loop(0);
+  <\/script></body></html>`;
+  
+  const blob = new Blob([template], {type: 'text/html'});
+  const link = document.createElement('a'); link.href = URL.createObjectURL(blob); link.download = 'sanctum_map.html'; link.click();
+}
+
+function importMap(e) {
+  const file = e.target.files[0]; if(!file) return;
+  const reader = new FileReader();
+  reader.onload = (e) => {
+    const match = e.target.result.match(/const D=({.*?});/s);
+    if (match) {
+      const data = JSON.parse(match[1]);
+      grid = data.grid; COLS = data.COLS; ROWS = data.ROWS;
+      document.getElementById('inp-cols').value = COLS;
+      document.getElementById('inp-rows').value = ROWS;
+      platformShape = data.platformShape || platformShape;
+      currentRad = data.currentRad || 5;
+      document.getElementById('sel-rad').value = currentRad;
+      if (data.cols) {
+        document.getElementById('col-wall').value  = data.cols.wall;
+        document.getElementById('col-floor').value = data.cols.floor;
+        document.getElementById('col-acc1').value  = data.cols.acc1;
+        document.getElementById('col-acc2').value  = data.cols.acc2;
+        document.getElementById('col-other').value = data.cols.other;
+        document.getElementById('col-plat').value  = data.cols.plat;
+        document.getElementById('col-curr').value  = data.cols.curr;
+        if(data.cols.deep) document.getElementById('col-deep').value = data.cols.deep;
+      }
+      // Restore background image if the exported map had one
+      if(data.bgImageSrc){
+        const img = new Image();
+        img.onload = () => { bgImage = img; document.getElementById('btnClearBG').style.display = ''; };
+        img.src = data.bgImageSrc;
+      } else {
+        bgImage = null;
+        document.getElementById('btnClearBG').style.display = 'none';
+      }
+      clearCurrents(); camX = 0; camY = 0; camZoom = 1.0;
+      alert("Map loaded successfully.");
+    }
+  }; reader.readAsText(file);
+}
+
+initGrid(); requestAnimationFrame(loop);
+</script>
+</body>
+</html>
