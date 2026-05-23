@@ -4,20 +4,20 @@ created: 2023-04-27
 updated: 2023-04-28
 tags:
   - spell_psychic_1
-  - spell_cleric
   - spell_adept_1
-  - spell_mesmerist
+  - spell_cleric
   - spell
+  - spell_mesmerist
   - spell_medium
   - spell_antipaladin_1
-  - spell_inquisitor_1
   - spell_warpriest_1
+  - spell_inquisitor_1
   - spell_medium_1
-  - spell_cleric_1
   - spell_adept
+  - spell_cleric_1
   - spell_oracle_1
-  - spell_warpriest
   - spell_inquisitor
+  - spell_warpriest
   - spell_mesmerist_1
   - spell_oracle
   - spell_psychic

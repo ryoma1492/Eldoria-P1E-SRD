@@ -16,8 +16,8 @@ tags:
   - spell_psychic
   - spell_sorcerer_4
   - spell_psychic_4
-  - spell_occultist
   - spell_arcanist_4
+  - spell_occultist
   - spell_bard_4
   - spell_arcanist
 ---

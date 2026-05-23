@@ -3,36 +3,36 @@ aliases: [Liberating Command]
 created: 2023-04-27
 updated: 2023-04-28
 tags:
-  - spell_paladin
   - spell_psychic_1
-  - spell_druid_1
+  - spell_paladin
   - spell_cleric
+  - spell_druid_1
   - spell_arcanist_1
   - spell_sorcerer
   - spell
-  - spell_paladin_1
   - spell_medium
+  - spell_paladin_1
   - spell_redmantisassassin
   - spell_bard
-  - spell_ranger_1
   - spell_warpriest_1
+  - spell_ranger_1
   - spell_bard_1
   - spell_skald_1
   - spell_redmantisassassin_1
   - spell_medium_1
-  - spell_cleric_1
   - spell_druid
+  - spell_cleric_1
   - spell_skald
   - spell_oracle_1
-  - spell_warpriest
   - spell_ranger
+  - spell_warpriest
   - spell_oracle
   - spell_psychic
-  - spell_occultist_1
   - spell_hunter
+  - spell_occultist_1
   - spell_sorcerer_1
-  - spell_occultist
   - spell_hunter_1
+  - spell_occultist
   - spell_arcanist
 ---
 

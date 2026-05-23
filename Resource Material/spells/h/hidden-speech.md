@@ -5,8 +5,8 @@ updated: 2023-04-28
 tags:
   - spell_inquisitor_3
   - spell_psychic_2
-  - spell
   - spell_mesmerist
+  - spell
   - spell_medium
   - spell_bard
   - spell_skald

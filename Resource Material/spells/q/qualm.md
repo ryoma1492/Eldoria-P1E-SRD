@@ -5,18 +5,18 @@ updated: 2023-04-28
 tags:
   - spell_sorcerer
   - spell_psychic_2
-  - spell
   - spell_mesmerist
+  - spell
   - spell_sorcerer_2
-  - spell_witch
   - spell_medium
+  - spell_witch
   - spell_bard
   - spell_arcanist_2
   - spell_skald
   - spell_bard_2
   - spell_inquisitor
-  - spell_witch_2
   - spell_medium_2
+  - spell_witch_2
   - spell_inquisitor_2
   - spell_mesmerist_2
   - spell_psychic

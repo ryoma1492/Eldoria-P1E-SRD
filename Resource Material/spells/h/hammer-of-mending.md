@@ -6,14 +6,14 @@ tags:
   - spell_cleric
   - spell_cleric_6
   - spell_summoner_5
-  - spell_sorcerer_5
   - spell_sorcerer
+  - spell_sorcerer_5
   - spell
   - spell_arcanist_5
   - spell_oracle_6
   - spell_warpriest
-  - spell_summoner_unchained_5
   - spell_oracle
+  - spell_summoner_unchained_5
   - spell_summoner
   - spell_summoner_unchained
   - spell_warpriest_6

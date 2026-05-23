@@ -16,16 +16,16 @@ tags:
   - spell_inquisitor
   - spell_investigator_2
   - spell_investigator
-  - spell_inquisitor_2
   - spell_alchemist
-  - spell_summoner
+  - spell_inquisitor_2
   - spell_skald_2
+  - spell_summoner
   - spell_magus_2
   - spell_summoner_unchained_2
   - spell_summoner_unchained
   - spell_antipaladin
-  - spell_summoner_2
   - spell_arcanist
+  - spell_summoner_2
 ---
 
 ## Hidden Blades

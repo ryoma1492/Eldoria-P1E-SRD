@@ -12,15 +12,15 @@ tags:
   - spell_ranger_1
   - spell_druid
   - spell_magus
-  - spell_ranger
   - spell_inquisitor
+  - spell_ranger
   - spell_inquisitor_2
   - spell_druid_2
   - spell_occultist_2
   - spell_magus_2
   - spell_hunter
-  - spell_occultist
   - spell_hunter_1
+  - spell_occultist
   - spell_antipaladin
 ---
 

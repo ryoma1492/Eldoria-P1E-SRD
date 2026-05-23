@@ -9,16 +9,16 @@ tags:
   - spell_paladin_1
   - spell_shaman
   - spell_bard
-  - spell_inquisitor_1
   - spell_warpriest_1
+  - spell_inquisitor_1
   - spell_bard_1
   - spell_skald_1
   - spell_shaman_1
   - spell_cleric_1
   - spell_skald
   - spell_oracle_1
-  - spell_warpriest
   - spell_inquisitor
+  - spell_warpriest
   - spell_oracle
 ---
 

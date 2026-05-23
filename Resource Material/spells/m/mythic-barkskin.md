@@ -11,8 +11,8 @@ tags:
   - spell_ranger
   - spell_investigator_2
   - spell_investigator
-  - spell_ranger_2
   - spell_alchemist
+  - spell_ranger_2
   - spell_druid_2
   - spell_summoner
   - spell_hunter_2

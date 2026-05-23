@@ -6,8 +6,8 @@ tags:
   - spell_arcanist_1
   - spell_sorcerer
   - spell
-  - spell_antipaladin_1
   - spell_bard
+  - spell_antipaladin_1
   - spell_alchemist_1
   - spell_investigator_1
   - spell_inquisitor_1

@@ -6,14 +6,14 @@ tags:
   - spell_skald_4
   - spell_cleric
   - spell_summoner_unchained_4
-  - spell_sorcerer
   - spell_sorcerer_5
+  - spell_sorcerer
   - spell
   - spell_psychic_5
   - spell_magus_4
   - spell_arcanist_5
-  - spell_medium
   - spell_witch
+  - spell_medium
   - spell_bard
   - spell_cleric_5
   - spell_oracle_5
@@ -21,17 +21,17 @@ tags:
   - spell_druid
   - spell_skald
   - spell_magus
-  - spell_warpriest
   - spell_warpriest_5
+  - spell_warpriest
   - spell_medium_2
   - spell_witch_5
-  - spell_oracle
   - spell_hunter_5
+  - spell_oracle
   - spell_psychic
   - spell_summoner
   - spell_druid_5
-  - spell_summoner_unchained
   - spell_hunter
+  - spell_summoner_unchained
   - spell_bard_4
   - spell_arcanist
 ---

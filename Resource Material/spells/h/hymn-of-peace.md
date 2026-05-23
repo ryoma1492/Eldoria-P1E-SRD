@@ -7,8 +7,8 @@ tags:
   - spell
   - spell_bard
   - spell_bard_6
-  - spell_cleric_7
   - spell_oracle
+  - spell_cleric_7
   - spell_oracle_7
 ---
 

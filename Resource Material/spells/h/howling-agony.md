@@ -6,8 +6,8 @@ tags:
   - spell_bloodrager
   - spell_sorcerer
   - spell_psychic_2
-  - spell
   - spell_mesmerist
+  - spell
   - spell_witch
   - spell_sorcerer_3
   - spell_bloodrager_3

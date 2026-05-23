@@ -8,8 +8,8 @@ tags:
   - spell_redmantisassassin
   - spell_sorcerer_4
   - spell_arcanist_4
-  - spell_arcanist
   - spell_redmantisassassin_4
+  - spell_arcanist
 ---
 
 ## Mythic Imbue with Flight

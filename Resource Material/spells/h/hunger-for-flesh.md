@@ -7,8 +7,8 @@ tags:
   - spell_sorcerer
   - spell
   - spell_witch
-  - spell_warpriest_4
   - spell_shaman
+  - spell_warpriest_4
   - spell_witch_4
   - spell_warpriest
   - spell_cleric_4
@@ -20,10 +20,10 @@ tags:
   - spell_spiritualist_4
   - spell_psychic_4
   - spell_arcanist_4
-  - spell_spiritualist
   - spell_antipaladin
-  - spell_shaman_4
+  - spell_spiritualist
   - spell_arcanist
+  - spell_shaman_4
 ---
 
 ## Hunger for Flesh

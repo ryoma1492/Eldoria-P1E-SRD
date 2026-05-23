@@ -5,8 +5,8 @@ updated: 2023-04-28
 tags:
   - spell_occultist_5
   - spell_sorcerer
-  - spell_mesmerist
   - spell
+  - spell_mesmerist
   - spell_alchemist_6
   - spell_spiritualist_6
   - spell_bard_5

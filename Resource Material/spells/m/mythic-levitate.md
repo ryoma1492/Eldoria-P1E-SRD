@@ -6,34 +6,34 @@ tags:
   - spell_alchemist_2
   - spell_sorcerer
   - spell_psychic_2
-  - spell_mesmerist
   - spell
+  - spell_mesmerist
   - spell_sorcerer_2
-  - spell_witch
   - spell_medium
-  - spell_shaman
+  - spell_witch
   - spell_redmantisassassin
+  - spell_shaman
   - spell_arcanist_2
-  - spell_redmantisassassin_2
   - spell_shaman_2
+  - spell_redmantisassassin_2
   - spell_spiritualist_2
   - spell_magus
-  - spell_medium_2
   - spell_witch_2
+  - spell_medium_2
   - spell_investigator_2
   - spell_investigator
   - spell_alchemist
   - spell_mesmerist_2
-  - spell_psychic
   - spell_occultist_2
+  - spell_psychic
   - spell_summoner
   - spell_magus_2
   - spell_summoner_unchained_2
   - spell_summoner_unchained
   - spell_occultist
   - spell_spiritualist
-  - spell_arcanist
   - spell_summoner_2
+  - spell_arcanist
 ---
 
 ## Mythic Levitate

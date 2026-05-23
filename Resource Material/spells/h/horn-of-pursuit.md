@@ -7,11 +7,11 @@ tags:
   - spell
   - spell_paladin_1
   - spell_bard
-  - spell_inquisitor_1
   - spell_ranger_1
+  - spell_inquisitor_1
   - spell_bard_1
-  - spell_inquisitor
   - spell_ranger
+  - spell_inquisitor
   - spell_hunter
   - spell_hunter_1
 ---

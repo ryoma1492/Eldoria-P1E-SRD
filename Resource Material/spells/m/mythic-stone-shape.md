@@ -9,21 +9,21 @@ tags:
   - spell_sorcerer
   - spell
   - spell_oracle_3
-  - spell_redmantisassassin
   - spell_shaman
+  - spell_redmantisassassin
   - spell_druid_3
   - spell_occultist_3
-  - spell_hunter_3
   - spell_druid
+  - spell_hunter_3
   - spell_warpriest
   - spell_oracle
   - spell_sorcerer_4
   - spell_hunter
-  - spell_cleric_3
-  - spell_occultist
   - spell_arcanist_4
-  - spell_arcanist
+  - spell_occultist
+  - spell_cleric_3
   - spell_redmantisassassin_4
+  - spell_arcanist
 ---
 
 ## Mythic Stone Shape

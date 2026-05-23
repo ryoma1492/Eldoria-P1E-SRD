@@ -3,8 +3,8 @@ aliases: [Healing Leak]
 created: 2023-04-27
 updated: 2023-04-28
 tags:
-  - spell_warpriest_3
   - spell_paladin
+  - spell_warpriest_3
   - spell_cleric
   - spell_shaman_3
   - spell

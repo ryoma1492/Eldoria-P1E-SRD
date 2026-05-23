@@ -5,8 +5,8 @@ updated: 2023-04-28
 tags:
   - spell_sorcerer
   - spell
-  - spell_bard_5
   - spell_witch
+  - spell_bard_5
   - spell_skald_5
   - spell_bard
   - spell_sorcerer_6

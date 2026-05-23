@@ -4,14 +4,14 @@ created: 2023-04-27
 updated: 2023-04-28
 tags:
   - spell_skald_4
-  - spell_sorcerer_5
   - spell_sorcerer
-  - spell
+  - spell_sorcerer_5
   - spell_mesmerist
+  - spell
   - spell_psychic_5
   - spell_arcanist_5
-  - spell_witch
   - spell_medium
+  - spell_witch
   - spell_inquisitor_4
   - spell_bard
   - spell_occultist_4

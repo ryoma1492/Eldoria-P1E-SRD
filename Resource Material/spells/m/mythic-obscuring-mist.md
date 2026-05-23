@@ -3,33 +3,33 @@ aliases: [Mythic Obscuring Mist]
 created: 2023-04-27
 updated: 2023-04-28
 tags:
-  - spell_druid_1
-  - spell_cleric
   - spell_adept_1
+  - spell_cleric
+  - spell_druid_1
   - spell_arcanist_1
   - spell_sorcerer
-  - spell_mesmerist
   - spell
+  - spell_mesmerist
   - spell_witch
   - spell_shaman
   - spell_spiritualist_1
   - spell_warpriest_1
   - spell_shaman_1
   - spell_witch_1
-  - spell_cleric_1
-  - spell_adept
   - spell_druid
+  - spell_adept
+  - spell_cleric_1
   - spell_oracle_1
   - spell_magus
   - spell_warpriest
   - spell_mesmerist_1
   - spell_magus_1
   - spell_oracle
-  - spell_summoner_unchained
   - spell_hunter
+  - spell_summoner_unchained
   - spell_sorcerer_1
-  - spell_summoner_unchained_1
   - spell_hunter_1
+  - spell_summoner_unchained_1
   - spell_spiritualist
   - spell_arcanist
 ---

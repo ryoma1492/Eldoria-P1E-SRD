@@ -11,8 +11,8 @@ tags:
   - spell_redmantisassassin
   - spell_druid_3
   - spell_sorcerer_3
-  - spell_hunter_3
   - spell_druid
+  - spell_hunter_3
   - spell_bloodrager_3
   - spell_ranger
   - spell_arcanist_3

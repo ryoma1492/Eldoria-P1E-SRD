@@ -11,11 +11,11 @@ tags:
   - spell_bard_6
   - spell_skald
   - spell_skald_6
-  - spell_psychic_7
   - spell_inquisitor
+  - spell_psychic_7
   - spell_sorcerer_7
-  - spell_cleric_7
   - spell_oracle
+  - spell_cleric_7
   - spell_psychic
   - spell_witch_6
   - spell_arcanist_7

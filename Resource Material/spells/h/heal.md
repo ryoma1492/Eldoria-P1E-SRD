@@ -7,25 +7,25 @@ tags:
   - spell_cleric_6
   - spell
   - spell_alchemist_6
-  - spell_druid_7
   - spell_spiritualist_6
+  - spell_druid_7
   - spell_oracle_6
   - spell_shaman_7
   - spell_shaman
   - spell_investigator_6
-  - spell_adept
   - spell_druid
-  - spell_warpriest
+  - spell_adept
   - spell_inquisitor
+  - spell_warpriest
   - spell_investigator
   - spell_alchemist
   - spell_oracle
   - spell_adept_5
-  - spell_inquisitor_6
   - spell_warpriest_6
+  - spell_inquisitor_6
   - spell_occultist
-  - spell_spiritualist
   - spell_occultist_6
+  - spell_spiritualist
 ---
 
 ## Heal

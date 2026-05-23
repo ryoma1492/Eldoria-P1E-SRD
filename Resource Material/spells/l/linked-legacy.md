@@ -6,17 +6,17 @@ tags:
   - spell_psychic_1
   - spell_arcanist_1
   - spell_sorcerer
-  - spell
   - spell_mesmerist
-  - spell_witch
+  - spell
   - spell_medium
+  - spell_witch
   - spell_shaman
   - spell_bard
   - spell_bard_1
   - spell_skald_1
   - spell_shaman_1
-  - spell_medium_1
   - spell_witch_1
+  - spell_medium_1
   - spell_skald
   - spell_mesmerist_1
   - spell_psychic

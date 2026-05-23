@@ -5,14 +5,14 @@ updated: 2023-04-28
 tags:
   - spell_ranger_3
   - spell_mesmerist_3
-  - spell
   - spell_mesmerist
+  - spell
   - spell_bard
   - spell_psychic_3
   - spell_druid_3
   - spell_occultist_3
-  - spell_hunter_3
   - spell_druid
+  - spell_hunter_3
   - spell_ranger
   - spell_psychic
   - spell_bard_3

@@ -6,8 +6,8 @@ tags:
   - spell_bloodrager
   - spell_skald_3
   - spell_redmantisassassin_3
-  - spell_sorcerer
   - spell_magus_3
+  - spell_sorcerer
   - spell
   - spell_medium
   - spell_redmantisassassin
@@ -17,8 +17,8 @@ tags:
   - spell_sorcerer_3
   - spell_summoner_unchained_3
   - spell_skald
-  - spell_bloodrager_3
   - spell_magus
+  - spell_bloodrager_3
   - spell_medium_2
   - spell_arcanist_3
   - spell_spiritualist_3
@@ -28,8 +28,8 @@ tags:
   - spell_summoner_unchained
   - spell_occultist
   - spell_spiritualist
-  - spell_summoner_2
   - spell_arcanist
+  - spell_summoner_2
 ---
 
 ## Mythic Slow

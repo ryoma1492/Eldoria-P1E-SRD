@@ -6,8 +6,8 @@ tags:
   - spell_psychic_1
   - spell_arcanist_1
   - spell_sorcerer
-  - spell
   - spell_mesmerist
+  - spell
   - spell_witch
   - spell_bard
   - spell_inquisitor_1

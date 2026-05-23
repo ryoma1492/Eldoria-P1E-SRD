@@ -19,21 +19,21 @@ tags:
   - spell_druid
   - spell_skald
   - spell_bard_2
-  - spell_ranger
   - spell_warpriest
+  - spell_ranger
   - spell_witch_2
   - spell_warpriest_2
   - spell_druid_2
   - spell_oracle
   - spell_psychic
-  - spell_summoner
   - spell_skald_2
+  - spell_summoner
   - spell_summoner_unchained_2
-  - spell_summoner_unchained
   - spell_hunter
+  - spell_summoner_unchained
   - spell_hunter_1
-  - spell_summoner_2
   - spell_arcanist
+  - spell_summoner_2
 ---
 
 ## Locate Portal

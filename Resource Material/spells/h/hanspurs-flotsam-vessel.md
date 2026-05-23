@@ -14,10 +14,10 @@ tags:
   - spell_druid_2
   - spell_oracle
   - spell_summoner
-  - spell_summoner_unchained
   - spell_hunter
-  - spell_hunter_1
+  - spell_summoner_unchained
   - spell_summoner_unchained_1
+  - spell_hunter_1
 ---
 
 ## Hanspur's Flotsam Vessel

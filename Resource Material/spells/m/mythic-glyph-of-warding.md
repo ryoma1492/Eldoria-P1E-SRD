@@ -3,13 +3,13 @@ aliases: [Mythic Glyph of Warding]
 created: 2023-04-27
 updated: 2023-04-28
 tags:
-  - spell_warpriest_3
   - spell_inquisitor_3
+  - spell_warpriest_3
   - spell_cleric
   - spell
   - spell_oracle_3
-  - spell_inquisitor
   - spell_warpriest
+  - spell_inquisitor
   - spell_oracle
   - spell_cleric_3
 ---

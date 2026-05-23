@@ -6,10 +6,10 @@ tags:
   - spell_skald_4
   - spell_summoner_unchained_4
   - spell_sorcerer
-  - spell
   - spell_mesmerist
-  - spell_witch
+  - spell
   - spell_medium
+  - spell_witch
   - spell_bard
   - spell_occultist_4
   - spell_witch_4
@@ -23,8 +23,8 @@ tags:
   - spell_summoner_unchained
   - spell_psychic_4
   - spell_medium_3
-  - spell_occultist
   - spell_arcanist_4
+  - spell_occultist
   - spell_spiritualist
   - spell_bard_4
   - spell_arcanist

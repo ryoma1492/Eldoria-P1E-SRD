@@ -6,8 +6,8 @@ tags:
   - spell_mesmerist_3
   - spell_redmantisassassin_3
   - spell_sorcerer
-  - spell_mesmerist
   - spell
+  - spell_mesmerist
   - spell_witch
   - spell_redmantisassassin
   - spell_psychic_3

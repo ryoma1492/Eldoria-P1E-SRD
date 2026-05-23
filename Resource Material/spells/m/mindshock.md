@@ -10,16 +10,16 @@ tags:
   - spell_bloodrager_2
   - spell_shaman
   - spell_shaman_2
-  - spell_spiritualist_2
   - spell_antipaladin_2
+  - spell_spiritualist_2
   - spell_inquisitor
   - spell_medium_2
   - spell_inquisitor_2
-  - spell_psychic
   - spell_occultist_2
+  - spell_psychic
   - spell_occultist
-  - spell_spiritualist
   - spell_antipaladin
+  - spell_spiritualist
 ---
 
 ## Mindshock

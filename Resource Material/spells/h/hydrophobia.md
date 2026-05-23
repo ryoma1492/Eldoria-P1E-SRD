@@ -12,8 +12,8 @@ tags:
   - spell_bard
   - spell_druid_3
   - spell_sorcerer_3
-  - spell_hunter_3
   - spell_druid
+  - spell_hunter_3
   - spell_skald
   - spell_bard_2
   - spell_warpriest

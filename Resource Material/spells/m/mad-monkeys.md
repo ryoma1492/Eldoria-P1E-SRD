@@ -9,16 +9,16 @@ tags:
   - spell_bard
   - spell_druid_3
   - spell_sorcerer_3
-  - spell_hunter_3
-  - spell_summoner_unchained_3
   - spell_druid
+  - spell_summoner_unchained_3
+  - spell_hunter_3
   - spell_skald
   - spell_arcanist_3
   - spell_summoner_3
   - spell_summoner
   - spell_bard_3
-  - spell_summoner_unchained
   - spell_hunter
+  - spell_summoner_unchained
   - spell_arcanist
 ---
 

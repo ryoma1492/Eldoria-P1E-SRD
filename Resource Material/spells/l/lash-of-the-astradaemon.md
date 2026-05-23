@@ -7,8 +7,8 @@ tags:
   - spell_cleric_6
   - spell_sorcerer
   - spell
-  - spell_witch
   - spell_oracle_6
+  - spell_witch
   - spell_sorcerer_6
   - spell_magus_5
   - spell_arcanist_6

@@ -5,8 +5,8 @@ updated: 2023-04-28
 tags:
   - spell_skald_4
   - spell_sorcerer
-  - spell_mesmerist
   - spell
+  - spell_mesmerist
   - spell_witch
   - spell_inquisitor_4
   - spell_bard

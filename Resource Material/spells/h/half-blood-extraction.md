@@ -4,8 +4,8 @@ created: 2023-04-27
 updated: 2023-04-28
 tags:
   - spell_cleric
-  - spell_sorcerer_5
   - spell_sorcerer
+  - spell_sorcerer_5
   - spell
   - spell_investigator_5
   - spell_psychic_5
@@ -13,15 +13,15 @@ tags:
   - spell_witch
   - spell_cleric_5
   - spell_oracle_5
-  - spell_druid
   - spell_alchemist_5
-  - spell_warpriest
+  - spell_druid
   - spell_warpriest_5
+  - spell_warpriest
   - spell_investigator
   - spell_witch_5
   - spell_alchemist
-  - spell_oracle
   - spell_hunter_5
+  - spell_oracle
   - spell_psychic
   - spell_druid_5
   - spell_hunter

@@ -5,8 +5,8 @@ updated: 2023-04-28
 tags:
   - spell_mesmerist_3
   - spell_sorcerer
-  - spell
   - spell_mesmerist
+  - spell
   - spell_witch
   - spell_psychic_3
   - spell_sorcerer_3

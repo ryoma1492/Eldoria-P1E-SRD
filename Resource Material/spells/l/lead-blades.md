@@ -4,10 +4,10 @@ created: 2023-04-27
 updated: 2023-04-28
 tags:
   - spell
-  - spell_hunter
   - spell_occultist_1
-  - spell_occultist
+  - spell_hunter
   - spell_hunter_1
+  - spell_occultist
 ---
 
 ## Lead Blades

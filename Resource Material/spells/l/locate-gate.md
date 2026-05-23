@@ -6,8 +6,8 @@ tags:
   - spell_cleric
   - spell_occultist_5
   - spell_summoner_5
-  - spell_sorcerer_5
   - spell_sorcerer
+  - spell_sorcerer_5
   - spell
   - spell_psychic_5
   - spell_arcanist_5
@@ -17,10 +17,10 @@ tags:
   - spell_cleric_5
   - spell_oracle_5
   - spell_skald
-  - spell_warpriest
   - spell_warpriest_5
-  - spell_summoner_unchained_5
+  - spell_warpriest
   - spell_oracle
+  - spell_summoner_unchained_5
   - spell_psychic
   - spell_summoner
   - spell_summoner_unchained

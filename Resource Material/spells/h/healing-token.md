@@ -12,10 +12,10 @@ tags:
   - spell_shaman_2
   - spell_oracle_2
   - spell_druid
-  - spell_ranger
   - spell_inquisitor
-  - spell_inquisitor_2
+  - spell_ranger
   - spell_ranger_2
+  - spell_inquisitor_2
   - spell_druid_2
   - spell_oracle
   - spell_hunter_2

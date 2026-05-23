@@ -14,10 +14,10 @@ tags:
   - spell_skald
   - spell_bard_2
   - spell_magus
-  - spell_warpriest
   - spell_inquisitor
-  - spell_warpriest_2
+  - spell_warpriest
   - spell_inquisitor_2
+  - spell_warpriest_2
   - spell_oracle
   - spell_skald_2
   - spell_magus_2

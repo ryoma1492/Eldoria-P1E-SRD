@@ -7,8 +7,8 @@ tags:
   - spell
   - spell_druid_3
   - spell_sorcerer_3
-  - spell_hunter_3
   - spell_druid
+  - spell_hunter_3
   - spell_arcanist_3
   - spell_hunter
   - spell_arcanist

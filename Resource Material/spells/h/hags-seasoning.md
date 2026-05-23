@@ -8,10 +8,10 @@ tags:
   - spell
   - spell_bloodrager_2
   - spell_shaman
-  - spell_druid_3
   - spell_antipaladin_2
-  - spell_hunter_3
+  - spell_druid_3
   - spell_druid
+  - spell_hunter_3
   - spell_hunter
   - spell_antipaladin
 ---

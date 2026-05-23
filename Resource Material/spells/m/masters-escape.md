@@ -6,8 +6,8 @@ tags:
   - spell_cleric
   - spell_hunter_4
   - spell_sorcerer
-  - spell_druid_4
   - spell
+  - spell_druid_4
   - spell_witch
   - spell_warpriest_4
   - spell_witch_4

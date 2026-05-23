@@ -12,8 +12,8 @@ tags:
   - spell_bloodrager_4
   - spell_sorcerer_4
   - spell_arcanist_4
-  - spell_redmantisassassin_4
   - spell_arcanist
+  - spell_redmantisassassin_4
 ---
 
 ## Hellmouth Lash

@@ -5,8 +5,8 @@ updated: 2023-04-28
 tags:
   - spell_summoner_unchained_4
   - spell_sorcerer
-  - spell
   - spell_mesmerist
+  - spell
   - spell_magus_4
   - spell_witch
   - spell_shaman
@@ -18,8 +18,8 @@ tags:
   - spell_summoner_unchained
   - spell_arcanist_4
   - spell_spiritualist
-  - spell_shaman_4
   - spell_arcanist
+  - spell_shaman_4
 ---
 
 ## Mythic Solid Fog

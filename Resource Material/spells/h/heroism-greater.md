@@ -7,8 +7,8 @@ tags:
   - spell_sorcerer
   - spell
   - spell_spiritualist_6
-  - spell_witch
   - spell_bard_5
+  - spell_witch
   - spell_skald_5
   - spell_psychic_6
   - spell_bard

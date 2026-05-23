@@ -12,8 +12,8 @@ tags:
   - spell_occultist_3
   - spell_inquisitor
   - spell_oracle
-  - spell_occultist
   - spell_cleric_3
+  - spell_occultist
 ---
 
 ## Mythic Magic Vestment

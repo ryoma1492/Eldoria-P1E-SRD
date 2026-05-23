@@ -6,10 +6,10 @@ tags:
   - spell_mesmerist_3
   - spell_skald_3
   - spell_redmantisassassin_3
-  - spell_sorcerer
   - spell_magus_3
-  - spell
+  - spell_sorcerer
   - spell_mesmerist
+  - spell
   - spell_medium
   - spell_redmantisassassin
   - spell_bard

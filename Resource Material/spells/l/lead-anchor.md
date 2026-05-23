@@ -17,11 +17,11 @@ tags:
   - spell_medium_2
   - spell_investigator_2
   - spell_investigator
-  - spell_ranger_2
   - spell_alchemist
+  - spell_ranger_2
   - spell_druid_2
-  - spell_psychic
   - spell_occultist_2
+  - spell_psychic
   - spell_skald_2
   - spell_hunter_2
   - spell_hunter

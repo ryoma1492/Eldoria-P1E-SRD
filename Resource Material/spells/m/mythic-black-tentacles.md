@@ -3,8 +3,8 @@ aliases: [Mythic Black Tentacles]
 created: 2023-04-27
 updated: 2023-04-28
 tags:
-  - spell_summoner_unchained_4
   - spell_bloodrager
+  - spell_summoner_unchained_4
   - spell_sorcerer
   - spell
   - spell_magus_4

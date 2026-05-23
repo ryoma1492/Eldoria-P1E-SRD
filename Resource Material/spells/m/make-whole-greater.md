@@ -6,16 +6,16 @@ tags:
   - spell_cleric
   - spell_sorcerer
   - spell
-  - spell_warpriest_4
   - spell_redmantisassassin
+  - spell_warpriest_4
   - spell_warpriest
   - spell_cleric_4
   - spell_oracle_4
   - spell_oracle
   - spell_sorcerer_4
   - spell_arcanist_4
-  - spell_redmantisassassin_4
   - spell_arcanist
+  - spell_redmantisassassin_4
 ---
 
 ## Make Whole, Greater

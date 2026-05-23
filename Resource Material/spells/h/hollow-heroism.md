@@ -3,13 +3,13 @@ aliases: [Hollow Heroism]
 created: 2023-04-27
 updated: 2023-04-28
 tags:
-  - spell_summoner_unchained_4
   - spell_bloodrager
+  - spell_summoner_unchained_4
   - spell_skald_3
   - spell_sorcerer
   - spell
-  - spell_witch
   - spell_medium
+  - spell_witch
   - spell_inquisitor_4
   - spell_bard
   - spell_summoner_4

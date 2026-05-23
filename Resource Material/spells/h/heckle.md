@@ -4,11 +4,11 @@ created: 2023-04-27
 updated: 2023-04-28
 tags:
   - spell_bloodrager
-  - spell_magus_3
   - spell_sorcerer
+  - spell_magus_3
   - spell_psychic_2
-  - spell
   - spell_mesmerist
+  - spell
   - spell_sorcerer_2
   - spell_bloodrager_2
   - spell_bard

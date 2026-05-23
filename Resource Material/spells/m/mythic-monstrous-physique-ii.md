@@ -16,8 +16,8 @@ tags:
   - spell_alchemist_4
   - spell_investigator_4
   - spell_arcanist_4
-  - spell_redmantisassassin_4
   - spell_arcanist
+  - spell_redmantisassassin_4
 ---
 
 ## Mythic Monstrous Physique II

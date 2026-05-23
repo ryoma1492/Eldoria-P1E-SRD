@@ -5,8 +5,8 @@ updated: 2023-04-28
 tags:
   - spell_skald_4
   - spell_sorcerer
-  - spell
   - spell_mesmerist
+  - spell
   - spell_redmantisassassin
   - spell_bard
   - spell_mesmerist_4
@@ -16,8 +16,8 @@ tags:
   - spell_psychic_4
   - spell_arcanist_4
   - spell_bard_4
-  - spell_redmantisassassin_4
   - spell_arcanist
+  - spell_redmantisassassin_4
 ---
 
 ## Hallucinatory Terrain

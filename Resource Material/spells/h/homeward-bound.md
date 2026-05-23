@@ -11,8 +11,8 @@ tags:
   - spell_warpriest
   - spell_oracle
   - spell_sorcerer_4
-  - spell_cleric_3
   - spell_arcanist_4
+  - spell_cleric_3
   - spell_arcanist
 ---
 

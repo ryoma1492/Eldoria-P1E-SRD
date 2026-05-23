@@ -6,10 +6,10 @@ tags:
   - spell_arcanist_1
   - spell_sorcerer
   - spell
-  - spell_inquisitor_1
   - spell_ranger_1
-  - spell_inquisitor
+  - spell_inquisitor_1
   - spell_ranger
+  - spell_inquisitor
   - spell_hunter
   - spell_sorcerer_1
   - spell_hunter_1

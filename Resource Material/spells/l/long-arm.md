@@ -4,19 +4,19 @@ created: 2023-04-27
 updated: 2023-04-28
 tags:
   - spell_psychic_1
-  - spell_arcanist_1
   - spell_bloodrager
+  - spell_arcanist_1
   - spell_sorcerer
   - spell
-  - spell_witch
   - spell_medium
+  - spell_witch
   - spell_summoner_1
   - spell_redmantisassassin
   - spell_alchemist_1
   - spell_investigator_1
   - spell_redmantisassassin_1
-  - spell_medium_1
   - spell_witch_1
+  - spell_medium_1
   - spell_magus
   - spell_investigator
   - spell_magus_1
@@ -26,8 +26,8 @@ tags:
   - spell_summoner_unchained
   - spell_sorcerer_1
   - spell_summoner_unchained_1
-  - spell_bloodrager_1
   - spell_arcanist
+  - spell_bloodrager_1
 ---
 
 ## Long Arm

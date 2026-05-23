@@ -5,8 +5,8 @@ updated: 2023-04-28
 tags:
   - spell_arcanist_1
   - spell_sorcerer
-  - spell
   - spell_mesmerist
+  - spell
   - spell_bard
   - spell_bard_1
   - spell_skald_1

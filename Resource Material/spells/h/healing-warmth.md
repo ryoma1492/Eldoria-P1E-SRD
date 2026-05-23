@@ -5,20 +5,20 @@ updated: 2023-04-28
 tags:
   - spell_cleric
   - spell_hunter_4
-  - spell_druid_4
   - spell
+  - spell_druid_4
   - spell_inquisitor_4
   - spell_druid
   - spell_inquisitor
   - spell_cleric_4
-  - spell_investigator
   - spell_oracle_4
+  - spell_investigator
   - spell_alchemist
   - spell_oracle
   - spell_psychic
   - spell_alchemist_4
-  - spell_investigator_4
   - spell_hunter
+  - spell_investigator_4
   - spell_psychic_4
 ---
 

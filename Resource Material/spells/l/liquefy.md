@@ -6,8 +6,8 @@ tags:
   - spell_hunter_4
   - spell_skald_3
   - spell_sorcerer
-  - spell_druid_4
   - spell
+  - spell_druid_4
   - spell_bard
   - spell_druid
   - spell_skald

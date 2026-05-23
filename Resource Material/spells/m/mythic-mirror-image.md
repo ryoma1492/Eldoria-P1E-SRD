@@ -6,8 +6,8 @@ tags:
   - spell_bloodrager
   - spell_sorcerer
   - spell_psychic_2
-  - spell_mesmerist
   - spell
+  - spell_mesmerist
   - spell_sorcerer_2
   - spell_medium
   - spell_bloodrager_2
@@ -22,8 +22,8 @@ tags:
   - spell_medium_2
   - spell_adept_2
   - spell_mesmerist_2
-  - spell_occultist_2
   - spell_psychic
+  - spell_occultist_2
   - spell_skald_2
   - spell_magus_2
   - spell_occultist

@@ -6,8 +6,8 @@ tags:
   - spell_skald_4
   - spell_cleric
   - spell_sorcerer
-  - spell
   - spell_mesmerist
+  - spell
   - spell_medium
   - spell_warpriest_4
   - spell_bard
@@ -21,8 +21,8 @@ tags:
   - spell_oracle
   - spell_sorcerer_4
   - spell_spiritualist_4
-  - spell_occultist
   - spell_arcanist_4
+  - spell_occultist
   - spell_spiritualist
   - spell_bard_4
   - spell_arcanist

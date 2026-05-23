@@ -13,8 +13,8 @@ tags:
   - spell_druid_3
   - spell_occultist_3
   - spell_sorcerer_3
-  - spell_hunter_3
   - spell_druid
+  - spell_hunter_3
   - spell_inquisitor
   - spell_arcanist_3
   - spell_psychic

@@ -3,8 +3,8 @@ aliases: [Hollow Heroism, Greater]
 created: 2023-04-27
 updated: 2023-04-28
 tags:
-  - spell_witch_7
   - spell_sorcerer
+  - spell_witch_7
   - spell
   - spell_witch
   - spell_bard

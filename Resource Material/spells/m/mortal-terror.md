@@ -6,8 +6,8 @@ tags:
   - spell_cleric
   - spell_sorcerer
   - spell_psychic_2
-  - spell_mesmerist
   - spell
+  - spell_mesmerist
   - spell_sorcerer_2
   - spell_cleric_2
   - spell_witch
@@ -19,13 +19,13 @@ tags:
   - spell_oracle_2
   - spell_skald
   - spell_bard_2
-  - spell_warpriest
   - spell_inquisitor
+  - spell_warpriest
   - spell_witch_2
-  - spell_warpriest_2
   - spell_inquisitor_2
-  - spell_mesmerist_2
+  - spell_warpriest_2
   - spell_oracle
+  - spell_mesmerist_2
   - spell_psychic
   - spell_skald_2
   - spell_antipaladin

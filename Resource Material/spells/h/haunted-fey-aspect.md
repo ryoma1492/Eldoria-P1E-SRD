@@ -4,8 +4,8 @@ created: 2023-04-27
 updated: 2023-04-28
 tags:
   - spell_sorcerer
-  - spell
   - spell_mesmerist
+  - spell
   - spell_bard_0
   - spell_skald_0
   - spell_medium_0

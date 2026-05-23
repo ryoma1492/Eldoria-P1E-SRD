@@ -11,11 +11,11 @@ tags:
   - spell_medium
   - spell_paladin_2
   - spell_oracle_2
-  - spell_warpriest
   - spell_inquisitor
+  - spell_warpriest
   - spell_medium_2
-  - spell_inquisitor_2
   - spell_warpriest_2
+  - spell_inquisitor_2
   - spell_oracle
   - spell_psychic
 ---

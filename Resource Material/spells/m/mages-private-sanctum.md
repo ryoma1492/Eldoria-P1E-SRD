@@ -3,11 +3,11 @@ aliases: ["Mage's Private Sanctum"]
 created: 2023-04-27
 updated: 2023-04-28
 tags:
-  - spell_sorcerer_5
   - spell_sorcerer
-  - spell_spiritualist_5
-  - spell
+  - spell_sorcerer_5
   - spell_mesmerist
+  - spell
+  - spell_spiritualist_5
   - spell_psychic_5
   - spell_arcanist_5
   - spell_medium

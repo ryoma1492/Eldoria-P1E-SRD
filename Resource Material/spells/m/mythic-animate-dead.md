@@ -14,15 +14,15 @@ tags:
   - spell_occultist_3
   - spell_adept
   - spell_warpriest
-  - spell_spiritualist_3
   - spell_antipaladin_3
+  - spell_spiritualist_3
   - spell_oracle
   - spell_sorcerer_4
-  - spell_arcanist_4
-  - spell_cleric_3
   - spell_occultist
-  - spell_spiritualist
+  - spell_cleric_3
+  - spell_arcanist_4
   - spell_antipaladin
+  - spell_spiritualist
   - spell_arcanist
 ---
 

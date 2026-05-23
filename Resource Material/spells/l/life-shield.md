@@ -9,8 +9,8 @@ tags:
   - spell_oracle_3
   - spell_paladin_2
   - spell_druid_3
-  - spell_hunter_3
   - spell_druid
+  - spell_hunter_3
   - spell_oracle
   - spell_hunter
   - spell_cleric_3

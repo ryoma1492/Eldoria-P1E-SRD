@@ -7,8 +7,8 @@ tags:
   - spell
   - spell_druid
   - spell_psychic_7
-  - spell_sorcerer_7
   - spell_druid_8
+  - spell_sorcerer_7
   - spell_psychic
   - spell_arcanist_7
   - spell_arcanist

@@ -12,16 +12,16 @@ tags:
   - spell_arcanist_2
   - spell_oracle_2
   - spell_druid
-  - spell_warpriest
   - spell_ranger
+  - spell_warpriest
   - spell_witch_2
   - spell_investigator
-  - spell_ranger_2
-  - spell_warpriest_2
   - spell_alchemist
+  - spell_warpriest_2
+  - spell_ranger_2
   - spell_druid_2
-  - spell_oracle
   - spell_alchemist_3
+  - spell_oracle
   - spell_hunter_2
   - spell_hunter
   - spell_investigator_3

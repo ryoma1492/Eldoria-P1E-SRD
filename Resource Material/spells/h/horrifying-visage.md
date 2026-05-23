@@ -3,13 +3,13 @@ aliases: [Horrifying Visage]
 created: 2023-04-27
 updated: 2023-04-28
 tags:
-  - spell_inquisitor_3
   - spell_warpriest_3
+  - spell_inquisitor_3
   - spell_cleric
   - spell_skald_3
   - spell_shaman_3
-  - spell_sorcerer
   - spell_magus_3
+  - spell_sorcerer
   - spell
   - spell_oracle_3
   - spell_witch
@@ -19,8 +19,8 @@ tags:
   - spell_sorcerer_3
   - spell_skald
   - spell_magus
-  - spell_warpriest
   - spell_inquisitor
+  - spell_warpriest
   - spell_arcanist_3
   - spell_spiritualist_3
   - spell_oracle

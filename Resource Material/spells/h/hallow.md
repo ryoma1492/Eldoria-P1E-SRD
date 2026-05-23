@@ -8,10 +8,10 @@ tags:
   - spell_cleric_5
   - spell_oracle_5
   - spell_druid
-  - spell_inquisitor_5
   - spell_inquisitor
-  - spell_hunter_5
+  - spell_inquisitor_5
   - spell_oracle
+  - spell_hunter_5
   - spell_druid_5
   - spell_hunter
 ---

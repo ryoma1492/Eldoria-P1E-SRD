@@ -5,8 +5,8 @@ updated: 2023-04-28
 tags:
   - spell_sorcerer
   - spell_arcanist_8
-  - spell
   - spell_mesmerist
+  - spell
   - spell_sorcerer_8
   - spell_bard
   - spell_psychic_8

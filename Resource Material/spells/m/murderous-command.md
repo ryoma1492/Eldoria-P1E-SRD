@@ -5,8 +5,8 @@ updated: 2023-04-28
 tags:
   - spell_psychic_1
   - spell_cleric
-  - spell
   - spell_mesmerist
+  - spell
   - spell_medium
   - spell_antipaladin_1
   - spell_medium_1

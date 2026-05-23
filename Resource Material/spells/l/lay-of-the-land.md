@@ -11,10 +11,10 @@ tags:
   - spell_druid
   - spell_skald
   - spell_bard_2
-  - spell_ranger
   - spell_warpriest
-  - spell_ranger_2
+  - spell_ranger
   - spell_warpriest_2
+  - spell_ranger_2
   - spell_druid_2
   - spell_oracle
   - spell_skald_2

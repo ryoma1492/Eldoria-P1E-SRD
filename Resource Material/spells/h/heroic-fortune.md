@@ -13,8 +13,8 @@ tags:
   - spell_skald
   - spell_bard_2
   - spell_investigator_2
-  - spell_paladin_3
   - spell_investigator
+  - spell_paladin_3
   - spell_alchemist
   - spell_oracle
   - spell_skald_2

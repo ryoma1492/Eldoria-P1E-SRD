@@ -10,14 +10,14 @@ tags:
   - spell_oracle_6
   - spell_shaman_7
   - spell_shaman
-  - spell_warpriest
   - spell_inquisitor
+  - spell_warpriest
   - spell_oracle
-  - spell_inquisitor_6
   - spell_warpriest_6
+  - spell_inquisitor_6
   - spell_occultist
-  - spell_occultist_6
   - spell_spiritualist
+  - spell_occultist_6
 ---
 
 ## Mythic Harm

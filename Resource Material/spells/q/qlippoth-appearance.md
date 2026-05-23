@@ -12,8 +12,8 @@ tags:
   - spell_antipaladin_2
   - spell_warpriest
   - spell_alchemist
-  - spell_oracle
   - spell_alchemist_3
+  - spell_oracle
   - spell_cleric_3
   - spell_antipaladin
 ---

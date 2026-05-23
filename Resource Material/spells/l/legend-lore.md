@@ -7,12 +7,12 @@ tags:
   - spell_sorcerer
   - spell
   - spell_spiritualist_6
-  - spell_witch
   - spell_medium
+  - spell_witch
   - spell_psychic_6
   - spell_bard
-  - spell_medium_4
   - spell_sorcerer_6
+  - spell_medium_4
   - spell_arcanist_6
   - spell_skald
   - spell_inquisitor
@@ -20,8 +20,8 @@ tags:
   - spell_witch_6
   - spell_inquisitor_6
   - spell_occultist
-  - spell_spiritualist
   - spell_occultist_6
+  - spell_spiritualist
   - spell_bard_4
   - spell_arcanist
 ---

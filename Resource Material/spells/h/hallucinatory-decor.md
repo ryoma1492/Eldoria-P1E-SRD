@@ -6,8 +6,8 @@ tags:
   - spell_mesmerist_3
   - spell_skald_3
   - spell_sorcerer
-  - spell
   - spell_mesmerist
+  - spell
   - spell_bard
   - spell_psychic_3
   - spell_sorcerer_3

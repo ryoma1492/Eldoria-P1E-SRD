@@ -13,8 +13,8 @@ tags:
   - spell_magus_6
   - spell_psychic
   - spell_occultist
-  - spell_occultist_6
   - spell_spiritualist
+  - spell_occultist_6
   - spell_arcanist
 ---
 

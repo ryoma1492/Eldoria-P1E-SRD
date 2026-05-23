@@ -9,13 +9,13 @@ tags:
   - spell_antipaladin_1
   - spell_spiritualist_2
   - spell_oracle_2
-  - spell_warpriest
   - spell_inquisitor
-  - spell_warpriest_2
+  - spell_warpriest
   - spell_inquisitor_2
+  - spell_warpriest_2
   - spell_oracle
-  - spell_antipaladin
   - spell_spiritualist
+  - spell_antipaladin
 ---
 
 ## Mythic Death Knell

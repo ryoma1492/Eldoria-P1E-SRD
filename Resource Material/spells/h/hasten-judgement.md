@@ -11,20 +11,20 @@ tags:
   - spell_cleric_5
   - spell_oracle_5
   - spell_sorcerer_6
-  - spell_arcanist_6
   - spell_druid
-  - spell_warpriest
-  - spell_warpriest_5
+  - spell_arcanist_6
   - spell_inquisitor
+  - spell_warpriest_5
+  - spell_warpriest
   - spell_witch_5
-  - spell_oracle
   - spell_hunter_5
-  - spell_spiritualist_4
-  - spell_druid_5
+  - spell_oracle
   - spell_antipaladin_4
+  - spell_druid_5
+  - spell_spiritualist_4
   - spell_hunter
-  - spell_spiritualist
   - spell_antipaladin
+  - spell_spiritualist
   - spell_arcanist
 ---
 

@@ -3,8 +3,8 @@ aliases: [Mending]
 created: 2023-04-27
 updated: 2023-04-28
 tags:
-  - spell_cleric
   - spell_spiritualist_0
+  - spell_cleric
   - spell_sorcerer
   - spell_warpriest_0
   - spell
@@ -12,29 +12,29 @@ tags:
   - spell_occultist_0
   - spell_skald_0
   - spell_witch_0
-  - spell_hunter_0
   - spell_summoner_unchained_0
+  - spell_hunter_0
   - spell_witch
   - spell_shaman
-  - spell_druid_0
-  - spell_bard
   - spell_adept_0
-  - spell_adept
+  - spell_bard
+  - spell_druid_0
   - spell_druid
+  - spell_adept
   - spell_skald
   - spell_summoner_0
   - spell_warpriest
   - spell_sorcerer_0
   - spell_psychic_0
-  - spell_oracle
   - spell_arcanist_0
+  - spell_oracle
   - spell_psychic
   - spell_summoner
   - spell_shaman_0
   - spell_cleric_0
   - spell_oracle_0
-  - spell_summoner_unchained
   - spell_hunter
+  - spell_summoner_unchained
   - spell_occultist
   - spell_spiritualist
   - spell_arcanist

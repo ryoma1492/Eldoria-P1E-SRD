@@ -7,8 +7,8 @@ tags:
   - spell_bloodrager
   - spell_sorcerer
   - spell
-  - spell_medium
   - spell_witch
+  - spell_medium
   - spell_bard
   - spell_psychic_3
   - spell_sorcerer_3
@@ -25,12 +25,12 @@ tags:
   - spell_spiritualist_3
   - spell_alchemist_3
   - spell_psychic
-  - spell_skald_2
   - spell_summoner
+  - spell_skald_2
   - spell_summoner_unchained
   - spell_witch_3
-  - spell_investigator_3
   - spell_spiritualist
+  - spell_investigator_3
   - spell_arcanist
 ---
 

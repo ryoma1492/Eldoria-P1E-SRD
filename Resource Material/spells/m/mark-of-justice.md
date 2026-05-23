@@ -9,10 +9,10 @@ tags:
   - spell_paladin_4
   - spell_cleric_5
   - spell_oracle_5
-  - spell_inquisitor
-  - spell_warpriest_5
-  - spell_inquisitor_5
   - spell_warpriest
+  - spell_inquisitor_5
+  - spell_warpriest_5
+  - spell_inquisitor
   - spell_oracle
 ---
 
