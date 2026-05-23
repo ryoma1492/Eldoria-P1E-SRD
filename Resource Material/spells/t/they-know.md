@@ -2,6 +2,22 @@
 aliases: [They Know]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_paladin
+  - spell_mesmerist_3
+  - spell_skald_3
+  - spell
+  - spell_mesmerist
+  - spell_shaman
+  - spell_bard
+  - spell_skald
+  - spell_inquisitor
+  - spell_paladin_3
+  - spell_psychic
+  - spell_bard_3
+  - spell_psychic_4
+  - spell_shaman_4
 ---
 
 ## They Know

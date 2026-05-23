@@ -2,6 +2,42 @@
 aliases: [Glimpse of Truth]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell
+  - spell_spiritualist_5
+  - spell_investigator_5
+  - spell_arcanist_5
+  - spell_medium
+  - spell_witch
+  - spell_inquisitor_4
+  - spell_warpriest_4
+  - spell_shaman
+  - spell_occultist_4
+  - spell_magus_5
+  - spell_druid
+  - spell_alchemist_5
+  - spell_magus
+  - spell_inquisitor
+  - spell_warpriest
+  - spell_cleric_4
+  - spell_investigator
+  - spell_oracle_4
+  - spell_witch_5
+  - spell_alchemist
+  - spell_oracle
+  - spell_hunter_5
+  - spell_psychic
+  - spell_druid_5
+  - spell_hunter
+  - spell_psychic_4
+  - spell_medium_3
+  - spell_occultist
+  - spell_spiritualist
+  - spell_arcanist
+  - spell_shaman_4
 ---
 
 ## Glimpse of Truth

@@ -2,6 +2,16 @@
 aliases: [Deathwatch]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_medium
+  - spell_spiritualist_1
+  - spell_medium_1
+  - spell_cleric_1
+  - spell_oracle_1
+  - spell_oracle
+  - spell_spiritualist
 ---
 
 ## Deathwatch

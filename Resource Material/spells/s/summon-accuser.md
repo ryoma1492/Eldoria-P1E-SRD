@@ -2,6 +2,28 @@
 aliases: [Summon Accuser]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_cleric
+  - spell_summoner_unchained_4
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_warpriest_4
+  - spell_bard
+  - spell_summoner_4
+  - spell_witch_4
+  - spell_skald
+  - spell_warpriest
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_oracle
+  - spell_summoner
+  - spell_sorcerer_4
+  - spell_summoner_unchained
+  - spell_arcanist_4
+  - spell_bard_4
+  - spell_arcanist
 ---
 
 ## Summon Accuser

@@ -2,6 +2,24 @@
 aliases: [Barbed Chains]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_bloodrager
+  - spell
+  - spell_summoner_1
+  - spell_shaman
+  - spell_antipaladin_1
+  - spell_inquisitor_1
+  - spell_shaman_1
+  - spell_cleric_1
+  - spell_oracle_1
+  - spell_inquisitor
+  - spell_oracle
+  - spell_summoner
+  - spell_occultist_1
+  - spell_occultist
+  - spell_antipaladin
+  - spell_bloodrager_1
 ---
 
 ## Barbed Chains

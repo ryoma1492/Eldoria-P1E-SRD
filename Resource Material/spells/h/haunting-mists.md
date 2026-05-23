@@ -2,6 +2,24 @@
 aliases: [Haunting Mists]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_mesmerist
+  - spell_sorcerer_2
+  - spell_witch
+  - spell_redmantisassassin
+  - spell_bard
+  - spell_arcanist_2
+  - spell_redmantisassassin_2
+  - spell_skald
+  - spell_bard_2
+  - spell_witch_2
+  - spell_mesmerist_2
+  - spell_psychic
+  - spell_skald_2
+  - spell_arcanist
 ---
 
 ## Haunting Mists

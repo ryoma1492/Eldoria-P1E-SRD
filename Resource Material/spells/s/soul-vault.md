@@ -2,6 +2,32 @@
 aliases: [Soul Vault]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_hunter_4
+  - spell_sorcerer
+  - spell_druid_4
+  - spell
+  - spell_oracle_3
+  - spell_psychic_5
+  - spell_witch
+  - spell_shaman
+  - spell_witch_4
+  - spell_spiritualist_2
+  - spell_druid
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_oracle
+  - spell_psychic
+  - spell_sorcerer_4
+  - spell_hunter
+  - spell_cleric_3
+  - spell_arcanist_4
+  - spell_spiritualist
+  - spell_shaman_4
+  - spell_arcanist
 ---
 
 ## Soul Vault

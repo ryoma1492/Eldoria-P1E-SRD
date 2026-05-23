@@ -2,6 +2,32 @@
 aliases: [Enlarge Tail]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_druid_1
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_summoner_1
+  - spell_redmantisassassin
+  - spell_antipaladin_1
+  - spell_alchemist_1
+  - spell_investigator_1
+  - spell_redmantisassassin_1
+  - spell_witch_1
+  - spell_druid
+  - spell_magus
+  - spell_investigator
+  - spell_magus_1
+  - spell_alchemist
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_sorcerer_1
+  - spell_hunter_1
+  - spell_summoner_unchained_1
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Enlarge Tail

@@ -2,6 +2,10 @@
 aliases: [Bow Spirit]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell
+  - spell_hunter
 ---
 
 ## Bow Spirit

@@ -2,6 +2,18 @@
 aliases: ["Dongun Shaper's Touch"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_alchemist_2
+  - spell_sorcerer
+  - spell
+  - spell_occultist_3
+  - spell_sorcerer_3
+  - spell_arcanist_3
+  - spell_investigator_2
+  - spell_investigator
+  - spell_alchemist
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Dongun Shaper's Touch

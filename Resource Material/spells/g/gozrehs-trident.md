@@ -2,6 +2,20 @@
 aliases: ["Gozreh's Trident"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_bloodrager
+  - spell
+  - spell_cleric_2
+  - spell_bloodrager_2
+  - spell_oracle_2
+  - spell_druid
+  - spell_warpriest
+  - spell_warpriest_2
+  - spell_druid_2
+  - spell_oracle
+  - spell_hunter_2
+  - spell_hunter
 ---
 
 ## Gozreh's Trident

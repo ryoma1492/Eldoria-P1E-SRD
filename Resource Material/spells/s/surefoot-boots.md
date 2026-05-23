@@ -2,6 +2,16 @@
 aliases: [Surefoot Boots]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_druid
+  - spell_ranger
+  - spell_ranger_2
+  - spell_druid_2
+  - spell_occultist_2
+  - spell_hunter_2
+  - spell_hunter
+  - spell_occultist
 ---
 
 ## Surefoot Boots

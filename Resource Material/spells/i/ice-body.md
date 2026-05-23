@@ -2,6 +2,16 @@
 aliases: [Ice Body]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_witch_7
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_shaman_7
+  - spell_shaman
+  - spell_sorcerer_7
+  - spell_arcanist_7
+  - spell_arcanist
 ---
 
 ## Ice Body

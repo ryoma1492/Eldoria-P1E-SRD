@@ -2,6 +2,36 @@
 aliases: [Mythic Protection from Chaos]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_adept_1
+  - spell_arcanist_1
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell
+  - spell_paladin_1
+  - spell_medium
+  - spell_summoner_1
+  - spell_shaman
+  - spell_spiritualist_1
+  - spell_inquisitor_1
+  - spell_warpriest_1
+  - spell_shaman_1
+  - spell_medium_1
+  - spell_cleric_1
+  - spell_adept
+  - spell_oracle_1
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_oracle
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_sorcerer_1
+  - spell_summoner_unchained_1
+  - spell_spiritualist
+  - spell_bloodrager_1
+  - spell_arcanist
 ---
 
 ## Mythic Protection from Chaos

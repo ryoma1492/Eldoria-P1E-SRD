@@ -2,6 +2,18 @@
 aliases: [Eldritch Fever]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_psychic_3
+  - spell_sorcerer_3
+  - spell_inquisitor
+  - spell_arcanist_3
+  - spell_psychic
+  - spell_witch_3
+  - spell_arcanist
 ---
 
 ## Eldritch Fever

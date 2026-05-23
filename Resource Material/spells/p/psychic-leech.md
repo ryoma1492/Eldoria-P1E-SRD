@@ -2,6 +2,26 @@
 aliases: [Psychic Leech]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell_magus_3
+  - spell_psychic_2
+  - spell
+  - spell_mesmerist
+  - spell_witch
+  - spell_medium
+  - spell_spiritualist_2
+  - spell_sorcerer_3
+  - spell_bloodrager_3
+  - spell_magus
+  - spell_witch_2
+  - spell_arcanist_3
+  - spell_mesmerist_2
+  - spell_psychic
+  - spell_medium_3
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Psychic Leech

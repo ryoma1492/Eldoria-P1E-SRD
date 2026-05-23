@@ -2,6 +2,22 @@
 aliases: [Haunting Reminder]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_mesmerist
+  - spell_sorcerer_2
+  - spell_bard
+  - spell_antipaladin_1
+  - spell_arcanist_2
+  - spell_bard_2
+  - spell_inquisitor
+  - spell_inquisitor_2
+  - spell_mesmerist_2
+  - spell_psychic
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Haunting Reminder

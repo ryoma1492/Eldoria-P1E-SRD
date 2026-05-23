@@ -2,6 +2,28 @@
 aliases: [Scales of Deflection]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell_magus_3
+  - spell
+  - spell_bloodrager_2
+  - spell_psychic_3
+  - spell_occultist_3
+  - spell_sorcerer_3
+  - spell_summoner_unchained_3
+  - spell_magus
+  - spell_arcanist_3
+  - spell_paladin_3
+  - spell_summoner_3
+  - spell_spiritualist_3
+  - spell_psychic
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_occultist
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Scales of Deflection

@@ -2,6 +2,32 @@
 aliases: [Guarding Knowledge]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_skald_3
+  - spell_sorcerer
+  - spell
+  - spell_oracle_3
+  - spell_bard
+  - spell_psychic_3
+  - spell_occultist_3
+  - spell_sorcerer_3
+  - spell_skald
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_arcanist_3
+  - spell_investigator
+  - spell_inquisitor_2
+  - spell_alchemist
+  - spell_oracle
+  - spell_alchemist_3
+  - spell_psychic
+  - spell_bard_3
+  - spell_occultist
+  - spell_cleric_3
+  - spell_investigator_3
+  - spell_arcanist
 ---
 
 ## Guarding Knowledge

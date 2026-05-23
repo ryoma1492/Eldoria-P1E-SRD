@@ -2,6 +2,30 @@
 aliases: [Harvest Knowledge]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_witch
+  - spell_inquisitor_4
+  - spell_bard
+  - spell_witch_4
+  - spell_mesmerist_4
+  - spell_skald
+  - spell_inquisitor
+  - spell_investigator
+  - spell_alchemist
+  - spell_psychic
+  - spell_sorcerer_4
+  - spell_alchemist_4
+  - spell_antipaladin_4
+  - spell_investigator_4
+  - spell_psychic_4
+  - spell_arcanist_4
+  - spell_antipaladin
+  - spell_bard_4
+  - spell_arcanist
 ---
 
 ## Harvest Knowledge

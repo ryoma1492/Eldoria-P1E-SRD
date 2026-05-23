@@ -2,6 +2,28 @@
 aliases: [Stone Shape]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_shaman_3
+  - spell_sorcerer
+  - spell
+  - spell_oracle_3
+  - spell_redmantisassassin
+  - spell_shaman
+  - spell_druid_3
+  - spell_occultist_3
+  - spell_hunter_3
+  - spell_druid
+  - spell_warpriest
+  - spell_oracle
+  - spell_sorcerer_4
+  - spell_hunter
+  - spell_cleric_3
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_arcanist
+  - spell_redmantisassassin_4
 ---
 
 ## Stone Shape

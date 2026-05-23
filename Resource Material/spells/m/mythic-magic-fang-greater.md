@@ -2,6 +2,18 @@
 aliases: [Mythic Magic Fang, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_ranger_3
+  - spell
+  - spell_druid_3
+  - spell_druid
+  - spell_hunter_3
+  - spell_ranger
+  - spell_summoner_3
+  - spell_spiritualist_3
+  - spell_summoner
+  - spell_hunter
+  - spell_spiritualist
 ---
 
 ## Mythic Magic Fang, Greater

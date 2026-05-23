@@ -2,6 +2,20 @@
 aliases: [Teleport, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_summoner_5
+  - spell_witch_7
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_psychic_7
+  - spell_summoner_unchained_6
+  - spell_sorcerer_7
+  - spell_psychic
+  - spell_summoner
+  - spell_arcanist_7
+  - spell_summoner_unchained
+  - spell_arcanist
 ---
 
 ## Teleport, Greater

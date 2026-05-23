@@ -2,6 +2,30 @@
 aliases: [Animal Aspect, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_ranger_3
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell_magus_3
+  - spell
+  - spell_redmantisassassin
+  - spell_druid_3
+  - spell_hunter_3
+  - spell_druid
+  - spell_magus
+  - spell_bloodrager_3
+  - spell_ranger
+  - spell_investigator
+  - spell_alchemist
+  - spell_alchemist_3
+  - spell_psychic
+  - spell_sorcerer_4
+  - spell_hunter
+  - spell_psychic_4
+  - spell_arcanist_4
+  - spell_investigator_3
+  - spell_redmantisassassin_4
+  - spell_arcanist
 ---
 
 ## Animal Aspect, Greater

@@ -2,6 +2,16 @@
 aliases: [Wall of Mist]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_shaman_3
+  - spell_magus_3
+  - spell_sorcerer
+  - spell
+  - spell_shaman
+  - spell_sorcerer_3
+  - spell_magus
+  - spell_arcanist_3
+  - spell_arcanist
 ---
 
 ## Wall of Mist

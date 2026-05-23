@@ -2,6 +2,26 @@
 aliases: [With the Wind]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_bloodrager_2
+  - spell_arcanist_2
+  - spell_spiritualist_2
+  - spell_druid
+  - spell_magus
+  - spell_ranger
+  - spell_ranger_2
+  - spell_druid_2
+  - spell_occultist_2
+  - spell_magus_2
+  - spell_hunter_2
+  - spell_hunter
+  - spell_occultist
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## With the Wind

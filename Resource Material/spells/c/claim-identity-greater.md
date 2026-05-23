@@ -2,6 +2,32 @@
 aliases: [Claim Identity, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_investigator_5
+  - spell_bard_5
+  - spell_witch
+  - spell_skald_5
+  - spell_shaman
+  - spell_bard
+  - spell_sorcerer_6
+  - spell_arcanist_6
+  - spell_druid
+  - spell_alchemist_5
+  - spell_skald
+  - spell_druid_6
+  - spell_shaman_6
+  - spell_inquisitor
+  - spell_inquisitor_5
+  - spell_hunter_6
+  - spell_investigator
+  - spell_witch_5
+  - spell_alchemist
+  - spell_antipaladin_4
+  - spell_hunter
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Claim Identity, Greater

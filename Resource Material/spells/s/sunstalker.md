@@ -2,6 +2,20 @@
 aliases: [Sunstalker]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_ranger_3
+  - spell_skald_3
+  - spell_sorcerer
+  - spell
+  - spell_bard
+  - spell_sorcerer_3
+  - spell_hunter_3
+  - spell_skald
+  - spell_ranger
+  - spell_arcanist_3
+  - spell_bard_3
+  - spell_hunter
+  - spell_arcanist
 ---
 
 ## Sunstalker

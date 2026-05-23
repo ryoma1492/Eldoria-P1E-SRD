@@ -2,6 +2,30 @@
 aliases: [Full Pouch]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_ranger_3
+  - spell_inquisitor_3
+  - spell_alchemist_2
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_bard
+  - spell_arcanist_2
+  - spell_occultist_3
+  - spell_druid
+  - spell_skald
+  - spell_bard_2
+  - spell_ranger
+  - spell_inquisitor
+  - spell_investigator_2
+  - spell_investigator
+  - spell_alchemist
+  - spell_druid_2
+  - spell_skald_2
+  - spell_hunter_2
+  - spell_hunter
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Full Pouch

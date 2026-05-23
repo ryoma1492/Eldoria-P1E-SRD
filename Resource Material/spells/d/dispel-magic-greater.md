@@ -2,6 +2,44 @@
 aliases: [Dispel Magic, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_cleric_6
+  - spell_occultist_5
+  - spell_summoner_5
+  - spell_sorcerer
+  - spell
+  - spell_spiritualist_6
+  - spell_oracle_6
+  - spell_witch
+  - spell_bard_5
+  - spell_skald_5
+  - spell_psychic_6
+  - spell_shaman
+  - spell_bard
+  - spell_sorcerer_6
+  - spell_druid
+  - spell_arcanist_6
+  - spell_druid_6
+  - spell_skald
+  - spell_magus
+  - spell_shaman_6
+  - spell_inquisitor
+  - spell_warpriest
+  - spell_magus_6
+  - spell_hunter_6
+  - spell_oracle
+  - spell_summoner_unchained_5
+  - spell_psychic
+  - spell_summoner
+  - spell_witch_6
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_inquisitor_6
+  - spell_warpriest_6
+  - spell_occultist
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Dispel Magic, Greater

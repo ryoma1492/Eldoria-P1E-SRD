@@ -2,6 +2,14 @@
 aliases: [Martial Telekinesis]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_magus_4
+  - spell_magus
+  - spell_sorcerer_4
+  - spell_arcanist_4
+  - spell_arcanist
 ---
 
 ## Martial Telekinesis

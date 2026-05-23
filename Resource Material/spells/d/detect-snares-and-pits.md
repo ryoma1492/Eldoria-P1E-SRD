@@ -2,6 +2,14 @@
 aliases: [Detect Snares and Pits]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_druid_1
+  - spell
+  - spell_druid
+  - spell_occultist_1
+  - spell_hunter
+  - spell_hunter_1
+  - spell_occultist
 ---
 
 ## Detect Snares and Pits

@@ -2,6 +2,24 @@
 aliases: [Night of Blades]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_hunter_4
+  - spell_sorcerer
+  - spell
+  - spell_ranger_4
+  - spell_sorcerer_3
+  - spell_summoner_unchained_3
+  - spell_inquisitor
+  - spell_ranger
+  - spell_arcanist_3
+  - spell_summoner_3
+  - spell_summoner
+  - spell_antipaladin_4
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Night of Blades

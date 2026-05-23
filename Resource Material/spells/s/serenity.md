@@ -2,6 +2,26 @@
 aliases: [Serenity]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_psychic_5
+  - spell_bard
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_sorcerer_6
+  - spell_mesmerist_4
+  - spell_arcanist_6
+  - spell_skald
+  - spell_warpriest_5
+  - spell_warpriest
+  - spell_oracle
+  - spell_psychic
+  - spell_bard_4
+  - spell_arcanist
 ---
 
 ## Serenity

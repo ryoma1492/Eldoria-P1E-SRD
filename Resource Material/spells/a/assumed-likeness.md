@@ -2,6 +2,26 @@
 aliases: [Assumed Likeness]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_mesmerist
+  - spell_sorcerer_2
+  - spell_medium
+  - spell_bard
+  - spell_arcanist_2
+  - spell_bard_1
+  - spell_skald_1
+  - spell_medium_1
+  - spell_skald
+  - spell_magus
+  - spell_mesmerist_1
+  - spell_occultist_2
+  - spell_psychic
+  - spell_magus_2
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Assumed Likeness

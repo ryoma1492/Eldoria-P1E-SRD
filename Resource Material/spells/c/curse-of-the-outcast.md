@@ -2,6 +2,24 @@
 aliases: [Curse of the Outcast]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_cleric_6
+  - spell
+  - spell_mesmerist
+  - spell_oracle_6
+  - spell_skald_5
+  - spell_inquisitor_4
+  - spell_shaman
+  - spell_bard
+  - spell_mesmerist_4
+  - spell_skald
+  - spell_shaman_6
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_oracle
+  - spell_warpriest_6
+  - spell_bard_4
 ---
 
 ## Curse of the Outcast

@@ -2,6 +2,20 @@
 aliases: [Languid Venom]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_alchemist_2
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_shaman
+  - spell_arcanist_2
+  - spell_shaman_2
+  - spell_skald
+  - spell_investigator_2
+  - spell_investigator
+  - spell_alchemist
+  - spell_skald_2
+  - spell_arcanist
 ---
 
 ## Languid Venom

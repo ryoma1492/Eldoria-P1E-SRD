@@ -2,6 +2,28 @@
 aliases: [Summoner Conduit]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_summoner_unchained_4
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_psychic_5
+  - spell_arcanist_5
+  - spell_witch
+  - spell_warpriest_4
+  - spell_occultist_4
+  - spell_summoner_4
+  - spell_warpriest
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_witch_5
+  - spell_oracle
+  - spell_psychic
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Summoner Conduit

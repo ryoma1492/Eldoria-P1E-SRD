@@ -2,6 +2,20 @@
 aliases: [Antitoxin Touch]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_druid_1
+  - spell
+  - spell_shaman
+  - spell_alchemist_1
+  - spell_investigator_1
+  - spell_ranger_1
+  - spell_shaman_1
+  - spell_druid
+  - spell_ranger
+  - spell_investigator
+  - spell_alchemist
+  - spell_hunter
+  - spell_hunter_1
 ---
 
 ## Antitoxin Touch

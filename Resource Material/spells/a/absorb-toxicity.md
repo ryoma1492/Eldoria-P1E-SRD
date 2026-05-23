@@ -2,6 +2,24 @@
 aliases: [Absorb Toxicity]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell_druid_4
+  - spell
+  - spell_psychic_5
+  - spell_arcanist_5
+  - spell_witch
+  - spell_witch_4
+  - spell_druid
+  - spell_investigator
+  - spell_alchemist
+  - spell_alchemist_3
+  - spell_psychic
+  - spell_hunter
+  - spell_investigator_3
+  - spell_arcanist
 ---
 
 ## Absorb Toxicity

@@ -2,6 +2,18 @@
 aliases: [Rite of Bodily Purity]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_druid_1
+  - spell
+  - spell_paladin_1
+  - spell_shaman
+  - spell_ranger_1
+  - spell_shaman_1
+  - spell_druid
+  - spell_cleric_1
+  - spell_ranger
 ---
 
 ## Rite of Bodily Purity

@@ -2,6 +2,36 @@
 aliases: [Insect Scouts]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_inquisitor_3
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_shaman
+  - spell_bard
+  - spell_shaman_2
+  - spell_sorcerer_3
+  - spell_druid
+  - spell_summoner_unchained_3
+  - spell_skald
+  - spell_inquisitor
+  - spell_ranger
+  - spell_arcanist_3
+  - spell_summoner_3
+  - spell_ranger_2
+  - spell_druid_2
+  - spell_psychic
+  - spell_summoner
+  - spell_hunter_2
+  - spell_antipaladin_4
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_psychic_4
+  - spell_witch_3
+  - spell_antipaladin
+  - spell_bard_4
+  - spell_arcanist
 ---
 
 ## Insect Scouts

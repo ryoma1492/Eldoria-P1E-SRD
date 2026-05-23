@@ -2,6 +2,12 @@
 aliases: [Ectoplasmic Hand]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_occultist_5
+  - spell
+  - spell_psychic_5
+  - spell_psychic
+  - spell_occultist
 ---
 
 ## Ectoplasmic Hand

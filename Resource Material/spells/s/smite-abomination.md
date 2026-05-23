@@ -2,6 +2,14 @@
 aliases: [Smite Abomination]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_inquisitor_4
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_inquisitor
+  - spell_oracle
 ---
 
 ## Smite Abomination

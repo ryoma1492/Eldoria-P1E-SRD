@@ -2,6 +2,42 @@
 aliases: [Invisibility, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_summoner_unchained_4
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_magus_4
+  - spell_medium
+  - spell_redmantisassassin
+  - spell_inquisitor_4
+  - spell_bard
+  - spell_occultist_4
+  - spell_mesmerist_4
+  - spell_skald
+  - spell_magus
+  - spell_inquisitor
+  - spell_investigator
+  - spell_summoner_3
+  - spell_alchemist
+  - spell_psychic
+  - spell_summoner
+  - spell_sorcerer_4
+  - spell_alchemist_4
+  - spell_antipaladin_4
+  - spell_spiritualist_4
+  - spell_investigator_4
+  - spell_summoner_unchained
+  - spell_psychic_4
+  - spell_medium_3
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_spiritualist
+  - spell_antipaladin
+  - spell_bard_4
+  - spell_redmantisassassin_4
+  - spell_arcanist
 ---
 
 ## Invisibility, Greater

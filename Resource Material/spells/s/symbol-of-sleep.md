@@ -2,6 +2,26 @@
 aliases: [Symbol of Sleep]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell
+  - spell_mesmerist
+  - spell_arcanist_5
+  - spell_witch
+  - spell_cleric_5
+  - spell_occultist_4
+  - spell_oracle_5
+  - spell_sahirafiyun_5
+  - spell_warpriest_5
+  - spell_warpriest
+  - spell_witch_5
+  - spell_oracle
+  - spell_mesmerist_5
+  - spell_sahirafiyun
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Symbol of Sleep

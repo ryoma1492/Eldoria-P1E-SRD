@@ -2,6 +2,18 @@
 aliases: [Retrocognition]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_psychic_5
+  - spell_medium
+  - spell_occultist_3
+  - spell_sorcerer_7
+  - spell_psychic
+  - spell_arcanist_7
+  - spell_medium_3
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Retrocognition

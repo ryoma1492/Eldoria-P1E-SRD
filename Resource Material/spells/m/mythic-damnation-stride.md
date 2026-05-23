@@ -2,6 +2,18 @@
 aliases: [Mythic Damnation Stride]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_summoner_unchained_4
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell
+  - spell_arcanist_5
+  - spell_witch
+  - spell_summoner_4
+  - spell_witch_5
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_arcanist
 ---
 
 ## Mythic Damnation Stride

@@ -2,6 +2,34 @@
 aliases: [Magic Weapon]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_arcanist_1
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell
+  - spell_paladin_1
+  - spell_redmantisassassin
+  - spell_shaman
+  - spell_antipaladin_1
+  - spell_inquisitor_1
+  - spell_warpriest_1
+  - spell_redmantisassassin_1
+  - spell_shaman_1
+  - spell_cleric_1
+  - spell_oracle_1
+  - spell_magus
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_magus_1
+  - spell_oracle
+  - spell_occultist_1
+  - spell_sorcerer_1
+  - spell_occultist
+  - spell_antipaladin
+  - spell_bloodrager_1
+  - spell_arcanist
 ---
 
 ## Magic Weapon

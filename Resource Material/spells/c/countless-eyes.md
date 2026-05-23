@@ -2,6 +2,28 @@
 aliases: [Countless Eyes]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_bloodrager
+  - spell_redmantisassassin_3
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_redmantisassassin
+  - spell_psychic_3
+  - spell_occultist_3
+  - spell_sorcerer_3
+  - spell_bloodrager_3
+  - spell_inquisitor
+  - spell_arcanist_3
+  - spell_investigator
+  - spell_alchemist
+  - spell_alchemist_3
+  - spell_psychic
+  - spell_witch_3
+  - spell_occultist
+  - spell_investigator_3
+  - spell_arcanist
 ---
 
 ## Countless Eyes

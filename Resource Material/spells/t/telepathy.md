@@ -2,6 +2,20 @@
 aliases: [Telepathy]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_psychic_5
+  - spell_spiritualist_6
+  - spell_medium
+  - spell_sorcerer_6
+  - spell_medium_4
+  - spell_mesmerist_4
+  - spell_arcanist_6
+  - spell_psychic
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Telepathy

@@ -2,6 +2,38 @@
 aliases: [Pesh Vigor]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_druid_1
+  - spell_cleric
+  - spell_arcanist_1
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell
+  - spell_summoner_1
+  - spell_shaman
+  - spell_antipaladin_1
+  - spell_alchemist_1
+  - spell_investigator_1
+  - spell_warpriest_1
+  - spell_shaman_1
+  - spell_druid
+  - spell_cleric_1
+  - spell_oracle_1
+  - spell_magus
+  - spell_warpriest
+  - spell_sahirafiyun_1
+  - spell_investigator
+  - spell_magus_1
+  - spell_alchemist
+  - spell_oracle
+  - spell_summoner
+  - spell_hunter
+  - spell_sahirafiyun
+  - spell_sorcerer_1
+  - spell_hunter_1
+  - spell_antipaladin
+  - spell_bloodrager_1
+  - spell_arcanist
 ---
 
 ## Pesh Vigor

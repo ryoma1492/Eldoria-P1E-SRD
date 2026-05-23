@@ -2,6 +2,16 @@
 aliases: [Parchment Swarm]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_arcanist_5
+  - spell_occultist_4
+  - spell_magus_5
+  - spell_magus
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Parchment Swarm

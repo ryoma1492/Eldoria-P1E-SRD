@@ -2,6 +2,14 @@
 aliases: [Stone Tell]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_psychic_6
+  - spell_druid
+  - spell_druid_6
+  - spell_hunter_6
+  - spell_psychic
+  - spell_hunter
 ---
 
 ## Stone Tell

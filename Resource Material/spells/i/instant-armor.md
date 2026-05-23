@@ -2,6 +2,16 @@
 aliases: [Instant Armor]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_psychic_2
+  - spell
+  - spell_cleric_2
+  - spell_paladin_2
+  - spell_oracle_2
+  - spell_oracle
+  - spell_psychic
 ---
 
 ## Instant Armor

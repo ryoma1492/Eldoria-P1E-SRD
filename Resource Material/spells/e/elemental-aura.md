@@ -2,6 +2,20 @@
 aliases: [Elemental Aura]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell_magus_3
+  - spell
+  - spell_sorcerer_3
+  - spell_bloodrager_3
+  - spell_magus
+  - spell_arcanist_3
+  - spell_investigator
+  - spell_alchemist
+  - spell_alchemist_3
+  - spell_investigator_3
+  - spell_arcanist
 ---
 
 ## Elemental Aura

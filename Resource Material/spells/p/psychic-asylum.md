@@ -2,6 +2,16 @@
 aliases: [Psychic Asylum]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_psychic_5
+  - spell_sorcerer_6
+  - spell_arcanist_6
+  - spell_psychic
+  - spell_mesmerist_5
+  - spell_arcanist
 ---
 
 ## Psychic Asylum

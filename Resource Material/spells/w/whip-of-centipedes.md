@@ -2,6 +2,26 @@
 aliases: [Whip of Centipedes]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_summoner_5
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_arcanist_5
+  - spell_witch
+  - spell_bard_5
+  - spell_skald_5
+  - spell_bard
+  - spell_druid
+  - spell_skald
+  - spell_witch_5
+  - spell_hunter_5
+  - spell_summoner_unchained_5
+  - spell_summoner
+  - spell_druid_5
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_arcanist
 ---
 
 ## Whip of Centipedes

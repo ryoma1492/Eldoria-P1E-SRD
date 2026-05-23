@@ -2,6 +2,14 @@
 aliases: [Control Winds]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_occultist_5
+  - spell
+  - spell_druid
+  - spell_hunter_5
+  - spell_druid_5
+  - spell_hunter
+  - spell_occultist
 ---
 
 ## Control Winds

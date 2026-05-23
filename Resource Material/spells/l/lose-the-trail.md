@@ -2,6 +2,20 @@
 aliases: [Lose the Trail]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_redmantisassassin
+  - spell_ranger_1
+  - spell_antipaladin_2
+  - spell_redmantisassassin_1
+  - spell_ranger
+  - spell_hunter
+  - spell_sorcerer_1
+  - spell_hunter_1
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Lose the Trail

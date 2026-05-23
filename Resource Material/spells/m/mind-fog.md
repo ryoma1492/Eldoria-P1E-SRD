@@ -2,6 +2,26 @@
 aliases: [Mind Fog]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_occultist_5
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell_spiritualist_5
+  - spell
+  - spell_mesmerist
+  - spell_psychic_5
+  - spell_arcanist_5
+  - spell_witch
+  - spell_bard_5
+  - spell_skald_5
+  - spell_bard
+  - spell_skald
+  - spell_witch_5
+  - spell_psychic
+  - spell_mesmerist_5
+  - spell_occultist
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Mind Fog

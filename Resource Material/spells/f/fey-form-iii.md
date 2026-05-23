@@ -2,6 +2,24 @@
 aliases: [Fey Form III]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_witch_7
+  - spell
+  - spell_alchemist_6
+  - spell_witch
+  - spell_shaman
+  - spell_investigator_6
+  - spell_druid
+  - spell_druid_6
+  - spell_shaman_6
+  - spell_hunter_6
+  - spell_investigator
+  - spell_sorcerer_7
+  - spell_alchemist
+  - spell_arcanist_7
+  - spell_hunter
+  - spell_arcanist
 ---
 
 ## Fey Form III

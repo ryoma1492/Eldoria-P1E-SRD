@@ -2,6 +2,24 @@
 aliases: [Arcane Mark]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_witch_0
+  - spell_summoner_unchained_0
+  - spell_witch
+  - spell_shaman
+  - spell_magus_0
+  - spell_summoner_0
+  - spell_magus
+  - spell_sorcerer_0
+  - spell_psychic_0
+  - spell_arcanist_0
+  - spell_psychic
+  - spell_summoner
+  - spell_shaman_0
+  - spell_summoner_unchained
+  - spell_arcanist
 ---
 
 ## Arcane Mark

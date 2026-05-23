@@ -2,6 +2,20 @@
 aliases: [True Form]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell_sorcerer
+  - spell
+  - spell_druid_4
+  - spell_occultist_4
+  - spell_druid
+  - spell_psychic
+  - spell_sorcerer_4
+  - spell_hunter
+  - spell_psychic_4
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_arcanist
 ---
 
 ## True Form

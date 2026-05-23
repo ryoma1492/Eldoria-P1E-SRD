@@ -2,6 +2,16 @@
 aliases: [Sculpt Simulacrum]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_sorcerer_2
+  - spell_redmantisassassin
+  - spell_arcanist_2
+  - spell_redmantisassassin_2
+  - spell_psychic
+  - spell_arcanist
 ---
 
 ## Sculpt Simulacrum

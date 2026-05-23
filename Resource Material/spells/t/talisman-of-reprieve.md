@@ -2,6 +2,16 @@
 aliases: [Talisman of Reprieve]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_occultist_5
+  - spell
+  - spell_inquisitor_4
+  - spell_cleric_5
+  - spell_inquisitor
+  - spell_paladin_3
+  - spell_occultist
 ---
 
 ## Talisman of Reprieve

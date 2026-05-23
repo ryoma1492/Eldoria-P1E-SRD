@@ -2,6 +2,28 @@
 aliases: [Echolocation]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_hunter_4
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell_druid_4
+  - spell
+  - spell_psychic_5
+  - spell_arcanist_5
+  - spell_bard
+  - spell_occultist_4
+  - spell_druid
+  - spell_skald
+  - spell_investigator
+  - spell_alchemist
+  - spell_psychic
+  - spell_alchemist_4
+  - spell_investigator_4
+  - spell_hunter
+  - spell_occultist
+  - spell_bard_4
+  - spell_arcanist
 ---
 
 ## Echolocation

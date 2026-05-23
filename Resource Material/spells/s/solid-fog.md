@@ -2,6 +2,24 @@
 aliases: [Solid Fog]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_summoner_unchained_4
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_magus_4
+  - spell_witch
+  - spell_shaman
+  - spell_witch_4
+  - spell_mesmerist_4
+  - spell_magus
+  - spell_sorcerer_4
+  - spell_spiritualist_4
+  - spell_summoner_unchained
+  - spell_arcanist_4
+  - spell_spiritualist
+  - spell_shaman_4
+  - spell_arcanist
 ---
 
 ## Solid Fog

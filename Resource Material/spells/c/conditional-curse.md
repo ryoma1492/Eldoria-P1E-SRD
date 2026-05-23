@@ -2,6 +2,36 @@
 aliases: [Conditional Curse]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_mesmerist_3
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell_mesmerist
+  - spell_spiritualist_5
+  - spell
+  - spell_psychic_5
+  - spell_arcanist_5
+  - spell_witch
+  - spell_medium
+  - spell_shaman
+  - spell_inquisitor_4
+  - spell_warpriest_4
+  - spell_occultist_4
+  - spell_witch_4
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_oracle
+  - spell_psychic
+  - spell_antipaladin_4
+  - spell_medium_3
+  - spell_occultist
+  - spell_spiritualist
+  - spell_antipaladin
+  - spell_shaman_4
+  - spell_arcanist
 ---
 
 ## Conditional Curse

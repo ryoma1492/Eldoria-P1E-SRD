@@ -2,6 +2,22 @@
 aliases: [Protection from Arrows, Communal]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_psychic_3
+  - spell_sorcerer_3
+  - spell_summoner_unchained_3
+  - spell_arcanist_3
+  - spell_investigator
+  - spell_summoner_3
+  - spell_alchemist
+  - spell_alchemist_3
+  - spell_psychic
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_investigator_3
+  - spell_arcanist
 ---
 
 ## Protection from Arrows, Communal

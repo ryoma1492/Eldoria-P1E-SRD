@@ -2,6 +2,26 @@
 aliases: [Eyebite]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_alchemist_6
+  - spell_spiritualist_6
+  - spell_witch
+  - spell_bard
+  - spell_bard_6
+  - spell_sorcerer_6
+  - spell_investigator_6
+  - spell_arcanist_6
+  - spell_skald
+  - spell_skald_6
+  - spell_investigator
+  - spell_alchemist
+  - spell_witch_6
+  - spell_mesmerist_6
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Eyebite

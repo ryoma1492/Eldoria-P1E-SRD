@@ -2,6 +2,16 @@
 aliases: [Mythic Circle of Death]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_spiritualist_6
+  - spell_sorcerer_6
+  - spell_arcanist_6
+  - spell_inquisitor
+  - spell_inquisitor_6
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Mythic Circle of Death

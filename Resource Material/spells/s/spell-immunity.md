@@ -2,6 +2,24 @@
 aliases: [Spell Immunity]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_inquisitor_4
+  - spell_occultist_4
+  - spell_inquisitor
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_investigator
+  - spell_alchemist
+  - spell_oracle
+  - spell_psychic
+  - spell_alchemist_4
+  - spell_spiritualist_4
+  - spell_investigator_4
+  - spell_psychic_4
+  - spell_occultist
+  - spell_spiritualist
 ---
 
 ## Spell Immunity

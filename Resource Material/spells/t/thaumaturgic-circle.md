@@ -2,6 +2,26 @@
 aliases: [Thaumaturgic Circle]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_medium
+  - spell_warpriest_4
+  - spell_inquisitor_4
+  - spell_summoner_4
+  - spell_occultist_3
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_oracle
+  - spell_summoner
+  - spell_sorcerer_4
+  - spell_medium_3
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_arcanist
 ---
 
 ## Thaumaturgic Circle

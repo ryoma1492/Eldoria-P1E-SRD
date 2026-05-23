@@ -2,6 +2,32 @@
 aliases: [Detect Scrying]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_witch
+  - spell_medium
+  - spell_inquisitor_4
+  - spell_shaman
+  - spell_bard
+  - spell_occultist_4
+  - spell_witch_4
+  - spell_mesmerist_4
+  - spell_skald
+  - spell_inquisitor
+  - spell_psychic
+  - spell_sorcerer_4
+  - spell_spiritualist_4
+  - spell_psychic_4
+  - spell_medium_3
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_spiritualist
+  - spell_bard_4
+  - spell_shaman_4
+  - spell_arcanist
 ---
 
 ## Detect Scrying

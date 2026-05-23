@@ -2,6 +2,28 @@
 aliases: [Plundered Power]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell_witch_7
+  - spell
+  - spell_druid_7
+  - spell_witch
+  - spell_shaman_7
+  - spell_shaman
+  - spell_druid
+  - spell_summoner_unchained_6
+  - spell_sorcerer_7
+  - spell_cleric_7
+  - spell_oracle
+  - spell_summoner
+  - spell_summoner_6
+  - spell_arcanist_7
+  - spell_summoner_unchained
+  - spell_occultist
+  - spell_occultist_6
+  - spell_oracle_7
+  - spell_arcanist
 ---
 
 ## Plundered Power

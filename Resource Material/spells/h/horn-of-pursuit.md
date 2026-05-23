@@ -2,6 +2,18 @@
 aliases: [Horn of Pursuit]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell
+  - spell_paladin_1
+  - spell_bard
+  - spell_inquisitor_1
+  - spell_ranger_1
+  - spell_bard_1
+  - spell_inquisitor
+  - spell_ranger
+  - spell_hunter
+  - spell_hunter_1
 ---
 
 ## Horn of Pursuit

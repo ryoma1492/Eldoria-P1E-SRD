@@ -2,6 +2,30 @@
 aliases: ["Marid's Mastery"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_druid_1
+  - spell_cleric
+  - spell_bloodrager
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_redmantisassassin
+  - spell_warpriest_1
+  - spell_ranger_1
+  - spell_redmantisassassin_1
+  - spell_witch_1
+  - spell_cleric_1
+  - spell_druid
+  - spell_oracle_1
+  - spell_warpriest
+  - spell_ranger
+  - spell_oracle
+  - spell_hunter
+  - spell_sorcerer_1
+  - spell_hunter_1
+  - spell_arcanist
+  - spell_bloodrager_1
 ---
 
 ## Marid's Mastery

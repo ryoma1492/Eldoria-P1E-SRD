@@ -2,6 +2,24 @@
 aliases: [Urban Step]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_magus_3
+  - spell_sorcerer
+  - spell
+  - spell_bard
+  - spell_occultist_3
+  - spell_sorcerer_3
+  - spell_summoner_unchained_3
+  - spell_skald
+  - spell_bard_2
+  - spell_magus
+  - spell_arcanist_3
+  - spell_summoner_3
+  - spell_summoner
+  - spell_skald_2
+  - spell_summoner_unchained
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Urban Step

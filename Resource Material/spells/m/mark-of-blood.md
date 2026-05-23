@@ -2,6 +2,18 @@
 aliases: [Mark of Blood]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_witch
+  - spell_bloodrager_2
+  - spell_arcanist_2
+  - spell_inquisitor
+  - spell_witch_2
+  - spell_inquisitor_2
+  - spell_arcanist
 ---
 
 ## Mark of Blood

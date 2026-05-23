@@ -2,6 +2,30 @@
 aliases: ["Nixie's Lure"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell_summoner_unchained_4
+  - spell_mesmerist_3
+  - spell_skald_3
+  - spell_sorcerer
+  - spell_druid_4
+  - spell
+  - spell_mesmerist
+  - spell_witch
+  - spell_bard
+  - spell_summoner_4
+  - spell_witch_4
+  - spell_psychic_3
+  - spell_druid
+  - spell_skald
+  - spell_psychic
+  - spell_summoner
+  - spell_sorcerer_4
+  - spell_bard_3
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_arcanist_4
+  - spell_arcanist
 ---
 
 ## Nixie's Lure

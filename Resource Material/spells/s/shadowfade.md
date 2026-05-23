@@ -2,6 +2,24 @@
 aliases: [Shadowfade]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_summoner_1
+  - spell_bard
+  - spell_inquisitor_1
+  - spell_bard_1
+  - spell_skald_1
+  - spell_skald
+  - spell_inquisitor
+  - spell_mesmerist_1
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_sorcerer_1
+  - spell_summoner_unchained_1
+  - spell_arcanist
 ---
 
 ## Shadowfade

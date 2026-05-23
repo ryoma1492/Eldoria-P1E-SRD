@@ -2,6 +2,32 @@
 aliases: [Pack Empathy]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_inquisitor_3
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell
+  - spell_medium
+  - spell_druid_3
+  - spell_sorcerer_3
+  - spell_summoner_unchained_3
+  - spell_druid
+  - spell_bloodrager_3
+  - spell_ranger
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_medium_2
+  - spell_arcanist_3
+  - spell_summoner_3
+  - spell_ranger_2
+  - spell_spiritualist_3
+  - spell_summoner
+  - spell_hunter_2
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Pack Empathy

@@ -2,6 +2,24 @@
 aliases: [Shield Of Shards]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_bloodrager
+  - spell
+  - spell_cleric_2
+  - spell_paladin_1
+  - spell_medium
+  - spell_shaman
+  - spell_shaman_2
+  - spell_oracle_2
+  - spell_magus
+  - spell_inquisitor
+  - spell_medium_2
+  - spell_inquisitor_2
+  - spell_oracle
+  - spell_magus_2
+  - spell_bloodrager_1
 ---
 
 ## Shield Of Shards

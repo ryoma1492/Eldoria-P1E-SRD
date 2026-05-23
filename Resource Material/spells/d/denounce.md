@@ -2,6 +2,16 @@
 aliases: [Denounce]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_mesmerist
+  - spell_psychic_5
+  - spell_inquisitor_4
+  - spell_bard
+  - spell_mesmerist_4
+  - spell_inquisitor
+  - spell_psychic
+  - spell_bard_4
 ---
 
 ## Denounce

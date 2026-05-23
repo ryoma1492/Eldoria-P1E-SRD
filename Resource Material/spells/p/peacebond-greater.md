@@ -2,6 +2,20 @@
 aliases: [Peacebond, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_psychic_5
+  - spell_arcanist_5
+  - spell_witch
+  - spell_inquisitor_4
+  - spell_occultist_4
+  - spell_inquisitor
+  - spell_witch_5
+  - spell_psychic
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Peacebond, Greater

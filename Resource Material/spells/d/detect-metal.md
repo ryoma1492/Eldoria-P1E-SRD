@@ -2,6 +2,24 @@
 aliases: [Detect Metal]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_summoner_1
+  - spell_bard
+  - spell_alchemist_1
+  - spell_investigator_1
+  - spell_bard_1
+  - spell_skald_1
+  - spell_skald
+  - spell_investigator
+  - spell_alchemist
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_sorcerer_1
+  - spell_summoner_unchained_1
+  - spell_arcanist
 ---
 
 ## Detect Metal

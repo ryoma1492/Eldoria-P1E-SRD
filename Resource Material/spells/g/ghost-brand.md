@@ -2,6 +2,16 @@
 aliases: [Ghost Brand]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell
+  - spell_bard
+  - spell_occultist_3
+  - spell_skald
+  - spell_spiritualist_4
+  - spell_occultist
+  - spell_spiritualist
+  - spell_bard_4
 ---
 
 ## Ghost Brand

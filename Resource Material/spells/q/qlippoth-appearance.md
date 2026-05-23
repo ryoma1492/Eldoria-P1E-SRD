@@ -2,6 +2,20 @@
 aliases: [Qlippoth Appearance]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_shaman_3
+  - spell
+  - spell_oracle_3
+  - spell_shaman
+  - spell_antipaladin_2
+  - spell_warpriest
+  - spell_alchemist
+  - spell_oracle
+  - spell_alchemist_3
+  - spell_cleric_3
+  - spell_antipaladin
 ---
 
 ## Qlippoth Appearance

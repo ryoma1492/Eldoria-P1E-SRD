@@ -2,6 +2,22 @@
 aliases: ["Hanspur's Flotsam Vessel"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_cleric_2
+  - spell_summoner_1
+  - spell_ranger_1
+  - spell_oracle_2
+  - spell_druid
+  - spell_ranger
+  - spell_druid_2
+  - spell_oracle
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_hunter_1
+  - spell_summoner_unchained_1
 ---
 
 ## Hanspur's Flotsam Vessel

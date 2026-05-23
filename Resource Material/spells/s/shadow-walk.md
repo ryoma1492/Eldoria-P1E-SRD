@@ -2,6 +2,24 @@
 aliases: [Shadow Walk]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_alchemist_6
+  - spell_spiritualist_6
+  - spell_bard_5
+  - spell_skald_5
+  - spell_bard
+  - spell_sorcerer_6
+  - spell_investigator_6
+  - spell_arcanist_6
+  - spell_skald
+  - spell_investigator
+  - spell_alchemist
+  - spell_mesmerist_5
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Shadow Walk

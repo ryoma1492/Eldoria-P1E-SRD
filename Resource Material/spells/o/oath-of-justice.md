@@ -2,6 +2,14 @@
 aliases: [Oath of Justice]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell
+  - spell_oracle_3
+  - spell_paladin_2
+  - spell_oracle
+  - spell_cleric_3
 ---
 
 ## Oath of Justice

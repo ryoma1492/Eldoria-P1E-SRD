@@ -2,6 +2,22 @@
 aliases: [Twilight Haze]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell_mesmerist
+  - spell
+  - spell_sorcerer_2
+  - spell_witch
+  - spell_redmantisassassin
+  - spell_arcanist_2
+  - spell_redmantisassassin_2
+  - spell_spiritualist_2
+  - spell_witch_2
+  - spell_mesmerist_2
+  - spell_psychic
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Twilight Haze

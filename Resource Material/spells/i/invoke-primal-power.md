@@ -2,6 +2,10 @@
 aliases: [Invoke Primal Power]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_druid
+  - spell_druid_5
 ---
 
 ## Invoke Primal Power

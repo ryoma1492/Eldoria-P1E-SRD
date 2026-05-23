@@ -2,6 +2,16 @@
 aliases: [Disrupt Undead]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_inquisitor_0
+  - spell
+  - spell_magus_0
+  - spell_magus
+  - spell_inquisitor
+  - spell_sorcerer_0
+  - spell_arcanist_0
+  - spell_arcanist
 ---
 
 ## Disrupt Undead

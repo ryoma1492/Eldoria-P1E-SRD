@@ -2,6 +2,16 @@
 aliases: [Commune with Nature]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell
+  - spell_psychic_5
+  - spell_ranger_4
+  - spell_druid
+  - spell_ranger
+  - spell_psychic
+  - spell_druid_5
+  - spell_hunter
 ---
 
 ## Commune with Nature

@@ -2,6 +2,18 @@
 aliases: ["Mage's Faithful Hound"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell_spiritualist_5
+  - spell
+  - spell_arcanist_5
+  - spell_summoner_4
+  - spell_summoner_unchained_5
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Mage's Faithful Hound

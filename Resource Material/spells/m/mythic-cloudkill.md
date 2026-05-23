@@ -2,6 +2,20 @@
 aliases: [Mythic Cloudkill]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell_spiritualist_5
+  - spell
+  - spell_arcanist_5
+  - spell_witch
+  - spell_magus_5
+  - spell_magus
+  - spell_witch_5
+  - spell_summoner_unchained_5
+  - spell_summoner_unchained
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Mythic Cloudkill

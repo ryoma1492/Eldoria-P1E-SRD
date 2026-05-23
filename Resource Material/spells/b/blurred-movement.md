@@ -2,6 +2,36 @@
 aliases: [Blurred Movement]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_1
+  - spell_arcanist_1
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_summoner_1
+  - spell_redmantisassassin
+  - spell_bard
+  - spell_alchemist_1
+  - spell_investigator_1
+  - spell_bard_1
+  - spell_skald_1
+  - spell_redmantisassassin_1
+  - spell_skald
+  - spell_magus
+  - spell_mesmerist_1
+  - spell_investigator
+  - spell_magus_1
+  - spell_alchemist
+  - spell_psychic
+  - spell_summoner
+  - spell_occultist_1
+  - spell_summoner_unchained
+  - spell_sorcerer_1
+  - spell_occultist
+  - spell_summoner_unchained_1
+  - spell_bloodrager_1
+  - spell_arcanist
 ---
 
 ## Blurred Movement

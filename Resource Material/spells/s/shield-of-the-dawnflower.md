@@ -2,6 +2,24 @@
 aliases: [Shield of the Dawnflower]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_paladin
+  - spell_cleric
+  - spell_hunter_4
+  - spell
+  - spell_paladin_4
+  - spell_magus_4
+  - spell_ranger_4
+  - spell_bard
+  - spell_skald
+  - spell_magus
+  - spell_ranger
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_oracle
+  - spell_hunter
+  - spell_bard_4
 ---
 
 ## Shield of the Dawnflower

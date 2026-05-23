@@ -2,6 +2,16 @@
 aliases: [Enhanced Diplomacy]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_hunter_0
+  - spell_druid_0
+  - spell_druid
+  - spell_oracle
+  - spell_cleric_0
+  - spell_oracle_0
+  - spell_hunter
 ---
 
 ## Enhanced Diplomacy

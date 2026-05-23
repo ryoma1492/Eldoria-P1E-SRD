@@ -2,6 +2,12 @@
 aliases: [Cast Out]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell
+  - spell_medium
+  - spell_inquisitor
+  - spell_medium_2
 ---
 
 ## Cast Out

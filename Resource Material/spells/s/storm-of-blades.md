@@ -2,6 +2,20 @@
 aliases: [Storm of Blades]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_oracle_3
+  - spell_sorcerer_2
+  - spell_arcanist_2
+  - spell_magus
+  - spell_warpriest
+  - spell_oracle
+  - spell_magus_2
+  - spell_cleric_3
+  - spell_arcanist
 ---
 
 ## Storm of Blades

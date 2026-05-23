@@ -2,6 +2,16 @@
 aliases: ["Champion's Bout"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_skald_3
+  - spell
+  - spell_oracle_3
+  - spell_bard
+  - spell_skald
+  - spell_oracle
+  - spell_bard_3
+  - spell_cleric_3
 ---
 
 ## Champion's Bout

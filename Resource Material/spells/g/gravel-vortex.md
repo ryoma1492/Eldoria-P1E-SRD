@@ -2,6 +2,16 @@
 aliases: [Gravel Vortex]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell_sorcerer
+  - spell
+  - spell_druid_4
+  - spell_druid
+  - spell_sorcerer_4
+  - spell_hunter
+  - spell_arcanist_4
+  - spell_arcanist
 ---
 
 ## Gravel Vortex

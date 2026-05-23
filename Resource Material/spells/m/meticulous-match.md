@@ -2,6 +2,26 @@
 aliases: [Meticulous Match]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_ranger_3
+  - spell_inquisitor_3
+  - spell_skald_3
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_bard
+  - spell_witch_4
+  - spell_occultist_3
+  - spell_hunter_3
+  - spell_skald
+  - spell_ranger
+  - spell_inquisitor
+  - spell_sorcerer_4
+  - spell_bard_3
+  - spell_hunter
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_arcanist
 ---
 
 ## Meticulous Match

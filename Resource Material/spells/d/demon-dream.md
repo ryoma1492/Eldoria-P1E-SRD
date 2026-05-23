@@ -2,6 +2,12 @@
 aliases: [Demon Dream]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_cleric_6
+  - spell
+  - spell_oracle_6
+  - spell_oracle
 ---
 
 ## Demon Dream

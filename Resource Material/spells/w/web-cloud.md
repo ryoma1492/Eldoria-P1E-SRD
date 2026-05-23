@@ -2,6 +2,14 @@
 aliases: [Web Cloud]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_witch_4
+  - spell_sorcerer_4
+  - spell_arcanist_4
+  - spell_arcanist
 ---
 
 ## Web Cloud

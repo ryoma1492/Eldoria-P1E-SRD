@@ -2,6 +2,20 @@
 aliases: [Lightning Lash]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_inquisitor_3
+  - spell_cleric
+  - spell
+  - spell_oracle_3
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_ranger
+  - spell_ranger_2
+  - spell_oracle
+  - spell_hunter_2
+  - spell_hunter
+  - spell_cleric_3
 ---
 
 ## Lightning Lash

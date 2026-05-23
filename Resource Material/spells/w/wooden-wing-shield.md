@@ -2,6 +2,18 @@
 aliases: [Wooden Wing Shield]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell_bloodrager
+  - spell
+  - spell_druid_4
+  - spell_shaman
+  - spell_bloodrager_4
+  - spell_magus_5
+  - spell_druid
+  - spell_magus
+  - spell_hunter
+  - spell_shaman_4
 ---
 
 ## Wooden Wing Shield

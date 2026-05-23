@@ -2,6 +2,22 @@
 aliases: [Silk To Steel]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_witch
+  - spell_redmantisassassin
+  - spell_bard
+  - spell_arcanist_2
+  - spell_redmantisassassin_2
+  - spell_skald
+  - spell_bard_2
+  - spell_witch_2
+  - spell_occultist_2
+  - spell_skald_2
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Silk To Steel

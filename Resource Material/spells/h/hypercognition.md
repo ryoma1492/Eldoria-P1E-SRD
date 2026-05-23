@@ -2,6 +2,24 @@
 aliases: [Hypercognition]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_3
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_medium
+  - spell_bard
+  - spell_skald
+  - spell_medium_2
+  - spell_investigator
+  - spell_alchemist
+  - spell_alchemist_3
+  - spell_psychic
+  - spell_sorcerer_4
+  - spell_bard_3
+  - spell_arcanist_4
+  - spell_investigator_3
+  - spell_arcanist
 ---
 
 ## Hypercognition

@@ -2,6 +2,16 @@
 aliases: [Resist Starvation]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_shaman
+  - spell_antipaladin_1
+  - spell_shaman_1
+  - spell_cleric_1
+  - spell_oracle_1
+  - spell_oracle
+  - spell_antipaladin
 ---
 
 ## Resist Starvation

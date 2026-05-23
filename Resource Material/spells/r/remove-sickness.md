@@ -2,6 +2,22 @@
 aliases: [Remove Sickness]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_druid_1
+  - spell
+  - spell_mesmerist
+  - spell_spiritualist_1
+  - spell_warpriest_1
+  - spell_druid
+  - spell_cleric_1
+  - spell_oracle_1
+  - spell_warpriest
+  - spell_mesmerist_1
+  - spell_oracle
+  - spell_hunter
+  - spell_hunter_1
+  - spell_spiritualist
 ---
 
 ## Remove Sickness

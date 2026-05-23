@@ -2,6 +2,38 @@
 aliases: [Freedom of Movement]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_cleric
+  - spell_hunter_4
+  - spell_druid_4
+  - spell_mesmerist
+  - spell
+  - spell_medium
+  - spell_inquisitor_4
+  - spell_ranger_4
+  - spell_bard
+  - spell_occultist_4
+  - spell_medium_4
+  - spell_mesmerist_4
+  - spell_druid
+  - spell_skald
+  - spell_inquisitor
+  - spell_ranger
+  - spell_cleric_4
+  - spell_investigator
+  - spell_oracle_4
+  - spell_alchemist
+  - spell_oracle
+  - spell_psychic
+  - spell_alchemist_4
+  - spell_spiritualist_4
+  - spell_investigator_4
+  - spell_hunter
+  - spell_psychic_4
+  - spell_occultist
+  - spell_spiritualist
+  - spell_bard_4
 ---
 
 ## Freedom of Movement

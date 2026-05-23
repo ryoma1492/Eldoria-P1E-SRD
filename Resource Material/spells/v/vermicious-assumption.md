@@ -2,6 +2,16 @@
 aliases: [Vermicious Assumption]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_cleric_6
+  - spell
+  - spell_oracle_6
+  - spell_summoner_unchained_6
+  - spell_oracle
+  - spell_summoner
+  - spell_summoner_6
+  - spell_summoner_unchained
 ---
 
 ## Vermicious Assumption

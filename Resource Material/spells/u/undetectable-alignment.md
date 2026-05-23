@@ -2,6 +2,30 @@
 aliases: [Undetectable Alignment]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_alchemist_2
+  - spell_psychic_2
+  - spell_mesmerist
+  - spell
+  - spell_cleric_2
+  - spell_bard
+  - spell_paladin_2
+  - spell_antipaladin_2
+  - spell_bard_1
+  - spell_oracle_2
+  - spell_skald_1
+  - spell_skald
+  - spell_inquisitor
+  - spell_mesmerist_1
+  - spell_investigator_2
+  - spell_investigator
+  - spell_inquisitor_2
+  - spell_alchemist
+  - spell_oracle
+  - spell_psychic
+  - spell_antipaladin
 ---
 
 ## Undetectable Alignment

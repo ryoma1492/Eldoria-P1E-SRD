@@ -2,6 +2,30 @@
 aliases: [Wall of Fire]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_summoner_unchained_4
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell
+  - spell_adept_4
+  - spell_magus_4
+  - spell_shaman
+  - spell_occultist_4
+  - spell_bloodrager_4
+  - spell_adept
+  - spell_druid
+  - spell_magus
+  - spell_shaman_5
+  - spell_summoner_3
+  - spell_hunter_5
+  - spell_summoner
+  - spell_sorcerer_4
+  - spell_druid_5
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_arcanist
 ---
 
 ## Wall of Fire

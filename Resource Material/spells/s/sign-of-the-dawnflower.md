@@ -2,6 +2,20 @@
 aliases: [Sign of the Dawnflower]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell
+  - spell_hunter_0
+  - spell_paladin_1
+  - spell_druid_0
+  - spell_ranger_1
+  - spell_druid
+  - spell_ranger
+  - spell_oracle
+  - spell_cleric_0
+  - spell_oracle_0
+  - spell_hunter
 ---
 
 ## Sign of the Dawnflower

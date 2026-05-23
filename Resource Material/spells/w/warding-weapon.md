@@ -2,6 +2,24 @@
 aliases: [Warding Weapon]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_sorcerer_2
+  - spell_arcanist_2
+  - spell_magus
+  - spell_magus_1
+  - spell_psychic
+  - spell_summoner
+  - spell_summoner_unchained_2
+  - spell_occultist_1
+  - spell_summoner_unchained
+  - spell_occultist
+  - spell_arcanist
+  - spell_bloodrager_1
+  - spell_summoner_2
 ---
 
 ## Warding Weapon

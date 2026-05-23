@@ -2,6 +2,28 @@
 aliases: [Invoke Deity]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_hunter_4
+  - spell_cleric_6
+  - spell
+  - spell_paladin_4
+  - spell_oracle_6
+  - spell_medium
+  - spell_ranger_4
+  - spell_medium_4
+  - spell_warpriest
+  - spell_ranger
+  - spell_inquisitor
+  - spell_oracle
+  - spell_antipaladin_4
+  - spell_hunter
+  - spell_inquisitor_6
+  - spell_warpriest_6
+  - spell_occultist
+  - spell_occultist_6
+  - spell_antipaladin
 ---
 
 ## Invoke Deity

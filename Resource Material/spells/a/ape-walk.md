@@ -2,6 +2,20 @@
 aliases: [Ape Walk]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_redmantisassassin_3
+  - spell_sorcerer
+  - spell
+  - spell_redmantisassassin
+  - spell_druid_3
+  - spell_sorcerer_3
+  - spell_druid
+  - spell_ranger
+  - spell_arcanist_3
+  - spell_ranger_2
+  - spell_hunter_2
+  - spell_hunter
+  - spell_arcanist
 ---
 
 ## Ape Walk

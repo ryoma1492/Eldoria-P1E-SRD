@@ -2,6 +2,26 @@
 aliases: [Joyful Rapture]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_cleric_6
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_oracle_6
+  - spell_bard_5
+  - spell_skald_5
+  - spell_psychic_6
+  - spell_bard
+  - spell_skald
+  - spell_warpriest
+  - spell_sorcerer_7
+  - spell_oracle
+  - spell_psychic
+  - spell_mesmerist_5
+  - spell_arcanist_7
+  - spell_warpriest_6
+  - spell_arcanist
 ---
 
 ## Joyful Rapture

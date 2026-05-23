@@ -2,6 +2,18 @@
 aliases: [Duplicate Familiar]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_arcanist_5
+  - spell_witch
+  - spell_investigator
+  - spell_witch_5
+  - spell_alchemist
+  - spell_alchemist_4
+  - spell_investigator_4
+  - spell_arcanist
 ---
 
 ## Duplicate Familiar

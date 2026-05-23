@@ -2,6 +2,22 @@
 aliases: [Chameleon Scales]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_hunter_0
+  - spell_druid_0
+  - spell_alchemist_1
+  - spell_investigator_1
+  - spell_ranger_1
+  - spell_druid
+  - spell_ranger
+  - spell_sorcerer_0
+  - spell_investigator
+  - spell_alchemist
+  - spell_arcanist_0
+  - spell_hunter
+  - spell_arcanist
 ---
 
 ## Chameleon Scales

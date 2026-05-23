@@ -2,6 +2,20 @@
 aliases: [Animal Growth]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_arcanist_5
+  - spell_ranger_4
+  - spell_shaman
+  - spell_druid
+  - spell_ranger
+  - spell_shaman_5
+  - spell_druid_5
+  - spell_hunter
+  - spell_arcanist
 ---
 
 ## Animal Growth

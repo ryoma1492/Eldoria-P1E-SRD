@@ -2,6 +2,22 @@
 aliases: [Deceitful Veneer]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell
+  - spell_mesmerist
+  - spell_medium
+  - spell_inquisitor_4
+  - spell_bard
+  - spell_mesmerist_4
+  - spell_skald
+  - spell_inquisitor
+  - spell_antipaladin_3
+  - spell_psychic
+  - spell_psychic_4
+  - spell_medium_3
+  - spell_antipaladin
+  - spell_bard_4
 ---
 
 ## Deceitful Veneer

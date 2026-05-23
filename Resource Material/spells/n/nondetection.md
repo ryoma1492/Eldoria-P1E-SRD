@@ -2,6 +2,38 @@
 aliases: [Nondetection]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_hunter_4
+  - spell_mesmerist_3
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_medium
+  - spell_ranger_4
+  - spell_psychic_3
+  - spell_occultist_3
+  - spell_sorcerer_3
+  - spell_summoner_unchained_3
+  - spell_ranger
+  - spell_inquisitor
+  - spell_medium_2
+  - spell_arcanist_3
+  - spell_investigator
+  - spell_summoner_3
+  - spell_alchemist
+  - spell_antipaladin_3
+  - spell_spiritualist_3
+  - spell_alchemist_3
+  - spell_psychic
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_occultist
+  - spell_investigator_3
+  - spell_antipaladin
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Nondetection

@@ -2,6 +2,12 @@
 aliases: [Shadow Evocation, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_arcanist_8
+  - spell
+  - spell_sorcerer_8
+  - spell_arcanist
 ---
 
 ## Shadow Evocation, Greater

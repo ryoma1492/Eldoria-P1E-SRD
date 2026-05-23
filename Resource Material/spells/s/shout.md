@@ -2,6 +2,24 @@
 aliases: [Shout]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell
+  - spell_magus_4
+  - spell_bard
+  - spell_occultist_4
+  - spell_bloodrager_4
+  - spell_skald
+  - spell_magus
+  - spell_psychic
+  - spell_sorcerer_4
+  - spell_psychic_4
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_bard_4
+  - spell_arcanist
 ---
 
 ## Shout

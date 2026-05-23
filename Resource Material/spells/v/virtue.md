@@ -2,6 +2,28 @@
 aliases: [Virtue]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_spiritualist_0
+  - spell_cleric
+  - spell_inquisitor_0
+  - spell
+  - spell_medium_0
+  - spell_hunter_0
+  - spell_paladin_1
+  - spell_medium
+  - spell_shaman
+  - spell_druid_0
+  - spell_druid
+  - spell_inquisitor
+  - spell_psychic_0
+  - spell_oracle
+  - spell_psychic
+  - spell_shaman_0
+  - spell_cleric_0
+  - spell_oracle_0
+  - spell_hunter
+  - spell_spiritualist
 ---
 
 ## Virtue

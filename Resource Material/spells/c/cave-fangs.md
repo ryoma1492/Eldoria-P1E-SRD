@@ -2,6 +2,14 @@
 aliases: [Cave Fangs]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_shaman
+  - spell_druid
+  - spell_shaman_5
+  - spell_hunter_5
+  - spell_druid_5
+  - spell_hunter
 ---
 
 ## Cave Fangs

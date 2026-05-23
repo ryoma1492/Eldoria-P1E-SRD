@@ -2,6 +2,48 @@
 aliases: [Mythic Resist Energy]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_alchemist_2
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_sorcerer_2
+  - spell_cleric_2
+  - spell_bloodrager_2
+  - spell_shaman
+  - spell_arcanist_2
+  - spell_paladin_2
+  - spell_shaman_2
+  - spell_ranger_1
+  - spell_spiritualist_2
+  - spell_oracle_2
+  - spell_druid
+  - spell_adept
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_ranger
+  - spell_investigator_2
+  - spell_investigator
+  - spell_inquisitor_2
+  - spell_alchemist
+  - spell_warpriest_2
+  - spell_druid_2
+  - spell_adept_2
+  - spell_oracle
+  - spell_occultist_2
+  - spell_psychic
+  - spell_summoner
+  - spell_summoner_unchained_2
+  - spell_hunter
+  - spell_summoner_unchained
+  - spell_occultist
+  - spell_hunter_1
+  - spell_spiritualist
+  - spell_summoner_2
+  - spell_arcanist
 ---
 
 ## Mythic Resist Energy

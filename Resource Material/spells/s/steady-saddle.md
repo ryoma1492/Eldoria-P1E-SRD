@@ -2,6 +2,16 @@
 aliases: [Steady Saddle]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_druid_1
+  - spell
+  - spell_paladin_1
+  - spell_antipaladin_1
+  - spell_druid
+  - spell_hunter
+  - spell_hunter_1
+  - spell_antipaladin
 ---
 
 ## Steady Saddle

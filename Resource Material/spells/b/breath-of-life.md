@@ -2,6 +2,16 @@
 aliases: [Breath of Life]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_spiritualist_5
+  - spell
+  - spell_shaman
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_shaman_5
+  - spell_oracle
+  - spell_spiritualist
 ---
 
 ## Breath of Life

@@ -2,6 +2,30 @@
 aliases: [Brightest Night]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_druid_1
+  - spell_cleric
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_paladin_1
+  - spell_bard
+  - spell_warpriest_1
+  - spell_bard_1
+  - spell_skald_1
+  - spell_witch_1
+  - spell_cleric_1
+  - spell_druid
+  - spell_skald
+  - spell_oracle_1
+  - spell_warpriest
+  - spell_oracle
+  - spell_hunter
+  - spell_sorcerer_1
+  - spell_hunter_1
+  - spell_arcanist
 ---
 
 ## Brightest Night

@@ -2,6 +2,22 @@
 aliases: [Planar Binding, Lesser]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_occultist_5
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_psychic_5
+  - spell_arcanist_5
+  - spell_medium
+  - spell_summoner_4
+  - spell_medium_4
+  - spell_summoner_unchained_5
+  - spell_psychic
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Planar Binding, Lesser

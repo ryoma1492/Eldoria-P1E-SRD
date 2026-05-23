@@ -2,6 +2,10 @@
 aliases: [Vex Giant]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_hunter_3
+  - spell_hunter
 ---
 
 ## Vex Giant

@@ -2,6 +2,18 @@
 aliases: [Spirit Bonds]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_shaman_3
+  - spell
+  - spell_witch
+  - spell_shaman
+  - spell_warpriest
+  - spell_arcanist_3
+  - spell_witch_3
+  - spell_cleric_3
+  - spell_arcanist
 ---
 
 ## Spirit Bonds

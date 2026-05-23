@@ -2,6 +2,14 @@
 aliases: [Realm Retribution]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_cleric_8
+  - spell_oracle_8
+  - spell_inquisitor
+  - spell_oracle
+  - spell_inquisitor_6
 ---
 
 ## Realm Retribution

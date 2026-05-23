@@ -2,6 +2,24 @@
 aliases: [Prognostication]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_cleric_6
+  - spell
+  - spell_spiritualist_6
+  - spell_oracle_6
+  - spell_medium
+  - spell_shaman
+  - spell_psychic_6
+  - spell_medium_4
+  - spell_shaman_6
+  - spell_inquisitor
+  - spell_warpriest
+  - spell_oracle
+  - spell_psychic
+  - spell_warpriest_6
+  - spell_inquisitor_6
+  - spell_spiritualist
 ---
 
 ## Prognostication

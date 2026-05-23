@@ -2,6 +2,20 @@
 aliases: [Hidden Speech]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_psychic_2
+  - spell
+  - spell_mesmerist
+  - spell_medium
+  - spell_bard
+  - spell_skald
+  - spell_bard_2
+  - spell_inquisitor
+  - spell_medium_2
+  - spell_mesmerist_2
+  - spell_psychic
+  - spell_skald_2
 ---
 
 ## Hidden Speech

@@ -2,6 +2,36 @@
 aliases: [Shadowmind]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_mesmerist_3
+  - spell_shaman_3
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_oracle_3
+  - spell_witch
+  - spell_shaman
+  - spell_psychic_3
+  - spell_druid_3
+  - spell_antipaladin_2
+  - spell_occultist_3
+  - spell_sorcerer_3
+  - spell_hunter_3
+  - spell_druid
+  - spell_inquisitor
+  - spell_warpriest
+  - spell_witch_2
+  - spell_arcanist_3
+  - spell_inquisitor_2
+  - spell_oracle
+  - spell_psychic
+  - spell_hunter
+  - spell_cleric_3
+  - spell_occultist
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Shadowmind

@@ -2,6 +2,14 @@
 aliases: [Foe to Friend]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_mesmerist
+  - spell
+  - spell_bard_5
+  - spell_bard
+  - spell_psychic_7
+  - spell_psychic
+  - spell_mesmerist_5
 ---
 
 ## Foe to Friend

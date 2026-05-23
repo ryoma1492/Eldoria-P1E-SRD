@@ -2,6 +2,22 @@
 aliases: [Stalwart Resolve]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_alchemist_2
+  - spell
+  - spell_cleric_2
+  - spell_paladin_1
+  - spell_inquisitor_1
+  - spell_oracle_2
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_investigator_2
+  - spell_investigator
+  - spell_alchemist
+  - spell_warpriest_2
+  - spell_oracle
 ---
 
 ## Stalwart Resolve

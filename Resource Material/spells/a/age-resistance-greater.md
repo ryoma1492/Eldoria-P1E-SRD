@@ -2,6 +2,24 @@
 aliases: [Age Resistance, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_occultist_5
+  - spell_sorcerer
+  - spell_witch_7
+  - spell
+  - spell_investigator_5
+  - spell_druid_7
+  - spell_witch
+  - spell_druid
+  - spell_alchemist_5
+  - spell_psychic_7
+  - spell_investigator
+  - spell_sorcerer_7
+  - spell_alchemist
+  - spell_psychic
+  - spell_arcanist_7
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Age Resistance, Greater

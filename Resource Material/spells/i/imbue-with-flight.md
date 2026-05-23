@@ -2,6 +2,14 @@
 aliases: [Imbue with Flight]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_redmantisassassin
+  - spell_sorcerer_4
+  - spell_arcanist_4
+  - spell_arcanist
+  - spell_redmantisassassin_4
 ---
 
 ## Imbue with Flight

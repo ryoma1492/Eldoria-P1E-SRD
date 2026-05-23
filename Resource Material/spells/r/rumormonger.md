@@ -2,6 +2,18 @@
 aliases: [Rumormonger]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_mesmerist
+  - spell_medium
+  - spell_bard
+  - spell_psychic_3
+  - spell_medium_1
+  - spell_bard_2
+  - spell_inquisitor
+  - spell_inquisitor_2
+  - spell_mesmerist_2
+  - spell_psychic
 ---
 
 ## Rumormonger

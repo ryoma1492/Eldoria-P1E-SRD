@@ -2,6 +2,18 @@
 aliases: ["Cheetah's Sprint"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_druid_1
+  - spell_bloodrager
+  - spell
+  - spell_shaman
+  - spell_ranger_1
+  - spell_shaman_1
+  - spell_druid
+  - spell_ranger
+  - spell_hunter
+  - spell_hunter_1
+  - spell_bloodrager_1
 ---
 
 ## Cheetah's Sprint

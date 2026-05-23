@@ -2,6 +2,14 @@
 aliases: [Grove of Respite]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell
+  - spell_druid_4
+  - spell_ranger_4
+  - spell_druid
+  - spell_ranger
+  - spell_hunter
 ---
 
 ## Grove of Respite

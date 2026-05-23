@@ -2,6 +2,24 @@
 aliases: [Soothing Word]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell
+  - spell_cleric_2
+  - spell_paladin_2
+  - spell_oracle_2
+  - spell_druid
+  - spell_ranger
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_inquisitor_2
+  - spell_warpriest_2
+  - spell_ranger_2
+  - spell_druid_2
+  - spell_oracle
+  - spell_hunter_2
+  - spell_hunter
 ---
 
 ## Soothing Word

@@ -2,6 +2,30 @@
 aliases: [Decollate]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_arcanist_5
+  - spell_witch
+  - spell_psychic_6
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_warpriest
+  - spell_warpriest_5
+  - spell_investigator
+  - spell_witch_5
+  - spell_alchemist
+  - spell_oracle
+  - spell_psychic
+  - spell_alchemist_4
+  - spell_spiritualist_4
+  - spell_antipaladin_4
+  - spell_investigator_4
+  - spell_spiritualist
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Decollate

@@ -2,6 +2,24 @@
 aliases: [Liquefy]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell_skald_3
+  - spell_sorcerer
+  - spell_druid_4
+  - spell
+  - spell_bard
+  - spell_druid
+  - spell_skald
+  - spell_investigator
+  - spell_alchemist
+  - spell_alchemist_3
+  - spell_sorcerer_4
+  - spell_bard_3
+  - spell_hunter
+  - spell_arcanist_4
+  - spell_investigator_3
+  - spell_arcanist
 ---
 
 ## Liquefy

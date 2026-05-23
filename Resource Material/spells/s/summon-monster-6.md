@@ -2,6 +2,30 @@
 aliases: [Summon Monster 6]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_cleric_6
+  - spell_sorcerer
+  - spell
+  - spell_spiritualist_6
+  - spell_oracle_6
+  - spell_witch
+  - spell_psychic_6
+  - spell_bard
+  - spell_bard_6
+  - spell_sorcerer_6
+  - spell_arcanist_6
+  - spell_skald
+  - spell_skald_6
+  - spell_warpriest
+  - spell_summoner_unchained_5
+  - spell_oracle
+  - spell_psychic
+  - spell_witch_6
+  - spell_summoner_unchained
+  - spell_warpriest_6
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Summon Monster 6

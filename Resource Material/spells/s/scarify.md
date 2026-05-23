@@ -2,6 +2,32 @@
 aliases: [Scarify]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_druid_1
+  - spell_cleric
+  - spell_adept_1
+  - spell
+  - spell_shaman
+  - spell_antipaladin_1
+  - spell_spiritualist_1
+  - spell_alchemist_1
+  - spell_investigator_1
+  - spell_warpriest_1
+  - spell_inquisitor_1
+  - spell_shaman_1
+  - spell_cleric_1
+  - spell_adept
+  - spell_druid
+  - spell_oracle_1
+  - spell_inquisitor
+  - spell_warpriest
+  - spell_investigator
+  - spell_alchemist
+  - spell_oracle
+  - spell_hunter
+  - spell_hunter_1
+  - spell_spiritualist
+  - spell_antipaladin
 ---
 
 ## Scarify

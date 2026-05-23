@@ -2,6 +2,36 @@
 aliases: [Bestow Curse]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_mesmerist_3
+  - spell_bloodrager
+  - spell_shaman_3
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_oracle_3
+  - spell_medium
+  - spell_witch
+  - spell_shaman
+  - spell_adept_3
+  - spell_occultist_3
+  - spell_bloodrager_4
+  - spell_adept
+  - spell_warpriest
+  - spell_medium_2
+  - spell_spiritualist_3
+  - spell_antipaladin_3
+  - spell_oracle
+  - spell_sorcerer_4
+  - spell_witch_3
+  - spell_arcanist_4
+  - spell_occultist
+  - spell_cleric_3
+  - spell_spiritualist
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Bestow Curse

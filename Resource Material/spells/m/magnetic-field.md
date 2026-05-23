@@ -2,6 +2,28 @@
 aliases: [Magnetic Field]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell_witch_7
+  - spell
+  - spell_alchemist_6
+  - spell_witch
+  - spell_investigator_6
+  - spell_magus
+  - spell_magus_6
+  - spell_summoner_unchained_6
+  - spell_investigator
+  - spell_sorcerer_7
+  - spell_alchemist
+  - spell_cleric_7
+  - spell_oracle
+  - spell_summoner
+  - spell_summoner_6
+  - spell_arcanist_7
+  - spell_summoner_unchained
+  - spell_oracle_7
+  - spell_arcanist
 ---
 
 ## Magnetic Field

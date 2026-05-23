@@ -2,6 +2,22 @@
 aliases: [Agonizing Rebuke]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_mesmerist_3
+  - spell
+  - spell_mesmerist
+  - spell_oracle_3
+  - spell_psychic_3
+  - spell_antipaladin_2
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_oracle
+  - spell_psychic
+  - spell_cleric_3
+  - spell_antipaladin
 ---
 
 ## Agonizing Rebuke

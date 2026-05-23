@@ -2,6 +2,26 @@
 aliases: [Necrostasis]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_cleric_2
+  - spell_witch
+  - spell_shaman
+  - spell_shaman_2
+  - spell_spiritualist_2
+  - spell_oracle_2
+  - spell_sorcerer_3
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_witch_2
+  - spell_arcanist_3
+  - spell_inquisitor_2
+  - spell_warpriest_2
+  - spell_oracle
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Necrostasis

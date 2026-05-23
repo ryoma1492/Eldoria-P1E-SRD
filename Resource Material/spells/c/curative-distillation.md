@@ -2,6 +2,16 @@
 aliases: [Curative Distillation]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_alchemist_2
+  - spell
+  - spell_oracle_3
+  - spell_investigator_2
+  - spell_investigator
+  - spell_alchemist
+  - spell_oracle
+  - spell_cleric_3
 ---
 
 ## Curative Distillation

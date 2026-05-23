@@ -2,6 +2,8 @@
 aliases: [Intellect Fortress III]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
 ---
 
 ## Intellect Fortress III

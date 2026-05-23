@@ -2,6 +2,22 @@
 aliases: [Jitterbugs]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_mesmerist
+  - spell_sorcerer_2
+  - spell_redmantisassassin
+  - spell_bard
+  - spell_arcanist_2
+  - spell_redmantisassassin_2
+  - spell_bard_1
+  - spell_skald_1
+  - spell_skald
+  - spell_mesmerist_1
+  - spell_psychic
+  - spell_arcanist
 ---
 
 ## Jitterbugs

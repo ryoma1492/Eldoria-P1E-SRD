@@ -2,6 +2,20 @@
 aliases: [Purify Body]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell
+  - spell_paladin_4
+  - spell_psychic_5
+  - spell_medium
+  - spell_medium_4
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_alchemist
+  - spell_oracle
+  - spell_psychic
+  - spell_alchemist_4
 ---
 
 ## Purify Body

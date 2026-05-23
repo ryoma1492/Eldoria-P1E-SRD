@@ -2,6 +2,22 @@
 aliases: [Ancestral Memory]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_hunter_4
+  - spell_druid_4
+  - spell
+  - spell_investigator_5
+  - spell_shaman
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_druid
+  - spell_alchemist_5
+  - spell_investigator
+  - spell_shaman_5
+  - spell_alchemist
+  - spell_oracle
+  - spell_hunter
 ---
 
 ## Ancestral Memory

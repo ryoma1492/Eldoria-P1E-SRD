@@ -2,6 +2,26 @@
 aliases: [Wither Limb]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_cleric_6
+  - spell_sorcerer
+  - spell
+  - spell_spiritualist_6
+  - spell_oracle_6
+  - spell_witch
+  - spell_shaman
+  - spell_sorcerer_6
+  - spell_arcanist_6
+  - spell_shaman_6
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_oracle
+  - spell_witch_6
+  - spell_inquisitor_6
+  - spell_warpriest_6
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Wither Limb

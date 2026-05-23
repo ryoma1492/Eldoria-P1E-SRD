@@ -2,6 +2,22 @@
 aliases: [Utter Contempt]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_psychic_5
+  - spell_bard
+  - spell_sorcerer_6
+  - spell_mesmerist_4
+  - spell_arcanist_6
+  - spell_skald
+  - spell_antipaladin_3
+  - spell_psychic
+  - spell_antipaladin
+  - spell_bard_4
+  - spell_arcanist
 ---
 
 ## Utter Contempt

@@ -2,6 +2,16 @@
 aliases: [Submerge Ship]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_7
+  - spell_cleric_7
+  - spell_oracle
+  - spell_arcanist_7
+  - spell_oracle_7
+  - spell_arcanist
 ---
 
 ## Submerge Ship

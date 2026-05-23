@@ -2,6 +2,18 @@
 aliases: [Water Walk, Communal]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_cleric_2
+  - spell_oracle_2
+  - spell_ranger
+  - spell_ranger_2
+  - spell_oracle
+  - spell_psychic
+  - spell_hunter_2
+  - spell_hunter
+  - spell_psychic_4
 ---
 
 ## Water Walk, Communal

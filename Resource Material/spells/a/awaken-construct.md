@@ -2,6 +2,22 @@
 aliases: [Awaken Construct]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_occultist_5
+  - spell_sorcerer
+  - spell
+  - spell_shaman
+  - spell_psychic_6
+  - spell_shaman_6
+  - spell_sorcerer_7
+  - spell_cleric_7
+  - spell_oracle
+  - spell_psychic
+  - spell_arcanist_7
+  - spell_occultist
+  - spell_oracle_7
+  - spell_arcanist
 ---
 
 ## Awaken Construct

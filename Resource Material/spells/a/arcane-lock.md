@@ -2,6 +2,14 @@
 aliases: [Arcane Lock]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_arcanist_2
+  - spell_occultist_2
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Arcane Lock

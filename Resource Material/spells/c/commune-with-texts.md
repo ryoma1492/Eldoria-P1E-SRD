@@ -2,6 +2,32 @@
 aliases: [Commune with Texts]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_cleric_6
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell
+  - spell_arcanist_5
+  - spell_spiritualist_6
+  - spell_bard_5
+  - spell_oracle_6
+  - spell_medium
+  - spell_skald_5
+  - spell_psychic_6
+  - spell_bard
+  - spell_occultist_4
+  - spell_medium_4
+  - spell_skald
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_oracle
+  - spell_psychic
+  - spell_inquisitor_6
+  - spell_warpriest_6
+  - spell_occultist
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Commune with Texts

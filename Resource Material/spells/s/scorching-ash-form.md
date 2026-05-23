@@ -2,6 +2,18 @@
 aliases: [Scorching Ash Form]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_redmantisassassin
+  - spell_investigator
+  - spell_alchemist
+  - spell_sorcerer_4
+  - spell_alchemist_4
+  - spell_investigator_4
+  - spell_arcanist_4
+  - spell_redmantisassassin_4
+  - spell_arcanist
 ---
 
 ## Scorching Ash Form

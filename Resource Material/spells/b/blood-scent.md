@@ -2,6 +2,40 @@
 aliases: [Blood Scent]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_bloodrager
+  - spell_redmantisassassin_3
+  - spell_sorcerer
+  - spell
+  - spell_oracle_3
+  - spell_witch
+  - spell_redmantisassassin
+  - spell_psychic_3
+  - spell_druid_3
+  - spell_antipaladin_2
+  - spell_sorcerer_3
+  - spell_druid
+  - spell_bloodrager_3
+  - spell_warpriest
+  - spell_ranger
+  - spell_inquisitor
+  - spell_arcanist_3
+  - spell_investigator
+  - spell_ranger_2
+  - spell_alchemist
+  - spell_oracle
+  - spell_alchemist_3
+  - spell_psychic
+  - spell_hunter_2
+  - spell_hunter
+  - spell_witch_3
+  - spell_cleric_3
+  - spell_investigator_3
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Blood Scent

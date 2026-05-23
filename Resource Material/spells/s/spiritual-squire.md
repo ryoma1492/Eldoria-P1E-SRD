@@ -2,6 +2,22 @@
 aliases: [Spiritual Squire]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell
+  - spell_cleric_2
+  - spell_shaman
+  - spell_paladin_2
+  - spell_shaman_2
+  - spell_spiritualist_2
+  - spell_antipaladin_2
+  - spell_oracle_2
+  - spell_inquisitor
+  - spell_inquisitor_2
+  - spell_oracle
+  - spell_spiritualist
+  - spell_antipaladin
 ---
 
 ## Spiritual Squire

@@ -2,6 +2,34 @@
 aliases: [Revenant Armor]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_shaman_3
+  - spell_sorcerer
+  - spell
+  - spell_magus_4
+  - spell_witch
+  - spell_medium
+  - spell_shaman
+  - spell_warpriest_4
+  - spell_occultist_4
+  - spell_medium_4
+  - spell_magus
+  - spell_warpriest
+  - spell_cleric_4
+  - spell_paladin_3
+  - spell_oracle_4
+  - spell_spiritualist_3
+  - spell_antipaladin_3
+  - spell_oracle
+  - spell_sorcerer_4
+  - spell_witch_3
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_spiritualist
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Revenant Armor

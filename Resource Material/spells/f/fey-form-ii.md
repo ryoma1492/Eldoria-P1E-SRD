@@ -2,6 +2,26 @@
 aliases: [Fey Form II]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_investigator_5
+  - spell_witch
+  - spell_shaman
+  - spell_sorcerer_6
+  - spell_arcanist_6
+  - spell_druid
+  - spell_alchemist_5
+  - spell_magus
+  - spell_magus_6
+  - spell_investigator
+  - spell_shaman_5
+  - spell_alchemist
+  - spell_hunter_5
+  - spell_witch_6
+  - spell_druid_5
+  - spell_hunter
+  - spell_arcanist
 ---
 
 ## Fey Form II

@@ -2,6 +2,20 @@
 aliases: [Cone of Cold]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_occultist_5
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_arcanist_5
+  - spell_witch
+  - spell_shaman
+  - spell_magus_5
+  - spell_shaman_6
+  - spell_magus
+  - spell_witch_6
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Cone of Cold

@@ -2,6 +2,26 @@
 aliases: [Continual Flame]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_inquisitor_3
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_oracle_3
+  - spell_sorcerer_2
+  - spell_arcanist_2
+  - spell_psychic_3
+  - spell_adept_3
+  - spell_adept
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_oracle
+  - spell_psychic
+  - spell_occultist_2
+  - spell_cleric_3
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Continual Flame

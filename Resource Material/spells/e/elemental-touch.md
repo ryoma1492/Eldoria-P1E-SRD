@@ -2,6 +2,20 @@
 aliases: [Elemental Touch]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_alchemist_2
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_bloodrager_2
+  - spell_arcanist_2
+  - spell_magus
+  - spell_investigator_2
+  - spell_investigator
+  - spell_alchemist
+  - spell_magus_2
+  - spell_arcanist
 ---
 
 ## Elemental Touch

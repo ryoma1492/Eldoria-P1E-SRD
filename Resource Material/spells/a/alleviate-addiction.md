@@ -2,6 +2,30 @@
 aliases: [Alleviate Addiction]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_druid_1
+  - spell_cleric
+  - spell
+  - spell_paladin_1
+  - spell_shaman
+  - spell_alchemist_1
+  - spell_investigator_1
+  - spell_ranger_1
+  - spell_warpriest_1
+  - spell_shaman_1
+  - spell_cleric_1
+  - spell_druid
+  - spell_oracle_1
+  - spell_sahirafiyun_1
+  - spell_warpriest
+  - spell_ranger
+  - spell_investigator
+  - spell_alchemist
+  - spell_oracle
+  - spell_hunter
+  - spell_sahirafiyun
+  - spell_hunter_1
 ---
 
 ## Alleviate Addiction

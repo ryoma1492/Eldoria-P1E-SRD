@@ -2,6 +2,32 @@
 aliases: [Daze Monster]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_mesmerist
+  - spell_sorcerer_2
+  - spell_witch
+  - spell_medium
+  - spell_bloodrager_2
+  - spell_summoner_1
+  - spell_bard
+  - spell_arcanist_2
+  - spell_skald
+  - spell_bard_2
+  - spell_medium_2
+  - spell_witch_2
+  - spell_mesmerist_2
+  - spell_occultist_2
+  - spell_psychic
+  - spell_summoner
+  - spell_skald_2
+  - spell_summoner_unchained
+  - spell_occultist
+  - spell_summoner_unchained_1
+  - spell_arcanist
 ---
 
 ## Daze Monster

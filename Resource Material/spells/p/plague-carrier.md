@@ -2,6 +2,24 @@
 aliases: [Plague Carrier]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_hunter_4
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell_druid_4
+  - spell
+  - spell_arcanist_5
+  - spell_witch
+  - spell_warpriest_4
+  - spell_druid
+  - spell_warpriest
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_witch_5
+  - spell_oracle
+  - spell_hunter
+  - spell_arcanist
 ---
 
 ## Plague Carrier

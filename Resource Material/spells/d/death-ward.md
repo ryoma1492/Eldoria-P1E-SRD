@@ -2,6 +2,32 @@
 aliases: [Death Ward]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell
+  - spell_paladin_4
+  - spell_medium
+  - spell_warpriest_4
+  - spell_inquisitor_4
+  - spell_occultist_4
+  - spell_medium_4
+  - spell_druid
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_investigator
+  - spell_alchemist
+  - spell_hunter_5
+  - spell_oracle
+  - spell_alchemist_4
+  - spell_druid_5
+  - spell_spiritualist_4
+  - spell_investigator_4
+  - spell_hunter
+  - spell_occultist
+  - spell_spiritualist
 ---
 
 ## Death Ward

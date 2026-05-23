@@ -2,6 +2,36 @@
 aliases: [Mythic Spider Climb]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_alchemist_2
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_sorcerer_2
+  - spell_medium
+  - spell_bloodrager_2
+  - spell_redmantisassassin
+  - spell_arcanist_2
+  - spell_redmantisassassin_2
+  - spell_druid
+  - spell_magus
+  - spell_medium_2
+  - spell_investigator_2
+  - spell_investigator
+  - spell_alchemist
+  - spell_druid_2
+  - spell_occultist_2
+  - spell_psychic
+  - spell_summoner
+  - spell_magus_2
+  - spell_hunter_2
+  - spell_summoner_unchained_2
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_occultist
+  - spell_arcanist
+  - spell_summoner_2
 ---
 
 ## Mythic Spider Climb

@@ -2,6 +2,36 @@
 aliases: [Summon Monster 4]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_medium
+  - spell_warpriest_4
+  - spell_bard
+  - spell_witch_4
+  - spell_summoner_unchained_3
+  - spell_skald
+  - spell_warpriest
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_summoner_3
+  - spell_oracle
+  - spell_psychic
+  - spell_summoner
+  - spell_sorcerer_4
+  - spell_spiritualist_4
+  - spell_antipaladin_4
+  - spell_summoner_unchained
+  - spell_psychic_4
+  - spell_medium_3
+  - spell_arcanist_4
+  - spell_spiritualist
+  - spell_antipaladin
+  - spell_bard_4
+  - spell_arcanist
 ---
 
 ## Summon Monster 4

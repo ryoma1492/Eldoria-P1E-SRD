@@ -2,6 +2,26 @@
 aliases: [Forced Mutation]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_sorcerer
+  - spell_magus_3
+  - spell
+  - spell_oracle_3
+  - spell_witch
+  - spell_occultist_3
+  - spell_sorcerer_3
+  - spell_magus
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_arcanist_3
+  - spell_oracle
+  - spell_witch_3
+  - spell_cleric_3
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Forced Mutation

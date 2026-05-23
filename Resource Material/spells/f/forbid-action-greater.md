@@ -2,6 +2,20 @@
 aliases: [Forbid Action, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_occultist_5
+  - spell
+  - spell_mesmerist
+  - spell_psychic_5
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_mesmerist_4
+  - spell_inquisitor
+  - spell_inquisitor_5
+  - spell_oracle
+  - spell_psychic
+  - spell_occultist
 ---
 
 ## Forbid Action, Greater

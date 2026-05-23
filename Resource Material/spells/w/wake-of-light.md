@@ -2,6 +2,8 @@
 aliases: [Wake of Light]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
 ---
 
 ## Wake of Light

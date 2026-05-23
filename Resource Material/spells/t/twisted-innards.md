@@ -2,6 +2,18 @@
 aliases: [Twisted Innards]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_alchemist_2
+  - spell_magus_3
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_sorcerer_3
+  - spell_magus
+  - spell_investigator_2
+  - spell_investigator
+  - spell_alchemist
+  - spell_witch_3
 ---
 
 ## Twisted Innards

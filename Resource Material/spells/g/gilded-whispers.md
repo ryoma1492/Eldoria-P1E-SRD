@@ -2,6 +2,18 @@
 aliases: [Gilded Whispers]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_warpriest_4
+  - spell_sorcerer_3
+  - spell_warpriest
+  - spell_cleric_4
+  - spell_arcanist_3
+  - spell_oracle_4
+  - spell_oracle
+  - spell_arcanist
 ---
 
 ## Gilded Whispers

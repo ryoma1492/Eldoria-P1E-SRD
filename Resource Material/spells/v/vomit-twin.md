@@ -2,6 +2,24 @@
 aliases: [Vomit Twin]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_magus_3
+  - spell_sorcerer
+  - spell
+  - spell_summoner_unchained_3
+  - spell_magus
+  - spell_investigator
+  - spell_summoner_3
+  - spell_alchemist
+  - spell_alchemist_3
+  - spell_psychic
+  - spell_summoner
+  - spell_sorcerer_4
+  - spell_summoner_unchained
+  - spell_psychic_4
+  - spell_arcanist_4
+  - spell_investigator_3
+  - spell_arcanist
 ---
 
 ## Vomit Twin

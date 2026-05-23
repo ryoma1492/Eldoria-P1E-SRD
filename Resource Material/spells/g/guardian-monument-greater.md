@@ -2,6 +2,24 @@
 aliases: [Guardian Monument, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_occultist_5
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell
+  - spell_psychic_5
+  - spell_arcanist_5
+  - spell_witch
+  - spell_bard_5
+  - spell_skald_5
+  - spell_bard
+  - spell_skald
+  - spell_inquisitor_5
+  - spell_inquisitor
+  - spell_witch_5
+  - spell_psychic
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Guardian Monument, Greater

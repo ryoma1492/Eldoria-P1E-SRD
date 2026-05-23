@@ -2,6 +2,26 @@
 aliases: [Bloody Arrows]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_ranger_3
+  - spell_inquisitor_3
+  - spell_sorcerer
+  - spell_magus_3
+  - spell
+  - spell_witch
+  - spell_shaman
+  - spell_witch_4
+  - spell_hunter_3
+  - spell_magus
+  - spell_ranger
+  - spell_inquisitor
+  - spell_antipaladin_3
+  - spell_sorcerer_4
+  - spell_hunter
+  - spell_arcanist_4
+  - spell_antipaladin
+  - spell_arcanist
+  - spell_shaman_4
 ---
 
 ## Bloody Arrows

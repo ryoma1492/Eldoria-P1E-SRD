@@ -2,6 +2,16 @@
 aliases: [Scourge of the Horsemen]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_oracle_9
+  - spell_arcanist_9
+  - spell_sorcerer_9
+  - spell_oracle
+  - spell_cleric_9
+  - spell_arcanist
 ---
 
 ## Scourge of the Horsemen

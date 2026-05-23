@@ -2,6 +2,22 @@
 aliases: [Legendary Proportions]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_witch_7
+  - spell
+  - spell_alchemist_6
+  - spell_druid_7
+  - spell_witch
+  - spell_shaman_7
+  - spell_shaman
+  - spell_investigator_6
+  - spell_druid
+  - spell_investigator
+  - spell_sorcerer_7
+  - spell_alchemist
+  - spell_arcanist_7
+  - spell_arcanist
 ---
 
 ## Legendary Proportions

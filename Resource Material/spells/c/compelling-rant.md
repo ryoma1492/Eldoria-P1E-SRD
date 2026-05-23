@@ -2,6 +2,26 @@
 aliases: [Compelling Rant]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_psychic_5
+  - spell_arcanist_5
+  - spell_bard_5
+  - spell_bard
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_warpriest_5
+  - spell_inquisitor_5
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_oracle
+  - spell_psychic
+  - spell_mesmerist_5
+  - spell_arcanist
 ---
 
 ## Compelling Rant

@@ -2,6 +2,24 @@
 aliases: [Sessile Spirit]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_medium
+  - spell_shaman
+  - spell_inquisitor_4
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_occultist_3
+  - spell_warpriest_5
+  - spell_inquisitor
+  - spell_warpriest
+  - spell_medium_2
+  - spell_spiritualist_3
+  - spell_oracle
+  - spell_occultist
+  - spell_spiritualist
+  - spell_shaman_4
 ---
 
 ## Sessile Spirit

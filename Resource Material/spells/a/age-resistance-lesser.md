@@ -2,6 +2,28 @@
 aliases: [Age Resistance, Lesser]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell_sorcerer
+  - spell_druid_4
+  - spell
+  - spell_witch
+  - spell_redmantisassassin
+  - spell_witch_4
+  - spell_occultist_3
+  - spell_druid
+  - spell_investigator
+  - spell_alchemist
+  - spell_alchemist_3
+  - spell_psychic
+  - spell_sorcerer_4
+  - spell_hunter
+  - spell_psychic_4
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_investigator_3
+  - spell_redmantisassassin_4
+  - spell_arcanist
 ---
 
 ## Age Resistance, Lesser

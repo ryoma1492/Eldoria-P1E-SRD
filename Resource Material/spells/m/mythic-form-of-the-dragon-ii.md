@@ -2,6 +2,12 @@
 aliases: [Mythic Form of the Dragon II]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_7
+  - spell_arcanist_7
+  - spell_arcanist
 ---
 
 ## Mythic Form of the Dragon II

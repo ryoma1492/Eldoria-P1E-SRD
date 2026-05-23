@@ -2,6 +2,12 @@
 aliases: [Cognitive Block]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_mesmerist
+  - spell
+  - spell_medium
+  - spell_medium_2
+  - spell_mesmerist_2
 ---
 
 ## Cognitive Block

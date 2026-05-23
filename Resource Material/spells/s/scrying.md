@@ -2,6 +2,40 @@
 aliases: [Scrying]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_hunter_4
+  - spell_mesmerist_3
+  - spell_skald_3
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell_druid_4
+  - spell
+  - spell_spiritualist_5
+  - spell_medium
+  - spell_witch
+  - spell_shaman
+  - spell_bard
+  - spell_cleric_5
+  - spell_occultist_4
+  - spell_oracle_5
+  - spell_witch_4
+  - spell_druid
+  - spell_skald
+  - spell_warpriest
+  - spell_warpriest_5
+  - spell_oracle
+  - spell_psychic
+  - spell_sorcerer_4
+  - spell_bard_3
+  - spell_hunter
+  - spell_psychic_4
+  - spell_medium_3
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_spiritualist
+  - spell_arcanist
+  - spell_shaman_4
 ---
 
 ## Scrying

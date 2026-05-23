@@ -2,6 +2,34 @@
 aliases: [False Future]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_mesmerist_3
+  - spell_skald_3
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell
+  - spell_mesmerist
+  - spell_arcanist_5
+  - spell_witch
+  - spell_medium
+  - spell_warpriest_4
+  - spell_shaman
+  - spell_bard
+  - spell_witch_4
+  - spell_skald
+  - spell_warpriest
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_oracle
+  - spell_psychic
+  - spell_spiritualist_4
+  - spell_bard_3
+  - spell_psychic_4
+  - spell_medium_3
+  - spell_spiritualist
+  - spell_shaman_4
+  - spell_arcanist
 ---
 
 ## False Future

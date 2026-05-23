@@ -2,6 +2,16 @@
 aliases: [Speak with Plants]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_bard
+  - spell_druid_3
+  - spell_druid
+  - spell_ranger
+  - spell_ranger_2
+  - spell_hunter_2
+  - spell_hunter
+  - spell_bard_4
 ---
 
 ## Speak with Plants

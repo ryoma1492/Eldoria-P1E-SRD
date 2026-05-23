@@ -2,6 +2,28 @@
 aliases: [Contact Other Plane]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_spiritualist_5
+  - spell_investigator_5
+  - spell_psychic_5
+  - spell_arcanist_5
+  - spell_witch
+  - spell_occultist_4
+  - spell_summoner_4
+  - spell_alchemist_5
+  - spell_investigator
+  - spell_witch_5
+  - spell_alchemist
+  - spell_summoner_unchained_5
+  - spell_psychic
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_occultist
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Contact Other Plane

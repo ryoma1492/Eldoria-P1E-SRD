@@ -2,6 +2,26 @@
 aliases: [Nondetection, Lesser]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_ranger_3
+  - spell_alchemist_2
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_arcanist_2
+  - spell_antipaladin_2
+  - spell_ranger
+  - spell_inquisitor
+  - spell_investigator_2
+  - spell_investigator
+  - spell_inquisitor_2
+  - spell_alchemist
+  - spell_summoner
+  - spell_summoner_unchained_2
+  - spell_summoner_unchained
+  - spell_antipaladin
+  - spell_summoner_2
+  - spell_arcanist
 ---
 
 ## Nondetection, Lesser

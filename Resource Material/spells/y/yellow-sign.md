@@ -2,6 +2,22 @@
 aliases: [Yellow Sign]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_witch_9
+  - spell_oracle_9
+  - spell_witch
+  - spell_bard
+  - spell_bard_6
+  - spell_arcanist_9
+  - spell_sorcerer_9
+  - spell_skald
+  - spell_skald_6
+  - spell_oracle
+  - spell_cleric_9
+  - spell_arcanist
 ---
 
 ## Yellow Sign

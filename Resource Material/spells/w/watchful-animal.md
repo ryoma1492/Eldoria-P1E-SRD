@@ -2,6 +2,22 @@
 aliases: [Watchful Animal]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell_sorcerer
+  - spell
+  - spell_druid_4
+  - spell_witch
+  - spell_ranger_4
+  - spell_shaman
+  - spell_witch_4
+  - spell_druid
+  - spell_ranger
+  - spell_sorcerer_4
+  - spell_hunter
+  - spell_arcanist_4
+  - spell_shaman_4
+  - spell_arcanist
 ---
 
 ## Watchful Animal

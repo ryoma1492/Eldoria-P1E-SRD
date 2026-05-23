@@ -2,6 +2,12 @@
 aliases: [Borrow Fortune]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_oracle_3
+  - spell_medium
+  - spell_oracle
+  - spell_medium_3
 ---
 
 ## Borrow Fortune

@@ -2,6 +2,22 @@
 aliases: [Blightburn Weapon]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_magus_4
+  - spell_arcanist_5
+  - spell_witch
+  - spell_inquisitor_4
+  - spell_magus
+  - spell_inquisitor
+  - spell_investigator
+  - spell_witch_5
+  - spell_alchemist
+  - spell_alchemist_4
+  - spell_investigator_4
+  - spell_arcanist
 ---
 
 ## Blightburn Weapon

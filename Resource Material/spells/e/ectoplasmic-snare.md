@@ -2,6 +2,20 @@
 aliases: [Ectoplasmic Snare]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_shaman_3
+  - spell_magus_3
+  - spell_sorcerer
+  - spell
+  - spell_shaman
+  - spell_psychic_3
+  - spell_sorcerer_3
+  - spell_magus
+  - spell_arcanist_3
+  - spell_spiritualist_3
+  - spell_psychic
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Ectoplasmic Snare

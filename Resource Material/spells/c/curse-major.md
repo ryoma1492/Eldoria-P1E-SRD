@@ -2,6 +2,30 @@
 aliases: [Curse, Major]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_occultist_5
+  - spell_sorcerer
+  - spell_spiritualist_5
+  - spell
+  - spell_mesmerist
+  - spell_witch
+  - spell_psychic_6
+  - spell_shaman
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_sorcerer_6
+  - spell_mesmerist_4
+  - spell_arcanist_6
+  - spell_warpriest
+  - spell_warpriest_5
+  - spell_shaman_5
+  - spell_witch_5
+  - spell_oracle
+  - spell_psychic
+  - spell_occultist
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Curse, Major

@@ -2,6 +2,38 @@
 aliases: [Seek Thoughts]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_mesmerist_3
+  - spell_skald_3
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell_mesmerist
+  - spell
+  - spell_witch
+  - spell_medium
+  - spell_bard
+  - spell_occultist_3
+  - spell_sorcerer_3
+  - spell_summoner_unchained_3
+  - spell_skald
+  - spell_inquisitor
+  - spell_medium_2
+  - spell_arcanist_3
+  - spell_investigator
+  - spell_summoner_3
+  - spell_alchemist
+  - spell_spiritualist_3
+  - spell_alchemist_3
+  - spell_psychic
+  - spell_summoner
+  - spell_bard_3
+  - spell_summoner_unchained
+  - spell_witch_3
+  - spell_occultist
+  - spell_spiritualist
+  - spell_investigator_3
+  - spell_arcanist
 ---
 
 ## Seek Thoughts

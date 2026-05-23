@@ -2,6 +2,28 @@
 aliases: [Hobble]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_bard
+  - spell_ranger_1
+  - spell_inquisitor_1
+  - spell_bard_1
+  - spell_skald_1
+  - spell_skald
+  - spell_magus
+  - spell_ranger
+  - spell_inquisitor
+  - spell_mesmerist_1
+  - spell_magus_1
+  - spell_hunter
+  - spell_sorcerer_1
+  - spell_hunter_1
+  - spell_bloodrager_1
+  - spell_arcanist
 ---
 
 ## Hobble

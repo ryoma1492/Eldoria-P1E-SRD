@@ -2,6 +2,16 @@
 aliases: [Call Weapon]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_bard
+  - spell_ranger_1
+  - spell_bard_1
+  - spell_magus
+  - spell_ranger
+  - spell_magus_1
+  - spell_hunter
+  - spell_hunter_1
 ---
 
 ## Call Weapon

@@ -2,6 +2,40 @@
 aliases: [Planar Orientation]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_1
+  - spell_druid_1
+  - spell_cleric
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_summoner_1
+  - spell_shaman
+  - spell_bard
+  - spell_ranger_1
+  - spell_inquisitor_1
+  - spell_warpriest_1
+  - spell_bard_1
+  - spell_skald_1
+  - spell_shaman_1
+  - spell_witch_1
+  - spell_cleric_1
+  - spell_druid
+  - spell_skald
+  - spell_oracle_1
+  - spell_warpriest
+  - spell_ranger
+  - spell_inquisitor
+  - spell_oracle
+  - spell_psychic
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_sorcerer_1
+  - spell_hunter_1
+  - spell_summoner_unchained_1
+  - spell_arcanist
 ---
 
 ## Planar Orientation

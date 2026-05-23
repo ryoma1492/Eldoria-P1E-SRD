@@ -2,6 +2,12 @@
 aliases: [Litany of Escape]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_inquisitor_4
+  - spell_inquisitor
+  - spell_antipaladin_3
+  - spell_antipaladin
 ---
 
 ## Litany of Escape

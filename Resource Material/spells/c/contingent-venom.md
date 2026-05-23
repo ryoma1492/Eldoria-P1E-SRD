@@ -2,6 +2,14 @@
 aliases: [Contingent Venom]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_shaman
+  - spell_sorcerer_4
+  - spell_arcanist_4
+  - spell_arcanist
+  - spell_shaman_4
 ---
 
 ## Contingent Venom

@@ -2,6 +2,26 @@
 aliases: [Spindrift Spritz, Mass]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_ranger_3
+  - spell_cleric
+  - spell
+  - spell_druid_4
+  - spell_inquisitor_4
+  - spell_shaman
+  - spell_hunter_3
+  - spell_druid
+  - spell_ranger
+  - spell_inquisitor
+  - spell_cleric_4
+  - spell_paladin_3
+  - spell_oracle_4
+  - spell_oracle
+  - spell_spiritualist_4
+  - spell_hunter
+  - spell_spiritualist
+  - spell_shaman_4
 ---
 
 ## Spindrift Spritz, Mass

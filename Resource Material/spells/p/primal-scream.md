@@ -2,6 +2,12 @@
 aliases: [Primal Scream]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_mesmerist
+  - spell
+  - spell_bard
+  - spell_mesmerist_4
+  - spell_bard_4
 ---
 
 ## Primal Scream

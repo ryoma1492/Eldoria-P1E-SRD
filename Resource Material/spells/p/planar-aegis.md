@@ -2,6 +2,24 @@
 aliases: [Planar Aegis]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_ranger_3
+  - spell_summoner_unchained_4
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_arcanist_5
+  - spell_occultist_4
+  - spell_summoner_4
+  - spell_hunter_3
+  - spell_druid
+  - spell_ranger
+  - spell_summoner
+  - spell_druid_5
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Planar Aegis

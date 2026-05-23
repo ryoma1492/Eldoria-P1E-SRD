@@ -2,6 +2,18 @@
 aliases: [Mantle of the Magic Warriors]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_arcanist_5
+  - spell_shaman
+  - spell_druid
+  - spell_shaman_5
+  - spell_hunter_5
+  - spell_druid_5
+  - spell_hunter
+  - spell_arcanist
 ---
 
 ## Mantle of the Magic Warriors

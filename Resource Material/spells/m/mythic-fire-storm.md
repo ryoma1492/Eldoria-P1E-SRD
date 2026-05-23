@@ -2,6 +2,14 @@
 aliases: [Mythic Fire Storm]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_cleric_8
+  - spell_druid_7
+  - spell_oracle_8
+  - spell_druid
+  - spell_oracle
 ---
 
 ## Mythic Fire Storm

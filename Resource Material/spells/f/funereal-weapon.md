@@ -2,6 +2,18 @@
 aliases: [Funereal Weapon]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell
+  - spell_paladin_1
+  - spell_inquisitor_1
+  - spell_cleric_1
+  - spell_oracle_1
+  - spell_inquisitor
+  - spell_oracle
+  - spell_occultist_1
+  - spell_occultist
 ---
 
 ## Funereal Weapon

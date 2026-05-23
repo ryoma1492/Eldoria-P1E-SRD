@@ -2,6 +2,22 @@
 aliases: [Spellcurse]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_oracle_3
+  - spell_shaman
+  - spell_occultist_4
+  - spell_psychic_3
+  - spell_antipaladin_2
+  - spell_inquisitor
+  - spell_inquisitor_2
+  - spell_oracle
+  - spell_psychic
+  - spell_cleric_3
+  - spell_occultist
+  - spell_antipaladin
+  - spell_shaman_4
 ---
 
 ## Spellcurse

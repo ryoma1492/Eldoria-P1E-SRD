@@ -2,6 +2,24 @@
 aliases: [Dragonvoice]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_alchemist_2
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_witch
+  - spell_redmantisassassin
+  - spell_bard
+  - spell_arcanist_2
+  - spell_redmantisassassin_2
+  - spell_skald
+  - spell_bard_2
+  - spell_witch_2
+  - spell_investigator_2
+  - spell_investigator
+  - spell_alchemist
+  - spell_skald_2
+  - spell_arcanist
 ---
 
 ## Dragonvoice

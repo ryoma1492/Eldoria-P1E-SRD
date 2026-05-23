@@ -2,6 +2,16 @@
 aliases: [Miasmal Dread]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_bloodrager
+  - spell
+  - spell_bloodrager_2
+  - spell_bard
+  - spell_antipaladin_2
+  - spell_bard_2
+  - spell_inquisitor
+  - spell_antipaladin
 ---
 
 ## Miasmal Dread

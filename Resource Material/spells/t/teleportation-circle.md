@@ -2,6 +2,18 @@
 aliases: [Teleportation Circle]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_witch_9
+  - spell_witch
+  - spell_arcanist_9
+  - spell_sorcerer_9
+  - spell_psychic_9
+  - spell_psychic
+  - spell_summoner
+  - spell_summoner_6
+  - spell_arcanist
 ---
 
 ## Teleportation Circle

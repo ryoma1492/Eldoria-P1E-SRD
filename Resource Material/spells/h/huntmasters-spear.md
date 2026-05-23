@@ -2,6 +2,26 @@
 aliases: ["Huntmaster's Spear"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_bloodrager
+  - spell
+  - spell_paladin_1
+  - spell_bloodrager_2
+  - spell_antipaladin_1
+  - spell_ranger_1
+  - spell_druid
+  - spell_magus
+  - spell_ranger
+  - spell_inquisitor
+  - spell_inquisitor_2
+  - spell_druid_2
+  - spell_occultist_2
+  - spell_magus_2
+  - spell_hunter
+  - spell_occultist
+  - spell_hunter_1
+  - spell_antipaladin
 ---
 
 ## Huntmaster's Spear

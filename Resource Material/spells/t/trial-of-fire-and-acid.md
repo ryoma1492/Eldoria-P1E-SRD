@@ -2,6 +2,26 @@
 aliases: [Trial of Fire and Acid]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_bloodrager
+  - spell_shaman_3
+  - spell_sorcerer
+  - spell_magus_3
+  - spell
+  - spell_oracle_3
+  - spell_witch
+  - spell_shaman
+  - spell_sorcerer_3
+  - spell_bloodrager_3
+  - spell_magus
+  - spell_warpriest
+  - spell_arcanist_3
+  - spell_oracle
+  - spell_witch_3
+  - spell_cleric_3
+  - spell_arcanist
 ---
 
 ## Trial of Fire and Acid

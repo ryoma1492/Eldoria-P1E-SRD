@@ -2,6 +2,8 @@
 aliases: [Siege of Trees]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
 ---
 
 ## Siege of Trees

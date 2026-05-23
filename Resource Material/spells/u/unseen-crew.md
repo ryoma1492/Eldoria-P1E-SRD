@@ -2,6 +2,22 @@
 aliases: [Unseen Crew]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_summoner_5
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_arcanist_5
+  - spell_witch
+  - spell_bard
+  - spell_skald
+  - spell_witch_5
+  - spell_summoner_unchained_5
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_bard_4
+  - spell_arcanist
 ---
 
 ## Unseen Crew

@@ -2,6 +2,12 @@
 aliases: [Mind Over Matter]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_2
+  - spell
+  - spell_mesmerist
+  - spell_mesmerist_2
+  - spell_psychic
 ---
 
 ## Mind Over Matter

@@ -2,6 +2,14 @@
 aliases: [Eldritch Conduit, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_sorcerer_6
+  - spell_arcanist_6
+  - spell_witch_6
+  - spell_arcanist
 ---
 
 ## Eldritch Conduit, Greater

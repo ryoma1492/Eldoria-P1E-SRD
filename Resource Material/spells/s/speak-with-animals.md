@@ -2,6 +2,18 @@
 aliases: [Speak with Animals]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_druid_1
+  - spell_psychic_2
+  - spell
+  - spell_bard
+  - spell_ranger_1
+  - spell_druid
+  - spell_ranger
+  - spell_psychic
+  - spell_bard_3
+  - spell_hunter
+  - spell_hunter_1
 ---
 
 ## Speak with Animals

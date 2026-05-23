@@ -2,6 +2,28 @@
 aliases: [Legend Lore]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_sorcerer
+  - spell
+  - spell_spiritualist_6
+  - spell_witch
+  - spell_medium
+  - spell_psychic_6
+  - spell_bard
+  - spell_medium_4
+  - spell_sorcerer_6
+  - spell_arcanist_6
+  - spell_skald
+  - spell_inquisitor
+  - spell_psychic
+  - spell_witch_6
+  - spell_inquisitor_6
+  - spell_occultist
+  - spell_spiritualist
+  - spell_occultist_6
+  - spell_bard_4
+  - spell_arcanist
 ---
 
 ## Legend Lore

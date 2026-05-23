@@ -2,6 +2,16 @@
 aliases: [Line in the Sand]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_magus
+  - spell_magus_1
+  - spell_sorcerer_1
+  - spell_arcanist
+  - spell_bloodrager_1
 ---
 
 ## Line in the Sand

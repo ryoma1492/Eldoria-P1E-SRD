@@ -2,6 +2,30 @@
 aliases: [Itching Curse]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_druid_1
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_shaman
+  - spell_bard
+  - spell_antipaladin_1
+  - spell_inquisitor_1
+  - spell_bard_1
+  - spell_skald_1
+  - spell_shaman_1
+  - spell_witch_1
+  - spell_druid
+  - spell_skald
+  - spell_inquisitor
+  - spell_occultist_1
+  - spell_hunter
+  - spell_sorcerer_1
+  - spell_occultist
+  - spell_hunter_1
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Itching Curse

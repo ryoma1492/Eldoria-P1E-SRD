@@ -2,6 +2,16 @@
 aliases: [Detect Animals or Plants]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_1
+  - spell_druid_1
+  - spell
+  - spell_ranger_1
+  - spell_druid
+  - spell_ranger
+  - spell_psychic
+  - spell_hunter
+  - spell_hunter_1
 ---
 
 ## Detect Animals or Plants

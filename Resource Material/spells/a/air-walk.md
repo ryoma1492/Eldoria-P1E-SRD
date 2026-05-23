@@ -2,6 +2,22 @@
 aliases: [Air Walk]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_hunter_4
+  - spell_druid_4
+  - spell
+  - spell_occultist_4
+  - spell_druid
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_investigator
+  - spell_alchemist
+  - spell_oracle
+  - spell_alchemist_4
+  - spell_investigator_4
+  - spell_hunter
+  - spell_occultist
 ---
 
 ## Air Walk

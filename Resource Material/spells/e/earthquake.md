@@ -2,6 +2,16 @@
 aliases: [Earthquake]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_cleric_8
+  - spell_psychic_8
+  - spell_oracle_8
+  - spell_druid
+  - spell_druid_8
+  - spell_oracle
+  - spell_psychic
 ---
 
 ## Earthquake

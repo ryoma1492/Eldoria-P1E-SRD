@@ -2,6 +2,32 @@
 aliases: [Ignoble Form]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_alchemist_2
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_medium
+  - spell_bard
+  - spell_witch_4
+  - spell_druid_3
+  - spell_antipaladin_2
+  - spell_druid
+  - spell_skald
+  - spell_bard_2
+  - spell_ranger
+  - spell_medium_2
+  - spell_investigator_2
+  - spell_investigator
+  - spell_ranger_2
+  - spell_alchemist
+  - spell_skald_2
+  - spell_sorcerer_4
+  - spell_hunter_2
+  - spell_hunter
+  - spell_arcanist_4
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Ignoble Form

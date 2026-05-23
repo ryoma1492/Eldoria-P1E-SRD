@@ -2,6 +2,20 @@
 aliases: [Mythic Bane]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_mesmerist
+  - spell_shaman
+  - spell_antipaladin_1
+  - spell_inquisitor_1
+  - spell_shaman_1
+  - spell_cleric_1
+  - spell_oracle_1
+  - spell_inquisitor
+  - spell_mesmerist_1
+  - spell_oracle
+  - spell_antipaladin
 ---
 
 ## Mythic Bane

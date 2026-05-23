@@ -2,6 +2,18 @@
 aliases: [Leashed Shackles]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_spiritualist_6
+  - spell_psychic_6
+  - spell_inquisitor_4
+  - spell_sorcerer_6
+  - spell_arcanist_6
+  - spell_inquisitor
+  - spell_psychic
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Leashed Shackles

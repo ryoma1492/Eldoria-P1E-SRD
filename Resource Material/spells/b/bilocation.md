@@ -2,6 +2,14 @@
 aliases: [Bilocation]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_psychic_8
+  - spell_arcanist_9
+  - spell_sorcerer_9
+  - spell_psychic
+  - spell_arcanist
 ---
 
 ## Bilocation

@@ -2,6 +2,26 @@
 aliases: [Euphoric Tranquility]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell_arcanist_8
+  - spell
+  - spell_mesmerist
+  - spell_cleric_8
+  - spell_sorcerer_8
+  - spell_bard
+  - spell_psychic_8
+  - spell_bard_6
+  - spell_oracle_8
+  - spell_druid
+  - spell_skald
+  - spell_skald_6
+  - spell_druid_8
+  - spell_oracle
+  - spell_psychic
+  - spell_mesmerist_6
+  - spell_arcanist
 ---
 
 ## Euphoric Tranquility

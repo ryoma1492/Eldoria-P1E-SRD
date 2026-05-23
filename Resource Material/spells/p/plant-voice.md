@@ -2,6 +2,20 @@
 aliases: [Plant Voice]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_cleric
+  - spell
+  - spell_oracle_3
+  - spell_shaman
+  - spell_shaman_2
+  - spell_druid
+  - spell_warpriest
+  - spell_druid_2
+  - spell_oracle
+  - spell_hunter_2
+  - spell_hunter
+  - spell_cleric_3
 ---
 
 ## Plant Voice

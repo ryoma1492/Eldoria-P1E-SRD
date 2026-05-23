@@ -2,6 +2,34 @@
 aliases: [Ghostly Disguise]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_alchemist_2
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell_mesmerist
+  - spell
+  - spell_sorcerer_2
+  - spell_medium
+  - spell_witch
+  - spell_redmantisassassin
+  - spell_bard
+  - spell_arcanist_2
+  - spell_redmantisassassin_2
+  - spell_skald
+  - spell_bard_2
+  - spell_inquisitor
+  - spell_medium_2
+  - spell_witch_2
+  - spell_investigator_2
+  - spell_investigator
+  - spell_inquisitor_2
+  - spell_alchemist
+  - spell_mesmerist_2
+  - spell_occultist_2
+  - spell_psychic
+  - spell_skald_2
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Ghostly Disguise

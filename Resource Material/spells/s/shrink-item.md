@@ -2,6 +2,18 @@
 aliases: [Shrink Item]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_redmantisassassin_3
+  - spell_sorcerer
+  - spell
+  - spell_redmantisassassin
+  - spell_psychic_3
+  - spell_occultist_3
+  - spell_sorcerer_3
+  - spell_arcanist_3
+  - spell_psychic
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Shrink Item

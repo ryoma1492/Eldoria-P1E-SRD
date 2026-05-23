@@ -2,6 +2,18 @@
 aliases: [Mythic Blistering Invective]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_alchemist_2
+  - spell
+  - spell_mesmerist
+  - spell_bard
+  - spell_bard_2
+  - spell_inquisitor
+  - spell_investigator_2
+  - spell_investigator
+  - spell_inquisitor_2
+  - spell_alchemist
+  - spell_mesmerist_2
 ---
 
 ## Mythic Blistering Invective

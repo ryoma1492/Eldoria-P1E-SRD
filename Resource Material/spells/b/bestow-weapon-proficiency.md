@@ -2,6 +2,38 @@
 aliases: [Bestow Weapon Proficiency]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_alchemist_2
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_sorcerer_2
+  - spell_cleric_2
+  - spell_witch
+  - spell_medium
+  - spell_arcanist_2
+  - spell_paladin_2
+  - spell_antipaladin_2
+  - spell_oracle_2
+  - spell_magus
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_medium_2
+  - spell_witch_2
+  - spell_investigator_2
+  - spell_investigator
+  - spell_inquisitor_2
+  - spell_alchemist
+  - spell_warpriest_2
+  - spell_oracle
+  - spell_occultist_2
+  - spell_psychic
+  - spell_magus_2
+  - spell_occultist
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Bestow Weapon Proficiency

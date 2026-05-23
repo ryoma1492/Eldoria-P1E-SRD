@@ -2,6 +2,30 @@
 aliases: [Ride The Waves]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_bloodrager
+  - spell_hunter_4
+  - spell_sorcerer
+  - spell_druid_4
+  - spell
+  - spell_witch
+  - spell_redmantisassassin
+  - spell_warpriest_4
+  - spell_shaman
+  - spell_witch_4
+  - spell_bloodrager_4
+  - spell_druid
+  - spell_warpriest
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_oracle
+  - spell_sorcerer_4
+  - spell_hunter
+  - spell_arcanist_4
+  - spell_shaman_4
+  - spell_arcanist
+  - spell_redmantisassassin_4
 ---
 
 ## Ride The Waves

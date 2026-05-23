@@ -2,6 +2,16 @@
 aliases: [Empower Holy Water]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_alchemist_2
+  - spell
+  - spell_paladin_1
+  - spell_bard
+  - spell_bard_2
+  - spell_investigator_2
+  - spell_investigator
+  - spell_alchemist
 ---
 
 ## Empower Holy Water

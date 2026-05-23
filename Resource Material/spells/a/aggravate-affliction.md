@@ -2,6 +2,24 @@
 aliases: [Aggravate Affliction]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_oracle_3
+  - spell_witch
+  - spell_druid_3
+  - spell_hunter_3
+  - spell_druid
+  - spell_warpriest
+  - spell_oracle
+  - spell_sorcerer_4
+  - spell_hunter
+  - spell_witch_3
+  - spell_cleric_3
+  - spell_arcanist_4
+  - spell_arcanist
 ---
 
 ## Aggravate Affliction

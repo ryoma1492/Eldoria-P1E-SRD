@@ -2,6 +2,20 @@
 aliases: [Symbol of Dispelling]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell_arcanist_8
+  - spell
+  - spell_shaman_8
+  - spell_cleric_8
+  - spell_sorcerer_8
+  - spell_witch
+  - spell_shaman
+  - spell_oracle_8
+  - spell_oracle
+  - spell_witch_8
+  - spell_arcanist
 ---
 
 ## Symbol of Dispelling

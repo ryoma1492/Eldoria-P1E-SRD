@@ -2,6 +2,16 @@
 aliases: [Heroic Fortune, Mass]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_cleric
+  - spell
+  - spell_bard
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_skald
+  - spell_oracle
+  - spell_bard_4
 ---
 
 ## Heroic Fortune, Mass

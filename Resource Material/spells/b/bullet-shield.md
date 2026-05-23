@@ -2,6 +2,22 @@
 aliases: [Bullet Shield]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_alchemist_2
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_sorcerer_2
+  - spell_bloodrager_2
+  - spell_arcanist_2
+  - spell_investigator_2
+  - spell_investigator
+  - spell_alchemist
+  - spell_psychic
+  - spell_occultist_2
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Bullet Shield

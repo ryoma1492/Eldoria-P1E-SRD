@@ -2,6 +2,10 @@
 aliases: [Sanctify Armor]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_inquisitor_4
+  - spell_inquisitor
 ---
 
 ## Sanctify Armor

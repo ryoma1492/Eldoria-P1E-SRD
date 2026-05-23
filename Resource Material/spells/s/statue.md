@@ -2,6 +2,18 @@
 aliases: [Statue]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_alchemist_6
+  - spell_investigator_6
+  - spell_investigator
+  - spell_sorcerer_7
+  - spell_alchemist
+  - spell_arcanist_7
+  - spell_occultist
+  - spell_occultist_6
+  - spell_arcanist
 ---
 
 ## Statue

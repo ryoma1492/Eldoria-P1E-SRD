@@ -2,6 +2,24 @@
 aliases: [Wartrain Mount]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_mesmerist
+  - spell
+  - spell_paladin_1
+  - spell_bard
+  - spell_antipaladin_1
+  - spell_ranger_1
+  - spell_inquisitor_1
+  - spell_druid
+  - spell_bard_2
+  - spell_ranger
+  - spell_inquisitor
+  - spell_druid_2
+  - spell_mesmerist_2
+  - spell_hunter
+  - spell_hunter_1
+  - spell_antipaladin
 ---
 
 ## Wartrain Mount

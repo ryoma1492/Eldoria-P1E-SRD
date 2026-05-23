@@ -2,6 +2,34 @@
 aliases: [Wall of Stone]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_occultist_5
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell
+  - spell_arcanist_5
+  - spell_shaman
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_summoner_4
+  - spell_magus_5
+  - spell_adept
+  - spell_druid
+  - spell_druid_6
+  - spell_shaman_6
+  - spell_magus
+  - spell_warpriest
+  - spell_warpriest_5
+  - spell_hunter_6
+  - spell_summoner_unchained_5
+  - spell_oracle
+  - spell_summoner
+  - spell_adept_5
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Wall of Stone

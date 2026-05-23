@@ -2,6 +2,18 @@
 aliases: [Fire Trap]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_occultist_4
+  - spell_druid
+  - spell_druid_2
+  - spell_sorcerer_4
+  - spell_hunter_2
+  - spell_hunter
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_arcanist
 ---
 
 ## Fire Trap

@@ -2,6 +2,16 @@
 aliases: [Create Food and Water]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_shaman_3
+  - spell
+  - spell_oracle_3
+  - spell_shaman
+  - spell_occultist_3
+  - spell_oracle
+  - spell_occultist
+  - spell_cleric_3
 ---
 
 ## Create Food and Water

@@ -2,6 +2,24 @@
 aliases: [Curse of Dragonflies]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_magus_3
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_shaman
+  - spell_summoner_4
+  - spell_druid_3
+  - spell_hunter_3
+  - spell_druid
+  - spell_magus
+  - spell_summoner
+  - spell_sorcerer_4
+  - spell_hunter
+  - spell_witch_3
+  - spell_arcanist_4
+  - spell_shaman_4
+  - spell_arcanist
 ---
 
 ## Curse of Dragonflies

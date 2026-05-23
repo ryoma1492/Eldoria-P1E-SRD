@@ -2,6 +2,26 @@
 aliases: [Sword to Snake]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_hunter_4
+  - spell_sorcerer
+  - spell_druid_4
+  - spell
+  - spell_warpriest_4
+  - spell_shaman
+  - spell_summoner_4
+  - spell_druid
+  - spell_warpriest
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_oracle
+  - spell_summoner
+  - spell_sorcerer_4
+  - spell_hunter
+  - spell_arcanist_4
+  - spell_shaman_4
+  - spell_arcanist
 ---
 
 ## Sword to Snake

@@ -2,6 +2,24 @@
 aliases: [Hide Weapon]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_arcanist_1
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell
+  - spell_antipaladin_1
+  - spell_inquisitor_1
+  - spell_ranger_1
+  - spell_magus
+  - spell_ranger
+  - spell_inquisitor
+  - spell_magus_1
+  - spell_hunter
+  - spell_sorcerer_1
+  - spell_hunter_1
+  - spell_antipaladin
+  - spell_bloodrager_1
+  - spell_arcanist
 ---
 
 ## Hide Weapon

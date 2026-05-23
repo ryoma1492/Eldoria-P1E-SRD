@@ -2,6 +2,12 @@
 aliases: [Lead Blades]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_hunter
+  - spell_occultist_1
+  - spell_occultist
+  - spell_hunter_1
 ---
 
 ## Lead Blades

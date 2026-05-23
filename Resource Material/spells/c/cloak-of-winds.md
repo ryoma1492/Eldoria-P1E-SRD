@@ -2,6 +2,26 @@
 aliases: [Cloak of Winds]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_ranger_3
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell_magus_3
+  - spell
+  - spell_druid_3
+  - spell_occultist_3
+  - spell_sorcerer_3
+  - spell_hunter_3
+  - spell_druid
+  - spell_bloodrager_3
+  - spell_magus
+  - spell_ranger
+  - spell_arcanist_3
+  - spell_spiritualist_3
+  - spell_hunter
+  - spell_occultist
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Cloak of Winds

@@ -2,6 +2,26 @@
 aliases: ["Sun's Disdain"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_cleric_2
+  - spell_witch
+  - spell_bloodrager_2
+  - spell_shaman
+  - spell_arcanist_2
+  - spell_shaman_2
+  - spell_oracle_2
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_witch_2
+  - spell_inquisitor_2
+  - spell_warpriest_2
+  - spell_oracle
+  - spell_arcanist
 ---
 
 ## Sun's Disdain

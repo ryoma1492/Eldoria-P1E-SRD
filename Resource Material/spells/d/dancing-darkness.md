@@ -2,6 +2,28 @@
 aliases: [Dancing Darkness]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_1
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_shaman
+  - spell_spiritualist_1
+  - spell_bard
+  - spell_antipaladin_1
+  - spell_bard_1
+  - spell_skald_1
+  - spell_shaman_1
+  - spell_witch_1
+  - spell_skald
+  - spell_magus
+  - spell_magus_1
+  - spell_psychic
+  - spell_sorcerer_1
+  - spell_spiritualist
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Dancing Darkness

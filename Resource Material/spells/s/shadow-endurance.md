@@ -2,6 +2,22 @@
 aliases: [Shadow Endurance]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_spiritualist_5
+  - spell_mesmerist
+  - spell_bard_5
+  - spell_skald_5
+  - spell_shaman
+  - spell_bard
+  - spell_sorcerer_6
+  - spell_arcanist_6
+  - spell_skald
+  - spell_shaman_5
+  - spell_mesmerist_5
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Shadow Endurance

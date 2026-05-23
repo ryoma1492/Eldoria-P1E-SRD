@@ -2,6 +2,32 @@
 aliases: [Intensify Psyche]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_mesmerist
+  - spell_sorcerer_2
+  - spell_cleric_2
+  - spell_witch
+  - spell_medium
+  - spell_bard
+  - spell_arcanist_2
+  - spell_spiritualist_2
+  - spell_oracle_2
+  - spell_bard_1
+  - spell_skald_1
+  - spell_skald
+  - spell_warpriest
+  - spell_medium_2
+  - spell_witch_2
+  - spell_mesmerist_1
+  - spell_warpriest_2
+  - spell_oracle
+  - spell_psychic
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Intensify Psyche

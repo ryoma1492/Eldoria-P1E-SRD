@@ -2,6 +2,18 @@
 aliases: [Weapon of Awe]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell
+  - spell_cleric_2
+  - spell_paladin_2
+  - spell_oracle_2
+  - spell_inquisitor
+  - spell_inquisitor_2
+  - spell_oracle
+  - spell_occultist_2
+  - spell_occultist
 ---
 
 ## Weapon of Awe

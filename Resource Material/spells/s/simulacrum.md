@@ -2,6 +2,16 @@
 aliases: [Simulacrum]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_summoner_5
+  - spell_sorcerer
+  - spell
+  - spell_psychic_7
+  - spell_sorcerer_7
+  - spell_psychic
+  - spell_summoner
+  - spell_arcanist_7
+  - spell_arcanist
 ---
 
 ## Simulacrum

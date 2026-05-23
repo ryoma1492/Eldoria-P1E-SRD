@@ -2,6 +2,24 @@
 aliases: [Shield Companion (AA)]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_druid_1
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_paladin_1
+  - spell_antipaladin_1
+  - spell_ranger_1
+  - spell_witch_1
+  - spell_druid
+  - spell_ranger
+  - spell_hunter
+  - spell_sorcerer_1
+  - spell_hunter_1
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Shield Companion (AA)

@@ -2,6 +2,34 @@
 aliases: [Summon Monster 5]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_summoner_unchained_4
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell_spiritualist_5
+  - spell
+  - spell_psychic_5
+  - spell_arcanist_5
+  - spell_witch
+  - spell_bard_5
+  - spell_medium
+  - spell_skald_5
+  - spell_bard
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_summoner_4
+  - spell_medium_4
+  - spell_skald
+  - spell_warpriest
+  - spell_warpriest_5
+  - spell_witch_5
+  - spell_oracle
+  - spell_psychic
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Summon Monster 5

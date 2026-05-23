@@ -2,6 +2,28 @@
 aliases: [Appearance of Life]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_mesmerist_3
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_oracle_3
+  - spell_witch
+  - spell_medium
+  - spell_psychic_3
+  - spell_sorcerer_3
+  - spell_warpriest
+  - spell_medium_2
+  - spell_arcanist_3
+  - spell_spiritualist_3
+  - spell_oracle
+  - spell_psychic
+  - spell_witch_3
+  - spell_cleric_3
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Appearance of Life

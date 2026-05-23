@@ -2,6 +2,14 @@
 aliases: [Entice Fey]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_druid_7
+  - spell_shaman_7
+  - spell_shaman
+  - spell_bard
+  - spell_bard_6
+  - spell_druid
 ---
 
 ## Entice Fey

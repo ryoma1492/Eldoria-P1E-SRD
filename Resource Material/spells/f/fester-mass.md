@@ -2,6 +2,10 @@
 aliases: [Fester, Mass]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_inquisitor
+  - spell_inquisitor_6
 ---
 
 ## Fester, Mass

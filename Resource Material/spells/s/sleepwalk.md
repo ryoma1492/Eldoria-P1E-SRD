@@ -2,6 +2,14 @@
 aliases: [Sleepwalk]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_mesmerist
+  - spell
+  - spell_inquisitor_4
+  - spell_mesmerist_4
+  - spell_inquisitor
+  - spell_psychic
+  - spell_psychic_4
 ---
 
 ## Sleepwalk

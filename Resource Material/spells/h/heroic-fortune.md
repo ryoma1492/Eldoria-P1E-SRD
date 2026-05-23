@@ -2,6 +2,22 @@
 aliases: [Heroic Fortune]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_alchemist_2
+  - spell
+  - spell_cleric_2
+  - spell_bard
+  - spell_oracle_2
+  - spell_skald
+  - spell_bard_2
+  - spell_investigator_2
+  - spell_paladin_3
+  - spell_investigator
+  - spell_alchemist
+  - spell_oracle
+  - spell_skald_2
 ---
 
 ## Heroic Fortune

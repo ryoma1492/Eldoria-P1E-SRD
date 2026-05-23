@@ -2,6 +2,22 @@
 aliases: [Sonic Scream]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_sorcerer_2
+  - spell_bloodrager_2
+  - spell_bard
+  - spell_arcanist_2
+  - spell_skald
+  - spell_bard_2
+  - spell_magus
+  - spell_psychic
+  - spell_skald_2
+  - spell_magus_2
+  - spell_arcanist
 ---
 
 ## Sonic Scream

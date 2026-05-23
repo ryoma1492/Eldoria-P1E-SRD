@@ -2,6 +2,24 @@
 aliases: [Mindshock]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_psychic_2
+  - spell
+  - spell_medium
+  - spell_bloodrager_2
+  - spell_shaman
+  - spell_shaman_2
+  - spell_spiritualist_2
+  - spell_antipaladin_2
+  - spell_inquisitor
+  - spell_medium_2
+  - spell_inquisitor_2
+  - spell_psychic
+  - spell_occultist_2
+  - spell_occultist
+  - spell_spiritualist
+  - spell_antipaladin
 ---
 
 ## Mindshock

@@ -2,6 +2,36 @@
 aliases: [Red Hand of the Killer]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_paladin
+  - spell_cleric
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell
+  - spell_paladin_4
+  - spell_psychic_5
+  - spell_arcanist_5
+  - spell_witch
+  - spell_medium
+  - spell_inquisitor_4
+  - spell_warpriest_4
+  - spell_bard
+  - spell_occultist_4
+  - spell_skald
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_witch_5
+  - spell_oracle
+  - spell_psychic
+  - spell_spiritualist_4
+  - spell_medium_3
+  - spell_occultist
+  - spell_spiritualist
+  - spell_bard_4
+  - spell_arcanist
 ---
 
 ## Red Hand of the Killer

@@ -2,6 +2,22 @@
 aliases: [Spellsteal]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_psychic_5
+  - spell_arcanist_5
+  - spell_witch
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_warpriest_5
+  - spell_warpriest
+  - spell_witch_5
+  - spell_oracle
+  - spell_psychic
+  - spell_arcanist
 ---
 
 ## Spellsteal

@@ -2,6 +2,24 @@
 aliases: [Wing Thorns]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_shaman_3
+  - spell
+  - spell_magus_4
+  - spell_shaman
+  - spell_druid_3
+  - spell_hunter_3
+  - spell_druid
+  - spell_magus
+  - spell_bloodrager_3
+  - spell_investigator
+  - spell_alchemist
+  - spell_antipaladin_3
+  - spell_alchemist_3
+  - spell_hunter
+  - spell_investigator_3
+  - spell_antipaladin
 ---
 
 ## Wing Thorns

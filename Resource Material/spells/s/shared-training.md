@@ -2,6 +2,34 @@
 aliases: [Shared Training]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_oracle_3
+  - spell_bard
+  - spell_paladin_2
+  - spell_psychic_3
+  - spell_sorcerer_3
+  - spell_skald
+  - spell_bard_2
+  - spell_magus
+  - spell_ranger
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_arcanist_3
+  - spell_ranger_2
+  - spell_inquisitor_2
+  - spell_oracle
+  - spell_psychic
+  - spell_skald_2
+  - spell_magus_2
+  - spell_hunter_2
+  - spell_hunter
+  - spell_cleric_3
+  - spell_arcanist
 ---
 
 ## Shared Training

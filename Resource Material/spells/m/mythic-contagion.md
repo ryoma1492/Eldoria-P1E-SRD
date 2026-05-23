@@ -2,6 +2,28 @@
 aliases: [Mythic Contagion]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell
+  - spell_oracle_3
+  - spell_druid_3
+  - spell_adept_3
+  - spell_bloodrager_4
+  - spell_druid
+  - spell_adept
+  - spell_hunter_3
+  - spell_warpriest
+  - spell_antipaladin_3
+  - spell_oracle
+  - spell_sorcerer_4
+  - spell_hunter
+  - spell_arcanist_4
+  - spell_cleric_3
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Mythic Contagion

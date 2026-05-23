@@ -2,6 +2,20 @@
 aliases: [Antilife Shell]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_cleric_6
+  - spell
+  - spell_oracle_6
+  - spell_shaman
+  - spell_psychic_6
+  - spell_druid
+  - spell_druid_6
+  - spell_shaman_6
+  - spell_hunter_6
+  - spell_oracle
+  - spell_psychic
+  - spell_hunter
 ---
 
 ## Antilife Shell

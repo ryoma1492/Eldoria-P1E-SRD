@@ -2,6 +2,30 @@
 aliases: ["Eagle's Splendor, Mass"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_cleric_6
+  - spell_sorcerer
+  - spell
+  - spell_oracle_6
+  - spell_shaman
+  - spell_psychic_6
+  - spell_bard
+  - spell_bard_6
+  - spell_summoner_4
+  - spell_sorcerer_6
+  - spell_arcanist_6
+  - spell_skald
+  - spell_shaman_6
+  - spell_skald_6
+  - spell_warpriest
+  - spell_summoner_unchained_6
+  - spell_oracle
+  - spell_psychic
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_warpriest_6
+  - spell_arcanist
 ---
 
 ## Eagle's Splendor, Mass

@@ -2,6 +2,20 @@
 aliases: [Corrosive Touch]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_summoner_1
+  - spell_magus
+  - spell_magus_1
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_sorcerer_1
+  - spell_summoner_unchained_1
+  - spell_arcanist
+  - spell_bloodrager_1
 ---
 
 ## Corrosive Touch

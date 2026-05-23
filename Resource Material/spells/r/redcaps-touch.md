@@ -2,6 +2,26 @@
 aliases: ["Redcap's Touch"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_ranger_4
+  - spell_shaman
+  - spell_sorcerer_6
+  - spell_bloodrager_4
+  - spell_arcanist_6
+  - spell_druid
+  - spell_druid_6
+  - spell_shaman_6
+  - spell_ranger
+  - spell_witch_6
+  - spell_antipaladin_4
+  - spell_hunter
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Redcap's Touch

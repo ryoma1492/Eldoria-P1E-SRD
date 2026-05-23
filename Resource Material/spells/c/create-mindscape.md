@@ -2,6 +2,18 @@
 aliases: [Create Mindscape]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_arcanist_5
+  - spell_medium
+  - spell_medium_4
+  - spell_mesmerist_4
+  - spell_psychic
+  - spell_psychic_4
+  - spell_arcanist
 ---
 
 ## Create Mindscape

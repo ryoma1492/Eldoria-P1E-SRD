@@ -2,6 +2,10 @@
 aliases: [Twin Form]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_alchemist_6
+  - spell_alchemist
 ---
 
 ## Twin Form

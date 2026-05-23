@@ -2,6 +2,22 @@
 aliases: [Oath of Anonymity]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_sorcerer
+  - spell_inquisitor_0
+  - spell
+  - spell_bard_0
+  - spell_skald_0
+  - spell_medium_0
+  - spell_paladin_1
+  - spell_medium
+  - spell_bard
+  - spell_skald
+  - spell_inquisitor
+  - spell_sorcerer_0
+  - spell_arcanist_0
+  - spell_arcanist
 ---
 
 ## Oath of Anonymity

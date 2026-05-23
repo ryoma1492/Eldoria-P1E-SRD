@@ -2,6 +2,16 @@
 aliases: [Reveal Emotions]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_mesmerist
+  - spell
+  - spell_medium
+  - spell_occultist_4
+  - spell_mesmerist_4
+  - spell_psychic
+  - spell_psychic_4
+  - spell_medium_3
+  - spell_occultist
 ---
 
 ## Reveal Emotions

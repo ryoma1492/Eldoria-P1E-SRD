@@ -2,6 +2,18 @@
 aliases: [Unleash Pandemonium]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_summoner_5
+  - spell
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_warpriest_5
+  - spell_warpriest
+  - spell_summoner_unchained_5
+  - spell_oracle
+  - spell_summoner
+  - spell_summoner_unchained
 ---
 
 ## Unleash Pandemonium

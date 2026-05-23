@@ -2,6 +2,28 @@
 aliases: [Free Spirit]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_skald_3
+  - spell_shaman_3
+  - spell
+  - spell_oracle_3
+  - spell_medium
+  - spell_shaman
+  - spell_bard
+  - spell_druid_3
+  - spell_hunter_3
+  - spell_druid
+  - spell_skald
+  - spell_warpriest
+  - spell_spiritualist_3
+  - spell_oracle
+  - spell_bard_3
+  - spell_hunter
+  - spell_medium_3
+  - spell_cleric_3
+  - spell_spiritualist
 ---
 
 ## Free Spirit

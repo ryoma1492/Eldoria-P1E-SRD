@@ -2,6 +2,28 @@
 aliases: [Fey Gate]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell_arcanist_8
+  - spell
+  - spell_cleric_8
+  - spell_sorcerer_8
+  - spell_witch
+  - spell_bard
+  - spell_bard_6
+  - spell_oracle_8
+  - spell_druid
+  - spell_skald
+  - spell_skald_6
+  - spell_summoner_unchained_6
+  - spell_druid_8
+  - spell_oracle
+  - spell_summoner
+  - spell_summoner_6
+  - spell_witch_8
+  - spell_summoner_unchained
+  - spell_arcanist
 ---
 
 ## Fey Gate

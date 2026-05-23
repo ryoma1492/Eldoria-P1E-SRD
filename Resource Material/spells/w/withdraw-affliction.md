@@ -2,6 +2,14 @@
 aliases: [Withdraw Affliction]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_spiritualist_5
+  - spell
+  - spell_shaman
+  - spell_psychic_6
+  - spell_shaman_6
+  - spell_psychic
+  - spell_spiritualist
 ---
 
 ## Withdraw Affliction

@@ -2,6 +2,18 @@
 aliases: [Animal Ambassador]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_ranger_3
+  - spell
+  - spell_druid_4
+  - spell_shaman
+  - spell_bard
+  - spell_hunter_3
+  - spell_druid
+  - spell_ranger
+  - spell_hunter
+  - spell_bard_4
+  - spell_shaman_4
 ---
 
 ## Animal Ambassador

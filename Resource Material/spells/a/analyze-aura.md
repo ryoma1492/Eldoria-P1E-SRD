@@ -2,6 +2,16 @@
 aliases: [Analyze Aura]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_mesmerist_3
+  - spell_mesmerist
+  - spell
+  - spell_medium
+  - spell_psychic_3
+  - spell_medium_2
+  - spell_occultist_2
+  - spell_psychic
+  - spell_occultist
 ---
 
 ## Analyze Aura

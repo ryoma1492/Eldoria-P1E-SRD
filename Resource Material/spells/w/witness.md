@@ -2,6 +2,22 @@
 aliases: [Witness]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_mesmerist_3
+  - spell_skald_3
+  - spell
+  - spell_mesmerist
+  - spell_medium
+  - spell_bard
+  - spell_psychic_3
+  - spell_occultist_3
+  - spell_skald
+  - spell_inquisitor
+  - spell_psychic
+  - spell_bard_3
+  - spell_medium_3
+  - spell_occultist
 ---
 
 ## Witness

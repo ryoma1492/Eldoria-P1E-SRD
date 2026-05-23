@@ -2,6 +2,34 @@
 aliases: [Bestow Planar Infusion II]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_summoner_unchained_4
+  - spell_sorcerer
+  - spell
+  - spell_magus_4
+  - spell_witch
+  - spell_medium
+  - spell_inquisitor_4
+  - spell_warpriest_4
+  - spell_occultist_4
+  - spell_summoner_4
+  - spell_medium_4
+  - spell_witch_4
+  - spell_magus
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_oracle
+  - spell_psychic
+  - spell_summoner
+  - spell_sorcerer_4
+  - spell_summoner_unchained
+  - spell_psychic_4
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_arcanist
 ---
 
 ## Bestow Planar Infusion II

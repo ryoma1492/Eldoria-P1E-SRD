@@ -2,6 +2,26 @@
 aliases: [Whip of Ants]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_bard
+  - spell_bard_6
+  - spell_sorcerer_6
+  - spell_druid
+  - spell_arcanist_6
+  - spell_druid_6
+  - spell_skald
+  - spell_skald_6
+  - spell_hunter_6
+  - spell_summoner_unchained_6
+  - spell_summoner
+  - spell_summoner_6
+  - spell_witch_6
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_arcanist
 ---
 
 ## Whip of Ants

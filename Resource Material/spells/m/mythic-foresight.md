@@ -2,6 +2,20 @@
 aliases: [Mythic Foresight]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_witch_9
+  - spell
+  - spell_witch
+  - spell_shaman
+  - spell_druid_9
+  - spell_arcanist_9
+  - spell_druid
+  - spell_sorcerer_9
+  - spell_psychic_9
+  - spell_psychic
+  - spell_shaman_9
+  - spell_arcanist
 ---
 
 ## Mythic Foresight

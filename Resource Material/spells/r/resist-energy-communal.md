@@ -2,6 +2,40 @@
 aliases: [Resist Energy, Communal]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_inquisitor_3
+  - spell_warpriest_3
+  - spell_ranger_3
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_oracle_3
+  - spell_psychic_3
+  - spell_druid_3
+  - spell_occultist_3
+  - spell_sorcerer_3
+  - spell_hunter_3
+  - spell_summoner_unchained_3
+  - spell_druid
+  - spell_ranger
+  - spell_inquisitor
+  - spell_warpriest
+  - spell_arcanist_3
+  - spell_investigator
+  - spell_paladin_3
+  - spell_summoner_3
+  - spell_alchemist
+  - spell_oracle
+  - spell_alchemist_3
+  - spell_psychic
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_cleric_3
+  - spell_occultist
+  - spell_investigator_3
+  - spell_arcanist
 ---
 
 ## Resist Energy, Communal

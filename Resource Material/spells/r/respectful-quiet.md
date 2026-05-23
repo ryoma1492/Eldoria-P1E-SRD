@@ -2,6 +2,18 @@
 aliases: [Respectful Quiet]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_cleric
+  - spell_skald_3
+  - spell
+  - spell_bard
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_skald
+  - spell_inquisitor
+  - spell_oracle
+  - spell_bard_3
 ---
 
 ## Respectful Quiet

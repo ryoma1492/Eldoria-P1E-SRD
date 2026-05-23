@@ -2,6 +2,38 @@
 aliases: [Air Breathing]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_bloodrager
+  - spell_shaman_3
+  - spell_sorcerer
+  - spell_magus_3
+  - spell
+  - spell_oracle_3
+  - spell_shaman
+  - spell_psychic_3
+  - spell_druid_3
+  - spell_sorcerer_3
+  - spell_hunter_3
+  - spell_druid
+  - spell_summoner_unchained_3
+  - spell_bloodrager_3
+  - spell_magus
+  - spell_warpriest
+  - spell_arcanist_3
+  - spell_investigator
+  - spell_summoner_3
+  - spell_alchemist
+  - spell_oracle
+  - spell_alchemist_3
+  - spell_psychic
+  - spell_summoner
+  - spell_hunter
+  - spell_summoner_unchained
+  - spell_cleric_3
+  - spell_investigator_3
+  - spell_arcanist
 ---
 
 ## Air Breathing

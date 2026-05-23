@@ -2,6 +2,24 @@
 aliases: [Mythic Vermin Shape II]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell_druid_4
+  - spell
+  - spell_investigator_5
+  - spell_arcanist_5
+  - spell_witch
+  - spell_witch_4
+  - spell_magus_5
+  - spell_druid
+  - spell_alchemist_5
+  - spell_magus
+  - spell_investigator
+  - spell_alchemist
+  - spell_hunter
+  - spell_arcanist
 ---
 
 ## Mythic Vermin Shape II

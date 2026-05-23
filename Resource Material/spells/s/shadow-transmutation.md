@@ -2,6 +2,26 @@
 aliases: [Shadow Transmutation]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_spiritualist_6
+  - spell_witch
+  - spell_medium
+  - spell_shaman
+  - spell_bard
+  - spell_bard_6
+  - spell_sorcerer_6
+  - spell_arcanist_6
+  - spell_skald
+  - spell_shaman_6
+  - spell_skald_6
+  - spell_summoner
+  - spell_summoner_6
+  - spell_witch_6
+  - spell_medium_6
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Shadow Transmutation

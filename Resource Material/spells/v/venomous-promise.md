@@ -2,6 +2,16 @@
 aliases: [Venomous Promise]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_3
+  - spell_shaman_3
+  - spell
+  - spell_shaman
+  - spell_bard
+  - spell_skald
+  - spell_antipaladin_3
+  - spell_bard_3
+  - spell_antipaladin
 ---
 
 ## Venomous Promise

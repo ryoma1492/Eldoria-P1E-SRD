@@ -2,6 +2,24 @@
 aliases: [Suggestion, Mass]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_occultist_5
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_psychic_5
+  - spell_witch
+  - spell_bard_5
+  - spell_skald_5
+  - spell_bard
+  - spell_sorcerer_6
+  - spell_arcanist_6
+  - spell_skald
+  - spell_psychic
+  - spell_witch_6
+  - spell_mesmerist_5
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Suggestion, Mass

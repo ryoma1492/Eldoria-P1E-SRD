@@ -2,6 +2,36 @@
 aliases: [Quieting Weapons]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_ranger_3
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_magus_4
+  - spell_inquisitor_4
+  - spell_warpriest_4
+  - spell_bard
+  - spell_occultist_4
+  - spell_hunter_3
+  - spell_skald
+  - spell_magus
+  - spell_ranger
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_oracle
+  - spell_psychic
+  - spell_sorcerer_4
+  - spell_spiritualist_4
+  - spell_hunter
+  - spell_psychic_4
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_spiritualist
+  - spell_bard_4
+  - spell_arcanist
 ---
 
 ## Quieting Weapons

@@ -2,6 +2,24 @@
 aliases: [Snow Shape (Ulfen)]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_druid_1
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_cleric_2
+  - spell_redmantisassassin
+  - spell_arcanist_2
+  - spell_redmantisassassin_2
+  - spell_oracle_2
+  - spell_druid
+  - spell_warpriest
+  - spell_warpriest_2
+  - spell_oracle
+  - spell_hunter
+  - spell_hunter_1
+  - spell_arcanist
 ---
 
 ## Snow Shape (Ulfen)

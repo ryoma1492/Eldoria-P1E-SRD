@@ -2,6 +2,24 @@
 aliases: [Treasure Stitching]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_cleric
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell
+  - spell_arcanist_5
+  - spell_bard
+  - spell_cleric_5
+  - spell_occultist_4
+  - spell_oracle_5
+  - spell_skald
+  - spell_warpriest_5
+  - spell_warpriest
+  - spell_oracle
+  - spell_occultist
+  - spell_bard_4
+  - spell_arcanist
 ---
 
 ## Treasure Stitching

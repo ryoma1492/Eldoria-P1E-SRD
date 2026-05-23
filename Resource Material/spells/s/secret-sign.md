@@ -2,6 +2,22 @@
 aliases: [Secret Sign]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_witch
+  - spell_shaman
+  - spell_bard
+  - spell_arcanist_2
+  - spell_inquisitor_1
+  - spell_bard_1
+  - spell_skald_1
+  - spell_shaman_1
+  - spell_skald
+  - spell_inquisitor
+  - spell_witch_2
+  - spell_arcanist
 ---
 
 ## Secret Sign

@@ -2,6 +2,30 @@
 aliases: ["Janni's Jaunt"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_summoner_5
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_medium
+  - spell_warpriest_4
+  - spell_shaman
+  - spell_sorcerer_6
+  - spell_arcanist_6
+  - spell_shaman_6
+  - spell_warpriest
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_summoner_unchained_5
+  - spell_oracle
+  - spell_psychic
+  - spell_summoner
+  - spell_witch_6
+  - spell_summoner_unchained
+  - spell_psychic_4
+  - spell_medium_3
+  - spell_arcanist
 ---
 
 ## Janni's Jaunt

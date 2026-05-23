@@ -2,6 +2,20 @@
 aliases: [Bouncy Body]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_arcanist_1
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_alchemist_1
+  - spell_investigator_1
+  - spell_witch_1
+  - spell_investigator
+  - spell_alchemist
+  - spell_sorcerer_1
+  - spell_bloodrager_1
+  - spell_arcanist
 ---
 
 ## Bouncy Body

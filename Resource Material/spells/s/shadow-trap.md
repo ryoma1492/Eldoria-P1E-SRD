@@ -2,6 +2,36 @@
 aliases: [Shadow Trap]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_1
+  - spell_cleric
+  - spell_arcanist_1
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_witch
+  - spell_shaman
+  - spell_bard
+  - spell_antipaladin_1
+  - spell_warpriest_1
+  - spell_bard_1
+  - spell_skald_1
+  - spell_shaman_1
+  - spell_witch_1
+  - spell_cleric_1
+  - spell_skald
+  - spell_oracle_1
+  - spell_warpriest
+  - spell_mesmerist_1
+  - spell_oracle
+  - spell_psychic
+  - spell_occultist_1
+  - spell_sorcerer_1
+  - spell_occultist
+  - spell_antipaladin
+  - spell_bloodrager_1
+  - spell_arcanist
 ---
 
 ## Shadow Trap

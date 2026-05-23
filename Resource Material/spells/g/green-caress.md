@@ -2,6 +2,16 @@
 aliases: [Green Caress]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell
+  - spell_ranger_4
+  - spell_shaman
+  - spell_druid
+  - spell_druid_6
+  - spell_shaman_6
+  - spell_ranger
+  - spell_hunter
 ---
 
 ## Green Caress

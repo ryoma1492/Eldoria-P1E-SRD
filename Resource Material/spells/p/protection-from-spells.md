@@ -2,6 +2,16 @@
 aliases: [Protection from Spells]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_arcanist_8
+  - spell
+  - spell_sorcerer_8
+  - spell_psychic_8
+  - spell_psychic
+  - spell_summoner
+  - spell_summoner_6
+  - spell_arcanist
 ---
 
 ## Protection from Spells

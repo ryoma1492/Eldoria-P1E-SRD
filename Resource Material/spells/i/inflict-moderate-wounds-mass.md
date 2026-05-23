@@ -2,6 +2,20 @@
 aliases: [Inflict Moderate Wounds, Mass]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_cleric_6
+  - spell
+  - spell_oracle_6
+  - spell_shaman
+  - spell_shaman_6
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_oracle
+  - spell_warpriest_6
+  - spell_inquisitor_6
+  - spell_occultist
+  - spell_occultist_6
 ---
 
 ## Inflict Moderate Wounds, Mass

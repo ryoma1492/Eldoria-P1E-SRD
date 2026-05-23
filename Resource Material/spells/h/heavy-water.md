@@ -2,6 +2,18 @@
 aliases: [Heavy Water]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_hunter_4
+  - spell
+  - spell_druid_4
+  - spell_ranger_4
+  - spell_druid
+  - spell_ranger
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_oracle
+  - spell_hunter
 ---
 
 ## Heavy Water

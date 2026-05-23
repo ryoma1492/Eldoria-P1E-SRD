@@ -2,6 +2,18 @@
 aliases: ["Tamer's Lash"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell
+  - spell_bard
+  - spell_ranger_1
+  - spell_bard_1
+  - spell_magus
+  - spell_ranger
+  - spell_magus_1
+  - spell_hunter
+  - spell_hunter_1
+  - spell_bloodrager_1
 ---
 
 ## Tamer's Lash

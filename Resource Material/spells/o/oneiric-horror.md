@@ -2,6 +2,22 @@
 aliases: [Oneiric Horror]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_mesmerist
+  - spell_medium
+  - spell_bard
+  - spell_medium_1
+  - spell_sorcerer_3
+  - spell_skald
+  - spell_bard_2
+  - spell_arcanist_3
+  - spell_mesmerist_2
+  - spell_psychic
+  - spell_skald_2
+  - spell_arcanist
 ---
 
 ## Oneiric Horror

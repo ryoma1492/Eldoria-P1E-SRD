@@ -2,6 +2,32 @@
 aliases: [Hold Monster]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_psychic_5
+  - spell_arcanist_5
+  - spell_witch
+  - spell_medium
+  - spell_inquisitor_4
+  - spell_bard
+  - spell_occultist_4
+  - spell_summoner_4
+  - spell_medium_4
+  - spell_mesmerist_4
+  - spell_skald
+  - spell_inquisitor
+  - spell_witch_5
+  - spell_summoner_unchained_5
+  - spell_psychic
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_occultist
+  - spell_bard_4
+  - spell_arcanist
 ---
 
 ## Hold Monster

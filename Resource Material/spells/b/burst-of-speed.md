@@ -2,6 +2,28 @@
 aliases: [Burst of Speed]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_inquisitor_3
+  - spell_bloodrager
+  - spell_magus_3
+  - spell
+  - spell_medium
+  - spell_psychic_3
+  - spell_hunter_3
+  - spell_magus
+  - spell_bloodrager_3
+  - spell_inquisitor
+  - spell_paladin_3
+  - spell_investigator
+  - spell_alchemist
+  - spell_antipaladin_3
+  - spell_alchemist_3
+  - spell_psychic
+  - spell_hunter
+  - spell_medium_3
+  - spell_investigator_3
+  - spell_antipaladin
 ---
 
 ## Burst of Speed

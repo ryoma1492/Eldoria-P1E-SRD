@@ -2,6 +2,34 @@
 aliases: [Know Peerage]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell_mesmerist
+  - spell
+  - spell_sorcerer_2
+  - spell_cleric_2
+  - spell_paladin_1
+  - spell_medium
+  - spell_bard
+  - spell_arcanist_2
+  - spell_oracle_2
+  - spell_bard_1
+  - spell_skald_1
+  - spell_medium_1
+  - spell_skald
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_inquisitor_2
+  - spell_warpriest_2
+  - spell_mesmerist_2
+  - spell_oracle
+  - spell_psychic
+  - spell_occultist_2
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Know Peerage

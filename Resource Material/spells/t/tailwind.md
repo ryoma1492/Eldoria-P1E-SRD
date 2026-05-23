@@ -2,6 +2,34 @@
 aliases: [Tailwind]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_ranger_3
+  - spell_cleric
+  - spell_bloodrager
+  - spell_shaman_3
+  - spell_sorcerer
+  - spell
+  - spell_magus_4
+  - spell_shaman
+  - spell_warpriest_4
+  - spell_druid_3
+  - spell_occultist_3
+  - spell_bloodrager_4
+  - spell_hunter_3
+  - spell_druid
+  - spell_magus
+  - spell_ranger
+  - spell_warpriest
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_spiritualist_3
+  - spell_oracle
+  - spell_sorcerer_4
+  - spell_hunter
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Tailwind

@@ -2,6 +2,36 @@
 aliases: [Heroism]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell
+  - spell_medium
+  - spell_witch
+  - spell_bard
+  - spell_psychic_3
+  - spell_sorcerer_3
+  - spell_summoner_unchained_3
+  - spell_skald
+  - spell_bard_2
+  - spell_bloodrager_3
+  - spell_inquisitor
+  - spell_medium_2
+  - spell_arcanist_3
+  - spell_investigator
+  - spell_summoner_3
+  - spell_alchemist
+  - spell_spiritualist_3
+  - spell_alchemist_3
+  - spell_psychic
+  - spell_skald_2
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_witch_3
+  - spell_investigator_3
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Heroism

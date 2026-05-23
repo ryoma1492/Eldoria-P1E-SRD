@@ -2,6 +2,24 @@
 aliases: [Dust Form]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_cleric_6
+  - spell
+  - spell_investigator_5
+  - spell_oracle_6
+  - spell_psychic_6
+  - spell_druid
+  - spell_alchemist_5
+  - spell_druid_6
+  - spell_warpriest
+  - spell_hunter_6
+  - spell_investigator
+  - spell_alchemist
+  - spell_oracle
+  - spell_psychic
+  - spell_hunter
+  - spell_warpriest_6
 ---
 
 ## Dust Form

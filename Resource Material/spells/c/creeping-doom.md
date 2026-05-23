@@ -2,6 +2,14 @@
 aliases: [Creeping Doom]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_summoner_5
+  - spell
+  - spell_druid_7
+  - spell_shaman_7
+  - spell_shaman
+  - spell_druid
+  - spell_summoner
 ---
 
 ## Creeping Doom

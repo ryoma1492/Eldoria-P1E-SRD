@@ -2,6 +2,28 @@
 aliases: [Detect Secret Doors]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_1
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_witch
+  - spell_bard
+  - spell_alchemist_1
+  - spell_investigator_1
+  - spell_bard_1
+  - spell_skald_1
+  - spell_witch_1
+  - spell_skald
+  - spell_mesmerist_1
+  - spell_investigator
+  - spell_alchemist
+  - spell_psychic
+  - spell_occultist_1
+  - spell_sorcerer_1
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Detect Secret Doors

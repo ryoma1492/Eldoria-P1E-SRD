@@ -2,6 +2,18 @@
 aliases: [Delectable Flesh]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_druid_7
+  - spell_witch
+  - spell_shaman_7
+  - spell_shaman
+  - spell_sorcerer_6
+  - spell_druid
+  - spell_arcanist_6
+  - spell_witch_6
+  - spell_arcanist
 ---
 
 ## Delectable Flesh

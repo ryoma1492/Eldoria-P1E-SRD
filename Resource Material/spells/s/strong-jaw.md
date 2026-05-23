@@ -2,6 +2,12 @@
 aliases: [Strong Jaw]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_druid_4
+  - spell_druid
+  - spell_hunter_3
+  - spell_hunter
 ---
 
 ## Strong Jaw

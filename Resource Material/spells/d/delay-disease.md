@@ -2,6 +2,30 @@
 aliases: [Delay Disease]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_alchemist_2
+  - spell_mesmerist
+  - spell
+  - spell_cleric_2
+  - spell_paladin_2
+  - spell_oracle_2
+  - spell_druid
+  - spell_ranger
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_investigator_2
+  - spell_investigator
+  - spell_ranger_2
+  - spell_inquisitor_2
+  - spell_alchemist
+  - spell_warpriest_2
+  - spell_druid_2
+  - spell_oracle
+  - spell_mesmerist_2
+  - spell_hunter_2
+  - spell_hunter
 ---
 
 ## Delay Disease

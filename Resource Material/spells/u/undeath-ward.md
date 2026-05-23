@@ -2,6 +2,22 @@
 aliases: [Undeath Ward]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_inquisitor_4
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_sorcerer_6
+  - spell_arcanist_6
+  - spell_warpriest_5
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_oracle
+  - spell_witch_6
+  - spell_arcanist
 ---
 
 ## Undeath Ward

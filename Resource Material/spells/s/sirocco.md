@@ -2,6 +2,20 @@
 aliases: [Sirocco]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_6
+  - spell_druid
+  - spell_arcanist_6
+  - spell_druid_6
+  - spell_magus
+  - spell_magus_6
+  - spell_hunter_6
+  - spell_hunter
+  - spell_occultist
+  - spell_occultist_6
+  - spell_arcanist
 ---
 
 ## Sirocco

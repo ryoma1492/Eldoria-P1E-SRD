@@ -2,6 +2,24 @@
 aliases: [Probe History]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_skald_3
+  - spell_sorcerer
+  - spell
+  - spell_inquisitor_4
+  - spell_warpriest_4
+  - spell_bard
+  - spell_skald
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_oracle
+  - spell_sorcerer_4
+  - spell_bard_3
+  - spell_arcanist_4
+  - spell_arcanist
 ---
 
 ## Probe History

@@ -2,6 +2,36 @@
 aliases: [Fear]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_mesmerist_3
+  - spell_bloodrager
+  - spell_skald_3
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_medium
+  - spell_witch
+  - spell_shaman
+  - spell_inquisitor_4
+  - spell_bard
+  - spell_occultist_4
+  - spell_medium_4
+  - spell_witch_4
+  - spell_bloodrager_4
+  - spell_skald
+  - spell_inquisitor
+  - spell_psychic
+  - spell_sorcerer_4
+  - spell_spiritualist_4
+  - spell_antipaladin_4
+  - spell_bard_3
+  - spell_psychic_4
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_spiritualist
+  - spell_antipaladin
+  - spell_shaman_4
+  - spell_arcanist
 ---
 
 ## Fear

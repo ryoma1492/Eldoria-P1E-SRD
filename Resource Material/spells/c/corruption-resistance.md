@@ -2,6 +2,12 @@
 aliases: [Corruption Resistance]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_antipaladin_2
+  - spell_inquisitor
+  - spell_inquisitor_2
+  - spell_antipaladin
 ---
 
 ## Corruption Resistance

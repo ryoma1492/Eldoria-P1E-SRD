@@ -2,6 +2,46 @@
 aliases: [Tongues]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_medium
+  - spell_witch
+  - spell_shaman
+  - spell_warpriest_4
+  - spell_bard
+  - spell_psychic_3
+  - spell_adept_3
+  - spell_sorcerer_3
+  - spell_adept
+  - spell_summoner_unchained_3
+  - spell_skald
+  - spell_bard_2
+  - spell_inquisitor
+  - spell_warpriest
+  - spell_medium_2
+  - spell_arcanist_3
+  - spell_cleric_4
+  - spell_investigator
+  - spell_oracle_4
+  - spell_summoner_3
+  - spell_inquisitor_2
+  - spell_alchemist
+  - spell_spiritualist_3
+  - spell_mesmerist_2
+  - spell_oracle
+  - spell_alchemist_3
+  - spell_psychic
+  - spell_summoner
+  - spell_skald_2
+  - spell_summoner_unchained
+  - spell_witch_3
+  - spell_spiritualist
+  - spell_investigator_3
+  - spell_shaman_4
+  - spell_arcanist
 ---
 
 ## Tongues

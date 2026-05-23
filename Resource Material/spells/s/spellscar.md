@@ -2,6 +2,16 @@
 aliases: [Spellscar]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell_arcanist_8
+  - spell
+  - spell_cleric_8
+  - spell_sorcerer_8
+  - spell_oracle_8
+  - spell_oracle
+  - spell_arcanist
 ---
 
 ## Spellscar

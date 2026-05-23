@@ -2,6 +2,16 @@
 aliases: [Mythic Feast of Ashes]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_2
+  - spell
+  - spell_druid
+  - spell_druid_2
+  - spell_occultist_2
+  - spell_psychic
+  - spell_hunter_2
+  - spell_hunter
+  - spell_occultist
 ---
 
 ## Mythic Feast of Ashes

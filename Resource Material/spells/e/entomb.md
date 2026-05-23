@@ -2,6 +2,16 @@
 aliases: [Entomb]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_arcanist_8
+  - spell
+  - spell_shaman_8
+  - spell_sorcerer_8
+  - spell_shaman
+  - spell_druid
+  - spell_druid_8
+  - spell_arcanist
 ---
 
 ## Entomb

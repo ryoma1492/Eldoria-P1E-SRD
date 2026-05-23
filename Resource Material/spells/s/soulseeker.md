@@ -2,6 +2,20 @@
 aliases: [Soulseeker]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_shaman_8
+  - spell_cleric_8
+  - spell_spiritualist_6
+  - spell_medium
+  - spell_shaman
+  - spell_medium_4
+  - spell_oracle_8
+  - spell_oracle
+  - spell_occultist
+  - spell_occultist_6
+  - spell_spiritualist
 ---
 
 ## Soulseeker

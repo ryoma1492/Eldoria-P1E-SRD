@@ -2,6 +2,16 @@
 aliases: [Cure Critical Wounds, Mass]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_shaman_8
+  - spell_cleric_8
+  - spell_shaman
+  - spell_druid_9
+  - spell_oracle_8
+  - spell_druid
+  - spell_oracle
 ---
 
 ## Cure Critical Wounds, Mass

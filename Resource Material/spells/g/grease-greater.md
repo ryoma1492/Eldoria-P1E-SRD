@@ -2,6 +2,20 @@
 aliases: [Grease, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_summoner_5
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_arcanist_5
+  - spell_bard_5
+  - spell_skald_5
+  - spell_bard
+  - spell_magus_5
+  - spell_skald
+  - spell_magus
+  - spell_summoner
+  - spell_arcanist
 ---
 
 ## Grease, Greater

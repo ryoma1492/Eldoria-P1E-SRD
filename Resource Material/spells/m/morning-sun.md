@@ -2,6 +2,16 @@
 aliases: [Morning Sun]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_druid_7
+  - spell_druid
+  - spell_inquisitor
+  - spell_oracle
+  - spell_cleric_7
+  - spell_inquisitor_6
+  - spell_oracle_7
 ---
 
 ## Morning Sun

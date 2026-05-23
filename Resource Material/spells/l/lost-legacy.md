@@ -2,6 +2,28 @@
 aliases: [Lost Legacy]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_bard
+  - spell_bard_6
+  - spell_skald
+  - spell_skald_6
+  - spell_psychic_7
+  - spell_inquisitor
+  - spell_sorcerer_7
+  - spell_cleric_7
+  - spell_oracle
+  - spell_psychic
+  - spell_witch_6
+  - spell_arcanist_7
+  - spell_inquisitor_6
+  - spell_occultist
+  - spell_occultist_6
+  - spell_oracle_7
+  - spell_arcanist
 ---
 
 ## Lost Legacy

@@ -2,6 +2,22 @@
 aliases: [Touch of Fatigue]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_occultist_0
+  - spell_witch_0
+  - spell_witch
+  - spell_shaman
+  - spell_adept_0
+  - spell_mesmerist_0
+  - spell_adept
+  - spell_sorcerer_0
+  - spell_arcanist_0
+  - spell_shaman_0
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Touch of Fatigue

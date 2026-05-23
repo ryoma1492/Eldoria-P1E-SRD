@@ -2,6 +2,20 @@
 aliases: [Antimagic Field]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_cleric_8
+  - spell_sorcerer_6
+  - spell_oracle_8
+  - spell_arcanist_6
+  - spell_psychic_7
+  - spell_oracle
+  - spell_psychic
+  - spell_occultist
+  - spell_occultist_6
+  - spell_arcanist
 ---
 
 ## Antimagic Field

@@ -2,6 +2,16 @@
 aliases: [Vision of Lamashtu]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_shaman_7
+  - spell_shaman
+  - spell_inquisitor
+  - spell_oracle
+  - spell_cleric_7
+  - spell_inquisitor_6
+  - spell_oracle_7
 ---
 
 ## Vision of Lamashtu

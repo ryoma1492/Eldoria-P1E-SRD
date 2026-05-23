@@ -2,6 +2,22 @@
 aliases: [Instant Restoration]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_hunter_4
+  - spell
+  - spell_druid_4
+  - spell_warpriest_4
+  - spell_shaman
+  - spell_summoner_4
+  - spell_druid
+  - spell_warpriest
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_oracle
+  - spell_summoner
+  - spell_hunter
+  - spell_shaman_4
 ---
 
 ## Instant Restoration

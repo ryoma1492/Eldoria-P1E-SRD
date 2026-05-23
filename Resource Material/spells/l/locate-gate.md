@@ -2,6 +2,30 @@
 aliases: [Locate Gate]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_occultist_5
+  - spell_summoner_5
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_psychic_5
+  - spell_arcanist_5
+  - spell_bard_5
+  - spell_skald_5
+  - spell_bard
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_skald
+  - spell_warpriest
+  - spell_warpriest_5
+  - spell_summoner_unchained_5
+  - spell_oracle
+  - spell_psychic
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Locate Gate

@@ -2,6 +2,20 @@
 aliases: [Animal Trance]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_2
+  - spell
+  - spell_mesmerist
+  - spell_bard
+  - spell_adept
+  - spell_druid
+  - spell_bard_2
+  - spell_druid_2
+  - spell_adept_2
+  - spell_mesmerist_2
+  - spell_psychic
+  - spell_hunter_2
+  - spell_hunter
 ---
 
 ## Animal Trance

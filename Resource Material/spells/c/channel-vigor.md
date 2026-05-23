@@ -2,6 +2,22 @@
 aliases: [Channel Vigor]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_cleric
+  - spell_bloodrager
+  - spell_magus_3
+  - spell
+  - spell_oracle_3
+  - spell_magus
+  - spell_bloodrager_3
+  - spell_inquisitor
+  - spell_investigator
+  - spell_alchemist
+  - spell_oracle
+  - spell_alchemist_3
+  - spell_cleric_3
+  - spell_investigator_3
 ---
 
 ## Channel Vigor
