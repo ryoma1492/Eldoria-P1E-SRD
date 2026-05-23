@@ -1,3 +1,9 @@
+---
+tags:
+  - PC
+---
+
+
 new addition to the [[Heroes]] 
 
 Rogue

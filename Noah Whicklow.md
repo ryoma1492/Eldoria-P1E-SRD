@@ -1,3 +1,9 @@
+---
+tags:
+  - npc
+---
+
+
 [[dreamer]] servant bonded to a cave room capable of overwhelming magical attacks
 
 Affiliations:

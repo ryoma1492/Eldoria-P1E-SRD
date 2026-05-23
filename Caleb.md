@@ -1,3 +1,9 @@
+---
+tags:
+  - PC
+---
+
+
 NG Cleric who is part of the [[Heroes]] group
 
 

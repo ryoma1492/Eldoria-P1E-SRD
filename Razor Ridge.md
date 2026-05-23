@@ -1,3 +1,10 @@
+---
+tags:
+  - World
+  - lore
+---
+
+
 *Settlement / Crown City*
 
 ## Overview

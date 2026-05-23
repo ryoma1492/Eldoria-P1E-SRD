@@ -1,3 +1,10 @@
+---
+alias: The Silver Vulture
+name:
+  - The Silver Vulture
+---
+
+
 Pirate Ship Salvagers specializing in curtain-related material retrieval
 
 ### Crew
