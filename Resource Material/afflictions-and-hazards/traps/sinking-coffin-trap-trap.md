@@ -1,5 +1,7 @@
 ---
 alias: Sinking Coffin Trap
+tags:
+  - traps
 ---
 
 ## Sinking Coffin Trap

@@ -2,6 +2,24 @@
 aliases: [Foretell Failure]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_occultist_5
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell
+  - spell_arcanist_5
+  - spell_witch
+  - spell_bard
+  - spell_witch_4
+  - spell_skald
+  - spell_oracle_4
+  - spell_oracle
+  - spell_psychic
+  - spell_psychic_4
+  - spell_occultist
+  - spell_bard_4
+  - spell_arcanist
 ---
 
 ## Foretell Failure

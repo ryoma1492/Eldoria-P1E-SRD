@@ -2,6 +2,26 @@
 aliases: [Riding Possession]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_witch
+  - spell_medium
+  - spell_summoner_4
+  - spell_witch_4
+  - spell_occultist_3
+  - spell_mesmerist_4
+  - spell_medium_2
+  - spell_spiritualist_3
+  - spell_psychic
+  - spell_summoner
+  - spell_sorcerer_4
+  - spell_psychic_4
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Riding Possession

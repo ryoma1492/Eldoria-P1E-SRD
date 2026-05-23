@@ -1,5 +1,7 @@
 ---
 alias: Bloodbrain Venom
+tags:
+  - poisons
 ---
 
 # Bloodbrain Venom

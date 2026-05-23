@@ -2,6 +2,26 @@
 aliases: [Protection from Natural Attacks]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_druid_4
+  - spell_shaman
+  - spell_druid
+  - spell_ranger
+  - spell_investigator
+  - spell_summoner_3
+  - spell_ranger_2
+  - spell_alchemist
+  - spell_spiritualist_3
+  - spell_alchemist_3
+  - spell_psychic
+  - spell_summoner
+  - spell_hunter_2
+  - spell_hunter
+  - spell_psychic_4
+  - spell_investigator_3
+  - spell_spiritualist
+  - spell_shaman_4
 ---
 
 ## Protection from Natural Attacks

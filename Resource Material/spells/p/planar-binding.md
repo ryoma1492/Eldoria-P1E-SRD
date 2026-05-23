@@ -2,6 +2,20 @@
 aliases: [Planar Binding]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_summoner_5
+  - spell_sorcerer
+  - spell
+  - spell_psychic_6
+  - spell_sorcerer_6
+  - spell_arcanist_6
+  - spell_summoner_unchained_6
+  - spell_psychic
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_occultist
+  - spell_occultist_6
+  - spell_arcanist
 ---
 
 ## Planar Binding

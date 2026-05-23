@@ -2,6 +2,26 @@
 aliases: [Abjuring Step]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_1
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_bard
+  - spell_alchemist_1
+  - spell_investigator_1
+  - spell_bard_1
+  - spell_skald_1
+  - spell_skald
+  - spell_magus
+  - spell_investigator
+  - spell_magus_1
+  - spell_alchemist
+  - spell_psychic
+  - spell_occultist_1
+  - spell_sorcerer_1
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Abjuring Step

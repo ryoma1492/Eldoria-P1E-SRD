@@ -2,6 +2,32 @@
 aliases: [Control Summoned Creature]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_mesmerist_3
+  - spell_skald_3
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_warpriest_4
+  - spell_bard
+  - spell_occultist_3
+  - spell_summoner_unchained_3
+  - spell_skald
+  - spell_warpriest
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_summoner_3
+  - spell_oracle
+  - spell_psychic
+  - spell_summoner
+  - spell_sorcerer_4
+  - spell_bard_3
+  - spell_summoner_unchained
+  - spell_psychic_4
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_arcanist
 ---
 
 ## Control Summoned Creature

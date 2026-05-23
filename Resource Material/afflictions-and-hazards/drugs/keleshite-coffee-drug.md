@@ -1,5 +1,7 @@
 ---
 alias: Keleshite Coffee
+tags:
+  - drugs
 ---
 
 # Keleshite Coffee

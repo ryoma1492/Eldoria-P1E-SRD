@@ -2,6 +2,20 @@
 aliases: [Batrachian Surge]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_druid_1
+  - spell_bloodrager
+  - spell
+  - spell_summoner_1
+  - spell_inquisitor_1
+  - spell_ranger_1
+  - spell_druid
+  - spell_inquisitor
+  - spell_ranger
+  - spell_summoner
+  - spell_hunter
+  - spell_hunter_1
+  - spell_bloodrager_1
 ---
 
 ## Batrachian Surge

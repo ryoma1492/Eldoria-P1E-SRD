@@ -2,6 +2,26 @@
 aliases: [Vengeful Stinger]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_cleric_6
+  - spell_summoner_5
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_arcanist_5
+  - spell_oracle_6
+  - spell_witch
+  - spell_shaman
+  - spell_warpriest
+  - spell_shaman_5
+  - spell_witch_5
+  - spell_summoner_unchained_5
+  - spell_oracle
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_warpriest_6
+  - spell_arcanist
 ---
 
 ## Vengeful Stinger

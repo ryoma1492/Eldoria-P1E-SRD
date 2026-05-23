@@ -1,5 +1,7 @@
 ---
 alias: Breakaway Log
+tags:
+  - traps
 ---
 
 ## Breakaway Log

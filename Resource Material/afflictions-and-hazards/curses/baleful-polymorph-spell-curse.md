@@ -1,5 +1,7 @@
 ---
 alias: Baleful Polymorph Spell
+tags:
+  - curses
 ---
 
 # Baleful Polymorph Spell

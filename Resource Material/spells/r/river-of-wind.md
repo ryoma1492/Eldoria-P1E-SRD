@@ -2,6 +2,22 @@
 aliases: [River of Wind]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell_druid_4
+  - spell
+  - spell_magus_4
+  - spell_occultist_4
+  - spell_bloodrager_4
+  - spell_druid
+  - spell_magus
+  - spell_sorcerer_4
+  - spell_hunter
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_arcanist
 ---
 
 ## River of Wind

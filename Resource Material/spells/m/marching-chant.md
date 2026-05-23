@@ -2,6 +2,16 @@
 aliases: [Marching Chant]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_cleric_2
+  - spell_bard
+  - spell_oracle_2
+  - spell_skald
+  - spell_bard_2
+  - spell_oracle
+  - spell_skald_2
 ---
 
 ## Marching Chant

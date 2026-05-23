@@ -2,6 +2,22 @@
 aliases: [Air Walk, Communal]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_occultist_5
+  - spell
+  - spell_investigator_5
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_druid
+  - spell_alchemist_5
+  - spell_investigator
+  - spell_alchemist
+  - spell_oracle
+  - spell_hunter_5
+  - spell_druid_5
+  - spell_hunter
+  - spell_occultist
 ---
 
 ## Air Walk, Communal

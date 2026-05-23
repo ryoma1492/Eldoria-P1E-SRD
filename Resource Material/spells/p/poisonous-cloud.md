@@ -2,6 +2,24 @@
 aliases: [Poisonous Cloud]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_summoner_unchained_4
+  - spell_sorcerer
+  - spell
+  - spell_magus_4
+  - spell_witch
+  - spell_shaman
+  - spell_summoner_4
+  - spell_witch_4
+  - spell_bloodrager_4
+  - spell_magus
+  - spell_summoner
+  - spell_sorcerer_4
+  - spell_summoner_unchained
+  - spell_arcanist_4
+  - spell_shaman_4
+  - spell_arcanist
 ---
 
 ## Poisonous Cloud

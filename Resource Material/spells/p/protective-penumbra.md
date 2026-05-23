@@ -2,6 +2,26 @@
 aliases: [Protective Penumbra]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_sorcerer_2
+  - spell_cleric_2
+  - spell_witch
+  - spell_arcanist_2
+  - spell_spiritualist_2
+  - spell_oracle_2
+  - spell_warpriest
+  - spell_witch_2
+  - spell_warpriest_2
+  - spell_oracle
+  - spell_occultist_2
+  - spell_psychic
+  - spell_occultist
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Protective Penumbra

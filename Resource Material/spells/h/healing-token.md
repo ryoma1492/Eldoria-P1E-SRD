@@ -2,6 +2,24 @@
 aliases: [Healing Token]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell
+  - spell_cleric_2
+  - spell_shaman
+  - spell_paladin_2
+  - spell_shaman_2
+  - spell_oracle_2
+  - spell_druid
+  - spell_inquisitor
+  - spell_ranger
+  - spell_ranger_2
+  - spell_inquisitor_2
+  - spell_druid_2
+  - spell_oracle
+  - spell_hunter_2
+  - spell_hunter
 ---
 
 ## Healing Token

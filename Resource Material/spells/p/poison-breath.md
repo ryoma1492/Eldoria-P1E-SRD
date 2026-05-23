@@ -2,6 +2,16 @@
 aliases: [Poison Breath]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_druid
+  - spell_druid_6
+  - spell_hunter_6
+  - spell_oracle
+  - spell_cleric_7
+  - spell_hunter
+  - spell_oracle_7
 ---
 
 ## Poison Breath

@@ -2,6 +2,26 @@
 aliases: [Mathematical Curse]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_oracle_3
+  - spell_sorcerer_2
+  - spell_witch
+  - spell_bard
+  - spell_arcanist_2
+  - spell_antipaladin_2
+  - spell_skald
+  - spell_bard_2
+  - spell_warpriest
+  - spell_witch_2
+  - spell_oracle
+  - spell_skald_2
+  - spell_cleric_3
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Mathematical Curse

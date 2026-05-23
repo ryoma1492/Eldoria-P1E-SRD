@@ -1,5 +1,7 @@
 ---
 alias: Scarlet Leprosy
+tags:
+  - diseases
 ---
 
 # Scarlet Leprosy

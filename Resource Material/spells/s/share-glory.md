@@ -2,6 +2,38 @@
 aliases: [Share Glory]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_redmantisassassin_3
+  - spell_sorcerer
+  - spell
+  - spell_oracle_3
+  - spell_witch
+  - spell_medium
+  - spell_redmantisassassin
+  - spell_bard
+  - spell_psychic_3
+  - spell_druid_3
+  - spell_medium_1
+  - spell_sorcerer_3
+  - spell_hunter_3
+  - spell_druid
+  - spell_skald
+  - spell_bard_2
+  - spell_warpriest
+  - spell_arcanist_3
+  - spell_oracle
+  - spell_psychic
+  - spell_summoner
+  - spell_skald_2
+  - spell_summoner_unchained_2
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_witch_3
+  - spell_cleric_3
+  - spell_summoner_2
+  - spell_arcanist
 ---
 
 ## Share Glory

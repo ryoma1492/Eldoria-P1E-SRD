@@ -2,6 +2,28 @@
 aliases: [Dimensional Blade]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_cleric_6
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell
+  - spell_paladin_4
+  - spell_oracle_6
+  - spell_sorcerer_6
+  - spell_bloodrager_4
+  - spell_magus_5
+  - spell_arcanist_6
+  - spell_magus
+  - spell_warpriest
+  - spell_inquisitor_5
+  - spell_inquisitor
+  - spell_oracle
+  - spell_antipaladin_4
+  - spell_warpriest_6
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Dimensional Blade

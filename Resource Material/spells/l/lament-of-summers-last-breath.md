@@ -2,6 +2,14 @@
 aliases: ["Lament of Summer's Last Breath"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_bard
+  - spell_bard_2
+  - spell_ranger
+  - spell_ranger_2
+  - spell_hunter_2
+  - spell_hunter
 ---
 
 ## Lament of Summer's Last Breath

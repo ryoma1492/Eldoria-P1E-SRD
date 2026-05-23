@@ -3,6 +3,7 @@ tags:
   - GM_Notes
   - Lore/Ecology
   - World
+draft: true
 ---
 
 # [[Savage Spire]]

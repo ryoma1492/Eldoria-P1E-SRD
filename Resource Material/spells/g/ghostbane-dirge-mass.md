@@ -2,6 +2,24 @@
 aliases: [Ghostbane Dirge, Mass]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_paladin
+  - spell_cleric
+  - spell_occultist_5
+  - spell
+  - spell_shaman
+  - spell_bard
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_skald
+  - spell_inquisitor_5
+  - spell_inquisitor
+  - spell_paladin_3
+  - spell_shaman_5
+  - spell_oracle
+  - spell_occultist
+  - spell_bard_4
 ---
 
 ## Ghostbane Dirge, Mass

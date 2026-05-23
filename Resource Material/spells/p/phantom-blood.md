@@ -2,6 +2,22 @@
 aliases: [Phantom Blood]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_arcanist_1
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell
+  - spell_spiritualist_1
+  - spell_alchemist_1
+  - spell_investigator_1
+  - spell_magus
+  - spell_investigator
+  - spell_magus_1
+  - spell_alchemist
+  - spell_sorcerer_1
+  - spell_spiritualist
+  - spell_bloodrager_1
+  - spell_arcanist
 ---
 
 ## Phantom Blood

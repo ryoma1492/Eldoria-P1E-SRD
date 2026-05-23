@@ -2,6 +2,18 @@
 aliases: [Bungle]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_1
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_witch
+  - spell_witch_1
+  - spell_mesmerist_1
+  - spell_psychic
+  - spell_sorcerer_1
+  - spell_arcanist
 ---
 
 ## Bungle

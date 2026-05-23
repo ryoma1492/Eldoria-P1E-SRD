@@ -2,6 +2,18 @@
 aliases: [Peerless Integrity]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_bard
+  - spell_arcanist_2
+  - spell_antipaladin_2
+  - spell_skald
+  - spell_bard_2
+  - spell_skald_2
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Peerless Integrity

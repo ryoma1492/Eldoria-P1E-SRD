@@ -1,5 +1,7 @@
 ---
 alias: Wyvern Poison (CRB)
+tags:
+  - poisons
 ---
 
 # Wyvern Poison (CRB)

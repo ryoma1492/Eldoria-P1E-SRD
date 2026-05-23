@@ -1,5 +1,7 @@
 ---
 alias: Wall Scythe Trap
+tags:
+  - traps
 ---
 
 ## Wall Scythe Trap

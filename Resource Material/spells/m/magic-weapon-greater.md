@@ -2,6 +2,34 @@
 aliases: [Magic Weapon, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_paladin
+  - spell_cleric
+  - spell_bloodrager
+  - spell_redmantisassassin_3
+  - spell_sorcerer
+  - spell_magus_3
+  - spell
+  - spell_warpriest_4
+  - spell_shaman
+  - spell_redmantisassassin
+  - spell_occultist_3
+  - spell_sorcerer_3
+  - spell_magus
+  - spell_bloodrager_3
+  - spell_inquisitor
+  - spell_warpriest
+  - spell_arcanist_3
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_paladin_3
+  - spell_antipaladin_3
+  - spell_oracle
+  - spell_occultist
+  - spell_antipaladin
+  - spell_shaman_4
+  - spell_arcanist
 ---
 
 ## Magic Weapon, Greater

@@ -2,6 +2,14 @@
 aliases: [Find Quarry]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell_occultist_5
+  - spell
+  - spell_inquisitor_4
+  - spell_inquisitor
+  - spell_hunter
+  - spell_occultist
 ---
 
 ## Find Quarry

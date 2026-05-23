@@ -2,6 +2,22 @@
 aliases: [Twilight Knife]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_psychic_3
+  - spell_occultist_3
+  - spell_sorcerer_3
+  - spell_bloodrager_3
+  - spell_arcanist_3
+  - spell_spiritualist_3
+  - spell_psychic
+  - spell_witch_3
+  - spell_occultist
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Twilight Knife

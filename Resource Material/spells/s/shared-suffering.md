@@ -2,6 +2,18 @@
 aliases: [Shared Suffering]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_witch
+  - spell_arcanist_2
+  - spell_antipaladin_2
+  - spell_inquisitor
+  - spell_witch_2
+  - spell_inquisitor_2
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Shared Suffering

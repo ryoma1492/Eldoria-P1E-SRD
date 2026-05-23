@@ -2,6 +2,18 @@
 aliases: [Geyser]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_druid_4
+  - spell_arcanist_5
+  - spell_magus_5
+  - spell_druid
+  - spell_magus
+  - spell_hunter
+  - spell_arcanist
 ---
 
 ## Geyser

@@ -2,6 +2,30 @@
 aliases: [Waft]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_occultist_5
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell_spiritualist_5
+  - spell
+  - spell_arcanist_5
+  - spell_shaman
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_magus_5
+  - spell_druid
+  - spell_magus
+  - spell_warpriest
+  - spell_warpriest_5
+  - spell_shaman_5
+  - spell_oracle
+  - spell_hunter_5
+  - spell_druid_5
+  - spell_hunter
+  - spell_occultist
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Waft

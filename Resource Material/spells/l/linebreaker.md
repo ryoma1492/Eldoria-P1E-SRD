@@ -2,6 +2,22 @@
 aliases: [Linebreaker]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell
+  - spell_paladin_1
+  - spell_antipaladin_1
+  - spell_alchemist_1
+  - spell_investigator_1
+  - spell_inquisitor_1
+  - spell_magus
+  - spell_inquisitor
+  - spell_investigator
+  - spell_magus_1
+  - spell_alchemist
+  - spell_hunter
+  - spell_hunter_1
+  - spell_antipaladin
 ---
 
 ## Linebreaker

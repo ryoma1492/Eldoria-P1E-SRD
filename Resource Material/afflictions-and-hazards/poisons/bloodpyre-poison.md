@@ -1,5 +1,7 @@
 ---
 alias: Bloodpyre
+tags:
+  - poisons
 ---
 
 # Bloodpyre

@@ -2,6 +2,16 @@
 aliases: [Burst of Glory]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell
+  - spell_paladin_4
+  - spell_inquisitor_4
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_inquisitor
+  - spell_oracle
 ---
 
 ## Burst of Glory

@@ -2,6 +2,28 @@
 aliases: [Demand Offering]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_mesmerist
+  - spell_sorcerer_2
+  - spell_witch
+  - spell_bard
+  - spell_antipaladin_1
+  - spell_arcanist_2
+  - spell_skald
+  - spell_bard_2
+  - spell_inquisitor
+  - spell_witch_2
+  - spell_mesmerist_1
+  - spell_inquisitor_2
+  - spell_occultist_2
+  - spell_psychic
+  - spell_skald_2
+  - spell_occultist
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Demand Offering

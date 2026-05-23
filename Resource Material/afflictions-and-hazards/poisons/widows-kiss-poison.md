@@ -1,5 +1,7 @@
 ---
 alias: Widow's kiss
+tags:
+  - poisons
 ---
 
 # Widow's kiss

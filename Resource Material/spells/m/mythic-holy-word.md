@@ -2,6 +2,12 @@
 aliases: [Mythic Holy Word]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_inquisitor
+  - spell_cleric_7
+  - spell_inquisitor_6
 ---
 
 ## Mythic Holy Word

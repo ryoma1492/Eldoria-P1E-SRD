@@ -2,6 +2,16 @@
 aliases: [Erase Impressions]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_mesmerist
+  - spell
+  - spell_psychic_5
+  - spell_medium
+  - spell_occultist_3
+  - spell_mesmerist_4
+  - spell_psychic
+  - spell_medium_3
+  - spell_occultist
 ---
 
 ## Erase Impressions

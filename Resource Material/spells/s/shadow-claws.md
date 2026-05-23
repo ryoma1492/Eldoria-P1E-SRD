@@ -2,6 +2,24 @@
 aliases: [Shadow Claws]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_bloodrager_2
+  - spell_bard
+  - spell_antipaladin_1
+  - spell_arcanist_2
+  - spell_spiritualist_2
+  - spell_skald
+  - spell_bard_2
+  - spell_magus
+  - spell_skald_2
+  - spell_magus_2
+  - spell_spiritualist
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Shadow Claws

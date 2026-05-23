@@ -2,6 +2,34 @@
 aliases: [Blood Blaze]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_bloodrager
+  - spell_alchemist_2
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_sorcerer_2
+  - spell_cleric_2
+  - spell_witch
+  - spell_bloodrager_2
+  - spell_redmantisassassin
+  - spell_antipaladin_1
+  - spell_arcanist_2
+  - spell_redmantisassassin_2
+  - spell_oracle_2
+  - spell_magus
+  - spell_warpriest
+  - spell_witch_2
+  - spell_investigator_2
+  - spell_investigator
+  - spell_warpriest_2
+  - spell_alchemist
+  - spell_oracle
+  - spell_psychic
+  - spell_magus_2
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Blood Blaze

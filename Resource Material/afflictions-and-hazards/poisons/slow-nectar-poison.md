@@ -1,5 +1,7 @@
 ---
 alias: Slow nectar
+tags:
+  - poisons
 ---
 
 # Slow nectar

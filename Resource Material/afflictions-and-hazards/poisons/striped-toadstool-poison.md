@@ -1,5 +1,7 @@
 ---
 alias: Striped Toadstool
+tags:
+  - poisons
 ---
 
 # Striped Toadstool

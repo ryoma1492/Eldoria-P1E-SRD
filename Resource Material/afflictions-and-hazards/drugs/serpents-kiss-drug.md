@@ -1,5 +1,7 @@
 ---
 alias: Serpent's Kiss
+tags:
+  - drugs
 ---
 
 # Serpent's Kiss

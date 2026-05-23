@@ -1,5 +1,7 @@
 ---
 alias: Confabulation powder
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Confabulation powder

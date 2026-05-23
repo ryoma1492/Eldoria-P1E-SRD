@@ -2,6 +2,20 @@
 aliases: [Wind Walk]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_cleric_6
+  - spell
+  - spell_alchemist_6
+  - spell_druid_7
+  - spell_oracle_6
+  - spell_shaman_7
+  - spell_shaman
+  - spell_investigator_6
+  - spell_druid
+  - spell_investigator
+  - spell_alchemist
+  - spell_oracle
 ---
 
 ## Wind Walk

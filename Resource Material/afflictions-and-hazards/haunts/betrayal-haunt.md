@@ -1,5 +1,7 @@
 ---
 alias: Betrayal
+tags:
+  - haunts
 ---
 
 # Betrayal

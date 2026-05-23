@@ -2,6 +2,20 @@
 aliases: [Entice Fey, Lesser]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell
+  - spell_medium
+  - spell_shaman
+  - spell_ranger_4
+  - spell_bard
+  - spell_druid
+  - spell_ranger
+  - spell_shaman_5
+  - spell_druid_5
+  - spell_hunter
+  - spell_medium_3
+  - spell_bard_4
 ---
 
 ## Entice Fey, Lesser

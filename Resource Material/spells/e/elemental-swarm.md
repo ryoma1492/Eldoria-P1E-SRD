@@ -2,6 +2,12 @@
 aliases: [Elemental Swarm]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_shaman
+  - spell_druid_9
+  - spell_druid
+  - spell_shaman_9
 ---
 
 ## Elemental Swarm

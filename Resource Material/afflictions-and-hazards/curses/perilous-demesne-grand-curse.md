@@ -1,5 +1,7 @@
 ---
 alias: Perilous Demesne, Grand
+tags:
+  - curses
 ---
 
 # Perilous Demesne, Grand

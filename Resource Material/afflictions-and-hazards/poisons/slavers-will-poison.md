@@ -1,5 +1,7 @@
 ---
 alias: Slaver's will
+tags:
+  - poisons
 ---
 
 # Slaver's will

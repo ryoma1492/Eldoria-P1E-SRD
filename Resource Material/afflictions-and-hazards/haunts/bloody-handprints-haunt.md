@@ -1,5 +1,7 @@
 ---
 alias: Bloody Handprints
+tags:
+  - haunts
 ---
 
 # Bloody Handprints

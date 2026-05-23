@@ -2,6 +2,22 @@
 aliases: [Acute Senses]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_alchemist_2
+  - spell_psychic_2
+  - spell
+  - spell_bard
+  - spell_bard_2
+  - spell_ranger
+  - spell_inquisitor
+  - spell_investigator_2
+  - spell_investigator
+  - spell_inquisitor_2
+  - spell_alchemist
+  - spell_ranger_2
+  - spell_psychic
+  - spell_hunter_2
+  - spell_hunter
 ---
 
 ## Acute Senses

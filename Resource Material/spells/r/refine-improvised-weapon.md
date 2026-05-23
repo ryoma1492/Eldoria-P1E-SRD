@@ -2,6 +2,28 @@
 aliases: [Refine Improvised Weapon]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_redmantisassassin
+  - spell_inquisitor_1
+  - spell_warpriest_1
+  - spell_ranger_1
+  - spell_redmantisassassin_1
+  - spell_cleric_1
+  - spell_oracle_1
+  - spell_warpriest
+  - spell_ranger
+  - spell_inquisitor
+  - spell_oracle
+  - spell_occultist_1
+  - spell_hunter
+  - spell_sorcerer_1
+  - spell_hunter_1
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Refine Improvised Weapon

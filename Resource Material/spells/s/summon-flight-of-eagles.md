@@ -2,6 +2,28 @@
 aliases: [Summon Flight of Eagles]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_shaman
+  - spell_ranger_4
+  - spell_sorcerer_6
+  - spell_bloodrager_4
+  - spell_druid
+  - spell_arcanist_6
+  - spell_druid_6
+  - spell_shaman_6
+  - spell_ranger
+  - spell_summoner_unchained_6
+  - spell_summoner
+  - spell_summoner_6
+  - spell_witch_6
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_arcanist
 ---
 
 ## Summon Flight of Eagles

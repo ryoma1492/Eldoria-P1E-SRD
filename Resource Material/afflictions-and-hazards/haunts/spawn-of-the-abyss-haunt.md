@@ -1,5 +1,7 @@
 ---
 alias: Spawn of the Abyss
+tags:
+  - haunts
 ---
 
 # Spawn of the Abyss

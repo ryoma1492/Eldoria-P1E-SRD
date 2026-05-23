@@ -1,5 +1,7 @@
 ---
 alias: Might blight
+tags:
+  - poisons
 ---
 
 # Might blight

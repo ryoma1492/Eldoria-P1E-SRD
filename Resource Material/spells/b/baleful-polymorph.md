@@ -2,6 +2,28 @@
 aliases: [Baleful Polymorph]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell
+  - spell_arcanist_5
+  - spell_witch
+  - spell_shaman
+  - spell_summoner_4
+  - spell_magus_5
+  - spell_adept
+  - spell_druid
+  - spell_magus
+  - spell_shaman_5
+  - spell_witch_5
+  - spell_summoner_unchained_5
+  - spell_hunter_5
+  - spell_summoner
+  - spell_druid_5
+  - spell_adept_5
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_arcanist
 ---
 
 ## Baleful Polymorph

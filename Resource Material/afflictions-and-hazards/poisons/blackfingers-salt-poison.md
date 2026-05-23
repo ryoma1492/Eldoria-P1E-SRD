@@ -1,5 +1,7 @@
 ---
 alias: Blackfinger's salt
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Blackfinger's salt

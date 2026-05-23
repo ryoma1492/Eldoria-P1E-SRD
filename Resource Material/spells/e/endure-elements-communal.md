@@ -2,6 +2,32 @@
 aliases: [Endure Elements, Communal]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_sorcerer_2
+  - spell_cleric_2
+  - spell_arcanist_2
+  - spell_paladin_2
+  - spell_oracle_2
+  - spell_druid
+  - spell_ranger
+  - spell_warpriest
+  - spell_investigator
+  - spell_ranger_2
+  - spell_warpriest_2
+  - spell_alchemist
+  - spell_druid_2
+  - spell_oracle
+  - spell_alchemist_3
+  - spell_psychic
+  - spell_hunter_2
+  - spell_hunter
+  - spell_investigator_3
+  - spell_arcanist
 ---
 
 ## Endure Elements, Communal

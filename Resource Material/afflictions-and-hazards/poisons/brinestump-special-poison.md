@@ -1,5 +1,7 @@
 ---
 alias: Brinestump special
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Brinestump special

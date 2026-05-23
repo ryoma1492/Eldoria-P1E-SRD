@@ -1,5 +1,7 @@
 ---
 alias: Chillbane Fever
+tags:
+  - diseases
 ---
 
 # Chillbane Fever

@@ -2,6 +2,30 @@
 aliases: [Mislead]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_occultist_5
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_alchemist_6
+  - spell_spiritualist_6
+  - spell_bard_5
+  - spell_skald_5
+  - spell_psychic_6
+  - spell_bard
+  - spell_sorcerer_6
+  - spell_investigator_6
+  - spell_arcanist_6
+  - spell_skald
+  - spell_magus
+  - spell_magus_6
+  - spell_investigator
+  - spell_alchemist
+  - spell_psychic
+  - spell_mesmerist_5
+  - spell_occultist
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Mislead

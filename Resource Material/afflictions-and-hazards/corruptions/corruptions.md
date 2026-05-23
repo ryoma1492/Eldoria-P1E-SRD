@@ -1,5 +1,7 @@
 ---
 alias: Corruptions
+tags:
+  - corruptions
 ---
 
 # Corruption

@@ -1,5 +1,7 @@
 ---
 alias: Alchemical isolation
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Alchemical isolation

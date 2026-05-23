@@ -1,5 +1,7 @@
 ---
 alias: Lungsap powder
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Lungsap powder

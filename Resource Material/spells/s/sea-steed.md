@@ -2,6 +2,14 @@
 aliases: [Sea Steed]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell
+  - spell_paladin_2
+  - spell_druid
+  - spell_druid_2
+  - spell_hunter_2
+  - spell_hunter
 ---
 
 ## Sea Steed

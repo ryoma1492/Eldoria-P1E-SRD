@@ -2,6 +2,26 @@
 aliases: [Wall of Blindness/Deafness]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_bard
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_witch_4
+  - spell_skald
+  - spell_warpriest_5
+  - spell_warpriest
+  - spell_oracle
+  - spell_psychic
+  - spell_sorcerer_4
+  - spell_psychic_4
+  - spell_arcanist_4
+  - spell_bard_4
+  - spell_arcanist
 ---
 
 ## Wall of Blindness/Deafness

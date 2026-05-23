@@ -2,6 +2,32 @@
 aliases: [Bestow Insight]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell_mesmerist
+  - spell
+  - spell_oracle_3
+  - spell_sorcerer_2
+  - spell_witch
+  - spell_medium
+  - spell_bard
+  - spell_arcanist_2
+  - spell_skald
+  - spell_bard_2
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_witch_2
+  - spell_medium_2
+  - spell_inquisitor_2
+  - spell_mesmerist_2
+  - spell_oracle
+  - spell_psychic
+  - spell_skald_2
+  - spell_cleric_3
+  - spell_arcanist
 ---
 
 ## Bestow Insight

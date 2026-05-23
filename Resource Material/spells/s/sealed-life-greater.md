@@ -2,6 +2,8 @@
 aliases: [Sealed Life, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
 ---
 
 ## Sealed Life, Greater

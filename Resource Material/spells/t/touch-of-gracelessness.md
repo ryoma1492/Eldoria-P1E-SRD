@@ -2,6 +2,24 @@
 aliases: [Touch of Gracelessness]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_redmantisassassin
+  - spell_spiritualist_1
+  - spell_bard
+  - spell_bard_1
+  - spell_skald_1
+  - spell_redmantisassassin_1
+  - spell_skald
+  - spell_mesmerist_1
+  - spell_sorcerer_1
+  - spell_spiritualist
+  - spell_bloodrager_1
+  - spell_arcanist
 ---
 
 ## Touch of Gracelessness

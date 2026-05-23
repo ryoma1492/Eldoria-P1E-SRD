@@ -2,6 +2,12 @@
 aliases: [Mask Dweomer]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_1
+  - spell
+  - spell_psychic
+  - spell_occultist_1
+  - spell_occultist
 ---
 
 ## Mask Dweomer

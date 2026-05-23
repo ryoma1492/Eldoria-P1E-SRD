@@ -1,5 +1,7 @@
 ---
 alias: Goblinvine oil
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Goblinvine oil

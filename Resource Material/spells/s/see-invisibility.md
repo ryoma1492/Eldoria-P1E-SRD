@@ -2,6 +2,40 @@
 aliases: [See Invisibility]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_mesmerist_3
+  - spell_alchemist_2
+  - spell_bloodrager
+  - spell_skald_3
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell_mesmerist
+  - spell
+  - spell_sorcerer_2
+  - spell_witch
+  - spell_bloodrager_2
+  - spell_bard
+  - spell_arcanist_2
+  - spell_spiritualist_2
+  - spell_adept
+  - spell_skald
+  - spell_inquisitor
+  - spell_witch_2
+  - spell_investigator_2
+  - spell_investigator
+  - spell_inquisitor_2
+  - spell_alchemist
+  - spell_adept_2
+  - spell_occultist_2
+  - spell_psychic
+  - spell_summoner
+  - spell_summoner_unchained_2
+  - spell_bard_3
+  - spell_summoner_unchained
+  - spell_occultist
+  - spell_spiritualist
+  - spell_arcanist
+  - spell_summoner_2
 ---
 
 ## See Invisibility

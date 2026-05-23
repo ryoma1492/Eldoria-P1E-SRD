@@ -2,6 +2,16 @@
 aliases: [Empathy Conduit]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_arcanist_5
+  - spell_witch
+  - spell_shaman
+  - spell_shaman_5
+  - spell_witch_5
+  - spell_arcanist
 ---
 
 ## Empathy Conduit

@@ -1,5 +1,7 @@
 ---
 alias: Snap will
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Snap will

@@ -2,6 +2,18 @@
 aliases: [Magic Fang]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_druid_1
+  - spell
+  - spell_summoner_1
+  - spell_spiritualist_1
+  - spell_ranger_1
+  - spell_druid
+  - spell_ranger
+  - spell_summoner
+  - spell_hunter
+  - spell_hunter_1
+  - spell_spiritualist
 ---
 
 ## Magic Fang

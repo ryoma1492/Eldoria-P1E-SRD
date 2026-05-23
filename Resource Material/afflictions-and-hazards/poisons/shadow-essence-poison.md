@@ -1,5 +1,7 @@
 ---
 alias: Shadow essence
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Shadow essence

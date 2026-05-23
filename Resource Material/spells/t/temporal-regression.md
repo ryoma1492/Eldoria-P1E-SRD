@@ -2,6 +2,16 @@
 aliases: [Temporal Regression]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_arcanist_8
+  - spell
+  - spell_witch
+  - spell_psychic_8
+  - spell_druid_9
+  - spell_druid
+  - spell_psychic
+  - spell_witch_8
+  - spell_arcanist
 ---
 
 ## Temporal Regression

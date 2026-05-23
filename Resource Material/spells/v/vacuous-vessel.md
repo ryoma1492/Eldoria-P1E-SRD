@@ -2,6 +2,16 @@
 aliases: [Vacuous Vessel]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_bard_0
+  - spell_skald_0
+  - spell_bard
+  - spell_skald
+  - spell_sorcerer_0
+  - spell_arcanist_0
+  - spell_arcanist
 ---
 
 ## Vacuous Vessel

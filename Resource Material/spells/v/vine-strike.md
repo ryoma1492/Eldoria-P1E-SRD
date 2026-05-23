@@ -2,6 +2,28 @@
 aliases: [Vine Strike]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_alchemist_2
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_bloodrager_2
+  - spell_shaman
+  - spell_arcanist_2
+  - spell_shaman_2
+  - spell_antipaladin_2
+  - spell_druid
+  - spell_ranger
+  - spell_investigator_2
+  - spell_investigator
+  - spell_ranger_2
+  - spell_alchemist
+  - spell_druid_2
+  - spell_hunter_2
+  - spell_hunter
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Vine Strike

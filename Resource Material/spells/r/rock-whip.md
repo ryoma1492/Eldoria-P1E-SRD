@@ -2,6 +2,30 @@
 aliases: [Rock Whip]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_cleric_2
+  - spell_witch
+  - spell_shaman
+  - spell_arcanist_2
+  - spell_shaman_2
+  - spell_ranger_1
+  - spell_oracle_2
+  - spell_druid
+  - spell_magus
+  - spell_warpriest
+  - spell_ranger
+  - spell_witch_2
+  - spell_warpriest_2
+  - spell_druid_2
+  - spell_oracle
+  - spell_magus_2
+  - spell_hunter
+  - spell_hunter_1
+  - spell_arcanist
 ---
 
 ## Rock Whip

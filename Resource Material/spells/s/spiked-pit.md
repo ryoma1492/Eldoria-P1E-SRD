@@ -2,6 +2,16 @@
 aliases: [Spiked Pit]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_3
+  - spell_summoner_unchained_3
+  - spell_arcanist_3
+  - spell_summoner_3
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_arcanist
 ---
 
 ## Spiked Pit

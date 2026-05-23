@@ -2,6 +2,18 @@
 aliases: [Blood Money]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_redmantisassassin
+  - spell_redmantisassassin_1
+  - spell_witch_1
+  - spell_magus
+  - spell_magus_1
+  - spell_sorcerer_1
+  - spell_arcanist
 ---
 
 ## Blood Money

@@ -2,6 +2,26 @@
 aliases: [Charm Monster, Mass]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_arcanist_8
+  - spell
+  - spell_mesmerist
+  - spell_sorcerer_8
+  - spell_witch
+  - spell_bard
+  - spell_psychic_8
+  - spell_bard_6
+  - spell_skald
+  - spell_skald_6
+  - spell_psychic
+  - spell_summoner
+  - spell_summoner_6
+  - spell_witch_8
+  - spell_mesmerist_6
+  - spell_occultist
+  - spell_occultist_6
+  - spell_arcanist
 ---
 
 ## Charm Monster, Mass

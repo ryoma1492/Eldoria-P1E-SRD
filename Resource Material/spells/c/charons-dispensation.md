@@ -2,6 +2,32 @@
 aliases: ["Charon's Dispensation"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_witch
+  - spell_medium
+  - spell_inquisitor_4
+  - spell_shaman
+  - spell_warpriest_4
+  - spell_medium_4
+  - spell_witch_4
+  - spell_mesmerist_4
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_oracle
+  - spell_psychic
+  - spell_sorcerer_4
+  - spell_spiritualist_4
+  - spell_psychic_4
+  - spell_arcanist_4
+  - spell_spiritualist
+  - spell_shaman_4
+  - spell_arcanist
 ---
 
 ## Charon's Dispensation

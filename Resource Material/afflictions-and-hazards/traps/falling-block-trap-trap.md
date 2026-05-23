@@ -1,5 +1,7 @@
 ---
 alias: Falling Block Trap
+tags:
+  - traps
 ---
 
 ## Falling Block Trap

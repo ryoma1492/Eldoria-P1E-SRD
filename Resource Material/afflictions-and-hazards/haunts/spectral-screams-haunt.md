@@ -1,5 +1,7 @@
 ---
 alias: Spectral Screams
+tags:
+  - haunts
 ---
 
 # Spectral Screams

@@ -1,5 +1,7 @@
 ---
 alias: Maddening Influence
+tags:
+  - haunts
 ---
 
 # Maddening Influence

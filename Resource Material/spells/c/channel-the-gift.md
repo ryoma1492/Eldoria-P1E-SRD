@@ -2,6 +2,30 @@
 aliases: [Channel the Gift]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_ranger_3
+  - spell_cleric
+  - spell_skald_3
+  - spell_sorcerer
+  - spell
+  - spell_oracle_3
+  - spell_witch
+  - spell_bard
+  - spell_druid_3
+  - spell_sorcerer_3
+  - spell_hunter_3
+  - spell_druid
+  - spell_skald
+  - spell_warpriest
+  - spell_ranger
+  - spell_arcanist_3
+  - spell_oracle
+  - spell_bard_3
+  - spell_hunter
+  - spell_witch_3
+  - spell_cleric_3
+  - spell_arcanist
 ---
 
 ## Channel the Gift

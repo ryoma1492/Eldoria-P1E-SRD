@@ -1,5 +1,7 @@
 ---
 alias: Dreaming death
+tags:
+  - poisons
 ---
 
 # Dreaming death

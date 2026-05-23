@@ -1,5 +1,7 @@
 ---
 alias: Bleeding Walls
+tags:
+  - haunts
 ---
 
 # Bleeding Walls

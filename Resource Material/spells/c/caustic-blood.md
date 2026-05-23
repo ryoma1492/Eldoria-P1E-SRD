@@ -2,6 +2,34 @@
 aliases: [Caustic Blood]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_hunter_4
+  - spell_summoner_unchained_4
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell
+  - spell_druid_4
+  - spell_magus_4
+  - spell_arcanist_5
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_summoner_4
+  - spell_bloodrager_4
+  - spell_druid
+  - spell_magus
+  - spell_warpriest
+  - spell_warpriest_5
+  - spell_investigator
+  - spell_alchemist
+  - spell_oracle
+  - spell_summoner
+  - spell_alchemist_4
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_investigator_4
+  - spell_arcanist
 ---
 
 ## Caustic Blood

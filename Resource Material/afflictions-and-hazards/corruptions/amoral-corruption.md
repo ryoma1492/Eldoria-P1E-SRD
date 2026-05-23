@@ -1,5 +1,7 @@
 ---
 alias: Amoral Corruption
+tags:
+  - corruptions
 ---
 
 # Amoral Corruption

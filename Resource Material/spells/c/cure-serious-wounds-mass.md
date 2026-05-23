@@ -2,6 +2,16 @@
 aliases: [Cure Serious Wounds, Mass]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_shaman_7
+  - spell_shaman
+  - spell_druid
+  - spell_druid_8
+  - spell_oracle
+  - spell_cleric_7
+  - spell_oracle_7
 ---
 
 ## Cure Serious Wounds, Mass

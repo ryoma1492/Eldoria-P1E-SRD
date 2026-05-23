@@ -1,5 +1,7 @@
 ---
 alias: Shamweed
+tags:
+  - poisons
 ---
 
 # Shamweed

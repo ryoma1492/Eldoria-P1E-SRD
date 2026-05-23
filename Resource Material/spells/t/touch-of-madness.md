@@ -2,6 +2,8 @@
 aliases: [Touch of Madness]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
 ---
 
 ## Touch of Madness

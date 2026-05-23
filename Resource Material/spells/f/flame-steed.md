@@ -2,6 +2,24 @@
 aliases: [Flame Steed]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_hunter_4
+  - spell_bloodrager
+  - spell_druid_4
+  - spell
+  - spell_paladin_4
+  - spell_shaman
+  - spell_warpriest_4
+  - spell_druid
+  - spell_bloodrager_3
+  - spell_warpriest
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_oracle
+  - spell_hunter
+  - spell_shaman_4
 ---
 
 ## Flame Steed

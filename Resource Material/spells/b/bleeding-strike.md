@@ -2,6 +2,20 @@
 aliases: [Bleeding Strike]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_antipaladin_1
+  - spell_warpriest_1
+  - spell_ranger_1
+  - spell_cleric_1
+  - spell_oracle_1
+  - spell_warpriest
+  - spell_ranger
+  - spell_oracle
+  - spell_hunter
+  - spell_hunter_1
+  - spell_antipaladin
 ---
 
 ## Bleeding Strike

@@ -2,6 +2,36 @@
 aliases: [Catatonia]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_alchemist_2
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_oracle_3
+  - spell_medium
+  - spell_witch
+  - spell_bard
+  - spell_psychic_3
+  - spell_spiritualist_2
+  - spell_sorcerer_3
+  - spell_skald
+  - spell_bard_2
+  - spell_warpriest
+  - spell_medium_2
+  - spell_arcanist_3
+  - spell_investigator_2
+  - spell_investigator
+  - spell_alchemist
+  - spell_oracle
+  - spell_mesmerist_2
+  - spell_psychic
+  - spell_skald_2
+  - spell_witch_3
+  - spell_cleric_3
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Catatonia

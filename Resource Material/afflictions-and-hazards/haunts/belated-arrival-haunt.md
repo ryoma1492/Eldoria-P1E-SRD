@@ -1,5 +1,7 @@
 ---
 alias: Belated Arrival
+tags:
+  - haunts
 ---
 
 # Belated Arrival

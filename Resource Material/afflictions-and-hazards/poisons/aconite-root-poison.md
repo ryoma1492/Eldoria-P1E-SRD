@@ -1,5 +1,7 @@
 ---
 alias: Aconite root
+tags:
+  - poisons
 ---
 
 # Aconite root

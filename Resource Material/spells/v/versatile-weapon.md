@@ -2,6 +2,30 @@
 aliases: [Versatile Weapon]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_redmantisassassin_3
+  - spell_sorcerer
+  - spell_magus_3
+  - spell
+  - spell_redmantisassassin
+  - spell_bard
+  - spell_psychic_3
+  - spell_sorcerer_3
+  - spell_skald
+  - spell_bard_2
+  - spell_bloodrager_3
+  - spell_magus
+  - spell_ranger
+  - spell_arcanist_3
+  - spell_ranger_2
+  - spell_occultist_2
+  - spell_psychic
+  - spell_skald_2
+  - spell_hunter_2
+  - spell_hunter
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Versatile Weapon

@@ -2,6 +2,22 @@
 aliases: [Triggered Hallucination]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_psychic_6
+  - spell_bard
+  - spell_bard_6
+  - spell_sorcerer_6
+  - spell_arcanist_6
+  - spell_magus
+  - spell_magus_6
+  - spell_psychic
+  - spell_mesmerist_6
+  - spell_occultist
+  - spell_occultist_6
+  - spell_arcanist
 ---
 
 ## Triggered Hallucination

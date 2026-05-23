@@ -2,6 +2,30 @@
 aliases: [Hasten Judgement]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_inquisitor_4
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_sorcerer_6
+  - spell_druid
+  - spell_arcanist_6
+  - spell_inquisitor
+  - spell_warpriest_5
+  - spell_warpriest
+  - spell_witch_5
+  - spell_hunter_5
+  - spell_oracle
+  - spell_antipaladin_4
+  - spell_druid_5
+  - spell_spiritualist_4
+  - spell_hunter
+  - spell_antipaladin
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Hasten Judgement

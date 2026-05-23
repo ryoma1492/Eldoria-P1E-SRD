@@ -1,3 +1,10 @@
+---
+tags:
+  - item
+  - lore
+---
+
+
 ## Lesser Lotus Leshy Rag Doll
 
 Aura faint transmutation; CL 5th  

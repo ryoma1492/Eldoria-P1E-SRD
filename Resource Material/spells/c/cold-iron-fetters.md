@@ -2,6 +2,34 @@
 aliases: [Cold Iron Fetters]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_ranger_3
+  - spell_cleric
+  - spell_summoner_unchained_4
+  - spell_occultist_5
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_arcanist_5
+  - spell_witch
+  - spell_inquisitor_4
+  - spell_shaman
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_summoner_4
+  - spell_hunter_3
+  - spell_ranger
+  - spell_warpriest
+  - spell_warpriest_5
+  - spell_inquisitor
+  - spell_shaman_5
+  - spell_witch_5
+  - spell_oracle
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Cold Iron Fetters

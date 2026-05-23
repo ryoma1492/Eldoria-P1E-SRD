@@ -2,6 +2,16 @@
 aliases: ["Heretic's Tongue"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_mesmerist
+  - spell
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_inquisitor_5
+  - spell_inquisitor
+  - spell_oracle
+  - spell_mesmerist_6
 ---
 
 ## Heretic's Tongue

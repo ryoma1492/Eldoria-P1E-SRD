@@ -2,6 +2,30 @@
 aliases: [Terrible Remorse]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_cleric
+  - spell_mesmerist_3
+  - spell_skald_3
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_warpriest_4
+  - spell_bard
+  - spell_skald
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_oracle
+  - spell_psychic
+  - spell_sorcerer_4
+  - spell_spiritualist_4
+  - spell_bard_3
+  - spell_psychic_4
+  - spell_arcanist_4
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Terrible Remorse

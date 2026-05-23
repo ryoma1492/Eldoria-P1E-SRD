@@ -2,6 +2,16 @@
 aliases: [Spiritual Ally]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_medium
+  - spell_medium_4
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_oracle
+  - spell_spiritualist_4
+  - spell_spiritualist
 ---
 
 ## Spiritual Ally

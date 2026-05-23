@@ -1,5 +1,7 @@
 ---
 alias: Dwarven Fire Ale
+tags:
+  - drugs
 ---
 
 # Dwarven Fire Ale

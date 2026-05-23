@@ -1,5 +1,7 @@
 ---
 title: poisons
+tags:
+  - poisons
 ---
 
 # Poisons

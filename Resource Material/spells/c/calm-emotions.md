@@ -2,6 +2,28 @@
 aliases: [Calm Emotions]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_psychic_2
+  - spell
+  - spell_mesmerist
+  - spell_cleric_2
+  - spell_shaman
+  - spell_bard
+  - spell_shaman_2
+  - spell_oracle_2
+  - spell_skald
+  - spell_bard_2
+  - spell_inquisitor
+  - spell_inquisitor_2
+  - spell_mesmerist_2
+  - spell_oracle
+  - spell_psychic
+  - spell_occultist_2
+  - spell_skald_2
+  - spell_sahirafiyun_2
+  - spell_sahirafiyun
+  - spell_occultist
 ---
 
 ## Calm Emotions

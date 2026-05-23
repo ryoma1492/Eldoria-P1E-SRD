@@ -2,6 +2,20 @@
 aliases: ["Nature's Paths"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_druid_1
+  - spell
+  - spell_shaman
+  - spell_bard
+  - spell_inquisitor_1
+  - spell_ranger_1
+  - spell_bard_1
+  - spell_shaman_1
+  - spell_druid
+  - spell_inquisitor
+  - spell_ranger
+  - spell_hunter
+  - spell_hunter_1
 ---
 
 ## Nature's Paths

@@ -2,6 +2,10 @@
 aliases: [Sacramental Seal]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_cleric_8
 ---
 
 ## Sacramental Seal

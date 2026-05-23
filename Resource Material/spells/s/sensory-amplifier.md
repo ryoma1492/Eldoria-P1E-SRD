@@ -2,6 +2,18 @@
 aliases: [Sensory Amplifier]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_mesmerist_3
+  - spell_hunter_4
+  - spell
+  - spell_mesmerist
+  - spell_druid_4
+  - spell_medium
+  - spell_psychic_3
+  - spell_druid
+  - spell_medium_2
+  - spell_psychic
+  - spell_hunter
 ---
 
 ## Sensory Amplifier

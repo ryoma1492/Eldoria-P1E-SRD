@@ -2,6 +2,32 @@
 aliases: [Vigilant Rest]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_ranger_3
+  - spell_paladin
+  - spell
+  - spell_mesmerist
+  - spell_medium
+  - spell_shaman
+  - spell_bard
+  - spell_occultist_3
+  - spell_hunter_3
+  - spell_mesmerist_4
+  - spell_skald
+  - spell_ranger
+  - spell_paladin_3
+  - spell_antipaladin_3
+  - spell_psychic
+  - spell_spiritualist_4
+  - spell_hunter
+  - spell_psychic_4
+  - spell_medium_3
+  - spell_occultist
+  - spell_spiritualist
+  - spell_antipaladin
+  - spell_bard_4
+  - spell_shaman_4
 ---
 
 ## Vigilant Rest

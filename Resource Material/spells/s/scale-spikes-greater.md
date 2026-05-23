@@ -2,6 +2,28 @@
 aliases: [Scale Spikes, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_ranger_3
+  - spell_bloodrager
+  - spell_shaman_3
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_shaman
+  - spell_druid_3
+  - spell_bloodrager_4
+  - spell_sorcerer_3
+  - spell_hunter_3
+  - spell_druid
+  - spell_ranger
+  - spell_arcanist_3
+  - spell_investigator
+  - spell_alchemist
+  - spell_alchemist_4
+  - spell_investigator_4
+  - spell_hunter
+  - spell_witch_3
+  - spell_arcanist
 ---
 
 ## Scale Spikes, Greater

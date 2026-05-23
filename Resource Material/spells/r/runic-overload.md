@@ -2,6 +2,18 @@
 aliases: [Runic Overload]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_magus_4
+  - spell_arcanist_5
+  - spell_witch
+  - spell_bloodrager_3
+  - spell_magus
+  - spell_witch_6
+  - spell_arcanist
 ---
 
 ## Runic Overload

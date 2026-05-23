@@ -1,5 +1,7 @@
 ---
 alias: Ghoul Corruption
+tags:
+  - corruptions
 ---
 
 # Ghoul Corruption

@@ -2,6 +2,36 @@
 aliases: [Compel Hostility]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_1
+  - spell_paladin
+  - spell_cleric
+  - spell_mesmerist
+  - spell
+  - spell_paladin_1
+  - spell_medium
+  - spell_summoner_1
+  - spell_bard
+  - spell_inquisitor_1
+  - spell_ranger_1
+  - spell_warpriest_1
+  - spell_bard_1
+  - spell_skald_1
+  - spell_medium_1
+  - spell_cleric_1
+  - spell_skald
+  - spell_oracle_1
+  - spell_ranger
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_mesmerist_1
+  - spell_oracle
+  - spell_psychic
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_hunter_1
+  - spell_summoner_unchained_1
 ---
 
 ## Compel Hostility

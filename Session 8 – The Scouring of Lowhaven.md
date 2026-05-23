@@ -1,6 +1,7 @@
 ---
 tags:
   - GM_Notes
+draft: true
 ---
 
 ## Pre-Text

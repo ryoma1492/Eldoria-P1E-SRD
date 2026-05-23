@@ -2,6 +2,20 @@
 aliases: [Heart of the Metal]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_redmantisassassin_3
+  - spell_sorcerer
+  - spell_magus_3
+  - spell
+  - spell_witch
+  - spell_redmantisassassin
+  - spell_occultist_3
+  - spell_sorcerer_3
+  - spell_magus
+  - spell_arcanist_3
+  - spell_witch_3
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Heart of the Metal

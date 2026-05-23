@@ -1,5 +1,7 @@
 ---
 alias: Demon nettle sap
+tags:
+  - poisons
 ---
 
 # Demon nettle sap

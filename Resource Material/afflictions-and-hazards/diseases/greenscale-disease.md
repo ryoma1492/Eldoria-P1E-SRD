@@ -1,5 +1,7 @@
 ---
 alias: Greenscale
+tags:
+  - diseases
 ---
 
 # Greenscale

@@ -1,5 +1,7 @@
 ---
 alias: Mage bane
+tags:
+  - poisons
 ---
 
 # [[3.5]] Mage bane

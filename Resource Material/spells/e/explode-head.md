@@ -2,6 +2,16 @@
 aliases: [Explode Head]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_psychic_5
+  - spell_sorcerer_6
+  - spell_arcanist_6
+  - spell_magus
+  - spell_magus_6
+  - spell_psychic
+  - spell_arcanist
 ---
 
 ## Explode Head

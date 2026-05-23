@@ -2,6 +2,16 @@
 aliases: [Fleeting Memory, Mass]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_arcanist_8
+  - spell
+  - spell_sorcerer_8
+  - spell_bard
+  - spell_bard_6
+  - spell_skald
+  - spell_skald_6
+  - spell_arcanist
 ---
 
 ## Fleeting Memory, Mass

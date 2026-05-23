@@ -2,6 +2,20 @@
 aliases: [Symbol of Mirroring]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_sorcerer_2
+  - spell_witch
+  - spell_redmantisassassin
+  - spell_arcanist_2
+  - spell_redmantisassassin_2
+  - spell_witch_2
+  - spell_mesmerist_2
+  - spell_occultist_2
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Symbol of Mirroring

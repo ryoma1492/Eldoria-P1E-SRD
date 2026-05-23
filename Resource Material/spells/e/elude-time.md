@@ -2,6 +2,12 @@
 aliases: [Elude Time]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_investigator_5
+  - spell_alchemist_5
+  - spell_investigator
+  - spell_alchemist
 ---
 
 ## Elude Time

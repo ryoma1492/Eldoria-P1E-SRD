@@ -1,5 +1,7 @@
 ---
 alias: Spellscorch
+tags:
+  - poisons
 ---
 
 # Spellscorch

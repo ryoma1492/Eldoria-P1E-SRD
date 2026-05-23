@@ -2,6 +2,36 @@
 aliases: [Adjustable Disguise]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_mesmerist_3
+  - spell_skald_3
+  - spell_redmantisassassin_3
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_medium
+  - spell_witch
+  - spell_redmantisassassin
+  - spell_bard
+  - spell_psychic_3
+  - spell_occultist_3
+  - spell_sorcerer_3
+  - spell_skald
+  - spell_inquisitor
+  - spell_arcanist_3
+  - spell_investigator
+  - spell_alchemist
+  - spell_antipaladin_3
+  - spell_alchemist_3
+  - spell_psychic
+  - spell_bard_3
+  - spell_medium_3
+  - spell_witch_3
+  - spell_occultist
+  - spell_investigator_3
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Adjustable Disguise

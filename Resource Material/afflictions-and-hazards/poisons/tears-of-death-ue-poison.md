@@ -1,5 +1,7 @@
 ---
 alias: Tears of death (Ultimate Equipment)
+tags:
+  - poisons
 ---
 
 # Tears of death (Ultimate Equipment)

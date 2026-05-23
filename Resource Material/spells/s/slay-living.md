@@ -2,6 +2,20 @@
 aliases: [Slay Living]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_spiritualist_5
+  - spell_shaman
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_shaman_6
+  - spell_warpriest_5
+  - spell_warpriest
+  - spell_oracle
+  - spell_antipaladin_4
+  - spell_antipaladin
+  - spell_spiritualist
 ---
 
 ## Slay Living

@@ -2,6 +2,24 @@
 aliases: [Darting Duplicate]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_shaman
+  - spell_bard
+  - spell_antipaladin_1
+  - spell_bard_1
+  - spell_skald_1
+  - spell_shaman_1
+  - spell_witch_1
+  - spell_skald
+  - spell_magus
+  - spell_magus_1
+  - spell_sorcerer_1
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Darting Duplicate

@@ -1,5 +1,7 @@
 ---
 alias: Swinging Axe Trap
+tags:
+  - traps
 ---
 
 ## Swinging Axe Trap

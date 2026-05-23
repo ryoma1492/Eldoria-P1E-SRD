@@ -2,6 +2,30 @@
 aliases: [Motes of Dusk and Dawn]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_mesmerist_3
+  - spell_skald_3
+  - spell_shaman_3
+  - spell_sorcerer
+  - spell_magus_3
+  - spell
+  - spell_mesmerist
+  - spell_witch
+  - spell_medium
+  - spell_shaman
+  - spell_bard
+  - spell_psychic_3
+  - spell_occultist_3
+  - spell_sorcerer_3
+  - spell_skald
+  - spell_magus
+  - spell_arcanist_3
+  - spell_psychic
+  - spell_bard_3
+  - spell_medium_3
+  - spell_witch_3
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Motes of Dusk and Dawn

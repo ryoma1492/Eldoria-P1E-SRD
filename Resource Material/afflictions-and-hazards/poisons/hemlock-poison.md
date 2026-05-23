@@ -1,5 +1,7 @@
 ---
 alias: Hemlock
+tags:
+  - poisons
 ---
 
 # Hemlock

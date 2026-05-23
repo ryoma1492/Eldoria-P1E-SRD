@@ -2,6 +2,24 @@
 aliases: [Shadow Jaunt]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_summoner_unchained_4
+  - spell_sorcerer
+  - spell
+  - spell_bard
+  - spell_summoner_4
+  - spell_skald
+  - spell_antipaladin_3
+  - spell_summoner
+  - spell_sorcerer_4
+  - spell_spiritualist_4
+  - spell_summoner_unchained
+  - spell_arcanist_4
+  - spell_spiritualist
+  - spell_antipaladin
+  - spell_bard_4
+  - spell_arcanist
 ---
 
 ## Shadow Jaunt

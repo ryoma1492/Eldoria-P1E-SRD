@@ -1,5 +1,7 @@
 ---
 alias: Dream crystal toxin
+tags:
+  - poisons
 ---
 
 # Dream crystal toxin

@@ -2,6 +2,18 @@
 aliases: [Expel Blood]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_witch_7
+  - spell
+  - spell_witch
+  - spell_summoner_unchained_6
+  - spell_sorcerer_7
+  - spell_summoner
+  - spell_summoner_6
+  - spell_arcanist_7
+  - spell_summoner_unchained
+  - spell_arcanist
 ---
 
 ## Expel Blood

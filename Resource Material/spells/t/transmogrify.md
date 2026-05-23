@@ -2,6 +2,10 @@
 aliases: [Transmogrify]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_summoner_4
+  - spell_summoner
 ---
 
 ## Transmogrify

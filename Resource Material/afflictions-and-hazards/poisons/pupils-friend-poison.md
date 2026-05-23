@@ -1,5 +1,7 @@
 ---
 alias: Pupil's friend
+tags:
+  - poisons
 ---
 
 # Pupil's friend

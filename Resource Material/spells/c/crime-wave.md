@@ -2,6 +2,20 @@
 aliases: [Crime Wave]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_bard_5
+  - spell_bard
+  - spell_psychic_7
+  - spell_sorcerer_7
+  - spell_psychic
+  - spell_mesmerist_5
+  - spell_arcanist_7
+  - spell_antipaladin_4
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Crime Wave

@@ -1,5 +1,7 @@
 ---
 alias: Blackfinder's silence
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Blackfinder's silence

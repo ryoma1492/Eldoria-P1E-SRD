@@ -2,6 +2,30 @@
 aliases: [Dancing Lights]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_bard_0
+  - spell_occultist_0
+  - spell_skald_0
+  - spell_medium_0
+  - spell_witch_0
+  - spell_witch
+  - spell_medium
+  - spell_shaman
+  - spell_bard
+  - spell_mesmerist_0
+  - spell_magus_0
+  - spell_skald
+  - spell_magus
+  - spell_sorcerer_0
+  - spell_psychic_0
+  - spell_arcanist_0
+  - spell_psychic
+  - spell_shaman_0
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Dancing Lights

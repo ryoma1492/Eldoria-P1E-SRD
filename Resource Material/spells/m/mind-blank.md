@@ -2,6 +2,16 @@
 aliases: [Mind Blank]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_arcanist_8
+  - spell
+  - spell_sorcerer_8
+  - spell_witch
+  - spell_psychic_7
+  - spell_psychic
+  - spell_witch_8
+  - spell_arcanist
 ---
 
 ## Mind Blank

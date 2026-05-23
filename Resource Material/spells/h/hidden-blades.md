@@ -2,6 +2,30 @@
 aliases: [Hidden Blades]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_alchemist_2
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_bard
+  - spell_arcanist_2
+  - spell_antipaladin_2
+  - spell_skald
+  - spell_bard_2
+  - spell_magus
+  - spell_inquisitor
+  - spell_investigator_2
+  - spell_investigator
+  - spell_alchemist
+  - spell_inquisitor_2
+  - spell_skald_2
+  - spell_summoner
+  - spell_magus_2
+  - spell_summoner_unchained_2
+  - spell_summoner_unchained
+  - spell_antipaladin
+  - spell_arcanist
+  - spell_summoner_2
 ---
 
 ## Hidden Blades

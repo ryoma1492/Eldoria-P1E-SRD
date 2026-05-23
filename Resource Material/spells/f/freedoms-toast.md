@@ -2,6 +2,24 @@
 aliases: ["Freedom's Toast"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_bard_5
+  - spell_skald_5
+  - spell_bard
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_skald
+  - spell_inquisitor_5
+  - spell_warpriest_5
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_oracle
+  - spell_sorcerer_4
+  - spell_arcanist_4
+  - spell_arcanist
 ---
 
 ## Freedom's Toast

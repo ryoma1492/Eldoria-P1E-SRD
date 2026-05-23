@@ -2,6 +2,26 @@
 aliases: [Protection from Arrows]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_alchemist_2
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_sorcerer_2
+  - spell_bloodrager_2
+  - spell_arcanist_2
+  - spell_spiritualist_2
+  - spell_investigator_2
+  - spell_investigator
+  - spell_alchemist
+  - spell_psychic
+  - spell_summoner
+  - spell_summoner_unchained_2
+  - spell_summoner_unchained
+  - spell_spiritualist
+  - spell_summoner_2
+  - spell_arcanist
 ---
 
 ## Protection from Arrows

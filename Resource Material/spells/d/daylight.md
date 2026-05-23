@@ -2,6 +2,38 @@
 aliases: [Daylight]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_inquisitor_3
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_skald_3
+  - spell_shaman_3
+  - spell_magus_3
+  - spell_sorcerer
+  - spell
+  - spell_oracle_3
+  - spell_shaman
+  - spell_bard
+  - spell_druid_3
+  - spell_adept_3
+  - spell_occultist_3
+  - spell_sorcerer_3
+  - spell_hunter_3
+  - spell_adept
+  - spell_druid
+  - spell_skald
+  - spell_magus
+  - spell_inquisitor
+  - spell_warpriest
+  - spell_arcanist_3
+  - spell_paladin_3
+  - spell_oracle
+  - spell_bard_3
+  - spell_hunter
+  - spell_cleric_3
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Daylight

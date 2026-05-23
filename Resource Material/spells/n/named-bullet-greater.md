@@ -2,6 +2,22 @@
 aliases: [Named Bullet, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_psychic_6
+  - spell_ranger_4
+  - spell_sorcerer_6
+  - spell_arcanist_6
+  - spell_inquisitor
+  - spell_ranger
+  - spell_psychic
+  - spell_witch_6
+  - spell_hunter
+  - spell_inquisitor_6
+  - spell_arcanist
 ---
 
 ## Named Bullet, Greater

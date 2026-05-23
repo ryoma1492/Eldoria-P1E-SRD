@@ -1,5 +1,7 @@
 ---
 alias: Purple pesh
+tags:
+  - poisons
 ---
 
 # [[3.5]] Purple pesh

@@ -3,6 +3,7 @@ tags:
   - monster
   - kids
 statblock: inline
+draft: true
 ---
 
 ```statblock

@@ -1,5 +1,7 @@
 ---
 alias: Jealous Structure
+tags:
+  - curses
 ---
 
 # Jealous Structure

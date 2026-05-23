@@ -2,6 +2,22 @@
 aliases: [Animal Messenger]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_2
+  - spell
+  - spell_mesmerist
+  - spell_shaman
+  - spell_bard
+  - spell_shaman_2
+  - spell_ranger_1
+  - spell_druid
+  - spell_bard_2
+  - spell_ranger
+  - spell_druid_2
+  - spell_mesmerist_2
+  - spell_psychic
+  - spell_hunter
+  - spell_hunter_1
 ---
 
 ## Animal Messenger

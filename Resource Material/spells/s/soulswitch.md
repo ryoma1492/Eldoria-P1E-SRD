@@ -2,6 +2,34 @@
 aliases: [Soulswitch]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell
+  - spell_arcanist_5
+  - spell_witch
+  - spell_bard_5
+  - spell_skald_5
+  - spell_shaman
+  - spell_bard
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_magus_5
+  - spell_druid
+  - spell_skald
+  - spell_magus
+  - spell_inquisitor_5
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_warpriest_5
+  - spell_shaman_5
+  - spell_witch_5
+  - spell_oracle
+  - spell_hunter_5
+  - spell_druid_5
+  - spell_hunter
+  - spell_arcanist
 ---
 
 ## Soulswitch

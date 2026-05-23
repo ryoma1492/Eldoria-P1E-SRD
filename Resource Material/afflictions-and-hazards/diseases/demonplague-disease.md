@@ -1,5 +1,7 @@
 ---
 alias: Demonplague
+tags:
+  - diseases
 ---
 
 # Demonplague

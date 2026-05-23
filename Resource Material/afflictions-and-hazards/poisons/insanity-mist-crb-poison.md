@@ -1,5 +1,7 @@
 ---
 alias: Insanity Mist (CRB)
+tags:
+  - poisons
 ---
 
 # Insanity Mist (CRB)

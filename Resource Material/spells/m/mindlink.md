@@ -2,6 +2,24 @@
 aliases: [Mindlink]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_1
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_medium
+  - spell_shaman
+  - spell_spiritualist_1
+  - spell_shaman_1
+  - spell_medium_1
+  - spell_mesmerist_1
+  - spell_psychic
+  - spell_occultist_1
+  - spell_sorcerer_1
+  - spell_occultist
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Mindlink

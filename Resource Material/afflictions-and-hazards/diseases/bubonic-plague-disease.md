@@ -1,5 +1,7 @@
 ---
 alias: Bubonic Plague
+tags:
+  - diseases
 ---
 
 # Bubonic Plague

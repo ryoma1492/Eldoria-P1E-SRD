@@ -1,5 +1,7 @@
 ---
 alias: Nightmare Vapor
+tags:
+  - poisons
 ---
 
 # Nightmare Vapor

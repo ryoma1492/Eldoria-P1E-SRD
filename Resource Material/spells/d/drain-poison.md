@@ -2,6 +2,26 @@
 aliases: [Drain Poison]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_ranger_3
+  - spell_cleric
+  - spell
+  - spell_oracle_3
+  - spell_druid_3
+  - spell_hunter_3
+  - spell_druid
+  - spell_warpriest
+  - spell_ranger
+  - spell_investigator
+  - spell_alchemist
+  - spell_antipaladin_3
+  - spell_oracle
+  - spell_alchemist_3
+  - spell_hunter
+  - spell_cleric_3
+  - spell_investigator_3
+  - spell_antipaladin
 ---
 
 ## Drain Poison

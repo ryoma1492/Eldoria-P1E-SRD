@@ -2,6 +2,32 @@
 aliases: [Stone Shield]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_druid_1
+  - spell_cleric
+  - spell_bloodrager
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_summoner_1
+  - spell_shaman
+  - spell_warpriest_1
+  - spell_shaman_1
+  - spell_cleric_1
+  - spell_druid
+  - spell_oracle_1
+  - spell_magus
+  - spell_warpriest
+  - spell_oracle
+  - spell_summoner
+  - spell_magus_2
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_sorcerer_1
+  - spell_hunter_1
+  - spell_summoner_unchained_1
+  - spell_arcanist
+  - spell_bloodrager_1
 ---
 
 ## Stone Shield

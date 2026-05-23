@@ -1,5 +1,7 @@
 ---
 alias: Traps
+tags:
+  - traps
 ---
 
 # Traps

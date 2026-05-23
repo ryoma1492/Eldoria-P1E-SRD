@@ -2,6 +2,30 @@
 aliases: [Banishing Blade]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_bloodrager
+  - spell_summoner_5
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell_spiritualist_5
+  - spell
+  - spell_paladin_4
+  - spell_arcanist_5
+  - spell_medium
+  - spell_shaman
+  - spell_medium_4
+  - spell_bloodrager_4
+  - spell_magus_5
+  - spell_magus
+  - spell_inquisitor_5
+  - spell_inquisitor
+  - spell_shaman_5
+  - spell_summoner
+  - spell_antipaladin_4
+  - spell_spiritualist
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Banishing Blade

@@ -2,6 +2,26 @@
 aliases: [Repugnant Taste]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_ranger_3
+  - spell_mesmerist_3
+  - spell_skald_3
+  - spell_druid_4
+  - spell_mesmerist
+  - spell
+  - spell_shaman
+  - spell_bard
+  - spell_hunter_3
+  - spell_druid
+  - spell_skald
+  - spell_ranger
+  - spell_investigator
+  - spell_alchemist
+  - spell_alchemist_3
+  - spell_bard_3
+  - spell_hunter
+  - spell_investigator_3
+  - spell_shaman_4
 ---
 
 ## Repugnant Taste

@@ -2,6 +2,30 @@
 aliases: [Fastidiousness]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_psychic_1
+  - spell_cleric
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_paladin_1
+  - spell_bard
+  - spell_warpriest_1
+  - spell_bard_1
+  - spell_skald_1
+  - spell_cleric_1
+  - spell_skald
+  - spell_oracle_1
+  - spell_warpriest
+  - spell_mesmerist_1
+  - spell_oracle
+  - spell_psychic
+  - spell_occultist_1
+  - spell_sorcerer_1
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Fastidiousness

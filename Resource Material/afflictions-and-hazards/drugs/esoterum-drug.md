@@ -1,5 +1,7 @@
 ---
 alias: Esoterum
+tags:
+  - drugs
 ---
 
 # Esoterum

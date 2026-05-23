@@ -2,6 +2,12 @@
 aliases: ["Fool's Forbiddance"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_bard
+  - spell_psychic_8
+  - spell_bard_6
+  - spell_psychic
 ---
 
 ## Fool's Forbiddance

@@ -2,6 +2,28 @@
 aliases: [Gentle Repose]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_cleric_2
+  - spell_witch
+  - spell_medium
+  - spell_shaman
+  - spell_shaman_2
+  - spell_spiritualist_2
+  - spell_oracle_2
+  - spell_occultist_3
+  - spell_sorcerer_3
+  - spell_warpriest
+  - spell_medium_2
+  - spell_witch_2
+  - spell_arcanist_3
+  - spell_warpriest_2
+  - spell_oracle
+  - spell_occultist
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Gentle Repose

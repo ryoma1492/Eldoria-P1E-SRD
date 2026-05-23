@@ -1,5 +1,7 @@
 ---
 alias: Heart Explosion
+tags:
+  - haunts
 ---
 
 # Heart Explosion

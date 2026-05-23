@@ -2,6 +2,34 @@
 aliases: [Collaborative Thaumaturgy]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_skald_3
+  - spell_magus_3
+  - spell_sorcerer
+  - spell
+  - spell_oracle_3
+  - spell_witch
+  - spell_bard
+  - spell_druid_3
+  - spell_sorcerer_3
+  - spell_hunter_3
+  - spell_summoner_unchained_3
+  - spell_druid
+  - spell_skald
+  - spell_magus
+  - spell_warpriest
+  - spell_arcanist_3
+  - spell_summoner_3
+  - spell_oracle
+  - spell_summoner
+  - spell_bard_3
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_witch_3
+  - spell_cleric_3
+  - spell_arcanist
 ---
 
 ## Collaborative Thaumaturgy

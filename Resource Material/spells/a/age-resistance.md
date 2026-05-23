@@ -2,6 +2,26 @@
 aliases: [Age Resistance]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_psychic_6
+  - spell_occultist_4
+  - spell_sorcerer_6
+  - spell_arcanist_6
+  - spell_druid
+  - spell_druid_6
+  - spell_hunter_6
+  - spell_investigator
+  - spell_alchemist
+  - spell_psychic
+  - spell_witch_6
+  - spell_alchemist_4
+  - spell_investigator_4
+  - spell_hunter
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Age Resistance

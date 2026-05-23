@@ -2,6 +2,24 @@
 aliases: [Bind Sage]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_summoner_unchained_4
+  - spell_occultist_5
+  - spell_sorcerer
+  - spell
+  - spell_psychic_5
+  - spell_witch
+  - spell_shaman
+  - spell_summoner_4
+  - spell_shaman_5
+  - spell_witch_5
+  - spell_psychic
+  - spell_summoner
+  - spell_sorcerer_4
+  - spell_summoner_unchained
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_arcanist
 ---
 
 ## Bind Sage

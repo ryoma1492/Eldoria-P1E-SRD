@@ -2,6 +2,20 @@
 aliases: [Aggressive Thundercloud, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell_sorcerer
+  - spell
+  - spell_druid_4
+  - spell_magus_4
+  - spell_witch
+  - spell_witch_4
+  - spell_druid
+  - spell_magus
+  - spell_sorcerer_4
+  - spell_hunter
+  - spell_arcanist_4
+  - spell_arcanist
 ---
 
 ## Aggressive Thundercloud, Greater

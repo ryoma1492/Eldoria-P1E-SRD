@@ -2,6 +2,24 @@
 aliases: [Knell of the Depths]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_shaman_3
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_shaman
+  - spell_druid_3
+  - spell_sorcerer_3
+  - spell_hunter_3
+  - spell_druid
+  - spell_magus
+  - spell_witch_2
+  - spell_arcanist_3
+  - spell_summoner_3
+  - spell_summoner
+  - spell_magus_2
+  - spell_hunter
+  - spell_arcanist
 ---
 
 ## Knell of the Depths

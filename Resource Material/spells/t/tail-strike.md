@@ -2,6 +2,24 @@
 aliases: [Tail Strike]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell
+  - spell_medium
+  - spell_sorcerer_3
+  - spell_bloodrager_3
+  - spell_arcanist_3
+  - spell_paladin_3
+  - spell_investigator
+  - spell_alchemist
+  - spell_antipaladin_3
+  - spell_alchemist_4
+  - spell_investigator_4
+  - spell_medium_3
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Tail Strike

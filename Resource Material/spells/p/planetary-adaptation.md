@@ -2,6 +2,26 @@
 aliases: [Planetary Adaptation]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_summoner_5
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_investigator_5
+  - spell_arcanist_5
+  - spell_warpriest_4
+  - spell_alchemist_5
+  - spell_warpriest
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_investigator
+  - spell_alchemist
+  - spell_summoner_unchained_5
+  - spell_oracle
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_arcanist
 ---
 
 ## Planetary Adaptation

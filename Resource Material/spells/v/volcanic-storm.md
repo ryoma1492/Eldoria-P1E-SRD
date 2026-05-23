@@ -2,6 +2,20 @@
 aliases: [Volcanic Storm]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell_druid_4
+  - spell
+  - spell_witch
+  - spell_witch_4
+  - spell_bloodrager_4
+  - spell_druid
+  - spell_sorcerer_4
+  - spell_hunter
+  - spell_arcanist_4
+  - spell_arcanist
 ---
 
 ## Volcanic Storm

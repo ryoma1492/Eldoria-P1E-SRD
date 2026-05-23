@@ -2,6 +2,18 @@
 aliases: [Flash Flood]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_shaman
+  - spell_sorcerer_6
+  - spell_druid
+  - spell_arcanist_6
+  - spell_druid_6
+  - spell_shaman_6
+  - spell_hunter_6
+  - spell_hunter
+  - spell_arcanist
 ---
 
 ## Flash Flood

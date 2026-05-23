@@ -1,5 +1,7 @@
 ---
 alias: Twisted Wish
+tags:
+  - haunts
 ---
 
 # Twisted Wish

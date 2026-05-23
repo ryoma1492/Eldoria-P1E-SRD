@@ -1,5 +1,7 @@
 ---
 alias: King's Sleep
+tags:
+  - poisons
 ---
 
 # King's Sleep

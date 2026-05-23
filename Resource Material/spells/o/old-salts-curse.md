@@ -2,6 +2,14 @@
 aliases: ["Old Salt's Curse"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_mesmerist
+  - spell_mesmerist_4
+  - spell_druid
+  - spell_hunter_5
+  - spell_druid_5
+  - spell_hunter
 ---
 
 ## Old Salt's Curse

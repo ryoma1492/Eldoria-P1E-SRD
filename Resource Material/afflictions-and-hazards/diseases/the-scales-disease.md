@@ -1,5 +1,7 @@
 ---
 alias: The Scales
+tags:
+  - diseases
 ---
 
 # The Scales

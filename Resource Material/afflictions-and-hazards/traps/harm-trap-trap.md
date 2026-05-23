@@ -1,5 +1,7 @@
 ---
 alias: Harm Trap
+tags:
+  - traps
 ---
 
 ## Harm Trap

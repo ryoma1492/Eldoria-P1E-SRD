@@ -1,5 +1,7 @@
 ---
 alias: Violet venom
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Violet venom

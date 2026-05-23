@@ -1,5 +1,7 @@
 ---
 alias: Demonic Corruption
+tags:
+  - corruptions
 ---
 
 # Demonic Corruption

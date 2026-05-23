@@ -1,5 +1,7 @@
 ---
 alias: Black lotus extract (Ultimate Equipment)
+tags:
+  - poisons
 ---
 
 # Black lotus extract (Ultimate Equipment)

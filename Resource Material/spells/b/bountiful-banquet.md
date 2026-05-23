@@ -2,6 +2,22 @@
 aliases: [Bountiful Banquet]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_cleric
+  - spell_hunter_4
+  - spell_druid_4
+  - spell
+  - spell_shaman
+  - spell_bard
+  - spell_druid
+  - spell_skald
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_oracle
+  - spell_hunter
+  - spell_bard_4
+  - spell_shaman_4
 ---
 
 ## Bountiful Banquet

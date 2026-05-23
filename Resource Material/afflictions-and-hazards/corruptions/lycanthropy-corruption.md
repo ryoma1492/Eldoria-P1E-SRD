@@ -1,5 +1,7 @@
 ---
 alias: Lycanthorpy Corruption 
+tags:
+  - corruptions
 ---
 
 # Lycanthropy Corruption

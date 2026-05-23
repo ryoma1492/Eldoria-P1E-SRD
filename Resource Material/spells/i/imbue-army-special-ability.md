@@ -2,6 +2,10 @@
 aliases: [Imbue Army Special Ability]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_cleric_9
 ---
 
 ## Imbue Army Special Ability

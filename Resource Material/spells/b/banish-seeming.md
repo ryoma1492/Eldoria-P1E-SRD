@@ -2,6 +2,12 @@
 aliases: [Banish Seeming]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell
+  - spell_psychic_5
+  - spell_inquisitor
+  - spell_psychic
 ---
 
 ## Banish Seeming

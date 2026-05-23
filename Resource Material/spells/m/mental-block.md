@@ -2,6 +2,14 @@
 aliases: [Mental Block]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_2
+  - spell_mesmerist
+  - spell
+  - spell_bard
+  - spell_bard_2
+  - spell_mesmerist_1
+  - spell_psychic
 ---
 
 ## Mental Block

@@ -1,5 +1,7 @@
 ---
 alias: Blasted Vitality
+tags:
+  - curses
 ---
 
 # Blasted Vitality

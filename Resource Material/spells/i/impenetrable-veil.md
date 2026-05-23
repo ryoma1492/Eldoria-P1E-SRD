@@ -2,6 +2,22 @@
 aliases: [Impenetrable Veil]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_spiritualist_6
+  - spell_bard
+  - spell_bard_6
+  - spell_arcanist_9
+  - spell_sorcerer_9
+  - spell_skald
+  - spell_skald_6
+  - spell_psychic_9
+  - spell_psychic
+  - spell_mesmerist_6
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Impenetrable Veil

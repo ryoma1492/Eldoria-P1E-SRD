@@ -1,5 +1,7 @@
 ---
 alias: Dhabba spittle
+tags:
+  - poisons
 ---
 
 # [[3.5]] Dhabba spittle

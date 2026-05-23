@@ -2,6 +2,32 @@
 aliases: [Plague Bearer]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_cleric_6
+  - spell_sorcerer
+  - spell
+  - spell_alchemist_6
+  - spell_antipaladin_6
+  - spell_oracle_6
+  - spell_witch
+  - spell_investigator_6
+  - spell_druid
+  - spell_druid_6
+  - spell_inquisitor
+  - spell_warpriest
+  - spell_hunter_6
+  - spell_investigator
+  - spell_sorcerer_7
+  - spell_alchemist
+  - spell_oracle
+  - spell_witch_6
+  - spell_arcanist_7
+  - spell_hunter
+  - spell_warpriest_6
+  - spell_inquisitor_6
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Plague Bearer

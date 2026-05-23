@@ -1,5 +1,7 @@
 ---
 alias: Foreboding Mist
+tags:
+  - haunts
 ---
 
 # Foreboding Mist

@@ -2,6 +2,18 @@
 aliases: [Call Spirit]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_spiritualist_5
+  - spell_medium
+  - spell_shaman
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_shaman_5
+  - spell_oracle
+  - spell_medium_3
+  - spell_spiritualist
 ---
 
 ## Call Spirit

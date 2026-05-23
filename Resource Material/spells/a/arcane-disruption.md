@@ -2,6 +2,22 @@
 aliases: [Arcane Disruption]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_witch
+  - spell_bloodrager_2
+  - spell_bard
+  - spell_arcanist_2
+  - spell_skald
+  - spell_bard_2
+  - spell_magus
+  - spell_witch_2
+  - spell_skald_2
+  - spell_magus_2
+  - spell_arcanist
 ---
 
 ## Arcane Disruption

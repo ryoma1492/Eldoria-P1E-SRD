@@ -2,6 +2,10 @@
 aliases: [Hex Glyph, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_shaman
+  - spell_shaman_5
 ---
 
 ## Hex Glyph, Greater

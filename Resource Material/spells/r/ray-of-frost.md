@@ -2,6 +2,14 @@
 aliases: [Ray of Frost]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_magus_0
+  - spell_magus
+  - spell_sorcerer_0
+  - spell_arcanist_0
+  - spell_arcanist
 ---
 
 ## Ray of Frost

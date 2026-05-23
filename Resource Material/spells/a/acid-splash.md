@@ -2,6 +2,20 @@
 aliases: [Acid Splash]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_inquisitor_0
+  - spell
+  - spell_summoner_unchained_0
+  - spell_magus_0
+  - spell_summoner_0
+  - spell_magus
+  - spell_inquisitor
+  - spell_sorcerer_0
+  - spell_arcanist_0
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_arcanist
 ---
 
 ## Acid Splash

@@ -2,6 +2,28 @@
 aliases: [Neutralize Poison, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_cleric_6
+  - spell
+  - spell_alchemist_6
+  - spell_oracle_6
+  - spell_bard
+  - spell_bard_6
+  - spell_investigator_6
+  - spell_druid
+  - spell_skald
+  - spell_skald_6
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_investigator
+  - spell_alchemist
+  - spell_oracle
+  - spell_hunter_5
+  - spell_druid_5
+  - spell_hunter
+  - spell_inquisitor_6
+  - spell_warpriest_6
 ---
 
 ## Neutralize Poison, Greater

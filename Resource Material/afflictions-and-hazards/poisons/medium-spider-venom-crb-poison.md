@@ -1,5 +1,7 @@
 ---
 alias: Medium Spider Venom (CRB)
+tags:
+  - poisons
 ---
 
 # Medium Spider Venom (CRB)

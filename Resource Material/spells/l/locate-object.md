@@ -4,7 +4,36 @@ aliases:
 created: 2023-04-27
 updated: 2023-04-28
 tags:
+  - spell_warpriest_3
+  - spell_inquisitor_3
+  - spell_cleric
+  - spell_sorcerer
+  - spell_psychic_2
   - spell
+  - spell_mesmerist
+  - spell_oracle_3
+  - spell
+  - spell_sorcerer_2
+  - spell_medium
+  - spell_witch
+  - spell_bard
+  - spell_arcanist_2
+  - spell_skald
+  - spell_bard_2
+  - spell_inquisitor
+  - spell_warpriest
+  - spell_medium_2
+  - spell_spiritualist_3
+  - spell_oracle
+  - spell_mesmerist_2
+  - spell_occultist_2
+  - spell_psychic
+  - spell_skald_2
+  - spell_witch_3
+  - spell_cleric_3
+  - spell_occultist
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Locate Object

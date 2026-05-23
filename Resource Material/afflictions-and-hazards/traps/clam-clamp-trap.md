@@ -1,5 +1,7 @@
 ---
 alias: Clam Clamp
+tags:
+  - traps
 ---
 
 ## Clam Clamp

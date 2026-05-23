@@ -2,6 +2,16 @@
 aliases: [Wicker Horse]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_shaman
+  - spell_shaman_2
+  - spell_occultist_2
+  - spell_summoner
+  - spell_summoner_unchained_2
+  - spell_summoner_unchained
+  - spell_occultist
+  - spell_summoner_2
 ---
 
 ## Wicker Horse

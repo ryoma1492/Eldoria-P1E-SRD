@@ -2,6 +2,18 @@
 aliases: [Angelic Aspect, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_sorcerer
+  - spell_arcanist_8
+  - spell
+  - spell_paladin_4
+  - spell_cleric_8
+  - spell_sorcerer_8
+  - spell_oracle_8
+  - spell_oracle
+  - spell_arcanist
 ---
 
 ## Angelic Aspect, Greater

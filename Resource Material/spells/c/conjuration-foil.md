@@ -2,6 +2,32 @@
 aliases: [Conjuration Foil]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_magus_3
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_medium
+  - spell_bard
+  - spell_occultist_4
+  - spell_medium_4
+  - spell_witch_4
+  - spell_summoner_unchained_3
+  - spell_skald
+  - spell_magus
+  - spell_summoner_3
+  - spell_psychic
+  - spell_summoner
+  - spell_sorcerer_4
+  - spell_spiritualist_4
+  - spell_summoner_unchained
+  - spell_psychic_4
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_spiritualist
+  - spell_bard_4
+  - spell_arcanist
 ---
 
 ## Conjuration Foil

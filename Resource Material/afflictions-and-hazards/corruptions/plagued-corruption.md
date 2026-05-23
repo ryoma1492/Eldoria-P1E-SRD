@@ -1,5 +1,7 @@
 ---
 alias: Plagued Corruption
+tags:
+  - corruptions
 ---
 
 # Plagued Corruption

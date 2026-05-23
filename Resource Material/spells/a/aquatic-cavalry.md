@@ -2,6 +2,22 @@
 aliases: [Aquatic Cavalry]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell
+  - spell_shaman
+  - spell_paladin_2
+  - spell_shaman_2
+  - spell_antipaladin_2
+  - spell_druid
+  - spell_ranger
+  - spell_ranger_2
+  - spell_druid_2
+  - spell_summoner
+  - spell_hunter_2
+  - spell_hunter
+  - spell_antipaladin
+  - spell_summoner_2
 ---
 
 ## Aquatic Cavalry

@@ -1,5 +1,7 @@
 ---
 alias: Arsenic
+tags:
+  - poisons
 ---
 
 # Arsenic

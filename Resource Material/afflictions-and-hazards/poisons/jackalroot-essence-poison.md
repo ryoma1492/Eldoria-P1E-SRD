@@ -1,5 +1,7 @@
 ---
 alias: Jackalroot essence
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Jackalroot essence

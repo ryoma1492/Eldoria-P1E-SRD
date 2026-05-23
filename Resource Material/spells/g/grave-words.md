@@ -2,6 +2,14 @@
 aliases: [Grave Words]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_occultist_0
+  - spell_medium_0
+  - spell_medium
+  - spell_psychic_0
+  - spell_psychic
+  - spell_occultist
 ---
 
 ## Grave Words

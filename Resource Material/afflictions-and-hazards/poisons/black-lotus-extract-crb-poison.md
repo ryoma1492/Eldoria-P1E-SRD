@@ -1,5 +1,7 @@
 ---
 alias: Black Lotus Extract (CRB)
+tags:
+  - poisons
 ---
 
 # Black Lotus Extract (CRB)

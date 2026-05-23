@@ -2,6 +2,28 @@
 aliases: [Final Sacrifice]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_bloodrager
+  - spell_shaman_3
+  - spell_sorcerer
+  - spell
+  - spell_oracle_3
+  - spell_witch
+  - spell_bloodrager_2
+  - spell_shaman
+  - spell_witch_4
+  - spell_sorcerer_3
+  - spell_warpriest
+  - spell_arcanist_3
+  - spell_antipaladin_3
+  - spell_oracle
+  - spell_summoner
+  - spell_cleric_3
+  - spell_antipaladin
+  - spell_summoner_2
+  - spell_arcanist
 ---
 
 ## Final Sacrifice

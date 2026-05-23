@@ -1,5 +1,7 @@
 ---
 alias: Energy Drain Trap
+tags:
+  - traps
 ---
 
 ## Energy Drain Trap

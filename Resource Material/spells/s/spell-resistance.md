@@ -2,6 +2,24 @@
 aliases: [Spell Resistance]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_occultist_5
+  - spell_spiritualist_5
+  - spell
+  - spell_investigator_5
+  - spell_psychic_5
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_alchemist_5
+  - spell_inquisitor_5
+  - spell_inquisitor
+  - spell_investigator
+  - spell_alchemist
+  - spell_oracle
+  - spell_psychic
+  - spell_occultist
+  - spell_spiritualist
 ---
 
 ## Spell Resistance

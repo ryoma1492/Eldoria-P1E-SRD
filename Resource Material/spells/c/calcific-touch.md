@@ -2,6 +2,18 @@
 aliases: [Calcific Touch]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell
+  - spell_redmantisassassin
+  - spell_bloodrager_4
+  - spell_psychic
+  - spell_sorcerer_4
+  - spell_psychic_4
+  - spell_arcanist_4
+  - spell_redmantisassassin_4
+  - spell_arcanist
 ---
 
 ## Calcific Touch

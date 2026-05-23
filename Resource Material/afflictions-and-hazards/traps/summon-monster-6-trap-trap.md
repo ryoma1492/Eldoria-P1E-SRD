@@ -1,5 +1,7 @@
 ---
 alias: Summon Monster VI Trap
+tags:
+  - traps
 ---
 
 ## Summon Monster VI Trap

@@ -1,5 +1,7 @@
 ---
 alias: Daemonic Wasting
+tags:
+  - diseases
 ---
 
 # Daemonic Wasting

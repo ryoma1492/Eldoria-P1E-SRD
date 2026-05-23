@@ -1,5 +1,7 @@
 ---
 alias: Blue star
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Blue star

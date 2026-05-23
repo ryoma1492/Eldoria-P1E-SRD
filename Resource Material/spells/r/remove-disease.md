@@ -2,6 +2,32 @@
 aliases: [Remove Disease]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_ranger_3
+  - spell_inquisitor_3
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_shaman_3
+  - spell
+  - spell_oracle_3
+  - spell_shaman
+  - spell_druid_3
+  - spell_adept_3
+  - spell_hunter_3
+  - spell_adept
+  - spell_druid
+  - spell_warpriest
+  - spell_ranger
+  - spell_inquisitor
+  - spell_investigator
+  - spell_alchemist
+  - spell_spiritualist_3
+  - spell_oracle
+  - spell_alchemist_3
+  - spell_hunter
+  - spell_cleric_3
+  - spell_spiritualist
+  - spell_investigator_3
 ---
 
 ## Remove Disease

@@ -1,5 +1,7 @@
 ---
 alias: Chelish deathapple
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Chelish deathapple

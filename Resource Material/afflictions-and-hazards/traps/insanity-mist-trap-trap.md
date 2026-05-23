@@ -1,5 +1,7 @@
 ---
 alias: Insanity Mist Trap
+tags:
+  - traps
 ---
 
 ## Insanity Mist Trap

@@ -2,6 +2,12 @@
 aliases: [Curse of Keeping]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_shaman
+  - spell_shaman_2
+  - spell_antipaladin_2
+  - spell_antipaladin
 ---
 
 ## Curse of Keeping

@@ -2,6 +2,24 @@
 aliases: [Mythic Knock]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_mesmerist
+  - spell_sorcerer_2
+  - spell_medium
+  - spell_redmantisassassin
+  - spell_arcanist_2
+  - spell_redmantisassassin_2
+  - spell_inquisitor
+  - spell_medium_2
+  - spell_inquisitor_2
+  - spell_mesmerist_2
+  - spell_psychic
+  - spell_occultist_2
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Mythic Knock

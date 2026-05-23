@@ -2,6 +2,18 @@
 aliases: [Fluid Form]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_psychic_6
+  - spell_sorcerer_6
+  - spell_arcanist_6
+  - spell_investigator
+  - spell_alchemist
+  - spell_psychic
+  - spell_alchemist_4
+  - spell_investigator_4
+  - spell_arcanist
 ---
 
 ## Fluid Form

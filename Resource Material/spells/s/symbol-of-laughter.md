@@ -2,6 +2,18 @@
 aliases: [Symbol of Laughter]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_mesmerist_3
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_witch
+  - spell_witch_4
+  - spell_occultist_3
+  - spell_sorcerer_4
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_arcanist
 ---
 
 ## Symbol of Laughter

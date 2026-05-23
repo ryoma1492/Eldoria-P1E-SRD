@@ -1,5 +1,7 @@
 ---
 alias: Empowered Disintegrate Trap
+tags:
+  - traps
 ---
 
 ## Empowered Disintegrate Trap

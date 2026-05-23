@@ -2,6 +2,22 @@
 aliases: [Animate Objects]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_cleric_6
+  - spell
+  - spell_oracle_6
+  - spell_psychic_6
+  - spell_bard
+  - spell_bard_6
+  - spell_skald
+  - spell_skald_6
+  - spell_warpriest
+  - spell_oracle
+  - spell_psychic
+  - spell_warpriest_6
+  - spell_occultist
+  - spell_occultist_6
 ---
 
 ## Animate Objects

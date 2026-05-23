@@ -2,6 +2,24 @@
 aliases: [Water Walk]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_ranger_3
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_shaman_3
+  - spell
+  - spell_oracle_3
+  - spell_medium
+  - spell_shaman
+  - spell_psychic_3
+  - spell_hunter_3
+  - spell_ranger
+  - spell_warpriest
+  - spell_medium_2
+  - spell_oracle
+  - spell_psychic
+  - spell_hunter
+  - spell_cleric_3
 ---
 
 ## Water Walk

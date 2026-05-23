@@ -1,5 +1,7 @@
 ---
 alias: Ungol Dust (CRB)
+tags:
+  - poisons
 ---
 
 # Ungol Dust (CRB)

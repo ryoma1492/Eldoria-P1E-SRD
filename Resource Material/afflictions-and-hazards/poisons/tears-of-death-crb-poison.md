@@ -1,5 +1,7 @@
 ---
 alias: Tears of Death (CRB)
+tags:
+  - poisons
 ---
 
 # Tears of Death (CRB)

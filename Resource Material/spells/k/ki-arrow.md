@@ -2,6 +2,20 @@
 aliases: [Ki Arrow]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_1
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_bard
+  - spell_bard_1
+  - spell_skald_1
+  - spell_witch_1
+  - spell_skald
+  - spell_psychic
+  - spell_sorcerer_1
+  - spell_arcanist
 ---
 
 ## Ki Arrow

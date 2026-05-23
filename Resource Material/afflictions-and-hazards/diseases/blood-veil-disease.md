@@ -1,5 +1,7 @@
 ---
 alias: Blood Veil
+tags:
+  - diseases
 ---
 
 # Blood Veil

@@ -2,6 +2,32 @@
 aliases: [False Life, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_mesmerist_3
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_witch
+  - spell_medium
+  - spell_shaman
+  - spell_occultist_4
+  - spell_witch_4
+  - spell_bloodrager_4
+  - spell_investigator
+  - spell_alchemist
+  - spell_psychic
+  - spell_sorcerer_4
+  - spell_alchemist_4
+  - spell_spiritualist_4
+  - spell_investigator_4
+  - spell_psychic_4
+  - spell_medium_3
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_spiritualist
+  - spell_shaman_4
+  - spell_arcanist
 ---
 
 ## False Life, Greater

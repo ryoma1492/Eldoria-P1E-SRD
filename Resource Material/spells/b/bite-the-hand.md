@@ -2,6 +2,24 @@
 aliases: [Bite the Hand]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_witch_4
+  - spell_druid_3
+  - spell_hunter_3
+  - spell_druid
+  - spell_summoner_unchained_3
+  - spell_inquisitor
+  - spell_summoner_3
+  - spell_summoner
+  - spell_sorcerer_4
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_arcanist_4
+  - spell_arcanist
 ---
 
 ## Bite the Hand

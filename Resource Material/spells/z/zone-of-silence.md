@@ -2,6 +2,12 @@
 aliases: [Zone of Silence]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_mesmerist
+  - spell_bard
+  - spell_mesmerist_4
+  - spell_bard_4
 ---
 
 ## Zone of Silence

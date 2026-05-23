@@ -2,6 +2,18 @@
 aliases: [Discovery Torch]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_oracle_3
+  - spell_bard
+  - spell_skald
+  - spell_bard_2
+  - spell_inquisitor
+  - spell_inquisitor_2
+  - spell_oracle
+  - spell_skald_2
+  - spell_cleric_3
 ---
 
 ## Discovery Torch

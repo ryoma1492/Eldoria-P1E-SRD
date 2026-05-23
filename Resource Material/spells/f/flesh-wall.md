@@ -2,6 +2,28 @@
 aliases: [Flesh Wall]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_cleric_6
+  - spell_summoner_5
+  - spell_sorcerer
+  - spell_spiritualist_5
+  - spell
+  - spell_witch
+  - spell_oracle_6
+  - spell_shaman
+  - spell_sorcerer_6
+  - spell_arcanist_6
+  - spell_shaman_6
+  - spell_warpriest
+  - spell_summoner_unchained_5
+  - spell_oracle
+  - spell_summoner
+  - spell_witch_6
+  - spell_summoner_unchained
+  - spell_warpriest_6
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Flesh Wall

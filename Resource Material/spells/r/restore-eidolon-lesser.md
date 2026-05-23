@@ -2,6 +2,10 @@
 aliases: [Restore Eidolon, Lesser]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_summoner
+  - spell_summoner_2
 ---
 
 ## Restore Eidolon, Lesser

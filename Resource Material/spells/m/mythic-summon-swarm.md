@@ -2,6 +2,28 @@
 aliases: [Mythic Summon Swarm]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_witch
+  - spell_shaman
+  - spell_bard
+  - spell_arcanist_2
+  - spell_shaman_2
+  - spell_druid
+  - spell_skald
+  - spell_bard_2
+  - spell_witch_2
+  - spell_druid_2
+  - spell_skald_2
+  - spell_summoner
+  - spell_summoner_unchained_2
+  - spell_hunter_2
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_summoner_2
+  - spell_arcanist
 ---
 
 ## Mythic Summon Swarm

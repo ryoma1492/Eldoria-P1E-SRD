@@ -2,6 +2,18 @@
 aliases: [Mythic Magic Vestment]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_cleric
+  - spell_shaman_3
+  - spell
+  - spell_oracle_3
+  - spell_shaman
+  - spell_occultist_3
+  - spell_inquisitor
+  - spell_oracle
+  - spell_cleric_3
+  - spell_occultist
 ---
 
 ## Mythic Magic Vestment

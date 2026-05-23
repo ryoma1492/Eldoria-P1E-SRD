@@ -1,5 +1,7 @@
 ---
 alias: Twilight illness
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Twilight illness

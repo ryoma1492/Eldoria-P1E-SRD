@@ -1,5 +1,7 @@
 ---
 alias: Belladonna
+tags:
+  - poisons
 ---
 
 # Belladonna

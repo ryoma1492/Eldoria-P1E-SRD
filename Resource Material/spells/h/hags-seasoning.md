@@ -2,6 +2,18 @@
 aliases: ["Hag's Seasoning"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_shaman_3
+  - spell
+  - spell_bloodrager_2
+  - spell_shaman
+  - spell_antipaladin_2
+  - spell_druid_3
+  - spell_druid
+  - spell_hunter_3
+  - spell_hunter
+  - spell_antipaladin
 ---
 
 ## Hag's Seasoning

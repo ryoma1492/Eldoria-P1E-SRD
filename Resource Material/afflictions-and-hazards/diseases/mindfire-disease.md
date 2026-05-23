@@ -1,5 +1,7 @@
 ---
 alias: Mindfire
+tags:
+  - diseases
 ---
 
 # Mindfire

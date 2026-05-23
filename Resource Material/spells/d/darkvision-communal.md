@@ -2,6 +2,28 @@
 aliases: [Darkvision, Communal]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell_redmantisassassin_3
+  - spell_sorcerer
+  - spell
+  - spell_ranger_4
+  - spell_redmantisassassin
+  - spell_psychic_3
+  - spell_occultist_3
+  - spell_sorcerer_3
+  - spell_ranger
+  - spell_arcanist_3
+  - spell_investigator
+  - spell_alchemist
+  - spell_antipaladin_3
+  - spell_alchemist_3
+  - spell_psychic
+  - spell_hunter
+  - spell_occultist
+  - spell_antipaladin
+  - spell_investigator_3
+  - spell_arcanist
 ---
 
 ## Darkvision, Communal

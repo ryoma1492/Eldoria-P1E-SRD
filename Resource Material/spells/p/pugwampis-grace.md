@@ -2,6 +2,18 @@
 aliases: ["Pugwampi's Grace"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_bard
+  - spell_sorcerer_3
+  - spell_skald
+  - spell_bard_2
+  - spell_arcanist_3
+  - spell_skald_2
+  - spell_witch_3
+  - spell_arcanist
 ---
 
 ## Pugwampi's Grace

@@ -1,5 +1,7 @@
 ---
 alias: Crushing Cage Tarp
+tags:
+  - traps
 ---
 
 ## Crushing Cage Tarp

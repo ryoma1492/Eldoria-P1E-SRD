@@ -2,6 +2,24 @@
 aliases: [Contact High]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_alchemist_2
+  - spell_shaman_3
+  - spell
+  - spell_oracle_3
+  - spell_sahirafiyun_3
+  - spell_shaman
+  - spell_bard
+  - spell_skald
+  - spell_bard_2
+  - spell_investigator_2
+  - spell_investigator
+  - spell_alchemist
+  - spell_oracle
+  - spell_skald_2
+  - spell_sahirafiyun
+  - spell_cleric_3
 ---
 
 ## Contact High

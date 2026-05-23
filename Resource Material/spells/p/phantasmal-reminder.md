@@ -2,6 +2,26 @@
 aliases: [Phantasmal Reminder]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_mesmerist_3
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_witch
+  - spell_shaman
+  - spell_bard
+  - spell_psychic_3
+  - spell_sorcerer_3
+  - spell_skald
+  - spell_arcanist_3
+  - spell_antipaladin_3
+  - spell_psychic
+  - spell_witch_3
+  - spell_antipaladin
+  - spell_bard_4
+  - spell_shaman_4
+  - spell_arcanist
 ---
 
 ## Phantasmal Reminder

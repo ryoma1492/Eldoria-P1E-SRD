@@ -1,5 +1,7 @@
 ---
 alias: Deep One Corruption
+tags:
+  - corruptions
 ---
 
 # Deep One Corruption

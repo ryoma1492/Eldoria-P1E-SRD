@@ -2,6 +2,12 @@
 aliases: [Summon Minor Ally]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_druid_1
+  - spell
+  - spell_druid
+  - spell_hunter
+  - spell_hunter_1
 ---
 
 ## Summon Minor Ally

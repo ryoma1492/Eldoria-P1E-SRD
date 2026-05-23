@@ -1,5 +1,7 @@
 ---
 alias: Leopard's bane
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Leopard's bane

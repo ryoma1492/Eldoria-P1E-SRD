@@ -2,6 +2,34 @@
 aliases: [Bleed]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_spiritualist_0
+  - spell_sorcerer
+  - spell_inquisitor_0
+  - spell_warpriest_0
+  - spell
+  - spell_mesmerist
+  - spell_occultist_0
+  - spell_medium_0
+  - spell_witch_0
+  - spell_witch
+  - spell_medium
+  - spell_shaman
+  - spell_mesmerist_0
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_sorcerer_0
+  - spell_psychic_0
+  - spell_oracle
+  - spell_arcanist_0
+  - spell_psychic
+  - spell_shaman_0
+  - spell_cleric_0
+  - spell_oracle_0
+  - spell_occultist
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Bleed

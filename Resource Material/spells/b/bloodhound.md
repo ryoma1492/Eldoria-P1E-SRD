@@ -2,6 +2,18 @@
 aliases: [Bloodhound]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_occultist_3
+  - spell_inquisitor
+  - spell_investigator
+  - spell_inquisitor_2
+  - spell_alchemist
+  - spell_alchemist_3
+  - spell_hunter_2
+  - spell_hunter
+  - spell_occultist
+  - spell_investigator_3
 ---
 
 ## Bloodhound

@@ -2,6 +2,30 @@
 aliases: [Dream Shield]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_alchemist_2
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_witch
+  - spell_medium
+  - spell_shaman
+  - spell_bard
+  - spell_shaman_2
+  - spell_witch_4
+  - spell_psychic_3
+  - spell_skald
+  - spell_bard_2
+  - spell_medium_2
+  - spell_investigator_2
+  - spell_investigator
+  - spell_alchemist
+  - spell_mesmerist_2
+  - spell_psychic
+  - spell_skald_2
+  - spell_sorcerer_4
+  - spell_arcanist_4
+  - spell_arcanist
 ---
 
 ## Dream Shield

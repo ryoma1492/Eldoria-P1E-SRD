@@ -2,6 +2,26 @@
 aliases: [Discharge, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_cleric_6
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_oracle_6
+  - spell_bard
+  - spell_bard_6
+  - spell_sorcerer_6
+  - spell_arcanist_6
+  - spell_skald
+  - spell_magus
+  - spell_skald_6
+  - spell_warpriest
+  - spell_magus_6
+  - spell_oracle
+  - spell_witch_6
+  - spell_warpriest_6
+  - spell_arcanist
 ---
 
 ## Discharge, Greater

@@ -2,6 +2,10 @@
 aliases: [Arcana Theft]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_magus_4
+  - spell_magus
 ---
 
 ## Arcana Theft

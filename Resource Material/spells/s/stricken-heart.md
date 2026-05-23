@@ -2,6 +2,24 @@
 aliases: [Stricken Heart]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_shaman_3
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_mesmerist
+  - spell_sorcerer_2
+  - spell_witch
+  - spell_shaman
+  - spell_arcanist_2
+  - spell_spiritualist_2
+  - spell_inquisitor
+  - spell_witch_2
+  - spell_inquisitor_2
+  - spell_mesmerist_2
+  - spell_psychic
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Stricken Heart

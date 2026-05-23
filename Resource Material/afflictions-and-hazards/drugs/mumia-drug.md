@@ -1,5 +1,7 @@
 ---
 alias: Mumia
+tags:
+  - drugs
 ---
 
 # Mumia

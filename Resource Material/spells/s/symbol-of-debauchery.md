@@ -2,6 +2,22 @@
 aliases: [Symbol of Debauchery]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell_arcanist_8
+  - spell
+  - spell_cleric_8
+  - spell_sorcerer_8
+  - spell_witch
+  - spell_bard
+  - spell_bard_6
+  - spell_oracle_8
+  - spell_skald
+  - spell_skald_6
+  - spell_oracle
+  - spell_witch_8
+  - spell_arcanist
 ---
 
 ## Symbol of Debauchery

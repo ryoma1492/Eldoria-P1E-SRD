@@ -1,5 +1,7 @@
 ---
 alias: Numbing poison
+tags:
+  - poisons
 ---
 
 # [[3.5]] Numbing poison

@@ -1,5 +1,7 @@
 ---
 alias: Spring-arm Spike
+tags:
+  - traps
 ---
 
 ## Spring-arm Spike

@@ -2,6 +2,16 @@
 aliases: [Make Lost]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_bard
+  - spell_ranger_1
+  - spell_druid
+  - spell_bard_2
+  - spell_ranger
+  - spell_druid_2
+  - spell_hunter
+  - spell_hunter_1
 ---
 
 ## Make Lost

@@ -2,6 +2,20 @@
 aliases: [Mythic Break]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_1
+  - spell_bloodrager
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_redmantisassassin
+  - spell_redmantisassassin_1
+  - spell_psychic
+  - spell_occultist_1
+  - spell_sorcerer_1
+  - spell_occultist
+  - spell_arcanist
+  - spell_bloodrager_1
 ---
 
 ## Mythic Break

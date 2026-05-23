@@ -1,5 +1,7 @@
 ---
 alias: Flayed Suicide
+tags:
+  - haunts
 ---
 
 # Flayed Suicide

@@ -1,5 +1,7 @@
 ---
 alias: Red bedlam
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Red bedlam

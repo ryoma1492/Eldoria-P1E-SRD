@@ -2,6 +2,42 @@
 aliases: [Mythic Break Enchantment]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_paladin
+  - spell_cleric
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell_mesmerist
+  - spell
+  - spell_spiritualist_5
+  - spell_paladin_4
+  - spell_arcanist_5
+  - spell_medium
+  - spell_witch
+  - spell_shaman
+  - spell_bard
+  - spell_cleric_5
+  - spell_occultist_4
+  - spell_oracle_5
+  - spell_medium_4
+  - spell_adept
+  - spell_mesmerist_4
+  - spell_skald
+  - spell_warpriest_5
+  - spell_inquisitor_5
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_shaman_5
+  - spell_witch_5
+  - spell_oracle
+  - spell_psychic
+  - spell_adept_5
+  - spell_psychic_4
+  - spell_occultist
+  - spell_spiritualist
+  - spell_bard_4
+  - spell_arcanist
 ---
 
 ## Mythic Break Enchantment

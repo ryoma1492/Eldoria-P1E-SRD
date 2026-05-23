@@ -2,6 +2,20 @@
 aliases: [Unconscious Agenda]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_bard
+  - spell_bard_6
+  - spell_sorcerer_6
+  - spell_arcanist_6
+  - spell_skald
+  - spell_skald_6
+  - spell_inquisitor
+  - spell_witch_6
+  - spell_inquisitor_6
+  - spell_arcanist
 ---
 
 ## Unconscious Agenda

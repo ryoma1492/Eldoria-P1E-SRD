@@ -2,6 +2,22 @@
 aliases: [Murderous Command]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_1
+  - spell_cleric
+  - spell_mesmerist
+  - spell
+  - spell_medium
+  - spell_antipaladin_1
+  - spell_medium_1
+  - spell_cleric_1
+  - spell_oracle_1
+  - spell_mesmerist_1
+  - spell_oracle
+  - spell_psychic
+  - spell_occultist_1
+  - spell_occultist
+  - spell_antipaladin
 ---
 
 ## Murderous Command

@@ -1,5 +1,7 @@
 ---
 alias: Drow Poison
+tags:
+  - poisons
 ---
 
 # Drow Poison

@@ -2,6 +2,12 @@
 aliases: [Lightfingers]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_1
+  - spell
+  - spell_spiritualist_1
+  - spell_psychic
+  - spell_spiritualist
 ---
 
 ## Lightfingers

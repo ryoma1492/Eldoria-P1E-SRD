@@ -1,5 +1,7 @@
 ---
 alias: Shakes
+tags:
+  - diseases
 ---
 
 # Shakes

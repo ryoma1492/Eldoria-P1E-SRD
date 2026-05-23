@@ -2,6 +2,10 @@
 aliases: [Crime of Opportunity]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_antipaladin_1
+  - spell_antipaladin
 ---
 
 ## Crime of Opportunity

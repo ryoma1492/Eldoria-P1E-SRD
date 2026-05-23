@@ -2,6 +2,30 @@
 aliases: [Irradiate]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_hunter_4
+  - spell_sorcerer
+  - spell_magus_3
+  - spell_druid_4
+  - spell
+  - spell_oracle_3
+  - spell_witch
+  - spell_sorcerer_3
+  - spell_summoner_unchained_3
+  - spell_druid
+  - spell_magus
+  - spell_warpriest
+  - spell_arcanist_3
+  - spell_summoner_3
+  - spell_oracle
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_witch_3
+  - spell_cleric_3
+  - spell_arcanist
 ---
 
 ## Irradiate

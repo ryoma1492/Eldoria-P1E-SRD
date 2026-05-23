@@ -2,6 +2,12 @@
 aliases: [Life Channel]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_cleric_2
+  - spell_oracle_2
+  - spell_oracle
 ---
 
 ## Life Channel

@@ -1,5 +1,7 @@
 ---
 alias: Cone of Cold Trap
+tags:
+  - traps
 ---
 
 ## Cone of Cold Trap

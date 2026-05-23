@@ -2,6 +2,18 @@
 aliases: [Wall of Clockwork]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_arcanist_5
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_warpriest_5
+  - spell_warpriest
+  - spell_oracle
+  - spell_arcanist
 ---
 
 ## Wall of Clockwork

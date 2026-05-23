@@ -2,6 +2,24 @@
 aliases: [Curse of Disgust]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_mesmerist_3
+  - spell_skald_3
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell
+  - spell_mesmerist
+  - spell_arcanist_5
+  - spell_witch
+  - spell_psychic_6
+  - spell_bard
+  - spell_occultist_4
+  - spell_skald
+  - spell_witch_5
+  - spell_psychic
+  - spell_bard_3
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Curse of Disgust

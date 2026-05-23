@@ -2,6 +2,28 @@
 aliases: [Create Treasure Map]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_sorcerer_2
+  - spell_medium
+  - spell_bard
+  - spell_arcanist_2
+  - spell_druid_3
+  - spell_druid
+  - spell_skald
+  - spell_bard_2
+  - spell_ranger
+  - spell_medium_2
+  - spell_ranger_2
+  - spell_occultist_2
+  - spell_psychic
+  - spell_skald_2
+  - spell_hunter_2
+  - spell_hunter
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Create Treasure Map

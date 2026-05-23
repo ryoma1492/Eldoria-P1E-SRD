@@ -2,6 +2,14 @@
 aliases: [Bloodstone Mirror]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_occultist_5
+  - spell
+  - spell_oracle
+  - spell_cleric_7
+  - spell_occultist
+  - spell_oracle_7
 ---
 
 ## Bloodstone Mirror

@@ -2,6 +2,22 @@
 aliases: [Obsidian Flow]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell_summoner_unchained_4
+  - spell_sorcerer
+  - spell
+  - spell_druid_4
+  - spell_redmantisassassin
+  - spell_druid
+  - spell_summoner_3
+  - spell_summoner
+  - spell_sorcerer_4
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_arcanist_4
+  - spell_redmantisassassin_4
+  - spell_arcanist
 ---
 
 ## Obsidian Flow

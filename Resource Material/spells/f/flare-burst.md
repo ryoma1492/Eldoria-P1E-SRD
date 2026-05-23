@@ -2,6 +2,26 @@
 aliases: [Flare Burst]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_1
+  - spell_druid_1
+  - spell_bloodrager
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_bard
+  - spell_bard_1
+  - spell_skald_1
+  - spell_druid
+  - spell_skald
+  - spell_magus
+  - spell_magus_1
+  - spell_psychic
+  - spell_hunter
+  - spell_sorcerer_1
+  - spell_hunter_1
+  - spell_bloodrager_1
+  - spell_arcanist
 ---
 
 ## Flare Burst

@@ -2,6 +2,18 @@
 aliases: [Mark of Spite]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_witch
+  - spell_psychic_3
+  - spell_sorcerer_3
+  - spell_arcanist_3
+  - spell_mesmerist_2
+  - spell_psychic
+  - spell_witch_3
+  - spell_arcanist
 ---
 
 ## Mark of Spite

@@ -2,6 +2,10 @@
 aliases: [Synesthesia, Mass]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_mesmerist
+  - spell_mesmerist_5
 ---
 
 ## Synesthesia, Mass

@@ -2,6 +2,18 @@
 aliases: [Meld into Stone]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_oracle_3
+  - spell_psychic_3
+  - spell_druid_3
+  - spell_druid
+  - spell_hunter_3
+  - spell_oracle
+  - spell_psychic
+  - spell_hunter
+  - spell_cleric_3
 ---
 
 ## Meld into Stone

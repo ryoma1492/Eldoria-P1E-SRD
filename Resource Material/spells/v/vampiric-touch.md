@@ -2,6 +2,28 @@
 aliases: [Vampiric Touch]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_mesmerist_3
+  - spell_bloodrager
+  - spell_magus_3
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_witch
+  - spell_medium
+  - spell_psychic_3
+  - spell_sorcerer_3
+  - spell_bloodrager_3
+  - spell_magus
+  - spell_arcanist_3
+  - spell_spiritualist_3
+  - spell_antipaladin_3
+  - spell_psychic
+  - spell_witch_3
+  - spell_medium_3
+  - spell_spiritualist
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Vampiric Touch

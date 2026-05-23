@@ -1,6 +1,7 @@
 ---
 tags:
   - GM_Notes
+draft: true
 ---
 
 ## Pre-Text:
@@ -16,7 +17,6 @@ The gold hoard within the wreck has been given to the [[Heroes]]  but no way to 
 - Gold hoard is given to the [[Heroes]]
 - [[Captain Killian]] remains unstable but alive within a pocket dimension accessible via door
 - The [[Fool's Curtain]] continues to writhe and undulate ominously on the nearby horizon
-- [[Leon]] has knowledge of a [[Cyclopean ritual]] which promises a [[future memory]] to those who can discern its depths and perform its rite
 
 ---
 

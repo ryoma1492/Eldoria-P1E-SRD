@@ -2,6 +2,30 @@
 aliases: [Banishment]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_cleric_6
+  - spell_summoner_5
+  - spell_sorcerer
+  - spell
+  - spell_spiritualist_6
+  - spell_oracle_6
+  - spell_shaman
+  - spell_shaman_6
+  - spell_inquisitor_5
+  - spell_warpriest
+  - spell_psychic_7
+  - spell_inquisitor
+  - spell_summoner_unchained_6
+  - spell_sorcerer_7
+  - spell_oracle
+  - spell_psychic
+  - spell_summoner
+  - spell_arcanist_7
+  - spell_summoner_unchained
+  - spell_warpriest_6
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Banishment

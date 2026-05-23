@@ -2,6 +2,30 @@
 aliases: [Darkvision]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_ranger_3
+  - spell_alchemist_2
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_sorcerer_2
+  - spell_medium
+  - spell_redmantisassassin
+  - spell_arcanist_2
+  - spell_redmantisassassin_2
+  - spell_antipaladin_2
+  - spell_hunter_3
+  - spell_ranger
+  - spell_medium_2
+  - spell_investigator_2
+  - spell_investigator
+  - spell_alchemist
+  - spell_psychic
+  - spell_occultist_2
+  - spell_hunter
+  - spell_occultist
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Darkvision

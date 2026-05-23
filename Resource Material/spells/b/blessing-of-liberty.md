@@ -2,6 +2,12 @@
 aliases: [Blessing of Liberty]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_shaman
+  - spell_bard
+  - spell_shaman_2
+  - spell_bard_2
 ---
 
 ## Blessing of Liberty

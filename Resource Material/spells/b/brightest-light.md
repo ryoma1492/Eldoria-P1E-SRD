@@ -2,6 +2,36 @@
 aliases: [Brightest Light]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_hunter_4
+  - spell_sorcerer
+  - spell_druid_4
+  - spell
+  - spell_paladin_4
+  - spell_magus_4
+  - spell_inquisitor_4
+  - spell_shaman
+  - spell_ranger_4
+  - spell_warpriest_4
+  - spell_bard
+  - spell_occultist_4
+  - spell_druid
+  - spell_magus
+  - spell_inquisitor
+  - spell_ranger
+  - spell_warpriest
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_oracle
+  - spell_sorcerer_4
+  - spell_hunter
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_bard_4
+  - spell_shaman_4
+  - spell_arcanist
 ---
 
 ## Brightest Light

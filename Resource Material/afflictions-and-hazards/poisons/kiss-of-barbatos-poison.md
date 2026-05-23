@@ -1,5 +1,7 @@
 ---
 alias: Kiss of barbatos
+tags:
+  - poisons
 ---
 
 # Kiss of barbatos

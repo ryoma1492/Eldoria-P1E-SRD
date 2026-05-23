@@ -1,5 +1,7 @@
 ---
 alias: Pesh
+tags:
+  - drugs
 ---
 
 # Pesh

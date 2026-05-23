@@ -2,6 +2,28 @@
 aliases: [Cure Light Wounds, Mass]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_occultist_5
+  - spell
+  - spell_bard_5
+  - spell_skald_5
+  - spell_shaman
+  - spell_bard
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_druid
+  - spell_druid_6
+  - spell_skald
+  - spell_warpriest
+  - spell_warpriest_5
+  - spell_inquisitor_5
+  - spell_inquisitor
+  - spell_hunter_6
+  - spell_shaman_5
+  - spell_oracle
+  - spell_hunter
+  - spell_occultist
 ---
 
 ## Cure Light Wounds, Mass

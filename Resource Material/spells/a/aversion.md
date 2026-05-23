@@ -2,6 +2,28 @@
 aliases: [Aversion]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_mesmerist
+  - spell_witch
+  - spell_bard
+  - spell_druid_3
+  - spell_sorcerer_3
+  - spell_hunter_3
+  - spell_druid
+  - spell_skald
+  - spell_bard_2
+  - spell_arcanist_3
+  - spell_mesmerist_2
+  - spell_occultist_2
+  - spell_psychic
+  - spell_skald_2
+  - spell_hunter
+  - spell_witch_3
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Aversion

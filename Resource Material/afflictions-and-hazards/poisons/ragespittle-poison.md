@@ -1,5 +1,7 @@
 ---
 alias: Ragespittle
+tags:
+  - poisons
 ---
 
 # Ragespittle

@@ -1,5 +1,5 @@
 	 
-[[Salty Marrow]] is a crewmate of [[The Silver Vulture]] and serves as an appointed inland guide for the [[Heroes]] following the Vulture’s Bargain at the wreckage of the [[Wreck Island]].
+[[Salty Marrow]] is a crewmate of [[Silver Vulture|The Silver Vulture]] and serves as an appointed inland guide for the [[Heroes]] following the Vulture’s Bargain at the wreckage of the [[Wreck Island]].
 
 He is a maritime survivor of the outer curtain routes — a man who has spent too long between salvage law, pirate accords, and the creeping ecological collapse surrounding the [[Fool's Curtain]].
 

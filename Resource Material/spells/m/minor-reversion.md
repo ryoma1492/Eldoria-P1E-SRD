@@ -2,6 +2,20 @@
 aliases: [Minor Reversion]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_oracle_3
+  - spell_sorcerer_3
+  - spell_warpriest
+  - spell_arcanist_3
+  - spell_oracle
+  - spell_psychic
+  - spell_cleric_3
+  - spell_arcanist
 ---
 
 ## Minor Reversion

@@ -2,6 +2,18 @@
 aliases: [Hold Person, Mass]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_witch_7
+  - spell
+  - spell_mesmerist
+  - spell_witch
+  - spell_psychic_7
+  - spell_sorcerer_7
+  - spell_psychic
+  - spell_arcanist_7
+  - spell_mesmerist_6
+  - spell_arcanist
 ---
 
 ## Hold Person, Mass

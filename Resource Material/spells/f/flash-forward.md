@@ -2,6 +2,36 @@
 aliases: [Flash Forward]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_paladin
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell
+  - spell_paladin_4
+  - spell_psychic_5
+  - spell_magus_4
+  - spell_arcanist_5
+  - spell_medium
+  - spell_inquisitor_4
+  - spell_bard
+  - spell_occultist_4
+  - spell_medium_4
+  - spell_bloodrager_4
+  - spell_skald
+  - spell_magus
+  - spell_inquisitor
+  - spell_investigator
+  - spell_alchemist
+  - spell_psychic
+  - spell_alchemist_4
+  - spell_antipaladin_4
+  - spell_investigator_4
+  - spell_occultist
+  - spell_antipaladin
+  - spell_bard_4
+  - spell_arcanist
 ---
 
 ## Flash Forward

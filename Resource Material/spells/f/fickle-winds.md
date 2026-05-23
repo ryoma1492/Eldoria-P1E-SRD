@@ -2,6 +2,26 @@
 aliases: [Fickle Winds]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_ranger_3
+  - spell_cleric
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell_spiritualist_5
+  - spell
+  - spell_arcanist_5
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_hunter_3
+  - spell_druid
+  - spell_warpriest_5
+  - spell_warpriest
+  - spell_ranger
+  - spell_oracle
+  - spell_druid_5
+  - spell_hunter
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Fickle Winds

@@ -2,6 +2,26 @@
 aliases: [Mind Swap]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_summoner_5
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_psychic_5
+  - spell_witch
+  - spell_medium
+  - spell_occultist_4
+  - spell_sorcerer_6
+  - spell_arcanist_6
+  - spell_psychic
+  - spell_summoner
+  - spell_witch_6
+  - spell_mesmerist_5
+  - spell_spiritualist_4
+  - spell_medium_3
+  - spell_occultist
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Mind Swap

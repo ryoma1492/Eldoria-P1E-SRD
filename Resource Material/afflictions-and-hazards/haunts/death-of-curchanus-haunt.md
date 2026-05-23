@@ -1,5 +1,7 @@
 ---
 alias: Death of Curchanus
+tags:
+  - haunts
 ---
 
 # Death of Curchanus

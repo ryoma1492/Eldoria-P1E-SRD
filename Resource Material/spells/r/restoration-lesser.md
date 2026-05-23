@@ -2,6 +2,30 @@
 aliases: [Restoration, Lesser]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_alchemist_2
+  - spell_mesmerist
+  - spell
+  - spell_cleric_2
+  - spell_paladin_1
+  - spell_shaman
+  - spell_shaman_2
+  - spell_spiritualist_2
+  - spell_oracle_2
+  - spell_druid
+  - spell_inquisitor
+  - spell_investigator_2
+  - spell_investigator
+  - spell_inquisitor_2
+  - spell_alchemist
+  - spell_druid_2
+  - spell_oracle
+  - spell_mesmerist_2
+  - spell_hunter_2
+  - spell_hunter
+  - spell_spiritualist
 ---
 
 ## Restoration, Lesser

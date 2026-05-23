@@ -2,6 +2,20 @@
 aliases: [Absorbing Barrier]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_summoner_unchained_4
+  - spell_sorcerer
+  - spell
+  - spell_summoner_4
+  - spell_investigator
+  - spell_alchemist
+  - spell_summoner
+  - spell_sorcerer_4
+  - spell_alchemist_4
+  - spell_investigator_4
+  - spell_summoner_unchained
+  - spell_arcanist_4
+  - spell_arcanist
 ---
 
 ## Absorbing Barrier

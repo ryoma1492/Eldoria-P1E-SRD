@@ -2,6 +2,26 @@
 aliases: [Minor Creation]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_adept_4
+  - spell
+  - spell_witch
+  - spell_witch_4
+  - spell_occultist_3
+  - spell_adept
+  - spell_summoner_unchained_3
+  - spell_summoner_3
+  - spell_spiritualist_3
+  - spell_psychic
+  - spell_summoner
+  - spell_sorcerer_4
+  - spell_summoner_unchained
+  - spell_psychic_4
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Minor Creation

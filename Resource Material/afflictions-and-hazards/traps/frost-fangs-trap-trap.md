@@ -1,5 +1,7 @@
 ---
 alias: Frost Fangs Trap
+tags:
+  - traps
 ---
 
 ## Frost Fangs Trap

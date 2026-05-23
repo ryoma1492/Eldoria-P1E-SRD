@@ -2,6 +2,8 @@
 aliases: [Sea of Dust]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
 ---
 
 ## Sea of Dust

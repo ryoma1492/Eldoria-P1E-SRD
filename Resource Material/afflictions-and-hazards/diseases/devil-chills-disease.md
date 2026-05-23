@@ -1,5 +1,7 @@
 ---
 alias: Devil Chills
+tags:
+  - diseases
 ---
 
 # Devil Chills

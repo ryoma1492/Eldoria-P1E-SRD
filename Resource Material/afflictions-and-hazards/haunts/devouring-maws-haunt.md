@@ -1,5 +1,7 @@
 ---
 alias: Devouring Maws
+tags:
+  - haunts
 ---
 
 # Devouring Maws

@@ -1,5 +1,7 @@
 ---
 alias: Promethean Corruption
+tags:
+  - corruptions
 ---
 
 # Promethean Corruption

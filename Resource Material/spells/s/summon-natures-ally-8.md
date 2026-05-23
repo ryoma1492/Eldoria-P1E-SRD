@@ -2,6 +2,10 @@
 aliases: ["Summon Nature's Ally 8"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_druid
+  - spell_druid_8
 ---
 
 ## Summon Nature's Ally 8

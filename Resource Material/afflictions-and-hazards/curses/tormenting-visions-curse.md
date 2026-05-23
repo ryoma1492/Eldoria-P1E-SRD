@@ -1,5 +1,7 @@
 ---
 alias: Tormenting Visions
+tags:
+  - curses
 ---
 
 # Tormenting Visions

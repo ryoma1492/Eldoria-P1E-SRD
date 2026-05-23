@@ -2,6 +2,12 @@
 aliases: [Residual Tracking]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_occultist_2
+  - spell_hunter
+  - spell_occultist
+  - spell_hunter_1
 ---
 
 ## Residual Tracking

@@ -2,6 +2,34 @@
 aliases: [Preserve]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_adept_1
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_medium
+  - spell_shaman
+  - spell_spiritualist_1
+  - spell_ranger_1
+  - spell_warpriest_1
+  - spell_shaman_1
+  - spell_medium_1
+  - spell_witch_1
+  - spell_cleric_1
+  - spell_adept
+  - spell_oracle_1
+  - spell_warpriest
+  - spell_ranger
+  - spell_oracle
+  - spell_occultist_1
+  - spell_hunter
+  - spell_sorcerer_1
+  - spell_hunter_1
+  - spell_occultist
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Preserve

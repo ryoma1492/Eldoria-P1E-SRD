@@ -2,6 +2,28 @@
 aliases: [Untold Wonder]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_paladin
+  - spell_cleric
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_psychic_5
+  - spell_arcanist_5
+  - spell_bard
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_mesmerist_4
+  - spell_skald
+  - spell_warpriest
+  - spell_warpriest_5
+  - spell_paladin_3
+  - spell_oracle
+  - spell_psychic
+  - spell_bard_4
+  - spell_arcanist
 ---
 
 ## Untold Wonder

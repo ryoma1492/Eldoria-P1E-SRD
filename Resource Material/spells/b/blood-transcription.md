@@ -2,6 +2,18 @@
 aliases: [Blood Transcription]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_alchemist_2
+  - spell
+  - spell_witch
+  - spell_arcanist_2
+  - spell_magus
+  - spell_witch_2
+  - spell_investigator_2
+  - spell_investigator
+  - spell_alchemist
+  - spell_magus_2
+  - spell_arcanist
 ---
 
 ## Blood Transcription

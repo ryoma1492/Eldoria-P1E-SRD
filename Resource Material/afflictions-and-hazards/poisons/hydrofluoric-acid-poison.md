@@ -1,5 +1,7 @@
 ---
 alias: Hydrofluoric acid
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Hydrofluoric acid

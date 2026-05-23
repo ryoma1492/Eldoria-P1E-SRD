@@ -2,6 +2,32 @@
 aliases: [Transplant Visage]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell
+  - spell_investigator_5
+  - spell_arcanist_5
+  - spell_witch
+  - spell_shaman
+  - spell_inquisitor_4
+  - spell_warpriest_4
+  - spell_magus_5
+  - spell_alchemist_5
+  - spell_magus
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_investigator
+  - spell_witch_5
+  - spell_alchemist
+  - spell_oracle
+  - spell_antipaladin_4
+  - spell_antipaladin
+  - spell_shaman_4
+  - spell_arcanist
 ---
 
 ## Transplant Visage

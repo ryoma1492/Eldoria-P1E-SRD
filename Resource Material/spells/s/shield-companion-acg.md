@@ -2,6 +2,24 @@
 aliases: [Shield Companion (ACG)]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_sorcerer
+  - spell
+  - spell_shaman
+  - spell_paladin_2
+  - spell_shaman_2
+  - spell_sorcerer_3
+  - spell_summoner_unchained_3
+  - spell_ranger
+  - spell_arcanist_3
+  - spell_summoner_3
+  - spell_ranger_2
+  - spell_summoner
+  - spell_hunter_2
+  - spell_hunter
+  - spell_summoner_unchained
+  - spell_arcanist
 ---
 
 ## Shield Companion (ACG)

@@ -1,5 +1,7 @@
 ---
 alias: Gelidburn oil
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Gelidburn oil

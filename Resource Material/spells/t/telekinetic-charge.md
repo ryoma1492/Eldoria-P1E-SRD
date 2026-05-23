@@ -2,6 +2,18 @@
 aliases: [Telekinetic Charge]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell
+  - spell_bloodrager_4
+  - spell_psychic
+  - spell_sorcerer_4
+  - spell_spiritualist_4
+  - spell_psychic_4
+  - spell_arcanist_4
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Telekinetic Charge

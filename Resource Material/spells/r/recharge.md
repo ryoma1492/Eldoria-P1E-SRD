@@ -2,6 +2,24 @@
 aliases: [Recharge]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_sorcerer
+  - spell_magus_3
+  - spell
+  - spell_oracle_3
+  - spell_bard
+  - spell_sorcerer_3
+  - spell_skald
+  - spell_bard_2
+  - spell_magus
+  - spell_warpriest
+  - spell_arcanist_3
+  - spell_oracle
+  - spell_skald_2
+  - spell_cleric_3
+  - spell_arcanist
 ---
 
 ## Recharge

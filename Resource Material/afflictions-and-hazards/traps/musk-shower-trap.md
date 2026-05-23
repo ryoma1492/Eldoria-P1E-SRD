@@ -1,5 +1,7 @@
 ---
 alias: Musk Shower
+tags:
+  - traps
 ---
 
 ## Musk Shower

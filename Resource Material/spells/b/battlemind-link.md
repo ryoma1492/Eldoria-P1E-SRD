@@ -2,6 +2,22 @@
 aliases: [Battlemind Link]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_occultist_5
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_medium
+  - spell_psychic_6
+  - spell_inquisitor_4
+  - spell_medium_4
+  - spell_sorcerer_6
+  - spell_mesmerist_4
+  - spell_arcanist_6
+  - spell_inquisitor
+  - spell_psychic
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Battlemind Link

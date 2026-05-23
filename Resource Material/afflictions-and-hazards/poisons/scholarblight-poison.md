@@ -1,5 +1,7 @@
 ---
 alias: Scholarblight
+tags:
+  - poisons
 ---
 
 # Scholarblight

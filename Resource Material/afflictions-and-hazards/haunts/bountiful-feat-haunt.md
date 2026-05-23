@@ -1,5 +1,7 @@
 ---
 alias: Bountiful Feat
+tags:
+  - haunts
 ---
 
 # Bountiful Feat

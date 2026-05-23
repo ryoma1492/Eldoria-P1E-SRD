@@ -2,6 +2,26 @@
 aliases: [Blood Tentacles]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_arcanist_5
+  - spell_witch
+  - spell_shaman
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_summoner_4
+  - spell_warpriest_5
+  - spell_warpriest
+  - spell_shaman_5
+  - spell_witch_5
+  - spell_oracle
+  - spell_summoner
+  - spell_antipaladin_4
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Blood Tentacles

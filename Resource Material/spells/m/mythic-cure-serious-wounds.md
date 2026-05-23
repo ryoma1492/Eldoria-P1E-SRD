@@ -2,6 +2,40 @@
 aliases: [Mythic Cure Serious Wounds]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_warpriest_3
+  - spell_inquisitor_3
+  - spell_cleric
+  - spell_hunter_4
+  - spell_skald_3
+  - spell_shaman_3
+  - spell
+  - spell_druid_4
+  - spell_oracle_3
+  - spell_paladin_4
+  - spell_ranger_4
+  - spell_shaman
+  - spell_bard
+  - spell_adept_3
+  - spell_occultist_3
+  - spell_adept
+  - spell_druid
+  - spell_skald
+  - spell_inquisitor
+  - spell_ranger
+  - spell_warpriest
+  - spell_investigator
+  - spell_alchemist
+  - spell_spiritualist_3
+  - spell_oracle
+  - spell_alchemist_3
+  - spell_bard_3
+  - spell_hunter
+  - spell_cleric_3
+  - spell_occultist
+  - spell_spiritualist
+  - spell_investigator_3
 ---
 
 ## Mythic Cure Serious Wounds

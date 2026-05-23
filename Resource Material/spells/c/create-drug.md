@@ -2,6 +2,22 @@
 aliases: [Create Drug]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_druid_3
+  - spell_occultist_3
+  - spell_hunter_3
+  - spell_druid
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_investigator
+  - spell_alchemist
+  - spell_oracle
+  - spell_alchemist_3
+  - spell_hunter
+  - spell_occultist
+  - spell_investigator_3
 ---
 
 ## Create Drug

@@ -2,6 +2,40 @@
 aliases: [Hold Person]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_mesmerist
+  - spell_cleric_2
+  - spell_witch
+  - spell_medium
+  - spell_shaman
+  - spell_bard
+  - spell_shaman_2
+  - spell_antipaladin_2
+  - spell_oracle_2
+  - spell_occultist_3
+  - spell_sorcerer_3
+  - spell_skald
+  - spell_bard_2
+  - spell_bloodrager_3
+  - spell_inquisitor
+  - spell_warpriest
+  - spell_medium_2
+  - spell_witch_2
+  - spell_arcanist_3
+  - spell_warpriest_2
+  - spell_inquisitor_2
+  - spell_mesmerist_2
+  - spell_oracle
+  - spell_psychic
+  - spell_skald_2
+  - spell_occultist
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Hold Person

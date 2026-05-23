@@ -2,6 +2,22 @@
 aliases: [Deeper Darkness]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_cleric
+  - spell_shaman_3
+  - spell
+  - spell_oracle_3
+  - spell_shaman
+  - spell_adept_3
+  - spell_occultist_3
+  - spell_adept
+  - spell_inquisitor
+  - spell_antipaladin_3
+  - spell_oracle
+  - spell_cleric_3
+  - spell_occultist
+  - spell_antipaladin
 ---
 
 ## Deeper Darkness

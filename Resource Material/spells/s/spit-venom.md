@@ -2,6 +2,20 @@
 aliases: [Spit Venom]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_warpriest_4
+  - spell_shaman
+  - spell_druid_3
+  - spell_hunter_3
+  - spell_druid
+  - spell_warpriest
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_oracle
+  - spell_hunter
+  - spell_shaman_4
 ---
 
 ## Spit Venom

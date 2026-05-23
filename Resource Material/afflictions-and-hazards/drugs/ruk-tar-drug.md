@@ -1,5 +1,7 @@
 ---
 alias: Ruk Tar
+tags:
+  - drugs
 ---
 
 # Ruk Tar

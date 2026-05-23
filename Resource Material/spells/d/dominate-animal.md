@@ -2,6 +2,16 @@
 aliases: [Dominate Animal]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_mesmerist_3
+  - spell
+  - spell_mesmerist
+  - spell_druid_3
+  - spell_druid
+  - spell_hunter_3
+  - spell_psychic
+  - spell_hunter
+  - spell_psychic_4
 ---
 
 ## Dominate Animal

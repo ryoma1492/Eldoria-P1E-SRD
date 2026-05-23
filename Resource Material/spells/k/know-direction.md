@@ -2,6 +2,20 @@
 aliases: [Know Direction]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_bard_0
+  - spell_occultist_0
+  - spell_hunter_0
+  - spell_shaman
+  - spell_bard
+  - spell_druid_0
+  - spell_druid
+  - spell_psychic_0
+  - spell_psychic
+  - spell_shaman_0
+  - spell_hunter
+  - spell_occultist
 ---
 
 ## Know Direction

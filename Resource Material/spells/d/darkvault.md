@@ -2,6 +2,32 @@
 aliases: [Darkvault]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell
+  - spell_psychic_5
+  - spell_arcanist_5
+  - spell_witch
+  - spell_shaman
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_druid
+  - spell_warpriest
+  - spell_warpriest_5
+  - spell_investigator
+  - spell_shaman_5
+  - spell_witch_5
+  - spell_alchemist
+  - spell_oracle
+  - spell_hunter_5
+  - spell_alchemist_3
+  - spell_psychic
+  - spell_druid_5
+  - spell_hunter
+  - spell_investigator_3
+  - spell_arcanist
 ---
 
 ## Darkvault

@@ -1,5 +1,7 @@
 ---
 alias: Weeping Wound
+tags:
+  - curses
 ---
 
 # Weeping Wound

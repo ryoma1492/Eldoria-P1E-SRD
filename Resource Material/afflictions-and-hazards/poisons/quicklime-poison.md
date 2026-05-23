@@ -1,5 +1,7 @@
 ---
 alias: Quicklime
+tags:
+  - poisons
 ---
 
 # Quicklime

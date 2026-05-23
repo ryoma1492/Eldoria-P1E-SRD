@@ -1,5 +1,7 @@
 ---
 alias: Small centipede poison
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Small centipede poison

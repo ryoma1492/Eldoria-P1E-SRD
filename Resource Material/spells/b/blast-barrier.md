@@ -2,6 +2,22 @@
 aliases: [Blast Barrier]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_ranger_3
+  - spell_redmantisassassin_3
+  - spell_sorcerer
+  - spell
+  - spell_druid_4
+  - spell_witch
+  - spell_redmantisassassin
+  - spell_witch_4
+  - spell_sorcerer_3
+  - spell_hunter_3
+  - spell_druid
+  - spell_ranger
+  - spell_arcanist_3
+  - spell_hunter
+  - spell_arcanist
 ---
 
 ## Blast Barrier

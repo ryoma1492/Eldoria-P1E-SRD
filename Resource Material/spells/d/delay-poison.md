@@ -2,6 +2,40 @@
 aliases: [Delay Poison]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_alchemist_2
+  - spell_mesmerist
+  - spell
+  - spell_cleric_2
+  - spell_shaman
+  - spell_bard
+  - spell_paladin_2
+  - spell_shaman_2
+  - spell_ranger_1
+  - spell_oracle_2
+  - spell_adept
+  - spell_druid
+  - spell_skald
+  - spell_bard_2
+  - spell_inquisitor
+  - spell_ranger
+  - spell_warpriest
+  - spell_investigator_2
+  - spell_investigator
+  - spell_alchemist
+  - spell_warpriest_2
+  - spell_inquisitor_2
+  - spell_druid_2
+  - spell_adept_2
+  - spell_mesmerist_2
+  - spell_oracle
+  - spell_occultist_2
+  - spell_skald_2
+  - spell_hunter
+  - spell_occultist
+  - spell_hunter_1
 ---
 
 ## Delay Poison

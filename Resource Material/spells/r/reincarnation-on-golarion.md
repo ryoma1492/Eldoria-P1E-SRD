@@ -2,6 +2,16 @@
 aliases: [Reincarnation on Golarion]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell
+  - spell_druid_4
+  - spell_medium
+  - spell_shaman
+  - spell_medium_4
+  - spell_druid
+  - spell_hunter
+  - spell_shaman_4
 ---
 
 ## Reincarnation on Golarion

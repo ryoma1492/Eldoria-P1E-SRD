@@ -2,6 +2,24 @@
 aliases: [Commune with Plane]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_hunter_4
+  - spell_summoner_5
+  - spell
+  - spell_psychic_5
+  - spell_ranger_4
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_warpriest_5
+  - spell_warpriest
+  - spell_ranger
+  - spell_summoner_unchained_5
+  - spell_oracle
+  - spell_psychic
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_hunter
 ---
 
 ## Commune with Plane

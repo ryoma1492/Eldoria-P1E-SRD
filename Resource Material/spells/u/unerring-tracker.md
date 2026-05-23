@@ -2,6 +2,18 @@
 aliases: [Unerring Tracker]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell
+  - spell_investigator_5
+  - spell_occultist_4
+  - spell_druid
+  - spell_alchemist_5
+  - spell_druid_6
+  - spell_investigator
+  - spell_alchemist
+  - spell_hunter
+  - spell_occultist
 ---
 
 ## Unerring Tracker

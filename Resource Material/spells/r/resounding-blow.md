@@ -2,6 +2,12 @@
 aliases: [Resounding Blow]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_inquisitor
+  - spell_inquisitor_5
+  - spell_antipaladin_4
+  - spell_antipaladin
 ---
 
 ## Resounding Blow

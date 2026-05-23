@@ -2,6 +2,32 @@
 aliases: [Claim Identity]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_hunter_4
+  - spell_skald_3
+  - spell_sorcerer
+  - spell
+  - spell_druid_4
+  - spell_witch
+  - spell_shaman
+  - spell_bard
+  - spell_druid
+  - spell_skald
+  - spell_inquisitor
+  - spell_investigator
+  - spell_alchemist
+  - spell_antipaladin_3
+  - spell_alchemist_3
+  - spell_sorcerer_4
+  - spell_bard_3
+  - spell_hunter
+  - spell_witch_3
+  - spell_arcanist_4
+  - spell_investigator_3
+  - spell_antipaladin
+  - spell_shaman_4
+  - spell_arcanist
 ---
 
 ## Claim Identity

@@ -2,6 +2,24 @@
 aliases: [Terraform]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell_witch_7
+  - spell
+  - spell_witch
+  - spell_druid
+  - spell_druid_6
+  - spell_psychic_7
+  - spell_hunter_6
+  - spell_sorcerer_7
+  - spell_cleric_7
+  - spell_oracle
+  - spell_psychic
+  - spell_arcanist_7
+  - spell_hunter
+  - spell_oracle_7
+  - spell_arcanist
 ---
 
 ## Terraform

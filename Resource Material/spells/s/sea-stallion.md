@@ -2,6 +2,14 @@
 aliases: [Sea Stallion]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_hunter_4
+  - spell
+  - spell_druid_4
+  - spell_paladin_4
+  - spell_druid
+  - spell_hunter
 ---
 
 ## Sea Stallion

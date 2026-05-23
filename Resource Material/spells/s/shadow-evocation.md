@@ -2,6 +2,20 @@
 aliases: [Shadow Evocation]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell_spiritualist_5
+  - spell
+  - spell_mesmerist
+  - spell_arcanist_5
+  - spell_bard_5
+  - spell_skald_5
+  - spell_bard
+  - spell_skald
+  - spell_mesmerist_5
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Shadow Evocation

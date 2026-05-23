@@ -2,6 +2,22 @@
 aliases: [Life Current]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_ranger_3
+  - spell_cleric
+  - spell_shaman_3
+  - spell
+  - spell_oracle_3
+  - spell_shaman
+  - spell_druid_3
+  - spell_druid
+  - spell_hunter_3
+  - spell_ranger
+  - spell_paladin_3
+  - spell_oracle
+  - spell_hunter
+  - spell_cleric_3
 ---
 
 ## Life Current

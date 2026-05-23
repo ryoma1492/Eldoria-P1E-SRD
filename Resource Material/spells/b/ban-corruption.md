@@ -2,6 +2,22 @@
 aliases: [Ban Corruption]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell
+  - spell_paladin_4
+  - spell_medium
+  - spell_shaman
+  - spell_inquisitor_4
+  - spell_cleric_5
+  - spell_occultist_4
+  - spell_oracle_5
+  - spell_inquisitor
+  - spell_shaman_5
+  - spell_oracle
+  - spell_medium_3
+  - spell_occultist
 ---
 
 ## Ban Corruption

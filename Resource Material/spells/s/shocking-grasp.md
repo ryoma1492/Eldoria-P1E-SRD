@@ -4,7 +4,18 @@ aliases:
 created: 2023-04-27
 updated: 2023-04-28
 tags:
+  - spell_bloodrager
+  - spell_arcanist_1
+  - spell_sorcerer
   - spell
+  - spell
+  - spell_magus
+  - spell_magus_1
+  - spell_occultist_1
+  - spell_sorcerer_1
+  - spell_occultist
+  - spell_arcanist
+  - spell_bloodrager_1
 ---
 
 ## Shocking Grasp

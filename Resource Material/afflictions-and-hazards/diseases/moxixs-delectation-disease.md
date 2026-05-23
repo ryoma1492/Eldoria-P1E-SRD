@@ -1,5 +1,7 @@
 ---
 alias: Moxix's Delectation
+tags:
+  - diseases
 ---
 
 # Moxix's Delectation

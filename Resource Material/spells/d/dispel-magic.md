@@ -2,6 +2,52 @@
 aliases: [Dispel Magic]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_paladin
+  - spell_inquisitor_3
+  - spell_cleric
+  - spell_hunter_4
+  - spell_mesmerist_3
+  - spell_skald_3
+  - spell_shaman_3
+  - spell_magus_3
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_druid_4
+  - spell_oracle_3
+  - spell_witch
+  - spell_medium
+  - spell_shaman
+  - spell_bard
+  - spell_psychic_3
+  - spell_occultist_3
+  - spell_sorcerer_3
+  - spell_summoner_unchained_3
+  - spell_druid
+  - spell_skald
+  - spell_magus
+  - spell_inquisitor
+  - spell_warpriest
+  - spell_arcanist_3
+  - spell_paladin_3
+  - spell_summoner_3
+  - spell_spiritualist_3
+  - spell_antipaladin_3
+  - spell_oracle
+  - spell_psychic
+  - spell_summoner
+  - spell_bard_3
+  - spell_hunter
+  - spell_summoner_unchained
+  - spell_medium_3
+  - spell_witch_3
+  - spell_cleric_3
+  - spell_occultist
+  - spell_spiritualist
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Dispel Magic

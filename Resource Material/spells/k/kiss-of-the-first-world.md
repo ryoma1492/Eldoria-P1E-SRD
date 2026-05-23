@@ -2,6 +2,14 @@
 aliases: [Kiss of the First World]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell
+  - spell_druid_4
+  - spell_bard
+  - spell_druid
+  - spell_hunter
+  - spell_bard_4
 ---
 
 ## Kiss of the First World

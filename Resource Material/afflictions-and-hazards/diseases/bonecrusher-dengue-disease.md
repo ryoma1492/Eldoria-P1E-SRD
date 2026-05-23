@@ -1,5 +1,7 @@
 ---
 alias: Bonecrusher (Dengue)
+tags:
+  - diseases
 ---
 
 # Bonecrusher (Dengue)

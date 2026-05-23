@@ -2,6 +2,14 @@
 aliases: [Unwitting Ally]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_1
+  - spell_mesmerist
+  - spell
+  - spell_bard_0
+  - spell_bard
+  - spell_mesmerist_0
+  - spell_psychic
 ---
 
 ## Unwitting Ally

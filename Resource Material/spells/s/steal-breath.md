@@ -2,6 +2,30 @@
 aliases: [Steal Breath]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell_mesmerist
+  - spell
+  - spell_sorcerer_2
+  - spell_witch
+  - spell_bloodrager_2
+  - spell_redmantisassassin
+  - spell_bard
+  - spell_arcanist_2
+  - spell_redmantisassassin_2
+  - spell_druid
+  - spell_skald
+  - spell_bard_2
+  - spell_witch_2
+  - spell_druid_2
+  - spell_mesmerist_2
+  - spell_psychic
+  - spell_skald_2
+  - spell_hunter_2
+  - spell_hunter
+  - spell_arcanist
 ---
 
 ## Steal Breath

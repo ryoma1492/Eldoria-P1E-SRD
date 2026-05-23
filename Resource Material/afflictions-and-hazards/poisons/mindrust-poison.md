@@ -1,5 +1,7 @@
 ---
 alias: Mindrust
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Mindrust

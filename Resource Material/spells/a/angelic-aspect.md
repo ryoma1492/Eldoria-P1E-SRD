@@ -2,6 +2,20 @@
 aliases: [Angelic Aspect]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_arcanist_5
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_warpriest_5
+  - spell_warpriest
+  - spell_paladin_3
+  - spell_oracle
+  - spell_arcanist
 ---
 
 ## Angelic Aspect

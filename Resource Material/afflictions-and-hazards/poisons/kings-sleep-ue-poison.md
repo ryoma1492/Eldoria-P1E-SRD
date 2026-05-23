@@ -1,5 +1,7 @@
 ---
 alias: King's sleep (Ultimate Equipment)
+tags:
+  - poisons
 ---
 
 # King's sleep (Ultimate Equipment)

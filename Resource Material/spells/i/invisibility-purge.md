@@ -2,6 +2,18 @@
 aliases: [Invisibility Purge]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_cleric
+  - spell
+  - spell_oracle_3
+  - spell_occultist_3
+  - spell_inquisitor
+  - spell_spiritualist_3
+  - spell_oracle
+  - spell_occultist
+  - spell_cleric_3
+  - spell_spiritualist
 ---
 
 ## Invisibility Purge

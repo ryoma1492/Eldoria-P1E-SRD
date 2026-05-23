@@ -1,5 +1,7 @@
 ---
 alias: Nights-eye dust
+tags:
+  - poisons
 ---
 
 # Nights-eye dust

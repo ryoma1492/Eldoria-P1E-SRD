@@ -1,5 +1,7 @@
 ---
 alias: Tongue twist
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Tongue twist

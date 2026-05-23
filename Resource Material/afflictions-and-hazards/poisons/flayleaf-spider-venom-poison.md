@@ -1,5 +1,7 @@
 ---
 alias: Flayleaf spider venom
+tags:
+  - poisons
 ---
 
 # [[3.5]] Flayleaf spider venom

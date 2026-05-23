@@ -2,6 +2,18 @@
 aliases: [Phantom Chariot]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_occultist_4
+  - spell_summoner_3
+  - spell_summoner
+  - spell_sorcerer_4
+  - spell_spiritualist_4
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Phantom Chariot

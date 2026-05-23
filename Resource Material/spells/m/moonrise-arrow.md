@@ -2,6 +2,20 @@
 aliases: [Moonrise Arrow]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_paladin
+  - spell_cleric
+  - spell_magus_3
+  - spell
+  - spell_oracle_3
+  - spell_occultist_3
+  - spell_magus
+  - spell_inquisitor
+  - spell_paladin_3
+  - spell_oracle
+  - spell_cleric_3
+  - spell_occultist
 ---
 
 ## Moonrise Arrow

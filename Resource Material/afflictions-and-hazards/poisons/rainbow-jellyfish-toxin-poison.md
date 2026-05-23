@@ -1,5 +1,7 @@
 ---
 alias: Rainbow jellyfish toxin
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Rainbow jellyfish toxin

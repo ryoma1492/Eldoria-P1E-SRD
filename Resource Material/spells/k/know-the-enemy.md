@@ -2,6 +2,20 @@
 aliases: [Know the Enemy]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell
+  - spell_paladin_1
+  - spell_ranger_1
+  - spell_inquisitor_1
+  - spell_cleric_1
+  - spell_oracle_1
+  - spell_ranger
+  - spell_inquisitor
+  - spell_oracle
+  - spell_hunter
+  - spell_hunter_1
 ---
 
 ## Know the Enemy

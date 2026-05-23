@@ -1,5 +1,7 @@
 ---
 alias: Addlemind
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Addlemind

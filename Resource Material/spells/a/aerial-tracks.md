@@ -2,6 +2,16 @@
 aliases: [Aerial Tracks]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_ranger_3
+  - spell
+  - spell_druid_4
+  - spell_inquisitor_4
+  - spell_druid
+  - spell_hunter_3
+  - spell_inquisitor
+  - spell_ranger
+  - spell_hunter
 ---
 
 ## Aerial Tracks

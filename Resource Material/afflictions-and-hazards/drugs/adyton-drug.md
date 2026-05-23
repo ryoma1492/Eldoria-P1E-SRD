@@ -1,5 +1,7 @@
 ---
 alias: Adyton
+tags:
+  - drugs
 ---
 
 # Adyton

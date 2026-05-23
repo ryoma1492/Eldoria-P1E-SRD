@@ -2,6 +2,12 @@
 aliases: [Wall of Thorns]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_druid
+  - spell_hunter_5
+  - spell_druid_5
+  - spell_hunter
 ---
 
 ## Wall of Thorns

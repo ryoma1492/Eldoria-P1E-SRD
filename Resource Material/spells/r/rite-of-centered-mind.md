@@ -2,6 +2,18 @@
 aliases: [Rite of Centered Mind]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_druid_1
+  - spell_cleric
+  - spell_arcanist_1
+  - spell
+  - spell_shaman
+  - spell_warpriest_1
+  - spell_shaman_1
+  - spell_cleric_1
+  - spell_druid
+  - spell_warpriest
+  - spell_arcanist
 ---
 
 ## Rite of Centered Mind

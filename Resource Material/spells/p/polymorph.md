@@ -2,6 +2,18 @@
 aliases: [Polymorph]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_adept_4
+  - spell_investigator_5
+  - spell_arcanist_5
+  - spell_adept
+  - spell_alchemist_5
+  - spell_investigator
+  - spell_alchemist
+  - spell_arcanist
 ---
 
 ## Polymorph

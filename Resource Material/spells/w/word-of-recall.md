@@ -2,6 +2,16 @@
 aliases: [Word of Recall]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_cleric_6
+  - spell
+  - spell_oracle_6
+  - spell_druid
+  - spell_psychic_7
+  - spell_druid_8
+  - spell_oracle
+  - spell_psychic
 ---
 
 ## Word of Recall

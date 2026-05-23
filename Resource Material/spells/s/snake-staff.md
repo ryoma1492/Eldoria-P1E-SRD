@@ -2,6 +2,18 @@
 aliases: [Snake Staff]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_shaman
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_druid
+  - spell_shaman_6
+  - spell_hunter_5
+  - spell_oracle
+  - spell_druid_5
+  - spell_hunter
 ---
 
 ## Snake Staff

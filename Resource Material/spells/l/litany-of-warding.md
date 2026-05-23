@@ -2,6 +2,12 @@
 aliases: [Litany of Warding]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell
+  - spell_antipaladin_2
+  - spell_inquisitor
+  - spell_antipaladin
 ---
 
 ## Litany of Warding

@@ -2,6 +2,24 @@
 aliases: [Waters of Lamashtu]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_alchemist_2
+  - spell
+  - spell_oracle_3
+  - spell_druid_3
+  - spell_antipaladin_2
+  - spell_hunter_3
+  - spell_druid
+  - spell_warpriest
+  - spell_investigator
+  - spell_alchemist
+  - spell_oracle
+  - spell_hunter
+  - spell_cleric_3
+  - spell_investigator_3
+  - spell_antipaladin
 ---
 
 ## Waters of Lamashtu

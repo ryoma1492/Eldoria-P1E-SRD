@@ -2,6 +2,24 @@
 aliases: [Resilient Reservoir]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_mesmerist_3
+  - spell_sorcerer
+  - spell_magus_3
+  - spell
+  - spell_mesmerist
+  - spell_witch
+  - spell_redmantisassassin
+  - spell_witch_4
+  - spell_magus
+  - spell_paladin_3
+  - spell_psychic
+  - spell_sorcerer_4
+  - spell_psychic_4
+  - spell_arcanist_4
+  - spell_redmantisassassin_4
+  - spell_arcanist
 ---
 
 ## Resilient Reservoir

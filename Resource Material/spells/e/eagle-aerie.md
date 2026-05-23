@@ -1,7 +1,19 @@
 ---
-aliases: [Eagle Aerie]
+aliases:
+  - Eagle Aerie
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_school_conjuration
+  - spell_druid
+  - spell_druid_6
+  - spell_summoner_unchained_6
+  - spell_hunter_6
+  - spell_summoner
+  - spell_summoner_6
+  - spell_hunter
+  - spell_summoner_unchained
 ---
 
 ## Eagle Aerie

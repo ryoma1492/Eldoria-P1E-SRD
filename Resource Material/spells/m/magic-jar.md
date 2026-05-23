@@ -2,6 +2,22 @@
 aliases: [Magic Jar]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell
+  - spell_investigator_5
+  - spell_arcanist_5
+  - spell_witch
+  - spell_summoner_4
+  - spell_alchemist_5
+  - spell_investigator
+  - spell_witch_5
+  - spell_alchemist
+  - spell_summoner_unchained_5
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_arcanist
 ---
 
 ## Magic Jar

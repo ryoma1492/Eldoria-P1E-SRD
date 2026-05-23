@@ -2,6 +2,22 @@
 aliases: [Mindwipe]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_medium
+  - spell_occultist_4
+  - spell_medium_4
+  - spell_mesmerist_4
+  - spell_psychic
+  - spell_sorcerer_4
+  - spell_spiritualist_4
+  - spell_psychic_4
+  - spell_arcanist_4
+  - spell_occultist
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Mindwipe

@@ -2,6 +2,12 @@
 aliases: [Bladed Dash, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_bard_5
+  - spell_bard
+  - spell_magus_5
+  - spell_magus
 ---
 
 ## Bladed Dash, Greater

@@ -2,6 +2,24 @@
 aliases: [Deathwine]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_alchemist_2
+  - spell_sorcerer
+  - spell
+  - spell_cleric_2
+  - spell_witch
+  - spell_oracle_2
+  - spell_sorcerer_3
+  - spell_warpriest
+  - spell_arcanist_3
+  - spell_investigator_2
+  - spell_investigator
+  - spell_alchemist
+  - spell_warpriest_2
+  - spell_oracle
+  - spell_witch_3
+  - spell_arcanist
 ---
 
 ## Deathwine

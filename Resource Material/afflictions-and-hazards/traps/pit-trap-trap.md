@@ -1,5 +1,7 @@
 ---
 alias: Pit Trap
+tags:
+  - traps
 ---
 
 ## Pit Trap

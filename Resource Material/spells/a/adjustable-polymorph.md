@@ -2,6 +2,36 @@
 aliases: [Adjustable Polymorph]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_summoner_unchained_4
+  - spell_sorcerer
+  - spell
+  - spell_magus_4
+  - spell_medium
+  - spell_witch
+  - spell_shaman
+  - spell_redmantisassassin
+  - spell_bard
+  - spell_summoner_4
+  - spell_medium_4
+  - spell_witch_4
+  - spell_skald
+  - spell_magus
+  - spell_investigator
+  - spell_alchemist
+  - spell_psychic
+  - spell_summoner
+  - spell_sorcerer_4
+  - spell_alchemist_4
+  - spell_investigator_4
+  - spell_summoner_unchained
+  - spell_psychic_4
+  - spell_arcanist_4
+  - spell_bard_4
+  - spell_shaman_4
+  - spell_redmantisassassin_4
+  - spell_arcanist
 ---
 
 ## Adjustable Polymorph

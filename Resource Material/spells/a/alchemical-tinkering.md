@@ -2,6 +2,22 @@
 aliases: [Alchemical Tinkering]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_cleric_2
+  - spell_witch
+  - spell_redmantisassassin
+  - spell_oracle_2
+  - spell_redmantisassassin_1
+  - spell_witch_1
+  - spell_warpriest
+  - spell_warpriest_2
+  - spell_oracle
+  - spell_sorcerer_1
+  - spell_arcanist
 ---
 
 ## Alchemical Tinkering

@@ -2,6 +2,34 @@
 aliases: [Paragon Surge]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_bloodrager
+  - spell_redmantisassassin_3
+  - spell_sorcerer
+  - spell
+  - spell_paladin_4
+  - spell_oracle_3
+  - spell_magus_4
+  - spell_medium
+  - spell_witch
+  - spell_redmantisassassin
+  - spell_sorcerer_3
+  - spell_bloodrager_3
+  - spell_magus
+  - spell_warpriest
+  - spell_arcanist_3
+  - spell_investigator
+  - spell_alchemist
+  - spell_oracle
+  - spell_alchemist_3
+  - spell_medium_3
+  - spell_witch_3
+  - spell_cleric_3
+  - spell_investigator_3
+  - spell_arcanist
 ---
 
 ## Paragon Surge

@@ -2,6 +2,8 @@
 aliases: [Armor of Darkness]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
 ---
 
 ## Armor of Darkness

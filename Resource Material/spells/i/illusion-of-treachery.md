@@ -2,6 +2,22 @@
 aliases: [Illusion of Treachery]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_mesmerist_3
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_magus_4
+  - spell_occultist_4
+  - spell_magus
+  - spell_antipaladin_3
+  - spell_psychic
+  - spell_sorcerer_4
+  - spell_psychic_4
+  - spell_arcanist_4
+  - spell_occultist
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Illusion of Treachery

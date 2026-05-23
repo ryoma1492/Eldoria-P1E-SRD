@@ -2,6 +2,28 @@
 aliases: [Magic Siege Engine, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_paladin_4
+  - spell_redmantisassassin
+  - spell_inquisitor_4
+  - spell_cleric_5
+  - spell_occultist_4
+  - spell_oracle_5
+  - spell_inquisitor
+  - spell_warpriest_5
+  - spell_warpriest
+  - spell_oracle
+  - spell_sorcerer_4
+  - spell_antipaladin_4
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_antipaladin
+  - spell_arcanist
+  - spell_redmantisassassin_4
 ---
 
 ## Magic Siege Engine, Greater

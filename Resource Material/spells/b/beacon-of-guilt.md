@@ -2,6 +2,20 @@
 aliases: [Beacon of Guilt]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_bard
+  - spell_arcanist_2
+  - spell_skald
+  - spell_bard_2
+  - spell_inquisitor
+  - spell_inquisitor_2
+  - spell_occultist_2
+  - spell_skald_2
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Beacon of Guilt

@@ -1,5 +1,7 @@
 ---
 alias: Draughtcap fungus
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Draughtcap fungus

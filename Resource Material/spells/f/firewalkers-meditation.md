@@ -2,6 +2,20 @@
 aliases: ["Firewalker's Meditation"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_druid_4
+  - spell
+  - spell_warpriest_4
+  - spell_shaman
+  - spell_druid
+  - spell_warpriest
+  - spell_cleric_4
+  - spell_paladin_3
+  - spell_arcanist_4
+  - spell_shaman_4
+  - spell_arcanist
 ---
 
 ## Firewalker's Meditation

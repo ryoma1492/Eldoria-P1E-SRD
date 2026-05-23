@@ -2,6 +2,18 @@
 aliases: [Shield of the Dawnflower, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_cleric_6
+  - spell
+  - spell_oracle_6
+  - spell_bard
+  - spell_bard_6
+  - spell_skald
+  - spell_magus
+  - spell_skald_6
+  - spell_magus_6
+  - spell_oracle
 ---
 
 ## Shield of the Dawnflower, Greater

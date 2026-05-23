@@ -2,6 +2,36 @@
 aliases: [Fear the Sun]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_sorcerer_2
+  - spell_cleric_2
+  - spell_witch
+  - spell_shaman
+  - spell_antipaladin_1
+  - spell_arcanist_2
+  - spell_shaman_2
+  - spell_oracle_2
+  - spell_druid
+  - spell_inquisitor
+  - spell_warpriest
+  - spell_witch_2
+  - spell_inquisitor_2
+  - spell_warpriest_2
+  - spell_druid_2
+  - spell_oracle
+  - spell_psychic
+  - spell_occultist_2
+  - spell_hunter_2
+  - spell_hunter
+  - spell_occultist
+  - spell_antipaladin
+  - spell_bloodrager_1
+  - spell_arcanist
 ---
 
 ## Fear the Sun

@@ -2,6 +2,18 @@
 aliases: [Mud Buddy]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_witch
+  - spell_arcanist_2
+  - spell_druid
+  - spell_witch_2
+  - spell_druid_2
+  - spell_hunter_2
+  - spell_hunter
+  - spell_arcanist
 ---
 
 ## Mud Buddy

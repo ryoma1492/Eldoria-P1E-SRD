@@ -2,6 +2,20 @@
 aliases: [Keyhole]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_warpriest_1
+  - spell_witch_1
+  - spell_cleric_1
+  - spell_oracle_1
+  - spell_warpriest
+  - spell_oracle
+  - spell_sorcerer_1
+  - spell_arcanist
 ---
 
 ## Keyhole

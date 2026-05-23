@@ -2,6 +2,18 @@
 aliases: [Bestow Curse, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_witch_7
+  - spell_sorcerer
+  - spell_arcanist_8
+  - spell
+  - spell_sorcerer_8
+  - spell_witch
+  - spell_cleric_7
+  - spell_oracle
+  - spell_oracle_7
+  - spell_arcanist
 ---
 
 ## Bestow Curse, Greater

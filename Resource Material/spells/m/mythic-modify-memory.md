@@ -2,6 +2,16 @@
 aliases: [Mythic Modify Memory]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_mesmerist
+  - spell_psychic_5
+  - spell_medium
+  - spell_bard
+  - spell_medium_4
+  - spell_mesmerist_4
+  - spell_psychic
+  - spell_bard_4
 ---
 
 ## Mythic Modify Memory

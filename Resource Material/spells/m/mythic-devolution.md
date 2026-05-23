@@ -2,6 +2,20 @@
 aliases: [Mythic Devolution]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_redmantisassassin_3
+  - spell_sorcerer
+  - spell
+  - spell_redmantisassassin
+  - spell_psychic_3
+  - spell_sorcerer_3
+  - spell_summoner_unchained_3
+  - spell_arcanist_3
+  - spell_summoner_3
+  - spell_psychic
+  - spell_summoner
+  - spell_summoner_unchained
+  - spell_arcanist
 ---
 
 ## Mythic Devolution

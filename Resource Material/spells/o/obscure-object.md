@@ -2,6 +2,32 @@
 aliases: [Obscure Object]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_mesmerist
+  - spell_oracle_3
+  - spell_sorcerer_2
+  - spell_bard
+  - spell_arcanist_2
+  - spell_bard_1
+  - spell_skald_1
+  - spell_skald
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_mesmerist_1
+  - spell_spiritualist_3
+  - spell_oracle
+  - spell_occultist_2
+  - spell_psychic
+  - spell_cleric_3
+  - spell_occultist
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Obscure Object

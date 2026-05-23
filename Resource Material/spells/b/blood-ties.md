@@ -2,6 +2,26 @@
 aliases: [Blood Ties]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_psychic_5
+  - spell_shaman
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_druid
+  - spell_warpriest_5
+  - spell_warpriest
+  - spell_inquisitor_5
+  - spell_inquisitor
+  - spell_shaman_5
+  - spell_hunter_5
+  - spell_oracle
+  - spell_psychic
+  - spell_druid_5
+  - spell_antipaladin_4
+  - spell_hunter
+  - spell_antipaladin
 ---
 
 ## Blood Ties

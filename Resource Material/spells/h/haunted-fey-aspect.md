@@ -2,6 +2,22 @@
 aliases: [Haunted Fey Aspect]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_bard_0
+  - spell_skald_0
+  - spell_medium_0
+  - spell_medium
+  - spell_bard
+  - spell_mesmerist_0
+  - spell_skald
+  - spell_sorcerer_0
+  - spell_psychic_0
+  - spell_arcanist_0
+  - spell_psychic
+  - spell_arcanist
 ---
 
 ## Haunted Fey Aspect

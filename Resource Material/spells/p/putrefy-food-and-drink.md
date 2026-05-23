@@ -2,6 +2,8 @@
 aliases: [Putrefy Food and Drink]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
 ---
 
 ## Putrefy Food and Drink

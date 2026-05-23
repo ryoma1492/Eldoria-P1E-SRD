@@ -2,6 +2,22 @@
 aliases: [Sympathy]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_arcanist_8
+  - spell
+  - spell_sorcerer_8
+  - spell_witch
+  - spell_psychic_8
+  - spell_druid_9
+  - spell_druid
+  - spell_psychic
+  - spell_summoner
+  - spell_summoner_6
+  - spell_witch_8
+  - spell_occultist
+  - spell_occultist_6
+  - spell_arcanist
 ---
 
 ## Sympathy

@@ -2,6 +2,24 @@
 aliases: [Accept Affliction]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_paladin
+  - spell_cleric
+  - spell_skald_3
+  - spell
+  - spell_oracle_3
+  - spell_bard
+  - spell_druid_3
+  - spell_hunter_3
+  - spell_druid
+  - spell_skald
+  - spell_warpriest
+  - spell_paladin_3
+  - spell_oracle
+  - spell_bard_3
+  - spell_hunter
+  - spell_cleric_3
 ---
 
 ## Accept Affliction

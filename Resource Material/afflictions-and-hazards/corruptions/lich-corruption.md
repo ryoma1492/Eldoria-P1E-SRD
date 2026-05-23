@@ -1,5 +1,7 @@
 ---
 alias: Lich Corruption
+tags:
+  - corruptions
 ---
 
 # Lich Corruption

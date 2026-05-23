@@ -2,6 +2,10 @@
 aliases: [Mantle of Doubt]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_mesmerist
+  - spell
+  - spell_mesmerist_6
 ---
 
 ## Mantle of Doubt

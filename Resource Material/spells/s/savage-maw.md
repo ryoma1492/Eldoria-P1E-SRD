@@ -2,6 +2,26 @@
 aliases: [Savage Maw]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_psychic_2
+  - spell
+  - spell_cleric_2
+  - spell_antipaladin_1
+  - spell_ranger_1
+  - spell_oracle_2
+  - spell_druid
+  - spell_magus
+  - spell_ranger
+  - spell_inquisitor
+  - spell_inquisitor_2
+  - spell_druid_2
+  - spell_oracle
+  - spell_psychic
+  - spell_magus_2
+  - spell_hunter
+  - spell_hunter_1
+  - spell_antipaladin
 ---
 
 ## Savage Maw

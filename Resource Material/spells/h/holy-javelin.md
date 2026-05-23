@@ -2,6 +2,16 @@
 aliases: [Holy Javelin]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_inquisitor_3
+  - spell_cleric
+  - spell
+  - spell_oracle_3
+  - spell_paladin_2
+  - spell_inquisitor
+  - spell_oracle
+  - spell_cleric_3
 ---
 
 ## Holy Javelin

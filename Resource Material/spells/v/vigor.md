@@ -2,6 +2,14 @@
 aliases: [Vigor]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_adept_0
+  - spell_adept
+  - spell_oracle
+  - spell_cleric_0
+  - spell_oracle_0
 ---
 
 ## Vigor

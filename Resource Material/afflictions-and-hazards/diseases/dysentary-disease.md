@@ -1,5 +1,7 @@
 ---
 alias: Dysentary
+tags:
+  - diseases
 ---
 
 # Dysentary

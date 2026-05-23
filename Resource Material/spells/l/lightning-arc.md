@@ -2,6 +2,12 @@
 aliases: [Lightning Arc]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_arcanist_5
+  - spell_arcanist
 ---
 
 ## Lightning Arc

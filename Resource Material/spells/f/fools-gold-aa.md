@@ -2,6 +2,32 @@
 aliases: ["Fool's Gold (AA)"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_1
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_sorcerer_2
+  - spell_witch
+  - spell_shaman
+  - spell_antipaladin_1
+  - spell_bard
+  - spell_arcanist_2
+  - spell_alchemist_1
+  - spell_investigator_1
+  - spell_shaman_2
+  - spell_bard_1
+  - spell_skald_1
+  - spell_skald
+  - spell_witch_2
+  - spell_mesmerist_1
+  - spell_investigator
+  - spell_alchemist
+  - spell_psychic
+  - spell_occultist_2
+  - spell_occultist
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Fool's Gold (AA)

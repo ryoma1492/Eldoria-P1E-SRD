@@ -2,6 +2,20 @@
 aliases: ["Reaper's Coterie"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_inquisitor_3
+  - spell_cleric
+  - spell_bloodrager
+  - spell
+  - spell_oracle_3
+  - spell_bloodrager_2
+  - spell_antipaladin_2
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_oracle
+  - spell_cleric_3
+  - spell_antipaladin
 ---
 
 ## Reaper's Coterie

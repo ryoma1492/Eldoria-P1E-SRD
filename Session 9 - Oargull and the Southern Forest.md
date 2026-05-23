@@ -1,6 +1,7 @@
 ---
 tags:
   - GM_Notes
+draft: true
 ---
 ## Pre-Text:
 The [[Heroes]] have found themselves in [[Lowhaven]] after surviving the [[Crown's Scouring of Lowhaven]] through the activation of a magical [[Superweapon]] known as the [[Peace Ordinance|Peace Ordinance]]. The ordinance neutralized the majority of hostile undead, though many [[human-zombie|Zombies]] remain animate and non-violent.

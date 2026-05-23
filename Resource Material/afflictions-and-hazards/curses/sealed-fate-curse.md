@@ -1,5 +1,7 @@
 ---
 alias: Sealed Fate
+tags:
+  - curses
 ---
 
 # Sealed Fate

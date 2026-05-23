@@ -1,5 +1,7 @@
 ---
 alias: Shattered Self
+tags:
+  - curses
 ---
 
 # Shattered Self

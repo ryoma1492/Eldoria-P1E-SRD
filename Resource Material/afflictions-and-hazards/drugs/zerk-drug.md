@@ -1,5 +1,7 @@
 ---
 alias: Zerk
+tags:
+  - drugs
 ---
 
 # Zerk

@@ -2,6 +2,26 @@
 aliases: [Instant Fake]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_ranger_3
+  - spell_mesmerist_3
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_magus_4
+  - spell_bard
+  - spell_occultist_3
+  - spell_hunter_3
+  - spell_magus
+  - spell_ranger
+  - spell_inquisitor
+  - spell_sorcerer_4
+  - spell_bard_3
+  - spell_hunter
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_arcanist
 ---
 
 ## Instant Fake

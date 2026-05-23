@@ -2,6 +2,18 @@
 aliases: [Body Capacitance]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_redmantisassassin
+  - spell_alchemist_1
+  - spell_investigator_1
+  - spell_redmantisassassin_1
+  - spell_investigator
+  - spell_alchemist
+  - spell_sorcerer_1
+  - spell_arcanist
 ---
 
 ## Body Capacitance

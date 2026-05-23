@@ -1,5 +1,7 @@
 ---
 alias: Slimy Doom
+tags:
+  - diseases
 ---
 
 # Slimy Doom

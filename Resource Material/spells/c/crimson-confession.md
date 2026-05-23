@@ -2,6 +2,18 @@
 aliases: [Crimson Confession]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell
+  - spell_sorcerer_2
+  - spell_witch
+  - spell_arcanist_2
+  - spell_witch_2
+  - spell_occultist_2
+  - spell_psychic
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Crimson Confession

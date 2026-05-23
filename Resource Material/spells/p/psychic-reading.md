@@ -2,6 +2,28 @@
 aliases: [Psychic Reading]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_1
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_sorcerer_2
+  - spell_medium
+  - spell_spiritualist_1
+  - spell_bard
+  - spell_arcanist_2
+  - spell_medium_1
+  - spell_skald
+  - spell_bard_2
+  - spell_inquisitor
+  - spell_mesmerist_1
+  - spell_inquisitor_2
+  - spell_psychic
+  - spell_skald_2
+  - spell_occultist_1
+  - spell_occultist
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Psychic Reading

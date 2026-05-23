@@ -1,5 +1,7 @@
 ---
 alias: Woundweal
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Woundweal

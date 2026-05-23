@@ -1,5 +1,7 @@
 ---
 alias: Lethe water
+tags:
+  - poisons
 ---
 
 # Lethe water

@@ -1,5 +1,7 @@
 ---
 alias: Curse of the Ages
+tags:
+  - curses
 ---
 
 # Curse of the Ages

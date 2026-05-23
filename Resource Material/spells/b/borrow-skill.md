@@ -2,6 +2,14 @@
 aliases: [Borrow Skill]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_1
+  - spell
+  - spell_medium
+  - spell_bard
+  - spell_bard_1
+  - spell_medium_1
+  - spell_psychic
 ---
 
 ## Borrow Skill

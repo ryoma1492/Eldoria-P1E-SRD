@@ -1,5 +1,7 @@
 ---
 alias: Destruction Trap
+tags:
+  - traps
 ---
 
 ## Destruction Trap

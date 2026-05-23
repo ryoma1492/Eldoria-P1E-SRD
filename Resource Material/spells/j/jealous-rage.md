@@ -2,6 +2,24 @@
 aliases: [Jealous Rage]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_shaman_3
+  - spell
+  - spell_mesmerist
+  - spell_bloodrager_2
+  - spell_shaman
+  - spell_bard
+  - spell_psychic_3
+  - spell_spiritualist_2
+  - spell_antipaladin_2
+  - spell_skald
+  - spell_bard_2
+  - spell_mesmerist_2
+  - spell_psychic
+  - spell_skald_2
+  - spell_spiritualist
+  - spell_antipaladin
 ---
 
 ## Jealous Rage

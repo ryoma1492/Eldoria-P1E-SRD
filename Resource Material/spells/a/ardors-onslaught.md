@@ -2,6 +2,14 @@
 aliases: ["Ardor's Onslaught"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_inquisitor_4
+  - spell_inquisitor
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_oracle
 ---
 
 ## Ardor's Onslaught

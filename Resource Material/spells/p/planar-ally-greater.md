@@ -2,6 +2,14 @@
 aliases: [Planar Ally, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_cleric_8
+  - spell_psychic_8
+  - spell_oracle_8
+  - spell_oracle
+  - spell_psychic
 ---
 
 ## Planar Ally, Greater

@@ -1,5 +1,7 @@
 ---
 alias: Pulsing Puffs
+tags:
+  - diseases
 ---
 
 # Pulsing Puffs

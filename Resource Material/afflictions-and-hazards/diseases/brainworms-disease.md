@@ -1,5 +1,7 @@
 ---
 alias: Brainworms
+tags:
+  - diseases
 ---
 
 # Brainworms

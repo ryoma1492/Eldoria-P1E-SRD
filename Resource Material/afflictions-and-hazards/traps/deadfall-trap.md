@@ -1,5 +1,7 @@
 ---
 alias: Deadfall
+tags:
+  - traps
 ---
 
 ## Deadfall

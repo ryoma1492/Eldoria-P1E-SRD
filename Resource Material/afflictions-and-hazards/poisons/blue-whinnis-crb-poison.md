@@ -1,5 +1,7 @@
 ---
 alias: Blue Whinnis (CRB)
+tags:
+  - poisons
 ---
 
 # Blue Whinnis (CRB)

@@ -2,6 +2,18 @@
 aliases: [Calm Spirit]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_cleric_2
+  - spell_medium
+  - spell_shaman
+  - spell_shaman_2
+  - spell_spiritualist_2
+  - spell_oracle_2
+  - spell_medium_1
+  - spell_oracle
+  - spell_spiritualist
 ---
 
 ## Calm Spirit

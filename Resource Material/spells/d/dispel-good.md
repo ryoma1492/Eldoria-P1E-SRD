@@ -2,6 +2,18 @@
 aliases: [Dispel Good]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_shaman
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_inquisitor_5
+  - spell_inquisitor
+  - spell_shaman_5
+  - spell_oracle
+  - spell_antipaladin_4
+  - spell_antipaladin
 ---
 
 ## Dispel Good

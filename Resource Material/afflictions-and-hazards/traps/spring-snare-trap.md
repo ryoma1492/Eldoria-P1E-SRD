@@ -1,5 +1,7 @@
 ---
 alias: Spring Snare
+tags:
+  - traps
 ---
 
 ## Spring Snare

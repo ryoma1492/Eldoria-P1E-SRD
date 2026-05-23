@@ -2,6 +2,24 @@
 aliases: [Howling Agony]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell_mesmerist
+  - spell
+  - spell_witch
+  - spell_sorcerer_3
+  - spell_bloodrager_3
+  - spell_inquisitor
+  - spell_arcanist_3
+  - spell_inquisitor_2
+  - spell_spiritualist_3
+  - spell_mesmerist_2
+  - spell_psychic
+  - spell_witch_3
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Howling Agony

@@ -1,5 +1,7 @@
 ---
 alias: Ghoul Fever
+tags:
+  - diseases
 ---
 
 # Ghoul Fever

@@ -2,6 +2,22 @@
 aliases: [Sotto Voce]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell_warpriest_0
+  - spell
+  - spell_bard
+  - spell_bard_1
+  - spell_skald_1
+  - spell_skald
+  - spell_warpriest
+  - spell_sorcerer_0
+  - spell_oracle
+  - spell_arcanist_0
+  - spell_cleric_0
+  - spell_oracle_0
+  - spell_arcanist
 ---
 
 ## Sotto Voce

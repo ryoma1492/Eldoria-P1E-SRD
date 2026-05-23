@@ -1,5 +1,7 @@
 ---
 alias: Malignant Weapon
+tags:
+  - haunts
 ---
 
 # Malignant Weapon

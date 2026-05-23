@@ -2,6 +2,28 @@
 aliases: [Restoration]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_mesmerist
+  - spell
+  - spell_adept_4
+  - spell_paladin_4
+  - spell_inquisitor_4
+  - spell_shaman
+  - spell_mesmerist_4
+  - spell_adept
+  - spell_inquisitor
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_investigator
+  - spell_alchemist
+  - spell_oracle
+  - spell_alchemist_4
+  - spell_spiritualist_4
+  - spell_investigator_4
+  - spell_spiritualist
+  - spell_shaman_4
 ---
 
 ## Restoration

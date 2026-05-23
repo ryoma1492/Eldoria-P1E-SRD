@@ -2,6 +2,22 @@
 aliases: ["Blade Tutor's Spirit"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_arcanist_2
+  - spell_paladin_2
+  - spell_antipaladin_2
+  - spell_magus
+  - spell_magus_1
+  - spell_summoner
+  - spell_summoner_unchained_2
+  - spell_summoner_unchained
+  - spell_antipaladin
+  - spell_summoner_2
+  - spell_arcanist
 ---
 
 ## Blade Tutor's Spirit

@@ -2,6 +2,30 @@
 aliases: [Sleep]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_1
+  - spell_adept_1
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_witch
+  - spell_shaman
+  - spell_bard
+  - spell_bard_1
+  - spell_skald_1
+  - spell_shaman_1
+  - spell_witch_1
+  - spell_adept
+  - spell_skald
+  - spell_sahirafiyun_1
+  - spell_mesmerist_1
+  - spell_psychic
+  - spell_occultist_1
+  - spell_sahirafiyun
+  - spell_sorcerer_1
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Sleep

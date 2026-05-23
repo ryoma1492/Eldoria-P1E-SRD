@@ -2,6 +2,16 @@
 aliases: [Wild Instinct]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell
+  - spell_bloodrager_2
+  - spell_druid
+  - spell_ranger
+  - spell_ranger_2
+  - spell_druid_2
+  - spell_hunter_2
+  - spell_hunter
 ---
 
 ## Wild Instinct

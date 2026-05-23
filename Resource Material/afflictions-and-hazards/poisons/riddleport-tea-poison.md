@@ -1,5 +1,7 @@
 ---
 alias: Riddleport tea
+tags:
+  - poisons
 ---
 
 # [[3.5]] Riddleport tea

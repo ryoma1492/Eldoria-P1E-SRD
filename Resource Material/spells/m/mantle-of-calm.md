@@ -2,6 +2,22 @@
 aliases: [Mantle of Calm]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_inquisitor_3
+  - spell_cleric
+  - spell_shaman_3
+  - spell_mesmerist
+  - spell
+  - spell_oracle_3
+  - spell_shaman
+  - spell_psychic_3
+  - spell_inquisitor
+  - spell_paladin_3
+  - spell_oracle
+  - spell_mesmerist_2
+  - spell_psychic
+  - spell_cleric_3
 ---
 
 ## Mantle of Calm

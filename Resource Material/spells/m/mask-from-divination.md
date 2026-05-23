@@ -2,6 +2,24 @@
 aliases: [Mask from Divination]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell
+  - spell_investigator_5
+  - spell_arcanist_5
+  - spell_witch
+  - spell_shaman
+  - spell_bloodrager_4
+  - spell_magus_5
+  - spell_alchemist_5
+  - spell_magus
+  - spell_investigator
+  - spell_shaman_5
+  - spell_witch_5
+  - spell_alchemist
+  - spell_arcanist
 ---
 
 ## Mask from Divination

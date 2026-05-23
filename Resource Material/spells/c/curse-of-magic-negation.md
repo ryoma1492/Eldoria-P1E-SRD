@@ -2,6 +2,28 @@
 aliases: [Curse of Magic Negation]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_mesmerist_3
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_witch
+  - spell_inquisitor_4
+  - spell_cleric_5
+  - spell_occultist_4
+  - spell_oracle_5
+  - spell_witch_4
+  - spell_warpriest_5
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_oracle
+  - spell_psychic
+  - spell_sorcerer_4
+  - spell_psychic_4
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_arcanist
 ---
 
 ## Curse of Magic Negation

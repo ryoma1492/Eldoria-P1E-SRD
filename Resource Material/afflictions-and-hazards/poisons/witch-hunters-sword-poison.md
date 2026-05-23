@@ -1,5 +1,7 @@
 ---
 alias: Witch-hunter's sword
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Witch-hunter's sword

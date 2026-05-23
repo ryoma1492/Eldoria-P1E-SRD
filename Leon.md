@@ -1,3 +1,9 @@
+---
+tags:
+  - PC
+---
+
+
 Magus party member of the [[Heroes]] group
 
 

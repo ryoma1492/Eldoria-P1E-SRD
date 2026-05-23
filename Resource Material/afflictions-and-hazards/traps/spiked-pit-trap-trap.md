@@ -1,5 +1,7 @@
 ---
 alias: Spiked Pit Trap
+tags:
+  - traps
 ---
 
 ## Spiked Pit Trap

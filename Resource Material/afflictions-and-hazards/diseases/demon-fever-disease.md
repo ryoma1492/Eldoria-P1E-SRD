@@ -1,5 +1,7 @@
 ---
 alias: Demon Fever
+tags:
+  - diseases
 ---
 
 # Demon Fever

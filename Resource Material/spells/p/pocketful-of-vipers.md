@@ -2,6 +2,16 @@
 aliases: [Pocketful of Vipers]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_shaman_3
+  - spell
+  - spell_shaman
+  - spell_druid_3
+  - spell_occultist_3
+  - spell_druid
+  - spell_hunter_3
+  - spell_hunter
+  - spell_occultist
 ---
 
 ## Pocketful of Vipers

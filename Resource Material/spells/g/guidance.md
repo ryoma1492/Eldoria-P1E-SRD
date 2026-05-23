@@ -2,6 +2,34 @@
 aliases: [Guidance]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_spiritualist_0
+  - spell_cleric
+  - spell_inquisitor_0
+  - spell_warpriest_0
+  - spell
+  - spell_occultist_0
+  - spell_medium_0
+  - spell_hunter_0
+  - spell_summoner_unchained_0
+  - spell_medium
+  - spell_shaman
+  - spell_druid_0
+  - spell_adept_0
+  - spell_adept
+  - spell_druid
+  - spell_summoner_0
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_oracle
+  - spell_summoner
+  - spell_shaman_0
+  - spell_cleric_0
+  - spell_oracle_0
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_occultist
+  - spell_spiritualist
 ---
 
 ## Guidance

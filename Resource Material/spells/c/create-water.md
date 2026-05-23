@@ -2,6 +2,26 @@
 aliases: [Create Water]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_inquisitor_0
+  - spell
+  - spell_occultist_0
+  - spell_hunter_0
+  - spell_paladin_1
+  - spell_shaman
+  - spell_druid_0
+  - spell_adept_0
+  - spell_adept
+  - spell_druid
+  - spell_inquisitor
+  - spell_oracle
+  - spell_shaman_0
+  - spell_cleric_0
+  - spell_oracle_0
+  - spell_hunter
+  - spell_occultist
 ---
 
 ## Create Water

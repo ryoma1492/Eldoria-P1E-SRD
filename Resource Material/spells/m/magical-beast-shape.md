@@ -2,6 +2,12 @@
 aliases: [Magical Beast Shape]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_7
+  - spell_arcanist_7
+  - spell_arcanist
 ---
 
 ## Magical Beast Shape

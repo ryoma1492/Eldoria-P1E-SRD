@@ -2,6 +2,20 @@
 aliases: [Flame Strike]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_hunter_4
+  - spell
+  - spell_druid_4
+  - spell_shaman
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_druid
+  - spell_inquisitor_5
+  - spell_inquisitor
+  - spell_shaman_5
+  - spell_oracle
+  - spell_hunter
 ---
 
 ## Flame Strike

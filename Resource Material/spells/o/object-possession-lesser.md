@@ -2,6 +2,24 @@
 aliases: [Object Possession, Lesser]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_mesmerist_3
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_medium
+  - spell_witch
+  - spell_witch_4
+  - spell_psychic_3
+  - spell_medium_2
+  - spell_spiritualist_3
+  - spell_occultist_2
+  - spell_psychic
+  - spell_sorcerer_4
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Object Possession, Lesser

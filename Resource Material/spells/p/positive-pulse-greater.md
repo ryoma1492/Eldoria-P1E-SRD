@@ -2,6 +2,32 @@
 aliases: [Positive Pulse, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_summoner_unchained_4
+  - spell_sorcerer
+  - spell
+  - spell_paladin_4
+  - spell_witch
+  - spell_inquisitor_4
+  - spell_shaman
+  - spell_warpriest_4
+  - spell_summoner_4
+  - spell_witch_4
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_oracle
+  - spell_summoner
+  - spell_sorcerer_4
+  - spell_spiritualist_4
+  - spell_summoner_unchained
+  - spell_arcanist_4
+  - spell_spiritualist
+  - spell_shaman_4
+  - spell_arcanist
 ---
 
 ## Positive Pulse, Greater

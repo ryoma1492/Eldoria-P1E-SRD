@@ -1,5 +1,7 @@
 ---
 alias: Cockatrice spit
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Cockatrice spit

@@ -2,6 +2,24 @@
 aliases: [Imbue with Elemental Might]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_cleric_2
+  - spell_bloodrager_2
+  - spell_shaman
+  - spell_arcanist_2
+  - spell_shaman_2
+  - spell_oracle_2
+  - spell_magus
+  - spell_warpriest
+  - spell_warpriest_2
+  - spell_oracle
+  - spell_magus_2
+  - spell_arcanist
 ---
 
 ## Imbue with Elemental Might

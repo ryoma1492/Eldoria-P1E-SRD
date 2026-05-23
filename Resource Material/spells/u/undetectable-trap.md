@@ -2,6 +2,14 @@
 aliases: [Undetectable Trap]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_antipaladin_2
+  - spell_occultist_3
+  - spell_hunter_2
+  - spell_hunter
+  - spell_occultist
+  - spell_antipaladin
 ---
 
 ## Undetectable Trap

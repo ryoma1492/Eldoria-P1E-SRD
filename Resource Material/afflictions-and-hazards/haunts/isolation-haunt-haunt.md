@@ -1,5 +1,7 @@
 ---
 alias: Isolation Haunt
+tags:
+  - haunts
 ---
 
 # Isolation Haunt

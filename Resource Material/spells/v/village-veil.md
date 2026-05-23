@@ -2,6 +2,28 @@
 aliases: [Village Veil]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_psychic_5
+  - spell_arcanist_5
+  - spell_witch
+  - spell_bard_5
+  - spell_skald_5
+  - spell_bard
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_skald
+  - spell_warpriest_5
+  - spell_warpriest
+  - spell_witch_5
+  - spell_oracle
+  - spell_psychic
+  - spell_mesmerist_5
+  - spell_arcanist
 ---
 
 ## Village Veil

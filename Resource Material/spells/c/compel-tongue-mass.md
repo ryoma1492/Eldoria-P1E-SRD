@@ -2,6 +2,28 @@
 aliases: [Compel Tongue, Mass]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_cleric
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_arcanist_5
+  - spell_witch
+  - spell_bard
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_druid
+  - spell_skald
+  - spell_warpriest_5
+  - spell_warpriest
+  - spell_witch_5
+  - spell_oracle
+  - spell_hunter_5
+  - spell_druid_5
+  - spell_hunter
+  - spell_bard_4
+  - spell_arcanist
 ---
 
 ## Compel Tongue, Mass

@@ -1,5 +1,7 @@
 ---
 alias: Blistercap spore
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Blistercap spore

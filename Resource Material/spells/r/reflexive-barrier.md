@@ -2,6 +2,10 @@
 aliases: [Reflexive Barrier]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_magus_3
+  - spell
+  - spell_magus
 ---
 
 ## Reflexive Barrier

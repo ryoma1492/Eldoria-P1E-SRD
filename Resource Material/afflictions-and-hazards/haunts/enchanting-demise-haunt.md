@@ -1,5 +1,7 @@
 ---
 alias: Enchanting Demise
+tags:
+  - haunts
 ---
 
 # Enchanting Demise

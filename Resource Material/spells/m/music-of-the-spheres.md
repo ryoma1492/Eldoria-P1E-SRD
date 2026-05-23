@@ -2,6 +2,16 @@
 aliases: [Music of the Spheres]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_cleric_6
+  - spell
+  - spell_oracle_6
+  - spell_bard_5
+  - spell_skald_5
+  - spell_bard
+  - spell_skald
+  - spell_oracle
 ---
 
 ## Music of the Spheres

@@ -2,6 +2,24 @@
 aliases: [Wall of Sound]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell_spiritualist_5
+  - spell
+  - spell_psychic_5
+  - spell_magus_4
+  - spell_arcanist_5
+  - spell_bard
+  - spell_bloodrager_4
+  - spell_skald
+  - spell_magus
+  - spell_psychic
+  - spell_spiritualist
+  - spell_bard_4
+  - spell_arcanist
 ---
 
 ## Wall of Sound

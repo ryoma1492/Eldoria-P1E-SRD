@@ -2,6 +2,20 @@
 aliases: [Imbue With Addiction]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_alchemist_2
+  - spell_sorcerer
+  - spell
+  - spell_sahirafiyun_3
+  - spell_witch
+  - spell_sorcerer_3
+  - spell_arcanist_3
+  - spell_investigator_2
+  - spell_investigator
+  - spell_alchemist
+  - spell_witch_3
+  - spell_sahirafiyun
+  - spell_arcanist
 ---
 
 ## Imbue With Addiction

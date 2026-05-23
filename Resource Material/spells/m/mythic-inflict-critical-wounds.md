@@ -2,6 +2,22 @@
 aliases: [Mythic Inflict Critical Wounds]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_shaman
+  - spell_warpriest_4
+  - spell_inquisitor_4
+  - spell_occultist_4
+  - spell_inquisitor
+  - spell_warpriest
+  - spell_cleric_4
+  - spell_oracle_4
+  - spell_oracle
+  - spell_spiritualist_4
+  - spell_occultist
+  - spell_spiritualist
+  - spell_shaman_4
 ---
 
 ## Mythic Inflict Critical Wounds

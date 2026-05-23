@@ -2,6 +2,24 @@
 aliases: [Mythic Walk through Space]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_witch_7
+  - spell_sorcerer
+  - spell
+  - spell_alchemist_6
+  - spell_witch
+  - spell_investigator_6
+  - spell_magus
+  - spell_psychic_7
+  - spell_magus_6
+  - spell_investigator
+  - spell_sorcerer_7
+  - spell_alchemist
+  - spell_psychic
+  - spell_summoner
+  - spell_summoner_6
+  - spell_arcanist_7
+  - spell_arcanist
 ---
 
 ## Mythic Walk through Space

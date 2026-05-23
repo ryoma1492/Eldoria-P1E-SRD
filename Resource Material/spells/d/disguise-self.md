@@ -2,6 +2,34 @@
 aliases: [Disguise Self]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_1
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_medium
+  - spell_redmantisassassin
+  - spell_antipaladin_1
+  - spell_bard
+  - spell_alchemist_1
+  - spell_investigator_1
+  - spell_inquisitor_1
+  - spell_bard_1
+  - spell_skald_1
+  - spell_redmantisassassin_1
+  - spell_medium_1
+  - spell_skald
+  - spell_inquisitor
+  - spell_mesmerist_1
+  - spell_investigator
+  - spell_alchemist
+  - spell_psychic
+  - spell_occultist_1
+  - spell_sorcerer_1
+  - spell_occultist
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Disguise Self

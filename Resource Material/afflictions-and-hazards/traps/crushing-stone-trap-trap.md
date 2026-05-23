@@ -1,5 +1,7 @@
 ---
 alias: Crushing Stone Trap
+tags:
+  - traps
 ---
 
 ## Crushing Stone Trap

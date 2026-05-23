@@ -2,6 +2,16 @@
 aliases: ["Mage's Crawl Space"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_shaman
+  - spell_bard
+  - spell_arcanist_2
+  - spell_shaman_2
+  - spell_bard_2
+  - spell_arcanist
 ---
 
 ## Mage's Crawl Space

@@ -1,5 +1,7 @@
 ---
 alias: Lightning Bolt Gallery Trap
+tags:
+  - traps
 ---
 
 ## Lightning Bolt Gallery Trap

@@ -2,6 +2,20 @@
 aliases: [Replay Tracks]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_psychic_5
+  - spell_medium
+  - spell_inquisitor_4
+  - spell_occultist_3
+  - spell_druid
+  - spell_inquisitor
+  - spell_psychic
+  - spell_hunter_2
+  - spell_druid_5
+  - spell_hunter
+  - spell_medium_3
+  - spell_occultist
 ---
 
 ## Replay Tracks

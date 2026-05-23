@@ -2,6 +2,40 @@
 aliases: [Detect Poison]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_sorcerer
+  - spell_inquisitor_0
+  - spell_warpriest_0
+  - spell_mesmerist
+  - spell
+  - spell_occultist_0
+  - spell_witch_0
+  - spell_hunter_0
+  - spell_paladin_1
+  - spell_witch
+  - spell_shaman
+  - spell_druid_0
+  - spell_antipaladin_1
+  - spell_mesmerist_0
+  - spell_ranger_1
+  - spell_druid
+  - spell_warpriest
+  - spell_ranger
+  - spell_inquisitor
+  - spell_sorcerer_0
+  - spell_psychic_0
+  - spell_oracle
+  - spell_arcanist_0
+  - spell_psychic
+  - spell_shaman_0
+  - spell_cleric_0
+  - spell_oracle_0
+  - spell_hunter
+  - spell_occultist
+  - spell_antipaladin
+  - spell_arcanist
 ---
 
 ## Detect Poison

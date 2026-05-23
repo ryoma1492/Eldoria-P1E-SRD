@@ -1,5 +1,7 @@
 ---
 alias: Terinav root
+tags:
+  - poisons
 ---
 
 # [[PFS-Legal]] Terinav root

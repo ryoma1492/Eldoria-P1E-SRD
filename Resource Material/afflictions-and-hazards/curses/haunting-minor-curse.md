@@ -1,5 +1,7 @@
 ---
 alias: Haunting, Major
+tags:
+  - curses
 ---
 
 # Haunting, Minor

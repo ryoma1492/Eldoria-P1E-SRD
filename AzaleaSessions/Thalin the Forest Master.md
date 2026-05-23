@@ -5,6 +5,7 @@ statblock: inline
 tags:
   - monster
   - kids
+draft: true
 ---
 ```statblock
 layout: Basic Pathfinder 1e Layout

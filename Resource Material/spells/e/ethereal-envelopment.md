@@ -2,6 +2,10 @@
 aliases: [Ethereal Envelopment]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_psychic_7
+  - spell_psychic
 ---
 
 ## Ethereal Envelopment

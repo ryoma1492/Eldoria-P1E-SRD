@@ -2,6 +2,26 @@
 aliases: [Deft Digits]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_3
+  - spell_sorcerer
+  - spell
+  - spell_medium
+  - spell_bard
+  - spell_psychic_3
+  - spell_occultist_3
+  - spell_sorcerer_3
+  - spell_skald
+  - spell_arcanist_3
+  - spell_summoner_3
+  - spell_spiritualist_3
+  - spell_psychic
+  - spell_summoner
+  - spell_bard_3
+  - spell_medium_3
+  - spell_occultist
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Deft Digits

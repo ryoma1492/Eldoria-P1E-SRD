@@ -2,6 +2,30 @@
 aliases: [Flickering Lights]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_cleric_2
+  - spell_shaman
+  - spell_bard
+  - spell_arcanist_2
+  - spell_shaman_2
+  - spell_oracle_2
+  - spell_skald
+  - spell_bard_2
+  - spell_magus
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_inquisitor_2
+  - spell_warpriest_2
+  - spell_oracle
+  - spell_occultist_2
+  - spell_skald_2
+  - spell_magus_2
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Flickering Lights

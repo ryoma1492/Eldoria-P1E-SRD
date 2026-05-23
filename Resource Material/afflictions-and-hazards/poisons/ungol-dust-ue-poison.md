@@ -1,5 +1,7 @@
 ---
 alias: Ungol dust (Ultimate Equipment)
+tags:
+  - poisons
 ---
 
 # Ungol dust (Ultimate Equipment)

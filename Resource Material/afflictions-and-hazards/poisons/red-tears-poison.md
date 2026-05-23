@@ -1,5 +1,7 @@
 ---
 alias: Red tears
+tags:
+  - poisons
 ---
 
 # [[3.5]] Red tears

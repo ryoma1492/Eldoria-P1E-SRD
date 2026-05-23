@@ -1,5 +1,7 @@
 ---
 alias: Firegut
+tags:
+  - diseases
 ---
 
 # Firegut

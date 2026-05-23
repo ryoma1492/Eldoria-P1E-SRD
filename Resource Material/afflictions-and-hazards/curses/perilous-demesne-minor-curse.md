@@ -1,5 +1,7 @@
 ---
 alias: Perilous Demesne, Minor
+tags:
+  - curses
 ---
 
 # Perilous Demesne, Minor

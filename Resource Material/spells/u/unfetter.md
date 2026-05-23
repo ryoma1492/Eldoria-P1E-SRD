@@ -2,6 +2,10 @@
 aliases: [Unfetter]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_summoner_1
+  - spell_summoner
 ---
 
 ## Unfetter

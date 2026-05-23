@@ -2,6 +2,38 @@
 aliases: [Wind Wall]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_warpriest_3
+  - spell_cleric
+  - spell_bloodrager
+  - spell_shaman_3
+  - spell_magus_3
+  - spell_sorcerer
+  - spell
+  - spell_oracle_3
+  - spell_shaman
+  - spell_druid_3
+  - spell_occultist_3
+  - spell_sorcerer_3
+  - spell_druid
+  - spell_summoner_unchained_3
+  - spell_magus
+  - spell_bloodrager_3
+  - spell_warpriest
+  - spell_ranger
+  - spell_arcanist_3
+  - spell_ranger_2
+  - spell_spiritualist_3
+  - spell_oracle
+  - spell_summoner
+  - spell_hunter_2
+  - spell_summoner_unchained
+  - spell_hunter
+  - spell_occultist
+  - spell_cleric_3
+  - spell_spiritualist
+  - spell_arcanist
+  - spell_summoner_2
 ---
 
 ## Wind Wall

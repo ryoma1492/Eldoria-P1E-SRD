@@ -1,5 +1,7 @@
 ---
 alias: Camouflaged Spiked Pit Trap
+tags:
+  - traps
 ---
 
 ## Camouflaged Spiked Pit Trap

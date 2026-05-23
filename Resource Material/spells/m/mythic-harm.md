@@ -2,6 +2,22 @@
 aliases: [Mythic Harm]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_cleric_6
+  - spell
+  - spell_spiritualist_6
+  - spell_oracle_6
+  - spell_shaman_7
+  - spell_shaman
+  - spell_inquisitor
+  - spell_warpriest
+  - spell_oracle
+  - spell_warpriest_6
+  - spell_inquisitor_6
+  - spell_occultist
+  - spell_spiritualist
+  - spell_occultist_6
 ---
 
 ## Mythic Harm

@@ -2,6 +2,24 @@
 aliases: [Mythic Burning Hands]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_adept_1
+  - spell_bloodrager
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_shaman
+  - spell_shaman_1
+  - spell_witch_1
+  - spell_adept
+  - spell_magus
+  - spell_magus_1
+  - spell_occultist_1
+  - spell_sorcerer_1
+  - spell_occultist
+  - spell_arcanist
+  - spell_bloodrager_1
 ---
 
 ## Mythic Burning Hands

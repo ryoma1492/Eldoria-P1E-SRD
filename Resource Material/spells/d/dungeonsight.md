@@ -2,6 +2,24 @@
 aliases: [Dungeonsight]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_skald_4
+  - spell_cleric
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell
+  - spell_arcanist_5
+  - spell_inquisitor_4
+  - spell_bard
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_skald
+  - spell_warpriest_5
+  - spell_warpriest
+  - spell_inquisitor
+  - spell_oracle
+  - spell_bard_4
+  - spell_arcanist
 ---
 
 ## Dungeonsight

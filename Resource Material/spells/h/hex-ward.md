@@ -2,6 +2,14 @@
 aliases: [Hex Ward]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_shaman
+  - spell_inquisitor_1
+  - spell_shaman_1
+  - spell_inquisitor
+  - spell_occultist_1
+  - spell_occultist
 ---
 
 ## Hex Ward

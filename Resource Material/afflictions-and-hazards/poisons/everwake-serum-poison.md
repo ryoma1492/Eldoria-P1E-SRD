@@ -1,5 +1,7 @@
 ---
 alias: Everwake serum
+tags:
+  - poisons
 ---
 
 # Everwake serum

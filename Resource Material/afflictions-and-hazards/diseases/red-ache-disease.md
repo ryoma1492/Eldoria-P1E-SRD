@@ -1,5 +1,7 @@
 ---
 alias: Red Ache
+tags:
+  - diseases
 ---
 
 # Red Ache

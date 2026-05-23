@@ -1,5 +1,7 @@
 ---
 alias: Meteor Swarm Trap
+tags:
+  - traps
 ---
 
 ## Meteor Swarm Trap

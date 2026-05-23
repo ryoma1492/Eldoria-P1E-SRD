@@ -2,6 +2,14 @@
 aliases: [Sylvan Hideaway]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_ranger_3
+  - spell
+  - spell_druid_3
+  - spell_druid
+  - spell_hunter_3
+  - spell_ranger
+  - spell_hunter
 ---
 
 ## Sylvan Hideaway

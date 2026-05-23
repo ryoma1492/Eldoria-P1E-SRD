@@ -2,6 +2,46 @@
 aliases: ["Eagle's Splendor"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell_bloodrager
+  - spell_alchemist_2
+  - spell_sorcerer
+  - spell_psychic_2
+  - spell_mesmerist
+  - spell
+  - spell_sorcerer_2
+  - spell_cleric_2
+  - spell_medium
+  - spell_bloodrager_2
+  - spell_redmantisassassin
+  - spell_shaman
+  - spell_bard
+  - spell_arcanist_2
+  - spell_paladin_2
+  - spell_redmantisassassin_2
+  - spell_shaman_2
+  - spell_antipaladin_2
+  - spell_oracle_2
+  - spell_skald
+  - spell_bard_2
+  - spell_warpriest
+  - spell_medium_2
+  - spell_investigator_2
+  - spell_investigator
+  - spell_warpriest_2
+  - spell_alchemist
+  - spell_mesmerist_2
+  - spell_oracle
+  - spell_psychic
+  - spell_skald_2
+  - spell_summoner
+  - spell_summoner_unchained_2
+  - spell_summoner_unchained
+  - spell_antipaladin
+  - spell_summoner_2
+  - spell_arcanist
 ---
 
 ## Eagle's Splendor

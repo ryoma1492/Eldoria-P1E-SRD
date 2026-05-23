@@ -2,6 +2,38 @@
 aliases: [Free Swim]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_inquisitor_3
+  - spell_ranger_3
+  - spell_cleric
+  - spell_mesmerist_3
+  - spell_skald_3
+  - spell_mesmerist
+  - spell
+  - spell_oracle_3
+  - spell_medium
+  - spell_bard
+  - spell_psychic_3
+  - spell_druid_3
+  - spell_occultist_3
+  - spell_hunter_3
+  - spell_druid
+  - spell_skald
+  - spell_inquisitor
+  - spell_ranger
+  - spell_investigator
+  - spell_alchemist
+  - spell_spiritualist_3
+  - spell_oracle
+  - spell_alchemist_3
+  - spell_psychic
+  - spell_bard_3
+  - spell_hunter
+  - spell_medium_3
+  - spell_occultist
+  - spell_cleric_3
+  - spell_spiritualist
+  - spell_investigator_3
 ---
 
 ## Free Swim

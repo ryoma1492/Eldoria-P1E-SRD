@@ -2,6 +2,48 @@
 aliases: [True Seeing]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_occultist_5
+  - spell_summoner_5
+  - spell_sorcerer
+  - spell_mesmerist
+  - spell
+  - spell_psychic_5
+  - spell_alchemist_6
+  - spell_spiritualist_6
+  - spell_druid_7
+  - spell_medium
+  - spell_witch
+  - spell_shaman
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_medium_4
+  - spell_sorcerer_6
+  - spell_investigator_6
+  - spell_arcanist_6
+  - spell_adept
+  - spell_druid
+  - spell_magus
+  - spell_inquisitor_5
+  - spell_inquisitor
+  - spell_warpriest_5
+  - spell_warpriest
+  - spell_magus_6
+  - spell_summoner_unchained_6
+  - spell_investigator
+  - spell_shaman_5
+  - spell_alchemist
+  - spell_oracle
+  - spell_psychic
+  - spell_summoner
+  - spell_witch_6
+  - spell_adept_5
+  - spell_summoner_unchained
+  - spell_mesmerist_6
+  - spell_occultist
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## True Seeing

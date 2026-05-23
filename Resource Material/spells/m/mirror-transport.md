@@ -2,6 +2,22 @@
 aliases: [Mirror Transport]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_redmantisassassin
+  - spell_occultist_4
+  - spell_witch_4
+  - spell_psychic
+  - spell_sorcerer_4
+  - spell_spiritualist_4
+  - spell_psychic_4
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_spiritualist
+  - spell_redmantisassassin_4
+  - spell_arcanist
 ---
 
 ## Mirror Transport

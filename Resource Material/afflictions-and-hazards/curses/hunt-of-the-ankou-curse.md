@@ -1,5 +1,7 @@
 ---
 alias: Hunt of the Ankou
+tags:
+  - curses
 ---
 
 # Hunt of the Ankou

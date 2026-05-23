@@ -1,5 +1,7 @@
 ---
 alias: Insanity pill
+tags:
+  - poisons
 ---
 
 # [[3.5]] Insanity pill

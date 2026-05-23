@@ -2,6 +2,26 @@
 aliases: [Reinforce Armaments]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_witch
+  - spell_redmantisassassin
+  - spell_warpriest_1
+  - spell_redmantisassassin_1
+  - spell_witch_1
+  - spell_cleric_1
+  - spell_oracle_1
+  - spell_magus
+  - spell_warpriest
+  - spell_magus_1
+  - spell_oracle
+  - spell_occultist_1
+  - spell_sorcerer_1
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Reinforce Armaments

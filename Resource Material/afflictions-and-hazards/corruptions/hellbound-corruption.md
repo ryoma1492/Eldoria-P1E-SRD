@@ -1,5 +1,7 @@
 ---
 alias: Hellbound Corruption
+tags:
+  - corruptions
 ---
 
 # Hellbound Corruption

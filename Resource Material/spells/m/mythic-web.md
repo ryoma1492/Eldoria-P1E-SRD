@@ -2,6 +2,18 @@
 aliases: [Mythic Web]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_2
+  - spell_witch
+  - spell_arcanist_2
+  - spell_adept
+  - spell_magus
+  - spell_witch_2
+  - spell_adept_2
+  - spell_magus_2
+  - spell_arcanist
 ---
 
 ## Mythic Web

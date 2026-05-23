@@ -2,6 +2,20 @@
 aliases: [Mythic Fire Snake]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_occultist_5
+  - spell_sorcerer_5
+  - spell_sorcerer
+  - spell
+  - spell_arcanist_5
+  - spell_magus_5
+  - spell_druid
+  - spell_magus
+  - spell_hunter_5
+  - spell_druid_5
+  - spell_hunter
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Mythic Fire Snake

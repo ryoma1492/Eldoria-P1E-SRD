@@ -1,5 +1,7 @@
 ---
 alias: Vorel's Phage
+tags:
+  - diseases
 ---
 
 # [[3.5]] Vorel's Phage

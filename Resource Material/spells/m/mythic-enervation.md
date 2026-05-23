@@ -2,6 +2,20 @@
 aliases: [Mythic Enervation]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_bloodrager
+  - spell_sorcerer
+  - spell
+  - spell_mesmerist
+  - spell_witch
+  - spell_witch_4
+  - spell_bloodrager_4
+  - spell_mesmerist_4
+  - spell_sorcerer_4
+  - spell_spiritualist_4
+  - spell_arcanist_4
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Mythic Enervation

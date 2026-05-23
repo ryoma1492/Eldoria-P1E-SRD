@@ -2,6 +2,18 @@
 aliases: [Rotting Alliance]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell
+  - spell_cleric_8
+  - spell_oracle_8
+  - spell_druid
+  - spell_inquisitor
+  - spell_druid_8
+  - spell_oracle
+  - spell_inquisitor_6
+  - spell_occultist
+  - spell_occultist_6
 ---
 
 ## Rotting Alliance

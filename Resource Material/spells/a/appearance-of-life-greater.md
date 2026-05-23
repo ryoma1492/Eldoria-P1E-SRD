@@ -2,6 +2,28 @@
 aliases: [Appearance of Life, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_sorcerer
+  - spell_sorcerer_5
+  - spell
+  - spell_mesmerist
+  - spell_psychic_5
+  - spell_arcanist_5
+  - spell_witch
+  - spell_medium
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_medium_4
+  - spell_warpriest_5
+  - spell_warpriest
+  - spell_witch_5
+  - spell_oracle
+  - spell_psychic
+  - spell_mesmerist_5
+  - spell_spiritualist_4
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Appearance of Life, Greater

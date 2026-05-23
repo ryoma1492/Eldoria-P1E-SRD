@@ -1,5 +1,7 @@
 ---
 alias: Oblivion
+tags:
+  - drugs
 ---
 
 # Oblivion

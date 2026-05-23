@@ -1,5 +1,7 @@
 ---
 alias: Acid Arrow Trap
+tags:
+  - traps
 ---
 
 ## Acid Arrow Trap

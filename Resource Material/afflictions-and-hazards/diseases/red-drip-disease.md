@@ -1,5 +1,7 @@
 ---
 alias: Red Drip
+tags:
+  - diseases
 ---
 
 # Red Drip

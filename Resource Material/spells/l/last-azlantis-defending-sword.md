@@ -2,6 +2,18 @@
 aliases: ["Last Azlanti's Defending Sword"]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_sorcerer
+  - spell
+  - spell_sorcerer_6
+  - spell_arcanist_6
+  - spell_magus
+  - spell_psychic_7
+  - spell_magus_6
+  - spell_psychic
+  - spell_occultist
+  - spell_occultist_6
+  - spell_arcanist
 ---
 
 ## Last Azlanti's Defending Sword

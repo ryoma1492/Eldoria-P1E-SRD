@@ -1,5 +1,7 @@
 ---
 alias: Green Prismatic Poison
+tags:
+  - poisons
 ---
 
 # Green Prismatic Poison

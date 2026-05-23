@@ -1,5 +1,7 @@
 ---
 alias: Thornapple
+tags:
+  - poisons
 ---
 
 # Thornapple

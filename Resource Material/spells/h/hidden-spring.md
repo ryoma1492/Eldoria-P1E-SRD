@@ -2,6 +2,22 @@
 aliases: [Hidden Spring]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_druid_1
+  - spell_cleric
+  - spell
+  - spell_shaman
+  - spell_warpriest_1
+  - spell_ranger_1
+  - spell_shaman_1
+  - spell_cleric_1
+  - spell_druid
+  - spell_oracle_1
+  - spell_ranger
+  - spell_warpriest
+  - spell_oracle
+  - spell_hunter
+  - spell_hunter_1
 ---
 
 ## Hidden Spring

@@ -2,6 +2,18 @@
 aliases: [Quick Throwing]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_bloodrager
+  - spell
+  - spell_bloodrager_2
+  - spell_paladin_2
+  - spell_antipaladin_2
+  - spell_magus
+  - spell_magus_2
+  - spell_hunter_2
+  - spell_hunter
+  - spell_antipaladin
 ---
 
 ## Quick Throwing

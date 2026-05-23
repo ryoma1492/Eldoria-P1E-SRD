@@ -2,6 +2,30 @@
 aliases: [Darkvision, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_hunter_4
+  - spell_sorcerer
+  - spell
+  - spell_medium
+  - spell_ranger_4
+  - spell_redmantisassassin
+  - spell_occultist_4
+  - spell_medium_4
+  - spell_ranger
+  - spell_investigator
+  - spell_alchemist
+  - spell_psychic
+  - spell_sorcerer_4
+  - spell_alchemist_4
+  - spell_antipaladin_4
+  - spell_investigator_4
+  - spell_hunter
+  - spell_psychic_4
+  - spell_occultist
+  - spell_arcanist_4
+  - spell_antipaladin
+  - spell_redmantisassassin_4
+  - spell_arcanist
 ---
 
 ## Darkvision, Greater

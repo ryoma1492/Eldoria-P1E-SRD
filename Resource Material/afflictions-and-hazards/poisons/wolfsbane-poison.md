@@ -1,5 +1,7 @@
 ---
 alias: Wolfsbane
+tags:
+  - poisons
 ---
 
 # Wolfsbane

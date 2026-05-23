@@ -2,6 +2,32 @@
 aliases: [Plane Shift]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_summoner_5
+  - spell_sorcerer
+  - spell_witch_7
+  - spell_spiritualist_5
+  - spell
+  - spell_psychic_5
+  - spell_witch
+  - spell_medium
+  - spell_shaman_7
+  - spell_shaman
+  - spell_cleric_5
+  - spell_oracle_5
+  - spell_medium_4
+  - spell_warpriest
+  - spell_warpriest_5
+  - spell_summoner_unchained_6
+  - spell_sorcerer_7
+  - spell_oracle
+  - spell_psychic
+  - spell_summoner
+  - spell_arcanist_7
+  - spell_summoner_unchained
+  - spell_spiritualist
+  - spell_arcanist
 ---
 
 ## Plane Shift

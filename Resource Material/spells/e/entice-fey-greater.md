@@ -2,6 +2,10 @@
 aliases: [Entice Fey, Greater]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_druid_9
+  - spell_druid
 ---
 
 ## Entice Fey, Greater

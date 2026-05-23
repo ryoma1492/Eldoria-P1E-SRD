@@ -2,6 +2,8 @@
 aliases: [Ward the Faithful]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
 ---
 
 ## Ward the Faithful

@@ -2,6 +2,22 @@
 aliases: [Ethereal Jaunt]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_cleric
+  - spell_summoner_5
+  - spell_sorcerer
+  - spell
+  - spell_psychic_6
+  - spell_summoner_unchained_6
+  - spell_sorcerer_7
+  - spell_cleric_7
+  - spell_oracle
+  - spell_psychic
+  - spell_summoner
+  - spell_arcanist_7
+  - spell_summoner_unchained
+  - spell_oracle_7
+  - spell_arcanist
 ---
 
 ## Ethereal Jaunt

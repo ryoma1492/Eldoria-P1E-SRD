@@ -2,6 +2,10 @@
 aliases: [Chord of Shards]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_bard
+  - spell_bard_1
 ---
 
 ## Chord of Shards

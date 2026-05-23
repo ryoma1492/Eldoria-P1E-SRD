@@ -2,6 +2,18 @@
 aliases: [Mythic Floating Disk]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_psychic_1
+  - spell_arcanist_1
+  - spell_sorcerer
+  - spell
+  - spell_magus
+  - spell_magus_1
+  - spell_psychic
+  - spell_occultist_1
+  - spell_sorcerer_1
+  - spell_occultist
+  - spell_arcanist
 ---
 
 ## Mythic Floating Disk

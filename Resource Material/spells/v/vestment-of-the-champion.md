@@ -2,6 +2,10 @@
 aliases: [Vestment of the Champion]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_antipaladin_2
+  - spell_antipaladin
 ---
 
 ## Vestment of the Champion

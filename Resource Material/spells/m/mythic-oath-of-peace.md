@@ -2,6 +2,8 @@
 aliases: [Mythic Oath of Peace]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
 ---
 
 ## Mythic Oath of Peace

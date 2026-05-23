@@ -2,6 +2,24 @@
 aliases: [Haze of Dreams]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell_paladin
+  - spell_cleric
+  - spell
+  - spell_paladin_1
+  - spell_shaman
+  - spell_bard
+  - spell_warpriest_1
+  - spell_inquisitor_1
+  - spell_bard_1
+  - spell_skald_1
+  - spell_shaman_1
+  - spell_cleric_1
+  - spell_skald
+  - spell_oracle_1
+  - spell_inquisitor
+  - spell_warpriest
+  - spell_oracle
 ---
 
 ## Haze of Dreams

@@ -2,6 +2,12 @@
 aliases: [Fairy Ring Retreat]
 created: 2023-04-27
 updated: 2023-04-28
+tags:
+  - spell
+  - spell_druid_7
+  - spell_shaman_7
+  - spell_shaman
+  - spell_druid
 ---
 
 ## Fairy Ring Retreat
