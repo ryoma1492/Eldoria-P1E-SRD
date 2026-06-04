@@ -5,6 +5,8 @@ draft: "true"
 ---
 
 
+[[The Mycelial Elder]] introduces the concept of attunement to the [[Heroes]] for their [[3 phase Dragon powers]] 
+
 Spire folk have access to magical plants, and are cultivating them 
 
 https://www.d20pfsrd.com/magic-items/magic-plants/
