@@ -1,64 +1,51 @@
+
+
+## Jellybean (Wings)
 ### PHASE 1 — Wyrm-Kissed Agility
 
 **Passive: Featherstep**
-
-- +1 Dodge bonus to AC
-- +2 Acrobatics
-- Reduce falling damage by 20 ft equivalent
+* Gain a +1 dodge bonus to AC.
+* Gain a +2 competence bonus on Acrobatics checks.
+* Treat all falls as if they were 20 feet shorter than they actually are for the purpose of calculating damage.
 
 **Active: Predator’s Burst (Swift Action)**
-
-- Move up to 10 ft without provoking
-- If movement ends while threatening a flanked target: +1d6 sneak attack this round (once)
+* Move up to 10 feet. This movement does not provoke attacks of opportunity.
+* If this movement ends while you are flanking a target, you deal an additional +1d6 sneak attack damage on your next successful attack this round. This extra damage can only be applied once per round.
 
 ---
 
 ### PHASE 2 — Riftwind Movement
 
 **Passive: Riftwind Movement**
-
-- +1 Dodge bonus to AC (total +2)
-- +10 ft movement speed
-- May move through enemy squares at full speed (provokes as normal)
+* Your dodge bonus to AC from *Featherstep* increases to +2.
+* Gain a +10-foot enhancement bonus to your base land speed.
+* You may move through squares occupied by enemies at your full normal speed. This movement still provokes attacks of opportunity as normal unless avoided via Acrobatics.
 
 **Active: Wingbreak Gust (Immediate Action, 2/combat)**  
-Trigger: when Jellybean is targeted by a melee attack
-
-- Target makes Reflex save  
-    **DC = 10 + Dex modifier + ½ character level**
-- On failure:
-	- Attack is taken at disadvantage
-    - Target is pushed 5 ft (linear from Jellybean)
-- On success:
-	- +2 circumstance bonus on any Dex based DC check vs Attacker
-- If target cannot be moved:
-    - Target becomes flat-footed vs Jellybean until end of Jellybean's next turn
+*Trigger:* When Jellybean is targeted by a melee attack.
+* **Effect:** The attacker must succeed on a **Reflex saving throw** (DC = 10 + Jellybean's Dex modifier + ½ Jellybean's character level).
+* **On Failure:** The attacker must roll their attack roll twice and take the lower result. Additionally, the target is pushed 5 feet directly away from Jellybean and becomes **flat-footed** until the end of their current turn.
+* **On Success:** Jellybean gains a +2 circumstance bonus to Armor Class, Reflex saving throws, and all Dexterity-based checks against that attacker until the end of the attacker's current turn.
 
 ---
 
 ### PHASE 3 — True Wyrm Wings
 
 **Passive: True Wings**
-
-- +1 Dodge bonus to AC (total +3)
-- Fly 30 ft (average)
-- Can hover
+* Your dodge bonus to AC from *Riftwind Movement* increases to +3.
+* Gain a fly speed of 30 feet with average maneuverability.
+* You can hover in place while flying without needing to make a Fly skill check.
 
 **Active: Wyrm’s Downdraft (Full-Round Action)**
+* You beat your wings with cyclonic force, creating a 30-foot cone-shaped burst of wind. All creatures within the area must attempt a **Reflex saving throw** (DC = 10 + Jellybean's Dex modifier + ½ Jellybean's character level).
+* **On Failure:** The target is knocked **prone**, pushed 5 feet directly away from Jellybean by the wind force, and cannot make attacks of opportunity or take immediate actions until the start of their next turn.
+* **On Success:** The target is not knocked down or moved, but becomes **shaken** until the end of their next turn.
 
-- 30-ft cone shaped burst
-- Reflex save:  
-    **DC = 10 + Dex modifier + character level**
 
-On failure:
 
-- Knocked prone
-- Moved 5 ft by wind force (linear from Jellybean)
-- Cannot take reactions until next turn
+---
 
-On success:
 
-- shaken until their next turn
 ---
 
 # Leon (Claws)
