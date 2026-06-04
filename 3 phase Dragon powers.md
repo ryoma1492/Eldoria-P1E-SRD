@@ -55,8 +55,9 @@
 **Passive: Corrosive Channel**  
 Spellstrike gains +1 acid damage per spell level.
 
-**Active: Acid Rend**  
-One Spellstrike ignores natural armor.
+**Active: Caustic Sunder**  
+Free action after a successful hit (Int Mod/day):
+- Reduce target's Armor or Natural Armor by Leon’s Arcane Pool bonus for 1 minute.
 
 ---
 
@@ -65,8 +66,10 @@ One Spellstrike ignores natural armor.
 **Passive: Predator's Instinct**  
 +2 confirm critical hits.
 
-**Active: Dragon's Conversion**  
-Convert one spell's damage to acid.
+**Active: Caustic Contamination**  
+Swift action before an attack (2/day):
+- Next hit forces Fortitude save (DC 10 + 1/2 Level + Int).
+- Failure: Target is Sickened for 1d3 rounds (-2 to attacks, saves, damage).
 
 ---
 
@@ -75,11 +78,11 @@ Convert one spell's damage to acid.
 **Passive: Corroding Wounds**  
 Spellstrike crits deal 2d6 acid next round.
 
-**Active: Wyrm's Fang**  
-Before Spellstrike:
-
-- Ignore acid resistance.
-- Treat immunity as resistance 20.
+**Active: Terminal Decay**  
+Swift action before an attack (1/day):
+- Next hit forces Fortitude save (DC 10 + 1/2 Level + Int).
+- Failure: Target is Nauseated for 1 round (Move actions only).
+- Success: Target is still Sickened for 1 round.
 
 ---
 
