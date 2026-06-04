@@ -42,47 +42,44 @@
 * **On Success:** The target is not knocked down or moved, but becomes **shaken** until the end of their next turn.
 
 
-
----
-
-
 ---
 
 # Leon (Claws)
 
-### Phase 1
+### PHASE 1 — Caustic Striking
 
 **Passive: Corrosive Channel**  
-Spellstrike gains +1 acid damage per spell level.
+* Spellstrike gains +1 acid damage per spell level.
 
-**Active: Caustic Sunder**  
-Free action after a successful hit (Int Mod/day):
-- Reduce target's Armor or Natural Armor by Leon’s Arcane Pool bonus for 1 minute.
+**Active: Caustic Sunder (Free Action, Int Mod/day)**  
+*Trigger:* Declared after a successful Spellstrike or melee attack hits a target.
+* **Effect:** The target's Armor bonus (from physical armor) or Natural Armor bonus is instantly reduced by an amount equal to Leon’s current Arcane Pool enhancement bonus (minimum 1) for 1 minute.
 
 ---
 
-### Phase 2
+### PHASE 2 — The Rotting Edge
 
 **Passive: Predator's Instinct**  
-+2 confirm critical hits.
+* Gain a +2 bonus to confirm critical hits.
 
-**Active: Caustic Contamination**  
-Swift action before an attack (2/day):
-- Next hit forces Fortitude save (DC 10 + 1/2 Level + Int).
-- Failure: Target is Sickened for 1d3 rounds (-2 to attacks, saves, damage).
+**Active: Caustic Contamination (Swift Action, 2/day)**  
+*Trigger:* Declared before making a melee attack or starting a Spell Combat routine.
+* **Effect:** Jet-black, acidic rot seeps from Leon's claws onto his weapon. The next successful melee attack he lands this round forces the target to attempt a **Fortitude saving throw** (DC = 10 + ½ Leon's Magus level + Leon's Int modifier).
+* **On Failure:** The target is **Sickened** for 1d3 rounds (taking a -2 penalty on all attack rolls, weapon damage rolls, saving throws, skill checks, and ability checks).
+* **On Success:** The target resists the physical rot but is filled with draconic dread, becoming **Shaken** (-2 penalty on attack rolls, saving throws, and skill checks) until the end of their next turn.
 
 ---
 
-### Phase 3
+### PHASE 3 — True Wyrm Claws
 
 **Passive: Corroding Wounds**  
-Spellstrike crits deal 2d6 acid next round.
+* Whenever Leon confirms a critical hit with a Spellstrike, the target takes an additional 2d6 acid damage.
 
-**Active: Terminal Decay**  
-Swift action before an attack (1/day):
-- Next hit forces Fortitude save (DC 10 + 1/2 Level + Int).
-- Failure: Target is Nauseated for 1 round (Move actions only).
-- Success: Target is still Sickened for 1 round.
+**Active: Terminal Decay (Swift Action, 1/combat)**  
+*Trigger:* Declared before making a melee attack or starting a Spell Combat routine.
+* **Effect:** The claw's necrotic malice floods Leon's arms, adding disease to the rot he can apply to his weapon. The next successful melee attack he lands this round forces the target to attempt a **Fortitude saving throw** (DC = 10 + ½ Leon's Magus level + Leon's Int modifier).
+* **On Failure:** The target is **Nauseated** for 1 round (unable to attack, cast spells, or take standard actions; they can only take a single move action per turn).
+* **On Success:** The target avoids complete organ failure but is still **Sickened** for 1 round.
 
 ---
 
