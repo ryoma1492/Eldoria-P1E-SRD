@@ -27,10 +27,12 @@ Trigger: when Jellybean is targeted by a melee attack
 - Target makes Reflex save  
     **DC = 10 + Dex modifier + ½ character level**
 - On failure:
+	- Attack is taken at disadvantage
     - Target is pushed 5 ft (linear from Jellybean)
-    - Attack takes –2 penalty or becomes invalid due to lost positioning (GM adjudication)
+- On success:
+	- +2 circumstance bonus on any Dex based DC check vs Attacker
 - If target cannot be moved:
-    - Target becomes flat-footed vs Jellybean until end of current turn
+    - Target becomes flat-footed vs Jellybean until end of Jellybean's next turn
 
 ---
 
@@ -56,7 +58,7 @@ On failure:
 
 On success:
 
-- Still affected by turbulence: –2 AC vs Jellybean until next turn
+- shaken until their next turn
 ---
 
 # Leon (Claws)
