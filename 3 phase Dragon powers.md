@@ -1,44 +1,62 @@
-# Jellybean (Wings)
-
-### Phase 1
+### PHASE 1 — Wyrm-Kissed Agility
 
 **Passive: Featherstep**
 
-- Ignore first 20 ft of falling damage.
-- +2 Acrobatics.
+- +1 Dodge bonus to AC
+- +2 Acrobatics
+- Reduce falling damage by 20 ft equivalent
 
-**Active: Predator's Burst**  
-Swift action.  
-Move up to 10 ft without provoking.  
-If this creates flanking, gain +1d6 sneak attack this round.
+**Active: Predator’s Burst (Swift Action)**
 
----
-
-### Phase 2
-
-**Passive: Drifting Wings**
-
-- Always land on feet.
-- Can glide 30 ft for every 10 ft descended.
-
-**Active: Shadow Dive**  
-Immediate action.  
-Move 15 ft after being targeted by an attack.
+- Move up to 10 ft without provoking
+- If movement ends while threatening a flanked target: +1d6 sneak attack this round (once)
 
 ---
 
-### Phase 3
+### PHASE 2 — Riftwind Movement
+
+**Passive: Riftwind Movement**
+
+- +1 Dodge bonus to AC (total +2)
+- +10 ft movement speed
+- May move through enemy squares at full speed (provokes as normal)
+
+**Active: Wingbreak Gust (Immediate Action, 2/combat)**  
+Trigger: when Jellybean is targeted by a melee attack
+
+- Target makes Reflex save  
+    **DC = 10 + Dex modifier + ½ character level**
+- On failure:
+    - Target is pushed 5 ft (linear from Jellybean)
+    - Attack takes –2 penalty or becomes invalid due to lost positioning (GM adjudication)
+- If target cannot be moved:
+    - Target becomes flat-footed vs Jellybean until end of current turn
+
+---
+
+### PHASE 3 — True Wyrm Wings
 
 **Passive: True Wings**
 
-- Fly 30 ft (average).
+- +1 Dodge bonus to AC (total +3)
+- Fly 30 ft (average)
+- Can hover
 
-**Active: Murder Drop**  
-After descending at least 10 ft:
+**Active: Wyrm’s Downdraft (Full-Round Action)**
 
-- Next attack gains +2 attack.
-- Double sneak attack dice.
+- 30-ft cone shaped burst
+- Reflex save:  
+    **DC = 10 + Dex modifier + character level**
 
+On failure:
+
+- Knocked prone
+- Moved 5 ft by wind force (linear from Jellybean)
+- Cannot take reactions until next turn
+
+On success:
+
+- Still affected by turbulence: –2 AC vs Jellybean until next turn
 ---
 
 # Leon (Claws)
