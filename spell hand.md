@@ -101,6 +101,13 @@ layout: page
 </style>
 
 <script>
+<script type="text/javascript">
+// <![CDATA[
+
+// 1. Paste your clean, restored JavaScript here.
+// 2. Quartz will completely ignore everything between the CDATA lines.
+// 3. Make sure to fix the missing function at the very end:
+
 // 1. Automatically grab query parameters from the window's browser location link
 const urlParams = new URLSearchParams(window.location.search);
 
@@ -363,4 +370,8 @@ function handleCardActivation(btnElement, isAbility) {
   btnElement.style.background = 'var(--gray)';
   btnElement.disabled = true;
 }
+
+
+// ]]>
+
 </script>
