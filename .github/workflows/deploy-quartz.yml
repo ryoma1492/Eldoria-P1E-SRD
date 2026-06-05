@@ -10,7 +10,31 @@ permissions:
   contents: write
 
 jobs:
+  # --- STEP 1: DETECT WHAT WAS CHANGED ---
+  determine-changes:
+    runs-on: ubuntu-latest
+    outputs:
+      only_prerendered: ${{ steps.filter.outputs.only_prerendered }}
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 2 # Fetch the commit history to run comparison hashes
+
+      - name: Check for file alterations
+        id: filter
+        run: |
+          # Use git diff to see if files modified are strictly inside pre-rendered/
+          # Returns true if all changes fall within that directory
+          if git diff --name-only HEAD~1 HEAD | grep -qv '^pre-rendered/'; then
+            echo "only_prerendered=false" >> $GITHUB_OUTPUT
+          else
+            echo "only_prerendered=true" >> $GITHUB_OUTPUT
+          fi
+
+  # --- STEP 2: BUILD ROUTING ENVIRONMENT ---
   build-and-deploy:
+    needs: determine-changes
     runs-on: ubuntu-latest
 
     steps:
@@ -19,48 +43,63 @@ jobs:
         with:
           fetch-depth: 0
 
+      # ==========================================
+      # PATHWAY A: FULL QUARTZ BUILD & RECOMPILE
+      # Runs ONLY if non-pre-rendered notes/files were updated
+      # ==========================================
       - name: Setup Node
+        if: needs.determine-changes.outputs.only_prerendered == 'false'
         uses: actions/setup-node@v6
         with:
           node-version: 'lts/*'
 
       - name: Install Quartz
+        if: needs.determine-changes.outputs.only_prerendered == 'false'
         run: |
           cd quartz
           npm install
+
       - name: Prepare content for Quartz
+        if: needs.determine-changes.outputs.only_prerendered == 'false'
         run: |
           rm -rf quartz/content
           mkdir -p quartz/content
-
-          # copy everything except quartz itself
           rsync -av \
             --exclude='quartz' \
             --exclude='.git' \
             --exclude='pre-rendered' \
             ./ quartz/content/
 
-      - name: Build site
+      - name: Build site via Quartz
+        if: needs.determine-changes.outputs.only_prerendered == 'false'
         run: |
           cd quartz
           npx quartz build
 
-      # --- AUTOMATED PRE-RENDERED INJECTION LOOP ---
-      # This loops through every .html file in pre-rendered/, creates a folder 
-      # matching its filename, and names the file index.html inside it.
+      # ==========================================
+      # PATHWAY B: FAST TRACK (PRE-RENDERED ONLY)
+      # Pulls down your existing live site to patch it natively
+      # ==========================================
+      - name: Fetch Current Production Site Assets
+        if: needs.determine-changes.outputs.only_prerendered == 'true'
+        run: |
+          # Fetch the existing public branch into the expected public directory path
+          git clone --branch gh-pages https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} quartz/public
+          # Clear .git reference inside public to maintain deployment compatibility
+          rm -rf quartz/public/.git
 
+      # ==========================================
+      # SHARED DEPLOYMENT PROCESSING ENGINE
+      # Always runs, safely processing our looping configurations
+      # ==========================================
       - name: Inject Pre-Rendered Apps Dynamically
         run: |
           if [ -d "pre-rendered" ] && [ "$(ls -A pre-rendered/*.html 2>/dev/null)" ]; then
-            echo "Found pre-rendered pages. Processing..."
+            echo "Processing pre-rendered files..."
             for file in pre-rendered/*.html; do
-              # Extract the filename without the path or extension (e.g., 'spell-hand')
               slug=$(basename "$file" .html)
-              
               echo "Creating clean routing directory for: /$slug"
               mkdir -p "quartz/public/$slug"
-              
-              # Copy the file as index.html so it serves cleanly at that route
               cp "$file" "quartz/public/$slug/index.html"
             done
           else
@@ -74,7 +113,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add .
-          git commit -m "Deploy site"
+          git commit -m "Deploy site updates (Optimized Build Flow)"
           git branch -M gh-pages
           git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git push -f origin gh-pages
