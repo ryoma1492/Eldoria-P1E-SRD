@@ -111,17 +111,27 @@ const targetId = urlParams.get('id') ? urlParams.get('id').toLowerCase().trim() 
 
 const sheetId = '1uP_IiVgExtVT5xd6Tgk63k-NLLV7hS5EWDXIsKyFsdo';
 
-  // --- CONFIGURATION & MAPS ---
-const CLASS_NAMES = { 1:"Sorcerer",2:"Wizard",3:"Cleric",4:"Druid",5:"Ranger",6:"Bard",7:"Paladin",8:"Alchemist",9:"Summoner",10:"Witch",11:"Inquisitor",12:"Oracle",13:"Antipaladin",14:"Magus",15:"Bloodrager",16:"Shaman",17:"Psychic",18:"Medium",19:"Mesmerist",20:"Occultist",21:"Spiritualist",22:"Skald",23:"Investigator",24:"Hunter",25:"Summoner_unchained",26:"Barbarian",27:"Fighter",28:"Monk",29:"Rogue",30:"Gunslinger",31:"Cavalier",32:"Shifter",33:"Vigilante",34:"Unchained Barbarian",35:"Unchained Monk",36:"Unchained Rogue",37:"Arcanist",38:"Bloodrager",39:"Hunter",40:"Investigator",41:"Shaman",42:"Skald",43:"Brawler",44:"Slayer",45:"Swashbuckler",46:"Warpriest",47:"Kineticist"};
+// --- CONFIGURATION & MAPS (Quartz-Safe Version) ---
+const CLASS_NAMES = { 
+  1: 'Sorcerer', 2: 'Wizard', 3: 'Cleric', 4: 'Druid', 5: 'Ranger', 
+  6: 'Bard', 7: 'Paladin', 8: 'Alchemist', 9: 'Summoner', 10: 'Witch', 
+  11: 'Inquisitor', 12: 'Oracle', 13: 'Antipaladin', 14: 'Magus', 15: 'Bloodrager', 
+  16: 'Shaman', 17: 'Psychic', 18: 'Medium', 19: 'Mesmerist', 20: 'Occultist', 
+  21: 'Spiritualist', 22: 'Skald', 23: 'Investigator', 24: 'Hunter', 25: 'Summoner_unchained', 
+  26: 'Barbarian', 27: 'Fighter', 28: 'Monk', 29: 'Rogue', 30: 'Gunslinger', 
+  31: 'Cavalier', 32: 'Shifter', 33: 'Vigilante', 34: 'Unchained Barbarian', 35: 'Unchained Monk', 
+  36: 'Unchained Rogue', 37: 'Arcanist', 38: 'Bloodrager', 39: 'Hunter', 40: 'Investigator', 
+  41: 'Shaman', 42: 'Skald', 43: 'Brawler', 44: 'Slayer', 45: 'Swashbuckler', 
+  46: 'Warpriest', 47: 'Kineticist'
+};
 
-// Mapping class display names to the exact technical column names used in your sheet headers
 const CLASS_COLUMN_MAP = {
-  "sorcerer": "sor", "wizard": "wiz", "cleric": "cleric", "druid": "druid", "ranger": "ranger",
-  "bard": "bard", "paladin": "paladin", "alchemist": "alchemist", "summoner": "summoner",
-  "witch": "witch", "inquisitor": "inquisitor", "oracle": "oracle", "antipaladin": "antipaladin",
-  "magus": "magus", "bloodrager": "bloodrager", "shaman": "shaman", "psychic": "psychic",
-  "medium": "medium", "mesmerist": "mesmerist", "occultist": "occultist", "spiritualist": "spiritualist",
-  "skald": "skald", "investigator": "investigator", "hunter": "hunter", "summoner_unchained": "summoner_unchained"
+  'sorcerer': 'sor', 'wizard': 'wiz', 'cleric': 'cleric', 'druid': 'druid', 'ranger': 'ranger',
+  'bard': 'bard', 'paladin': 'paladin', 'alchemist': 'alchemist', 'summoner': 'summoner',
+  'witch': 'witch', 'inquisitor': 'inquisitor', 'oracle': 'oracle', 'antipaladin': 'antipaladin',
+  'magus': 'magus', 'bloodrager': 'bloodrager', 'shaman': 'shaman', 'psychic': 'psychic',
+  'medium': 'medium', 'mesmerist': 'mesmerist', 'occultist': 'occultist', 'spiritualist': 'spiritualist',
+  'skald': 'skald', 'investigator': 'investigator', 'hunter': 'hunter', 'summoner_unchained': 'summoner_unchained'
 };
 
 if (!targetId) {
