@@ -10,6 +10,32 @@
 </div>
 
 <style>
+
+
+  /* --- DECOUPLED THEME VARIABLES --- */
+  :root {
+    /* Locks down the core backgrounds and text colors */
+    --page-background: #1e1e24;   /* Deep slate base */
+    --secondary: #2a2a35;         /* Lighter background for header/links */
+    --light: #323242;             /* Button background */
+    --gray: #383845;              /* Border gray */
+    --darkgray: #b3b3b3;          /* Muted meta text gray */
+    --dark: #ffffff;              /* Swapped to white for dark-theme text contrast */
+    --placeholder: #a370f7;       /* Purple accent used on the header border */
+    
+    /* Interactive highlights */
+    --tertiary: #a370f7;          /* Card hover border glow */
+    --highlight: #414156;         /* Button hover state */
+  }
+
+  /* --- GLOBAL BODY OVERRIDE --- */
+  body {
+    background-color: var(--page-background) !important;
+    color: var(--dark) !important;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
   #card-grid {
     display: grid; 
     grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); 
