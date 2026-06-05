@@ -103,7 +103,7 @@ layout: page
 
 <script>
   // --- MASTER ABILITY MAPS ---
-  const CLASS_NAMES = { 1: "Magus", 2: "Wizard", 3: "Fighter", 4: "Rogue", 5: "Bard" };
+  const CLASS_NAMES = { 1:"Sorcerer",2:"Wizard",3:"Cleric",4:"Druid",5:"Ranger",6:"Bard",7:"Paladin",8:"Alchemist",9:"Summoner",10:"Witch",11:"Inquisitor",12:"Oracle",13:"Antipaladin",14:"Magus",15:"Bloodrager",16:"Shaman",17:"Psychic",18:"Medium",19:"Mesmerist",20:"Occultist",21:"Spiritualist",22:"Skald",23:"Investigator",24:"Hunter",25:"Summoner_unchained",26:"Barbarian",27:"Fighter",28:"Monk",29:"Rogue",30:"Gunslinger",31:"Cavalier",32:"Shifter",33:"Vigilante",34:"Unchained Barbarian",35:"Unchained Monk",36:"Unchained Rogue",37:"Arcanist",38:"Bloodrager",39:"Hunter",40:"Investigator",41:"Shaman",42:"Skald",43:"Brawler",44:"Slayer",45:"Swashbuckler",46:"Warpriest",47:"Kineticist" };
   const AUTOMATED_FEATURES = {
     1: [
       { name: "Spell Combat", lvl: 1, time: "Full-Round", range: "Self", desc: "Attack with a weapon and cast a spell concurrently." },
@@ -123,7 +123,7 @@ layout: page
 
   if (!targetId) {
     document.getElementById('char-title').innerText = "Tactical Deck Offline";
-    document.getElementById('card-grid').innerHTML = "<p>⚠️ Please specify a character ID token (e.g., <code>?id=ryan</code>).</p>";
+    document.getElementById('card-grid').innerHTML = "<p>⚠️ Please specify a character ID token (e.g., <code>?id=ryanh</code>).</p>";
   } else {
     initTabletopPipeline();
   }
