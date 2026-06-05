@@ -161,7 +161,7 @@
     background: var(--gray);
     border-radius: 4px;
   }
-  
+
 </style>
 
 <script>
@@ -378,7 +378,21 @@ function renderDeck(sheetRows, combinedIds, maxLevel, characterClasses, headers)
     const description = row.c[17] ? row.c[17].v : ''; 
     const descFormatted = row.c[18] ? row.c[18].v : null; 
 
-    const fullDetailsUrl = row.c[70] ? row.c[70].v : null; 
+    // Look at the formula (.f) if it exists, otherwise fall back to the value (.v)
+    let fullDetailsUrl = null;
+    if (row.c[70]) {
+      const cellFormula = row.c[70].f ? row.c[70].f.toString() : '';
+      const cellValue = row.c[70].v ? row.c[70].v.toString() : '';
+
+      // Use a regex to extract anything inside the first set of quotes in the HYPERLINK formula
+      const urlMatch = cellFormula.match(/=HYPERLINK\(['"]([^'"]+)['"]/i);
+      
+      if (urlMatch && urlMatch[1]) {
+        fullDetailsUrl = urlMatch[1]; // Successfully extracted the real URL!
+      } else if (cellValue.startsWith('http://') || cellValue.startsWith('https://')) {
+        fullDetailsUrl = cellValue; // Fallback if the raw text itself happens to be a URL
+      }
+    }
 
     let actionClass = 'action-standard';
     const lowerTime = castingTime.toLowerCase();
