@@ -1,6 +1,9 @@
 ---
 tags:
   - npc
+aliases:
+  - Killian
+alias: Killian
 ---
 
 
