@@ -2,7 +2,6 @@
 title: Combat Tactical Hand
 layout: page
 ---
-
 <div id="combat-ui">
   <div id="char-header" style="margin-bottom: 15px; padding: 15px; background: var(--secondary); border-radius: 8px; border-left: 4px solid var(--placeholder);">
     <h2 id="char-title" style="margin: 0 0 5px 0; font-size: 1.4rem;">Connecting to the table matrix...</h2>
@@ -106,7 +105,6 @@ layout: page
 const urlParams = new URLSearchParams(window.location.search);
 
 // 2. Extract the value matching ?id=yourvalue or ?target=yourvalue 
-// (If you use a different variable name in Obsidian like ?token=, swap 'id' for 'token')
 const targetId = urlParams.get('id') ? urlParams.get('id').toLowerCase().trim() : null;
 
 const sheetId = '1uP_IiVgExtVT5xd6Tgk63k-NLLV7hS5EWDXIsKyFsdo';
@@ -135,8 +133,8 @@ const CLASS_COLUMN_MAP = {
 };
 
 if (!targetId) {
-  document.getElementById('char-title').innerText = "Tactical Deck Offline";
-  document.getElementById('card-grid').innerHTML = "<p>⚠️ Please specify a character ID token.</p>";
+  document.getElementById('char-title').innerText = 'Tactical Deck Offline';
+  document.getElementById('card-grid').innerHTML = '<p>⚠️ Please specify a character ID token.</p>';
 } else {
   initTabletopPipeline();
 }
@@ -157,15 +155,15 @@ async function initTabletopPipeline() {
     }
 
     if (!matchedRecord) {
-      document.getElementById('char-title').innerText = "Character Not Found";
+      document.getElementById('char-title').innerText = 'Character Not Found';
       document.getElementById('card-grid').innerHTML = `<p>❌ No player token found matching "${targetId}".</p>`;
       return;
     }
 
-    const charName = matchedRecord.c[1] ? matchedRecord.c[1].v : "Unknown Hero";
-    const pcString = matchedRecord.c[2] ? matchedRecord.c[2].v.toString() : "";
-    const slotString = matchedRecord.c[3] ? matchedRecord.c[3].v.toString() : "";
-    const spellString = matchedRecord.c[4] ? matchedRecord.c[4].v.toString() : "";
+    const charName = matchedRecord.c[1] ? matchedRecord.c[1].v : 'Unknown Hero';
+    const pcString = matchedRecord.c[2] ? matchedRecord.c[2].v.toString() : '';
+    const slotString = matchedRecord.c[3] ? matchedRecord.c[3].v.toString() : '';
+    const spellString = matchedRecord.c[4] ? matchedRecord.c[4].v.toString() : '';
 
     let finalSpellAndAbilityIds = spellString ? spellString.split(',').map(s => s.trim()) : [];
     const playerSlots = slotString ? slotString.split(',') : [];
@@ -177,7 +175,7 @@ async function initTabletopPipeline() {
       pcString.split(',').forEach(token => {
         const [classId, level] = token.split('~').map(num => parseInt(num));
         if (classId && level) {
-          const className = CLASS_NAMES[classId] || "Unknown";
+          const className = CLASS_NAMES[classId] || 'Unknown';
           characterClasses.push({ id: classId, name: className, lvl: level });
           
           if (level > maxAllowedLevel) {
@@ -187,7 +185,7 @@ async function initTabletopPipeline() {
           const translationKey = `classability_${className.toLowerCase().trim()}`;
           for (let row of playerRows) {
             if (row.c[0] && row.c[0].v.toString().toLowerCase().trim() === translationKey) {
-              const abilityString = row.c[4] ? row.c[4].v.toString() : "";
+              const abilityString = row.c[4] ? row.c[4].v.toString() : '';
               if (abilityString) {
                 const abilityIds = abilityString.split(',').map(s => s.trim());
                 finalSpellAndAbilityIds = finalSpellAndAbilityIds.concat(abilityIds);
@@ -200,7 +198,7 @@ async function initTabletopPipeline() {
     }
 
     const classBanner = characterClasses.map(c => `${c.name} ${c.lvl}`).join(' / ');
-    document.getElementById('char-title').innerText = `${charName} — ${classBanner || "Adventurer"}`;
+    document.getElementById('char-title').innerText = `${charName} — ${classBanner || 'Adventurer'}`;
     renderSlots(playerSlots);
 
     // Fetch Master Spell Compendium Tab
@@ -209,20 +207,20 @@ async function initTabletopPipeline() {
     const masterData = JSON.parse(masterRes.substring(47, masterRes.length - 2));
     
     // BUILD COLUMN HEADER INDEX MAP DYNAMICALLY
-    const headers = masterData.table.cols.map(col => col.label ? col.label.toLowerCase().trim() : "");
+    const headers = masterData.table.cols.map(col => col.label ? col.label.toLowerCase().trim() : '');
     const sheetRows = masterData.table.rows;
 
     renderDeck(sheetRows, finalSpellAndAbilityIds, maxAllowedLevel, characterClasses, headers);
 
   } catch (err) {
-    document.getElementById('card-grid').innerHTML = "<p>❌ Matrix Error: Failed to load cross-referenced tabs.</p>";
+    document.getElementById('card-grid').innerHTML = '<p>❌ Matrix Error: Failed to load cross-referenced tabs.</p>';
     console.error(err);
   }
 }
 
 function renderSlots(slots) {
   const tracker = document.getElementById('slot-tracker');
-  if (slots.length === 0 || slots[0] === "") { tracker.innerHTML = "<em>No spell slots tracked.</em>"; return; }
+  if (slots.length === 0 || slots[0] === '') { tracker.innerHTML = '<em>No spell slots tracked.</em>'; return; }
   
   let html = '<strong>Slots Left:</strong> ';
   slots.forEach((count, index) => {
@@ -232,8 +230,8 @@ function renderSlots(slots) {
 }
 
 function getTrueLevel(row, characterClasses, headers) {
-  const school = row.c[1] ? row.c[1].v : "";
-  const descriptor = row.c[3] ? row.c[3].v : "";
+  const school = row.c[1] ? row.c[1].v : '';
+  const descriptor = row.c[3] ? row.c[3].v : '';
   const isClassAbility = !school && descriptor;
 
   if (isClassAbility) {
@@ -247,7 +245,7 @@ function getTrueLevel(row, characterClasses, headers) {
     if (!colName) continue;
 
     const colIndex = headers.indexOf(colName);
-    if (colIndex !== -1 && row.c[colIndex] && row.c[colIndex].v !== null && row.c[colIndex].v !== "NULL") {
+    if (colIndex !== -1 && row.c[colIndex] && row.c[colIndex].v !== null && row.c[colIndex].v !== 'NULL') {
       const classLvl = parseInt(row.c[colIndex].v);
       if (detectedSpellLevel === null || classLvl < detectedSpellLevel) {
         detectedSpellLevel = classLvl;
@@ -256,7 +254,7 @@ function getTrueLevel(row, characterClasses, headers) {
   }
 
   if (detectedSpellLevel === null) {
-    const rawColE = row.c[4] ? row.c[4].v.toString() : "";
+    const rawColE = row.c[4] ? row.c[4].v.toString() : '';
     const parsedInt = parseInt(rawColE);
     return !isNaN(parsedInt) ? parsedInt : 0;
   }
@@ -275,8 +273,8 @@ function renderDeck(sheetRows, combinedIds, maxLevel, characterClasses, headers)
     const row = sheetRows[rowIndex];
     if (!row) return;
 
-    const school = row.c[1] ? row.c[1].v : "";
-    const descriptor = row.c[3] ? row.c[3].v : "";
+    const school = row.c[1] ? row.c[1].v : '';
+    const descriptor = row.c[3] ? row.c[3].v : '';
     const isClassAbility = !school && descriptor;
 
     const calculatedLevel = getTrueLevel(row, characterClasses, headers);
@@ -287,17 +285,15 @@ function renderDeck(sheetRows, combinedIds, maxLevel, characterClasses, headers)
     validCards.push({
       rowData: row,
       displayLevel: calculatedLevel,
-      isAbility: isClassAbility // Save type variable for type-based sorting
+      isAbility: isClassAbility
     });
   });
 
   // --- MULTI-TIER SORT ENGINE ---
   validCards.sort((a, b) => {
-    // Tier 1: Separate Spells from Abilities (Spells come first)
     if (a.isAbility !== b.isAbility) {
       return a.isAbility ? 1 : -1; 
     }
-    // Tier 2: Within their respective groups, sort ascending by Level
     return a.displayLevel - b.displayLevel;
   });
 
@@ -307,17 +303,14 @@ function renderDeck(sheetRows, combinedIds, maxLevel, characterClasses, headers)
     const spellLevel = cardItem.displayLevel;
     const isClassAbility = cardItem.isAbility;
 
-    // Fixed Column Indices based on your sheet layout:
-    const name = row.c[0] ? row.c[0].v : "Unknown Action";
-    const school = row.c[1] ? row.c[1].v : "";
-    const descriptor = row.c[3] ? row.c[3].v : "";
-    const castingTime = row.c[5] ? row.c[5].v : "Standard Action"; 
-    const range = row.c[8] ? row.c[8].v : "N/A";
+    const name = row.c[0] ? row.c[0].v : 'Unknown Action';
+    const school = row.c[1] ? row.c[1].v : '';
+    const descriptor = row.c[3] ? row.c[3].v : '';
+    const castingTime = row.c[5] ? row.c[5].v : 'Standard Action'; 
+    const range = row.c[8] ? row.c[8].v : 'N/A';
     
     // --- FIXED COLUMN ALIGNMENTS ---
-    // Column R (Index 17) = Raw Description String
-    const description = row.c[17] ? row.c[17].v : ""; 
-    // Column S (Index 18) = Rich/HTML Formatted Layout Column
+    const description = row.c[17] ? row.c[17].v : ''; 
     const descFormatted = row.c[18] ? row.c[18].v : null; 
 
     const fullDetailsUrl = row.c[70] ? row.c[70].v : null; 
@@ -333,7 +326,7 @@ function renderDeck(sheetRows, combinedIds, maxLevel, characterClasses, headers)
     card.className = 'spell-card';
     
     if (isClassAbility) {
-      card.style.borderLeft = "4px solid #9b59b6";
+      card.style.borderLeft = '4px solid #9b59b6';
     }
 
     let infoButtonHtml = fullDetailsUrl 
