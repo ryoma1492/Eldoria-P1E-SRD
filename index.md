@@ -1,6 +1,6 @@
 # Eldoria SRD
 
-Welcome to the Eldoria Pathfinder 1e setting archive.
+Welcome to the Eldoria Pathfinder 1e setting archive. If you just need the helper pages then [[Pages Dashboard]]
 
 ---
 ## Core World

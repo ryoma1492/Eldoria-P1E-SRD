@@ -1,5 +1,5 @@
 ---
-title: Player Dashboard
+title: Pages Dashboard
 ---
 
 Welcome to the campaign tools hub. Use the link below to access your tactical dashboard for tracking spell slots and custom actions.

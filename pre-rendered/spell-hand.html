@@ -1,7 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Tactical Combat Deck</title>
+</head>
+<body>
+
 <div id="combat-ui">
-  <div id="char-header" style="margin-bottom: 15px; padding: 15px; background: var(--secondary); border-radius: 8px; border-left: 4px solid var(--placeholder);">
-    <h2 id="char-title" style="margin: 0 0 5px 0; font-size: 1.4rem;">Connecting to the table matrix...</h2>
+  <div id="char-header" style="position: relative; margin-bottom: 15px; padding: 15px; background: var(--secondary); border-radius: 8px; border-left: 4px solid var(--placeholder);">
+    <button id="btn-long-rest" style="position: absolute; top: 15px; right: 15px; padding: 6px 12px; background: #d9534f; color: white; border: none; border-radius: 4px; font-weight: bold; cursor: pointer;">☀️ Long Rest</button>
+    <h2 id="char-title" style="margin: 0 0 5px 0; font-size: 1.4rem; padding-right: 120px;">Connecting to the table matrix...</h2>
     <div id="slot-tracker" style="font-size: 0.95rem; margin-top: 10px; opacity: 0.9;"></div>
+  </div>
+
+  <div id="action-tracker-container" style="background: var(--secondary); padding: 15px; border-radius: 8px; margin-bottom: 20px; text-align: center;">
+    <div style="font-size: 0.85rem; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px; color: var(--darkgray);">Round Action Economy</div>
+    <div class="waypoint-route" style="display: flex; align-items: center; justify-content: center; max-width: 500px; margin: 0 auto; position: relative;">
+      
+      <div class="waypoint-node" id="wp-swift" onclick="toggleWaypoint('swift')" style="z-index: 2; cursor: pointer; text-align: center; width: 45px;">
+        <div class="wp-bubble" style="width: 24px; height: 24px; border-radius: 50%; background: var(--light); border: 2px solid var(--gray); margin: 0 auto 4px auto; transition: all 0.3s;"></div>
+        <span style="font-size: 0.7rem; font-weight: bold; color: var(--darkgray);">SWIFT</span>
+      </div>
+      <div class="wp-line" id="line-swift-move" style="flex: 1; height: 4px; background: var(--gray); margin: -12px -5px 0 -5px; z-index: 1; transition: all 0.3s;"></div>
+
+      <div class="waypoint-node" id="wp-move" onclick="toggleWaypoint('move')" style="z-index: 2; cursor: pointer; text-align: center; width: 45px;">
+        <div class="wp-bubble" style="width: 24px; height: 24px; border-radius: 50%; background: var(--light); border: 2px solid var(--gray); margin: 0 auto 4px auto; transition: all 0.3s;"></div>
+        <span style="font-size: 0.7rem; font-weight: bold; color: var(--darkgray);">MOVE</span>
+      </div>
+      <div class="wp-line" id="line-move-standard" style="flex: 1; height: 4px; background: var(--gray); margin: -12px -5px 0 -5px; z-index: 1; transition: all 0.3s;"></div>
+
+      <div class="waypoint-node" id="wp-standard" onclick="toggleWaypoint('standard')" style="z-index: 2; cursor: pointer; text-align: center; width: 45px;">
+        <div class="wp-bubble" style="width: 24px; height: 24px; border-radius: 50%; background: var(--light); border: 2px solid var(--gray); margin: 0 auto 4px auto; transition: all 0.3s;"></div>
+        <span style="font-size: 0.7rem; font-weight: bold; color: var(--darkgray);">STD</span>
+      </div>
+      
+    </div>
+    <div style="margin-top: 10px;">
+      <button id="btn-reset-turn" style="padding: 4px 10px; background: var(--light); border: 1px solid var(--gray); color: var(--dark); border-radius: 4px; font-size: 0.8rem; cursor: pointer; font-weight: bold;">🔄 Reset Turn Actions</button>
+    </div>
   </div>
 
   <div id="card-grid">
@@ -10,25 +46,25 @@
 </div>
 
 <style>
-
-
   /* --- DECOUPLED THEME VARIABLES --- */
   :root {
-    /* Locks down the core backgrounds and text colors */
-    --page-background: #1e1e24;   /* Deep slate base */
-    --secondary: #2a2a35;         /* Lighter background for header/links */
-    --light: #323242;             /* Button background */
-    --gray: #383845;              /* Border gray */
-    --darkgray: #b3b3b3;          /* Muted meta text gray */
-    --dark: #ffffff;              /* Swapped to white for dark-theme text contrast */
-    --placeholder: #a370f7;       /* Purple accent used on the header border */
+    --page-background: #1e1e24;
+    --secondary: #2a2a35;
+    --light: #323242;
+    --gray: #383845;
+    --darkgray: #b3b3b3;
+    --dark: #ffffff;
+    --placeholder: #a370f7;
+    --tertiary: #a370f7;
+    --highlight: #414156;
     
-    /* Interactive highlights */
-    --tertiary: #a370f7;          /* Card hover border glow */
-    --highlight: #414156;         /* Button hover state */
+    /* Dynamic Action Type Colors */
+    --intent-damage: #ef4444;
+    --intent-heal: #10b981;
+    --intent-bonus: #3b82f6;
+    --intent-penalty: #f59e0b;
   }
 
-  /* --- GLOBAL BODY OVERRIDE --- */
   body {
     background-color: var(--page-background) !important;
     color: var(--dark) !important;
@@ -36,9 +72,10 @@
     margin: 0;
     padding: 20px;
   }
+
   #card-grid {
     display: grid; 
-    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); 
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); 
     gap: 20px;
     margin-top: 20px;
   }
@@ -52,13 +89,20 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    transition: transform 0.2s, border-color 0.2s;
+    transition: transform 0.2s, border-color 0.2s, opacity 0.3s;
+    position: relative;
   }
 
   .spell-card:hover {
     transform: translateY(-5px);
     border-color: var(--tertiary);
   }
+
+  /* Core Contextual Glowing Overrides */
+  .card-intent-damage { border-color: rgba(239, 68, 68, 0.4); box-shadow: 0 0 8px rgba(239, 68, 68, 0.15); }
+  .card-intent-heal { border-color: rgba(16, 185, 129, 0.4); box-shadow: 0 0 8px rgba(16, 185, 129, 0.15); }
+  .card-intent-bonus { border-color: rgba(59, 130, 246, 0.4); box-shadow: 0 0 8px rgba(59, 130, 246, 0.15); }
+  .card-intent-penalty { border-color: rgba(245, 158, 11, 0.4); box-shadow: 0 0 8px rgba(245, 158, 11, 0.15); }
 
   .action-badge {
     align-self: flex-start;
@@ -68,6 +112,7 @@
     font-weight: bold;
     text-transform: uppercase;
     margin-bottom: 10px;
+    display: inline-block;
   }
 
   .action-standard { background: #d9534f; color: white; }
@@ -100,8 +145,13 @@
     transition: background 0.2s;
   }
 
-  .cast-btn:hover {
+  .cast-btn:hover:not(:disabled) {
     background: var(--highlight);
+  }
+
+  .cast-btn:disabled {
+    cursor: not-allowed;
+    opacity: 0.6;
   }
 
   .info-link {
@@ -120,72 +170,57 @@
   .info-link:hover {
     background: var(--highlight);
   }
-    /* --- COLLAPSIBLE RULES --- */
+
   .spell-details {
     margin-top: 10px;
     border-top: 1px dashed var(--gray);
     padding-top: 8px;
   }
 
-  /* Style the clickable summary toggle text button */
   .spell-details summary {
     font-size: 0.85rem;
     font-weight: bold;
-    color: var(--tertiary); /* Uses your purple theme accent */
+    color: var(--tertiary);
     cursor: pointer;
     user-select: none;
     outline: none;
-    transition: color 0.2s;
   }
 
-  .spell-details summary:hover {
-    color: var(--dark); /* Highlights white on hover */
-  }
-
-  /* Format the container text when it pops open */
   .spell-details[open] .ability-details-body {
     margin-top: 8px;
     font-size: 0.85rem;
     line-height: 1.4;
     color: var(--darkgray);
-    max-height: 160px; /* Caps long spell texts to protect grid alignment */
-    overflow-y: auto;  /* Injects a smooth scrollbar if text flows too long */
+    max-height: 160px;
+    overflow-y: auto;
     padding-right: 4px;
   }
 
-  /* Subtle sleek scrollbar for extended text fields */
-  .spell-details[open] .ability-details-body::-webkit-scrollbar {
-    width: 4px;
-  }
-  .spell-details[open] .ability-details-body::-webkit-scrollbar-thumb {
-    background: var(--gray);
-    border-radius: 4px;
-  }
+  .spell-details[open] .ability-details-body::-webkit-scrollbar { width: 4px; }
+  .spell-details[open] .ability-details-body::-webkit-scrollbar-thumb { background: var(--gray); border-radius: 4px; }
 
+  /* Waypoint Activated UI States */
+  .wp-active .wp-bubble { background: var(--placeholder) !important; border-color: var(--dark) !important; box-shadow: 0 0 8px var(--placeholder); }
+  .wp-active span { color: var(--dark) !important; }
+  .line-active { background: var(--placeholder) !important; }
 </style>
 
 <script>
-
-// 1. Automatically grab query parameters from the window's browser location link
 const urlParams = new URLSearchParams(window.location.search);
-
-// 2. Extract the value matching ?id=yourvalue or ?target=yourvalue 
 const targetId = urlParams.get('id') ? urlParams.get('id').toLowerCase().trim() : null;
-
 const sheetId = '1uP_IiVgExtVT5xd6Tgk63k-NLLV7hS5EWDXIsKyFsdo';
 
-// --- CONFIGURATION & MAPS (Quartz-Safe Version) ---
+// Global application state
+let currentSpellSlots = [];
+let baselineSpellSlots = [];
+let activeRoundActions = { swift: false, move: false, standard: false };
+
 const CLASS_NAMES = { 
   1: 'Sorcerer', 2: 'Wizard', 3: 'Cleric', 4: 'Druid', 5: 'Ranger', 
   6: 'Bard', 7: 'Paladin', 8: 'Alchemist', 9: 'Summoner', 10: 'Witch', 
   11: 'Inquisitor', 12: 'Oracle', 13: 'Antipaladin', 14: 'Magus', 15: 'Bloodrager', 
   16: 'Shaman', 17: 'Psychic', 18: 'Medium', 19: 'Mesmerist', 20: 'Occultist', 
-  21: 'Spiritualist', 22: 'Skald', 23: 'Investigator', 24: 'Hunter', 25: 'Summoner_unchained', 
-  26: 'Barbarian', 27: 'Fighter', 28: 'Monk', 29: 'Rogue', 30: 'Gunslinger', 
-  31: 'Cavalier', 32: 'Shifter', 33: 'Vigilante', 34: 'Unchained Barbarian', 35: 'Unchained Monk', 
-  36: 'Unchained Rogue', 37: 'Arcanist', 38: 'Bloodrager', 39: 'Hunter', 40: 'Investigator', 
-  41: 'Shaman', 42: 'Skald', 43: 'Brawler', 44: 'Slayer', 45: 'Swashbuckler', 
-  46: 'Warpriest', 47: 'Kineticist'
+  21: 'Spiritualist', 22: 'Skald', 23: 'Investigator', 24: 'Hunter', 25: 'Summoner_unchained'
 };
 
 const CLASS_COLUMN_MAP = {
@@ -196,6 +231,9 @@ const CLASS_COLUMN_MAP = {
   'medium': 'medium', 'mesmerist': 'mesmerist', 'occultist': 'occultist', 'spiritualist': 'spiritualist',
   'skald': 'skald', 'investigator': 'investigator', 'hunter': 'hunter', 'summoner_unchained': 'summoner_unchained'
 };
+
+document.getElementById('btn-long-rest').addEventListener('click', executeLongRest);
+document.getElementById('btn-reset-turn').addEventListener('click', resetTurnActions);
 
 if (!targetId) {
   document.getElementById('char-title').innerText = 'Tactical Deck Offline';
@@ -231,7 +269,10 @@ async function initTabletopPipeline() {
     const spellString = matchedRecord.c[4] ? matchedRecord.c[4].v.toString() : '';
 
     let finalSpellAndAbilityIds = spellString ? spellString.split(',').map(s => s.trim()) : [];
-    const playerSlots = slotString ? slotString.split(',') : [];
+    
+    // Process core casting baseline array state
+    baselineSpellSlots = slotString ? slotString.split(',').map(v => parseInt(v.trim()) || 0) : [];
+    currentSpellSlots = [...baselineSpellSlots];
 
     let maxAllowedLevel = 0; 
     let characterClasses = [];
@@ -242,18 +283,14 @@ async function initTabletopPipeline() {
         if (classId && level) {
           const className = CLASS_NAMES[classId] || 'Unknown';
           characterClasses.push({ id: classId, name: className, lvl: level });
-          
-          if (level > maxAllowedLevel) {
-            maxAllowedLevel = level;
-          }
+          if (level > maxAllowedLevel) maxAllowedLevel = level;
           
           const translationKey = `classability_${className.toLowerCase().trim()}`;
           for (let row of playerRows) {
             if (row.c[0] && row.c[0].v.toString().toLowerCase().trim() === translationKey) {
               const abilityString = row.c[4] ? row.c[4].v.toString() : '';
               if (abilityString) {
-                const abilityIds = abilityString.split(',').map(s => s.trim());
-                finalSpellAndAbilityIds = finalSpellAndAbilityIds.concat(abilityIds);
+                finalSpellAndAbilityIds = finalSpellAndAbilityIds.concat(abilityString.split(',').map(s => s.trim()));
               }
               break;
             }
@@ -264,18 +301,14 @@ async function initTabletopPipeline() {
 
     const classBanner = characterClasses.map(c => `${c.name} ${c.lvl}`).join(' / ');
     document.getElementById('char-title').innerText = `${charName} — ${classBanner || 'Adventurer'}`;
-    renderSlots(playerSlots);
+    renderSlots();
 
-    // Fetch Master Spell Compendium Tab
     const masterUrl = `https://docs.google.com/spreadsheets/d/${sheetId}/gviz/tq?sheet=spellactioncard&tqx=out:json`;
     const masterRes = await fetch(masterUrl).then(r => r.text());
     const masterData = JSON.parse(masterRes.substring(47, masterRes.length - 2));
     
-    // BUILD COLUMN HEADER INDEX MAP DYNAMICALLY
     const headers = masterData.table.cols.map(col => col.label ? col.label.toLowerCase().trim() : '');
-    const sheetRows = masterData.table.rows;
-
-    renderDeck(sheetRows, finalSpellAndAbilityIds, maxAllowedLevel, characterClasses, headers);
+    renderDeck(masterData.table.rows, finalSpellAndAbilityIds, maxAllowedLevel, characterClasses, headers);
 
   } catch (err) {
     document.getElementById('card-grid').innerHTML = '<p>❌ Matrix Error: Failed to load cross-referenced tabs.</p>';
@@ -283,13 +316,13 @@ async function initTabletopPipeline() {
   }
 }
 
-function renderSlots(slots) {
+function renderSlots() {
   const tracker = document.getElementById('slot-tracker');
-  if (slots.length === 0 || slots[0] === '') { tracker.innerHTML = '<em>No spell slots tracked.</em>'; return; }
+  if (currentSpellSlots.length === 0) { tracker.innerHTML = '<em>No spell slots tracked.</em>'; return; }
   
   let html = '<strong>Slots Left:</strong> ';
-  slots.forEach((count, index) => {
-    html += `<span style="margin-right: 12px; display: inline-block; background: var(--light); padding: 2px 8px; border-radius: 4px;">Lvl ${index + 1}: <strong>${count}</strong></span>`;
+  currentSpellSlots.forEach((count, index) => {
+    html += `<span id="slot-display-${index + 1}" style="margin-right: 12px; display: inline-block; background: var(--light); padding: 2px 8px; border-radius: 4px;">Lvl ${index + 1}: <strong class="slot-count">${count}</strong></span>`;
   });
   tracker.innerHTML = html;
 }
@@ -297,42 +330,44 @@ function renderSlots(slots) {
 function getTrueLevel(row, characterClasses, headers) {
   const school = row.c[1] ? row.c[1].v : '';
   const descriptor = row.c[3] ? row.c[3].v : '';
-  const isClassAbility = !school && descriptor;
-
-  if (isClassAbility) {
-    return row.c[4] && row.c[4].v !== null ? parseInt(row.c[4].v) : 0;
-  }
+  if (!school && descriptor) return row.c[4] && row.c[4].v !== null ? parseInt(row.c[4].v) : 0;
 
   let detectedSpellLevel = null;
-
   for (let charClass of characterClasses) {
     const colName = CLASS_COLUMN_MAP[charClass.name.toLowerCase().trim()];
     if (!colName) continue;
-
     const colIndex = headers.indexOf(colName);
     if (colIndex !== -1 && row.c[colIndex] && row.c[colIndex].v !== null && row.c[colIndex].v !== 'NULL') {
       const classLvl = parseInt(row.c[colIndex].v);
-      if (detectedSpellLevel === null || classLvl < detectedSpellLevel) {
-        detectedSpellLevel = classLvl;
-      }
+      if (detectedSpellLevel === null || classLvl < detectedSpellLevel) detectedSpellLevel = classLvl;
     }
   }
-
   if (detectedSpellLevel === null) {
     const rawColE = row.c[4] ? row.c[4].v.toString() : '';
     const parsedInt = parseInt(rawColE);
     return !isNaN(parsedInt) ? parsedInt : 0;
   }
-
   return detectedSpellLevel;
+}
+
+function evaluateContextualIntent(descText) {
+  if (!descText) return '';
+  const cleanText = descText.toLowerCase();
+  if (cleanText.includes('damage') || cleanText.includes('vampiric') || cleanText.includes('attack')) return 'card-intent-damage';
+  if (cleanText.includes('healing') || cleanText.includes('cures') || cleanText.includes('regain')) return 'card-intent-heal';
+  if (cleanText.includes('bonus') || cleanText.includes('gain a +') || cleanText.includes('enhancement')) return 'card-intent-bonus';
+  if (cleanText.includes('penalty') || cleanText.includes('shaken') || cleanText.includes('sickened')) return 'card-intent-penalty';
+  return '';
 }
 
 function renderDeck(sheetRows, combinedIds, maxLevel, characterClasses, headers) {
   const grid = document.getElementById('card-grid');
   grid.innerHTML = ''; 
 
-  let validCards = [];
+  // Injected Universal Baseline Physical Combat Nodes
+  appendUniversalActionCards(grid);
 
+  let validCards = [];
   combinedIds.forEach(id => {
     const rowIndex = parseInt(id) - 2; 
     const row = sheetRows[rowIndex];
@@ -341,28 +376,15 @@ function renderDeck(sheetRows, combinedIds, maxLevel, characterClasses, headers)
     const school = row.c[1] ? row.c[1].v : '';
     const descriptor = row.c[3] ? row.c[3].v : '';
     const isClassAbility = !school && descriptor;
-
     const calculatedLevel = getTrueLevel(row, characterClasses, headers);
     
-    // Apply Level Filter Gate
     if (calculatedLevel > maxLevel) return;
 
-    validCards.push({
-      rowData: row,
-      displayLevel: calculatedLevel,
-      isAbility: isClassAbility
-    });
+    validCards.push({ rowData: row, displayLevel: calculatedLevel, isAbility: isClassAbility });
   });
 
-  // --- MULTI-TIER SORT ENGINE ---
-  validCards.sort((a, b) => {
-    if (a.isAbility !== b.isAbility) {
-      return a.isAbility ? 1 : -1; 
-    }
-    return a.displayLevel - b.displayLevel;
-  });
+  validCards.sort((a, b) => (a.isAbility !== b.isAbility) ? (a.isAbility ? 1 : -1) : a.displayLevel - b.displayLevel);
 
-  // Render processed deck elements
   validCards.forEach(cardItem => {
     const row = cardItem.rowData;
     const spellLevel = cardItem.displayLevel;
@@ -373,25 +395,15 @@ function renderDeck(sheetRows, combinedIds, maxLevel, characterClasses, headers)
     const descriptor = row.c[3] ? row.c[3].v : '';
     const castingTime = row.c[5] ? row.c[5].v : 'Standard Action'; 
     const range = row.c[8] ? row.c[8].v : 'N/A';
-    
-    // --- FIXED COLUMN ALIGNMENTS ---
     const description = row.c[17] ? row.c[17].v : ''; 
     const descFormatted = row.c[18] ? row.c[18].v : null; 
 
-    // Look at the formula (.f) if it exists, otherwise fall back to the value (.v)
     let fullDetailsUrl = null;
     if (row.c[70]) {
       const cellFormula = row.c[70].f ? row.c[70].f.toString() : '';
       const cellValue = row.c[70].v ? row.c[70].v.toString() : '';
-
-      // Use a regex to extract anything inside the first set of quotes in the HYPERLINK formula
       const urlMatch = cellFormula.match(/=HYPERLINK\(['"]([^'"]+)['"]/i);
-      
-      if (urlMatch && urlMatch[1]) {
-        fullDetailsUrl = urlMatch[1]; // Successfully extracted the real URL!
-      } else if (cellValue.startsWith('http://') || cellValue.startsWith('https://')) {
-        fullDetailsUrl = cellValue; // Fallback if the raw text itself happens to be a URL
-      }
+      fullDetailsUrl = (urlMatch && urlMatch[1]) ? urlMatch[1] : (cellValue.startsWith('http') ? cellValue : null);
     }
 
     let actionClass = 'action-standard';
@@ -401,51 +413,200 @@ function renderDeck(sheetRows, combinedIds, maxLevel, characterClasses, headers)
     else if (lowerTime.includes('full')) actionClass = 'action-full';
     else if (isClassAbility) actionClass = 'action-ability';
 
+    const intentStyleClass = evaluateContextualIntent(description + (descFormatted || ''));
     const card = document.createElement('div');
-    card.className = 'spell-card';
+    card.className = `spell-card ${intentStyleClass}`;
+    card.setAttribute('data-spell-level', isClassAbility ? 'none' : spellLevel);
+    card.setAttribute('data-action-cost', lowerTime.includes('full') ? 'full' : (lowerTime.includes('swift') ? 'swift' : (lowerTime.includes('move') ? 'move' : 'standard')));
     
-    if (isClassAbility) {
-      card.style.borderLeft = '4px solid #9b59b6';
-    }
+    if (isClassAbility) card.style.borderLeft = '4px solid #9b59b6';
 
-    let infoButtonHtml = fullDetailsUrl 
-      ? `<a class="info-link" href="${fullDetailsUrl}" target="_blank" title="View Rules">📖</a>`
-      : '';
-
+    let infoButtonHtml = fullDetailsUrl ? `<a class="info-link" href="${fullDetailsUrl}" target="_blank">📖</a>` : '';
     const bodyContent = descFormatted ? descFormatted : `<p style="font-size: 0.85rem; margin-top: 8px; line-height: 1.3;">${description}</p>`;
 
+    // Render dynamic manual resource box for tracking conditional limits if it is an ability
+    let trackingPoolHtml = isClassAbility ? `
+      <div style="margin-top:10px; padding:6px; background:var(--secondary); border-radius:4px; display:flex; align-items:center; gap:5px;">
+        <span style="font-size:0.75rem; color:var(--darkgray);">Uses:</span>
+        <input type="number" class="ability-current" value="0" style="width:35px; background:var(--page-background); color:white; border:1px solid var(--gray); text-align:center; border-radius:2px; font-size:0.8rem;">
+        <span style="font-size:0.75rem; color:var(--darkgray);">/</span>
+        <input type="number" class="ability-max" value="10" style="width:35px; background:var(--page-background); color:white; border:1px solid var(--gray); text-align:center; border-radius:2px; font-size:0.8rem;">
+      </div>
+    ` : '';
+
     card.innerHTML = `
-          <div>
-            <span class="action-badge ${actionClass}">${castingTime.split(',')[0]}</span>
-            <h3 style="margin: 5px 0 0 0; font-size: 1.2rem;">${name}</h3>
-            <small style="opacity: 0.7; font-weight: bold;">${isClassAbility ? `${descriptor} Feature` : school}</small>
-            <p class="spell-meta"><strong>Range:</strong> ${range} | <strong>Lvl:</strong> ${spellLevel}</p>
-            
-            <details class="spell-details">
-              <summary>Read Description</summary>
-              <div class="ability-details-body">
-                ${bodyContent}
-              </div>
-            </details>
-          </div>
-          <div class="card-footer-links">
-            <button class="cast-btn" onclick="handleCardActivation(this, ${isClassAbility})">
-              ${isClassAbility ? 'Use Ability' : 'Cast'}
-            </button>
-            ${infoButtonHtml}
-          </div>
-        `;
+      <div>
+        <span class="action-badge ${actionClass}">${castingTime.split(',')[0]}</span>
+        <h3 style="margin: 5px 0 0 0; font-size: 1.2rem;">${name}</h3>
+        <small style="opacity: 0.7; font-weight: bold;">${isClassAbility ? `${descriptor} Feature` : school}</small>
+        <p class="spell-meta"><strong>Range:</strong> ${range} | <strong>Lvl:</strong> ${spellLevel}</p>
+        ${trackingPoolHtml}
+        <details class="spell-details">
+          <summary>Read Description</summary>
+          <div class="ability-details-body">${bodyContent}</div>
+        </details>
+      </div>
+      <div class="card-footer-links">
+        <button class="cast-btn" onclick="handleTacticalCardUse(this, ${isClassAbility}, ${spellLevel})">
+          ${isClassAbility ? 'Use Feature' : 'Cast'}
+        </button>
+        ${infoButtonHtml}
+      </div>
+    `;
     grid.appendChild(card);
   });
+  
+  evaluateSlotButtonEnforcements();
 }
 
-function handleCardActivation(btnElement, isAbility) {
-  const cardFrame = btnElement.parentElement.parentElement;
-  cardFrame.style.opacity = 0.3;
-  btnElement.innerText = isAbility ? 'USED' : 'CAST';
-  btnElement.style.background = 'var(--gray)';
+function appendUniversalActionCards(grid) {
+  // Universal Step/Move Engine Card Node
+  const moveCard = document.createElement('div');
+  moveCard.className = 'spell-card card-intent-bonus';
+  moveCard.setAttribute('data-spell-level', 'none');
+  moveCard.setAttribute('data-action-cost', 'move');
+  moveCard.innerHTML = `
+    <div>
+      <span class="action-badge action-move">Move Action</span>
+      <h3 style="margin: 5px 0 0 0; font-size: 1.2rem;">Base Move / Step</h3>
+      <p class="spell-meta"><strong>Range:</strong> Tactical Position</p>
+      <p style="font-size: 0.85rem; margin-top: 8px; line-height: 1.3; color: var(--darkgray);">Reposition up to your tactical movement speed or take a deliberate 5-foot step without drawing attacks of opportunity.</p>
+    </div>
+    <div class="card-footer-links"><button class="cast-btn" onclick="handleTacticalCardUse(this, true, 0)">Execute Movement</button></div>
+  `;
+  grid.appendChild(moveCard);
+
+  // Universal Base Striking Melee/Ranged Engine Card Node
+  const strikeCard = document.createElement('div');
+  strikeCard.className = 'spell-card card-intent-damage';
+  strikeCard.setAttribute('data-spell-level', 'none');
+  strikeCard.setAttribute('data-action-cost', 'standard');
+  strikeCard.innerHTML = `
+    <div>
+      <span class="action-badge action-standard">Standard</span>
+      <h3 style="margin: 5px 0 0 0; font-size: 1.2rem;">Standard Strike</h3>
+      <p class="spell-meta"><strong>Range:</strong> Weapon Dependent</p>
+      <p style="font-size: 0.85rem; margin-top: 8px; line-height: 1.3; color: var(--darkgray);">Execute a single fundamental physical strike utilizing your primary melee weapon, sidearm, or loaded ammunition profile.</p>
+    </div>
+    <div class="card-footer-links"><button class="cast-btn" onclick="handleTacticalCardUse(this, true, 0)">Execute Attack</button></div>
+  `;
+  grid.appendChild(strikeCard);
+}
+
+function handleTacticalCardUse(btnElement, isAbility, level) {
+  const cardFrame = btnElement.closest('.spell-card');
+  const actionCost = cardFrame.getAttribute('data-action-cost');
+
+  // Core Cost Deduction Rules Engine
+  if (!isAbility && level > 0) {
+    const slotIdx = level - 1;
+    if (currentSpellSlots[slotIdx] > 0) {
+      currentSpellSlots[slotIdx]--;
+      renderSlots();
+      evaluateSlotButtonEnforcements();
+    }
+  }
+
+  // Handle Incremental Asset Pools for custom ability fields
+  if (isAbility && cardFrame.querySelector('.ability-current')) {
+    let currInput = cardFrame.querySelector('.ability-current');
+    let maxVal = parseInt(cardFrame.querySelector('.ability-max').value) || 0;
+    let currVal = parseInt(currInput.value) || 0;
+    if (currVal < maxVal) {
+      currInput.value = currVal + 1;
+    }
+  }
+
+  // Trigger Waypoint Pipeline Synchronization Layout Changes
+  consumeTurnAction(actionCost);
+  
+  // Local card state visual indicator
+  cardFrame.style.opacity = 0.4;
+  btnElement.innerText = "EXECUTED";
   btnElement.disabled = true;
 }
 
+function consumeTurnAction(costType) {
+  if (costType === 'full') {
+    activeRoundActions.standard = true;
+    activeRoundActions.move = true;
+  } else if (costType === 'swift') {
+    activeRoundActions.swift = true;
+  } else if (costType === 'move') {
+    activeRoundActions.move = true;
+  } else if (costType === 'standard') {
+    activeRoundActions.standard = true;
+  }
+  syncWaypointUiState();
+}
 
+function toggleWaypoint(nodeType) {
+  activeRoundActions[nodeType] = !activeRoundActions[nodeType];
+  syncWaypointUiState();
+}
+
+function syncWaypointUiState() {
+  // Update Waypoint styling based on selected filters
+  document.getElementById('wp-swift').classList.toggle('wp-active', activeRoundActions.swift);
+  document.getElementById('wp-move').classList.toggle('wp-active', activeRoundActions.move);
+  document.getElementById('wp-standard').classList.toggle('wp-active', activeRoundActions.standard);
+
+  // Connection routes coloring logic
+  document.getElementById('line-swift-move').classList.toggle('line-active', activeRoundActions.swift && activeRoundActions.move);
+  document.getElementById('line-move-standard').classList.toggle('line-active', activeRoundActions.move && activeRoundActions.standard);
+}
+
+function resetTurnActions() {
+  activeRoundActions = { swift: false, move: false, standard: false };
+  syncWaypointUiState();
+  
+  // Re-enable and reset the opacity for spent utility nodes
+  document.querySelectorAll('.spell-card').forEach(card => {
+    const lvl = card.getAttribute('data-spell-level');
+    // Keep spell cards locked down if out of spell slots
+    if (lvl !== 'none' && lvl !== null) {
+      const parsedLvl = parseInt(lvl);
+      if (currentSpellSlots[parsedLvl - 1] <= 0) return; 
+    }
+    card.style.opacity = 1;
+    const btn = card.querySelector('.cast-btn');
+    if (btn) {
+      const isAbility = card.querySelector('.action-badge').classList.contains('action-ability');
+      btn.innerText = isAbility ? 'Use Feature' : 'Cast';
+      btn.disabled = false;
+    }
+  });
+}
+
+function evaluateSlotButtonEnforcements() {
+  document.querySelectorAll('.spell-card').forEach(card => {
+    const lvlAttr = card.getAttribute('data-spell-level');
+    if (lvlAttr && lvlAttr !== 'none') {
+      const targetLvl = parseInt(lvlAttr);
+      const btn = card.querySelector('.cast-btn');
+      if (currentSpellSlots[targetLvl - 1] <= 0) {
+        card.style.opacity = 0.3;
+        if (btn) {
+          btn.innerText = 'OUT OF SLOTS';
+          btn.disabled = true;
+        }
+      }
+    }
+  });
+}
+
+function executeLongRest() {
+  if (confirm("Perform a full baseline recovery period restoration process?")) {
+    currentSpellSlots = [...baselineSpellSlots];
+    renderSlots();
+    
+    // Reset internal dynamic tracking pools for unique traits
+    document.querySelectorAll('.ability-current').forEach(input => input.value = 0);
+    
+    resetTurnActions();
+  }
+}
 </script>
+
+</body>
+</html>
