@@ -7,38 +7,54 @@
 <body>
 
 <div id="combat-ui">
-  <div id="char-header" style="position: relative; margin-bottom: 15px; padding: 15px; background: var(--secondary); border-radius: 8px; border-left: 4px solid var(--placeholder);">
-    <button id="btn-long-rest" style="position: absolute; top: 15px; right: 15px; padding: 6px 12px; background: #d9534f; color: white; border: none; border-radius: 4px; font-weight: bold; cursor: pointer;">☀️ Long Rest</button>
-    <h2 id="char-title" style="margin: 0 0 5px 0; font-size: 1.4rem; padding-right: 120px;">Connecting to the table matrix...</h2>
-    <div id="slot-tracker" style="font-size: 0.95rem; margin-top: 10px; opacity: 0.9;"></div>
-  </div>
-
-  <div id="action-tracker-container" style="background: var(--secondary); padding: 15px; border-radius: 8px; margin-bottom: 20px; text-align: center;">
-    <div style="font-size: 0.85rem; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 10px; color: var(--darkgray);">Round Action Economy</div>
-    <div class="waypoint-route" style="display: flex; align-items: center; justify-content: center; max-width: 500px; margin: 0 auto; position: relative;">
-      
-      <div class="waypoint-node" id="wp-swift" onclick="toggleWaypoint('swift')" style="z-index: 2; cursor: pointer; text-align: center; width: 45px;">
-        <div class="wp-bubble" style="width: 24px; height: 24px; border-radius: 50%; background: var(--light); border: 2px solid var(--gray); margin: 0 auto 4px auto; transition: all 0.3s;"></div>
-        <span style="font-size: 0.7rem; font-weight: bold; color: var(--darkgray);">SWIFT</span>
-      </div>
-      <div class="wp-line" id="line-swift-move" style="flex: 1; height: 4px; background: var(--gray); margin: -12px -5px 0 -5px; z-index: 1; transition: all 0.3s;"></div>
-
-      <div class="waypoint-node" id="wp-move" onclick="toggleWaypoint('move')" style="z-index: 2; cursor: pointer; text-align: center; width: 45px;">
-        <div class="wp-bubble" style="width: 24px; height: 24px; border-radius: 50%; background: var(--light); border: 2px solid var(--gray); margin: 0 auto 4px auto; transition: all 0.3s;"></div>
-        <span style="font-size: 0.7rem; font-weight: bold; color: var(--darkgray);">MOVE</span>
-      </div>
-      <div class="wp-line" id="line-move-standard" style="flex: 1; height: 4px; background: var(--gray); margin: -12px -5px 0 -5px; z-index: 1; transition: all 0.3s;"></div>
-
-      <div class="waypoint-node" id="wp-standard" onclick="toggleWaypoint('standard')" style="z-index: 2; cursor: pointer; text-align: center; width: 45px;">
-        <div class="wp-bubble" style="width: 24px; height: 24px; border-radius: 50%; background: var(--light); border: 2px solid var(--gray); margin: 0 auto 4px auto; transition: all 0.3s;"></div>
-        <span style="font-size: 0.7rem; font-weight: bold; color: var(--darkgray);">STD</span>
-      </div>
-      
+  <!-- Single Line Header Wrapper -->
+  <div id="char-header" style="display: flex; align-items: center; justify-content: space-between; gap: 15px; padding: 10px 15px; background: var(--secondary); border-radius: 8px; border-left: 4px solid var(--placeholder);">
+    
+    <!-- LEFT: Character Info -->
+    <div style="display: flex; min-width: 0;">
+      <h2 id="char-title" style="margin: 0; font-size: 1.1rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">Connecting to the table matrix...</h2>
+      <div id="slot-tracker" style="font-size: 0.85rem; opacity: 0.8; margin-top: 2px;"></div>
     </div>
-    <div style="margin-top: 10px;">
-      <button id="btn-reset-turn" style="padding: 4px 10px; background: var(--light); border: 1px solid var(--gray); color: var(--dark); border-radius: 4px; font-size: 0.8rem; cursor: pointer; font-weight: bold;">🔄 Reset Turn Actions</button>
+
+    <!-- MIDDLE: Streamlined Action Tracker -->
+    <div id="action-tracker-container" style="display: flex; align-items: center; gap: 12px; background: rgba(0, 0, 0, 0.05); padding: 6px 12px; border-radius: 6px;">
+      <!-- Title rotated or shrank to save horizontal space -->
+      <div style="font-size: 0.65rem; font-weight: bold; text-transform: uppercase; letter-spacing: 0.5px; color: var(--darkgray); white-space: nowrap;">Actions:</div>
+      
+      <div class="waypoint-route" style="display: flex; align-items: center; width: 180px; position: relative;">
+        <!-- Swift -->
+        <div class="waypoint-node" id="wp-swift" onclick="toggleWaypoint('swift')" style="z-index: 2; cursor: pointer; text-align: center; width: 35px;">
+          <div class="wp-bubble" style="width: 14px; height: 14px; border-radius: 50%; background: var(--light); border: 2px solid var(--gray); margin: 0 auto 2px auto; transition: all 0.3s;"></div>
+          <span style="font-size: 0.6rem; font-weight: bold; color: var(--darkgray); display: block; scale: 0.9;">SWIFT</span>
+        </div>
+        <div class="wp-line" id="line-swift-move" style="flex: 1; height: 3px; background: var(--gray); margin: -10px -4px 0 -4px; z-index: 1; transition: all 0.3s;"></div>
+        
+        <!-- Move -->
+        <div class="waypoint-node" id="wp-move" onclick="toggleWaypoint('move')" style="z-index: 2; cursor: pointer; text-align: center; width: 35px;">
+          <div class="wp-bubble" style="width: 14px; height: 14px; border-radius: 50%; background: var(--light); border: 2px solid var(--gray); margin: 0 auto 2px auto; transition: all 0.3s;"></div>
+          <span style="font-size: 0.6rem; font-weight: bold; color: var(--darkgray); display: block; scale: 0.9;">MOVE</span>
+        </div>
+        <div class="wp-line" id="line-move-standard" style="flex: 1; height: 3px; background: var(--gray); margin: -10px -4px 0 -4px; z-index: 1; transition: all 0.3s;"></div>
+        
+        <!-- Standard -->
+        <div class="waypoint-node" id="wp-standard" onclick="toggleWaypoint('standard')" style="z-index: 2; cursor: pointer; text-align: center; width: 35px;">
+          <div class="wp-bubble" style="width: 14px; height: 14px; border-radius: 50%; background: var(--light); border: 2px solid var(--gray); margin: 0 auto 2px auto; transition: all 0.3s;"></div>
+          <span style="font-size: 0.6rem; font-weight: bold; color: var(--darkgray); display: block; scale: 0.9;">STD</span>
+        </div>
+      </div>
+      
+      <!-- Reset Button -->
+      <button id="btn-reset-turn" style="padding: 2px 6px; background: var(--light); border: 1px solid var(--gray); color: var(--dark); border-radius: 4px; font-size: 0.7rem; cursor: pointer; font-weight: bold; white-space: nowrap;">🔄 Reset</button>
     </div>
+
+    <!-- RIGHT: Long Rest Button -->
+    <div style="flex-shrink: 0;">
+      <button id="btn-long-rest" style="padding: 6px 12px; background: #d9534f; color: white; border: none; border-radius: 4px; font-weight: bold; font-size: 0.85rem; cursor: pointer; white-space: nowrap;">☀️ Long Rest</button>
+    </div>
+    
   </div>
+</div>
+
 
   <div id="card-grid">
     <p>Shuffling your tactical deck...</p>
@@ -353,10 +369,10 @@ function getTrueLevel(row, characterClasses, headers) {
 function evaluateContextualIntent(descText) {
   if (!descText) return '';
   const cleanText = descText.toLowerCase();
-  if (cleanText.includes('damage') || cleanText.includes('vampiric') || cleanText.includes('attack')) return 'card-intent-damage';
   if (cleanText.includes('healing') || cleanText.includes('cures') || cleanText.includes('regain')) return 'card-intent-heal';
-  if (cleanText.includes('bonus') || cleanText.includes('gain a +') || cleanText.includes('enhancement')) return 'card-intent-bonus';
-  if (cleanText.includes('penalty') || cleanText.includes('shaken') || cleanText.includes('sickened')) return 'card-intent-penalty';
+  else if (cleanText.includes('bonus') || cleanText.includes('gain a +') || cleanText.includes('enhancement')) return 'card-intent-bonus';
+  else if (cleanText.includes('damage') || cleanText.includes('vampiric') || cleanText.includes('attack')) return 'card-intent-damage';
+  else if (cleanText.includes('penalty') || cleanText.includes('shaken') || cleanText.includes('sickened')) return 'card-intent-penalty';
   return '';
 }
 
@@ -497,17 +513,16 @@ function handleTacticalCardUse(btnElement, isAbility, level) {
   const cardFrame = btnElement.closest('.spell-card');
   const actionCost = cardFrame.getAttribute('data-action-cost');
 
-  // Core Cost Deduction Rules Engine
+  // 1. Core Cost Deduction Rules Engine
   if (!isAbility && level > 0) {
     const slotIdx = level - 1;
     if (currentSpellSlots[slotIdx] > 0) {
       currentSpellSlots[slotIdx]--;
       renderSlots();
-      evaluateSlotButtonEnforcements();
     }
   }
 
-  // Handle Incremental Asset Pools for custom ability fields
+  // 2. Handle Incremental Asset Pools for custom ability fields
   if (isAbility && cardFrame.querySelector('.ability-current')) {
     let currInput = cardFrame.querySelector('.ability-current');
     let maxVal = parseInt(cardFrame.querySelector('.ability-max').value) || 0;
@@ -517,13 +532,56 @@ function handleTacticalCardUse(btnElement, isAbility, level) {
     }
   }
 
-  // Trigger Waypoint Pipeline Synchronization Layout Changes
+  // 3. Trigger Waypoint Pipeline Synchronization
   consumeTurnAction(actionCost);
   
-  // Local card state visual indicator
+  // 4. Set the clicked card explicitly to "Spent"
   cardFrame.style.opacity = 0.4;
   btnElement.innerText = "EXECUTED";
   btnElement.disabled = true;
+
+  // 5. Enforce sweeping action economy lockdowns across the rest of the hand
+  evaluateActionEconomyLockdowns();
+}
+
+// NEW FUNCTION: Paste this entirely into your script
+function evaluateActionEconomyLockdowns() {
+  document.querySelectorAll('.spell-card').forEach(card => {
+    const cardCost = card.getAttribute('data-action-cost');
+    const btn = card.querySelector('.cast-btn');
+    
+    // Ignore cards that have already been played this turn
+    if (btn && btn.innerText === "EXECUTED") return;
+
+    let shouldDisable = false;
+
+    // RULE: If any Standard Action was played, disable all other Standard Actions[cite: 3]
+    if (activeRoundActions.standard && cardCost === 'standard') {
+      shouldDisable = true;
+    }
+    
+    // RULE: If a Move Action was played, disable all Full-Round Action cards[cite: 3]
+    if (activeRoundActions.move && cardCost === 'full') {
+      shouldDisable = true;
+    }
+
+    // RULE: If a Full-Round Action was played, disable all Standard and Move cards
+    if ((activeRoundActions.standard && activeRoundActions.move) && (cardCost === 'standard' || cardCost === 'move')) {
+      shouldDisable = true;
+    }
+
+    // Apply the visual gray out and functional freeze
+    if (shouldDisable) {
+      card.style.opacity = 0.3;
+      if (btn) {
+        btn.innerText = "LOCKED";
+        btn.disabled = true;
+      }
+    }
+  });
+
+  // Keep slot restrictions layered on top
+  evaluateSlotButtonEnforcements();
 }
 
 function consumeTurnAction(costType) {
@@ -546,6 +604,7 @@ function toggleWaypoint(nodeType) {
 }
 
 function syncWaypointUiState() {
+  evaluateActionEconomyLockdowns();
   // Update Waypoint styling based on selected filters
   document.getElementById('wp-swift').classList.toggle('wp-active', activeRoundActions.swift);
   document.getElementById('wp-move').classList.toggle('wp-active', activeRoundActions.move);
@@ -560,14 +619,16 @@ function resetTurnActions() {
   activeRoundActions = { swift: false, move: false, standard: false };
   syncWaypointUiState();
   
-  // Re-enable and reset the opacity for spent utility nodes
+  // Re-enable and reset the opacity for spent and locked utility nodes
   document.querySelectorAll('.spell-card').forEach(card => {
     const lvl = card.getAttribute('data-spell-level');
+    
     // Keep spell cards locked down if out of spell slots
     if (lvl !== 'none' && lvl !== null) {
       const parsedLvl = parseInt(lvl);
       if (currentSpellSlots[parsedLvl - 1] <= 0) return; 
     }
+    
     card.style.opacity = 1;
     const btn = card.querySelector('.cast-btn');
     if (btn) {
