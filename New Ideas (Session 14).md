@@ -3,6 +3,10 @@ tags:
   - GM_Notes
 draft: "true"
 ---
+new spell for flavor (and casters to have a melee option when cornered)
+https://www.d20pfsrd.com/magic/3rd-party-spells/rite-publishing-3rd-party-spells/a/animate-tattoo
+
+(permanent decent melee attack for AoO or if cornered)
 
 
 [[The Mycelial Elder]] introduces the concept of attunement to the [[Heroes]] for their [[3 phase Dragon powers]] 
