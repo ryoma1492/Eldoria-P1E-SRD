@@ -369,10 +369,10 @@ function getTrueLevel(row, characterClasses, headers) {
 function evaluateContextualIntent(descText) {
   if (!descText) return '';
   const cleanText = descText.toLowerCase();
-  if (cleanText.includes('damage') || cleanText.includes('vampiric') || cleanText.includes('attack')) return 'card-intent-damage';
   if (cleanText.includes('healing') || cleanText.includes('cures') || cleanText.includes('regain')) return 'card-intent-heal';
-  if (cleanText.includes('bonus') || cleanText.includes('gain a +') || cleanText.includes('enhancement')) return 'card-intent-bonus';
-  if (cleanText.includes('penalty') || cleanText.includes('shaken') || cleanText.includes('sickened')) return 'card-intent-penalty';
+  else if (cleanText.includes('bonus') || cleanText.includes('gain a +') || cleanText.includes('enhancement')) return 'card-intent-bonus';
+  else if (cleanText.includes('damage') || cleanText.includes('vampiric') || cleanText.includes('attack')) return 'card-intent-damage';
+  else if (cleanText.includes('penalty') || cleanText.includes('shaken') || cleanText.includes('sickened')) return 'card-intent-penalty';
   return '';
 }
 
@@ -576,14 +576,16 @@ function resetTurnActions() {
   activeRoundActions = { swift: false, move: false, standard: false };
   syncWaypointUiState();
   
-  // Re-enable and reset the opacity for spent utility nodes
+  // Re-enable and reset the opacity for spent and locked utility nodes
   document.querySelectorAll('.spell-card').forEach(card => {
     const lvl = card.getAttribute('data-spell-level');
+    
     // Keep spell cards locked down if out of spell slots
     if (lvl !== 'none' && lvl !== null) {
       const parsedLvl = parseInt(lvl);
       if (currentSpellSlots[parsedLvl - 1] <= 0) return; 
     }
+    
     card.style.opacity = 1;
     const btn = card.querySelector('.cast-btn');
     if (btn) {
