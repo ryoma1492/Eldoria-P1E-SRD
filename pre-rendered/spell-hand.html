@@ -513,17 +513,16 @@ function handleTacticalCardUse(btnElement, isAbility, level) {
   const cardFrame = btnElement.closest('.spell-card');
   const actionCost = cardFrame.getAttribute('data-action-cost');
 
-  // Core Cost Deduction Rules Engine
+  // 1. Core Cost Deduction Rules Engine
   if (!isAbility && level > 0) {
     const slotIdx = level - 1;
     if (currentSpellSlots[slotIdx] > 0) {
       currentSpellSlots[slotIdx]--;
       renderSlots();
-      evaluateSlotButtonEnforcements();
     }
   }
 
-  // Handle Incremental Asset Pools for custom ability fields
+  // 2. Handle Incremental Asset Pools for custom ability fields
   if (isAbility && cardFrame.querySelector('.ability-current')) {
     let currInput = cardFrame.querySelector('.ability-current');
     let maxVal = parseInt(cardFrame.querySelector('.ability-max').value) || 0;
@@ -533,13 +532,56 @@ function handleTacticalCardUse(btnElement, isAbility, level) {
     }
   }
 
-  // Trigger Waypoint Pipeline Synchronization Layout Changes
+  // 3. Trigger Waypoint Pipeline Synchronization
   consumeTurnAction(actionCost);
   
-  // Local card state visual indicator
+  // 4. Set the clicked card explicitly to "Spent"
   cardFrame.style.opacity = 0.4;
   btnElement.innerText = "EXECUTED";
   btnElement.disabled = true;
+
+  // 5. Enforce sweeping action economy lockdowns across the rest of the hand
+  evaluateActionEconomyLockdowns();
+}
+
+// NEW FUNCTION: Paste this entirely into your script
+function evaluateActionEconomyLockdowns() {
+  document.querySelectorAll('.spell-card').forEach(card => {
+    const cardCost = card.getAttribute('data-action-cost');
+    const btn = card.querySelector('.cast-btn');
+    
+    // Ignore cards that have already been played this turn
+    if (btn && btn.innerText === "EXECUTED") return;
+
+    let shouldDisable = false;
+
+    // RULE: If any Standard Action was played, disable all other Standard Actions[cite: 3]
+    if (activeRoundActions.standard && cardCost === 'standard') {
+      shouldDisable = true;
+    }
+    
+    // RULE: If a Move Action was played, disable all Full-Round Action cards[cite: 3]
+    if (activeRoundActions.move && cardCost === 'full') {
+      shouldDisable = true;
+    }
+
+    // RULE: If a Full-Round Action was played, disable all Standard and Move cards
+    if ((activeRoundActions.standard && activeRoundActions.move) && (cardCost === 'standard' || cardCost === 'move')) {
+      shouldDisable = true;
+    }
+
+    // Apply the visual gray out and functional freeze
+    if (shouldDisable) {
+      card.style.opacity = 0.3;
+      if (btn) {
+        btn.innerText = "LOCKED";
+        btn.disabled = true;
+      }
+    }
+  });
+
+  // Keep slot restrictions layered on top
+  evaluateSlotButtonEnforcements();
 }
 
 function consumeTurnAction(costType) {
@@ -562,6 +604,7 @@ function toggleWaypoint(nodeType) {
 }
 
 function syncWaypointUiState() {
+  evaluateActionEconomyLockdowns();
   // Update Waypoint styling based on selected filters
   document.getElementById('wp-swift').classList.toggle('wp-active', activeRoundActions.swift);
   document.getElementById('wp-move').classList.toggle('wp-active', activeRoundActions.move);
