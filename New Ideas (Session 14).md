@@ -8,6 +8,10 @@ https://www.d20pfsrd.com/magic/3rd-party-spells/rite-publishing-3rd-party-spells
 
 (permanent decent melee attack for AoO or if cornered)
 
+and 
+https://www.d20pfsrd.com/magic/3rd-party-spells/rite-publishing-3rd-party-spells/f/frigid-slowness
+for bard spell damaging (7d4 isn't terrible)
+
 
 [[The Mycelial Elder]] introduces the concept of attunement to the [[Heroes]] for their [[3 phase Dragon powers]] 
 
