@@ -380,7 +380,7 @@ function renderDeck(sheetRows, combinedIds, maxLevel, characterClasses, headers)
   const grid = document.getElementById('card-grid');
   grid.innerHTML = ''; 
 
-  // Injected Universal Baseline Physical Combat Nodes
+  // Injected Universal Baseline Physical Combat Nodes (line 482 below)
   appendUniversalActionCards(grid);
 
   let validCards = [];
@@ -390,13 +390,13 @@ function renderDeck(sheetRows, combinedIds, maxLevel, characterClasses, headers)
     if (!row) return;
 
     const school = row.c[1] ? row.c[1].v : '';
-    const descriptor = row.c[3] ? row.c[3].v : '';
-    const isClassAbility = !school && descriptor;
+    // STRATEGY: If school is completely empty, it is a physical/class ability, not a core spell
+    const isAbilityCard = !school; 
     const calculatedLevel = getTrueLevel(row, characterClasses, headers);
     
     if (calculatedLevel > maxLevel) return;
 
-    validCards.push({ rowData: row, displayLevel: calculatedLevel, isAbility: isClassAbility });
+    validCards.push({ rowData: row, displayLevel: calculatedLevel, isAbility: isAbilityCard });
   });
 
   validCards.sort((a, b) => (a.isAbility !== b.isAbility) ? (a.isAbility ? 1 : -1) : a.displayLevel - b.displayLevel);
@@ -404,7 +404,7 @@ function renderDeck(sheetRows, combinedIds, maxLevel, characterClasses, headers)
   validCards.forEach(cardItem => {
     const row = cardItem.rowData;
     const spellLevel = cardItem.displayLevel;
-    const isClassAbility = cardItem.isAbility;
+    const isAbilityCard = cardItem.isAbility;
 
     const name = row.c[0] ? row.c[0].v : 'Unknown Action';
     const school = row.c[1] ? row.c[1].v : '';
@@ -421,27 +421,32 @@ function renderDeck(sheetRows, combinedIds, maxLevel, characterClasses, headers)
       const urlMatch = cellFormula.match(/=HYPERLINK\(['"]([^'"]+)['"]/i);
       fullDetailsUrl = (urlMatch && urlMatch[1]) ? urlMatch[1] : (cellValue.startsWith('http') ? cellValue : null);
     }
+    const lowerTime = castingTime.toLowerCase();
+    
+    let actionCostType = 'standard'; // default
+    if (lowerTime.includes('full')) actionCostType = 'full';
+    else if (lowerTime.includes('move')) actionCostType = 'move';
+    else if (lowerTime.includes('swift') || lowerTime.includes('immediate')) actionCostType = 'swift';
 
     let actionClass = 'action-standard';
-    const lowerTime = castingTime.toLowerCase();
-    if (lowerTime.includes('swift')) actionClass = 'action-swift';
-    else if (lowerTime.includes('move')) actionClass = 'action-move';
-    else if (lowerTime.includes('full')) actionClass = 'action-full';
-    else if (isClassAbility) actionClass = 'action-ability';
+    if (actionCostType === 'full') actionClass = 'action-full';
+    else if (actionCostType === 'move') actionClass = 'action-move';
+    else if (actionCostType === 'swift') actionClass = 'action-swift';
+    else if (isAbilityCard) actionClass = 'action-ability'; 
 
     const intentStyleClass = evaluateContextualIntent(description + (descFormatted || ''));
-    const card = document.createElement('div');
+const card = document.createElement('div');
     card.className = `spell-card ${intentStyleClass}`;
-    card.setAttribute('data-spell-level', isClassAbility ? 'none' : spellLevel);
-    card.setAttribute('data-action-cost', lowerTime.includes('full') ? 'full' : (lowerTime.includes('swift') ? 'swift' : (lowerTime.includes('move') ? 'move' : 'standard')));
+    card.setAttribute('data-spell-level', isAbilityCard ? 'none' : spellLevel);
     
-    if (isClassAbility) card.style.borderLeft = '4px solid #9b59b6';
-
+    // Fix: Dynamically bind the accurate economy cost type resolved above
+    card.setAttribute('data-action-cost', actionCostType); 
+    
+    if (isAbilityCard) card.style.borderLeft = '4px solid #9b59b6';
     let infoButtonHtml = fullDetailsUrl ? `<a class="info-link" href="${fullDetailsUrl}" target="_blank">📖</a>` : '';
     const bodyContent = descFormatted ? descFormatted : `<p style="font-size: 0.85rem; margin-top: 8px; line-height: 1.3;">${description}</p>`;
 
-    // Render dynamic manual resource box for tracking conditional limits if it is an ability
-    let trackingPoolHtml = isClassAbility ? `
+    let trackingPoolHtml = isAbilityCard ? `
       <div style="margin-top:10px; padding:6px; background:var(--secondary); border-radius:4px; display:flex; align-items:center; gap:5px;">
         <span style="font-size:0.75rem; color:var(--darkgray);">Uses:</span>
         <input type="number" class="ability-current" value="0" style="width:35px; background:var(--page-background); color:white; border:1px solid var(--gray); text-align:center; border-radius:2px; font-size:0.8rem;">
@@ -454,7 +459,7 @@ function renderDeck(sheetRows, combinedIds, maxLevel, characterClasses, headers)
       <div>
         <span class="action-badge ${actionClass}">${castingTime.split(',')[0]}</span>
         <h3 style="margin: 5px 0 0 0; font-size: 1.2rem;">${name}</h3>
-        <small style="opacity: 0.7; font-weight: bold;">${isClassAbility ? `${descriptor} Feature` : school}</small>
+        <small style="opacity: 0.7; font-weight: bold;">${isAbilityCard ? `${descriptor} Feature` : school}</small>
         <p class="spell-meta"><strong>Range:</strong> ${range} | <strong>Lvl:</strong> ${spellLevel}</p>
         ${trackingPoolHtml}
         <details class="spell-details">
@@ -463,8 +468,8 @@ function renderDeck(sheetRows, combinedIds, maxLevel, characterClasses, headers)
         </details>
       </div>
       <div class="card-footer-links">
-        <button class="cast-btn" onclick="handleTacticalCardUse(this, ${isClassAbility}, ${spellLevel})">
-          ${isClassAbility ? 'Use Feature' : 'Cast'}
+        <button class="cast-btn" onclick="handleTacticalCardUse(this, ${isAbilityCard}, ${spellLevel})">
+          ${isAbilityCard ? 'Use Feature' : 'Cast'}
         </button>
         ${infoButtonHtml}
       </div>
