@@ -17,7 +17,7 @@ jobs:
       only_prerendered: ${{ steps.filter.outputs.only_prerendered }}
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           fetch-depth: 2 # Fetch the commit history to run comparison hashes
 
@@ -39,7 +39,7 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
         with:
           fetch-depth: 0
 
