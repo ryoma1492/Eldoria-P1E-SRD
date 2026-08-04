@@ -8,7 +8,7 @@ tags:
 
 ## Session Goal
 
-Session 13 is intentionally a lower-stakes adventure following the emotional climax of the Water Temple ritual. The session should introduce the heroes to the Savage Lands as they truly are, begin Leon's personal story arc, and establish the path toward the campaign's final conflict without immediately escalating into another major climax.
+Session 14 is intentionally a lower-stakes adventure following the emotional climax of the Water Temple ritual. The session should introduce the heroes to the Savage Lands as they truly are, begin Leon's personal story arc, and establish the path toward the campaign's final conflict without immediately escalating into another major climax.
 
 The session's primary combat encounter is intended to occur relatively early (roughly mid-session), allowing the latter half to focus on mystery, worldbuilding, and player-driven exploration.
 

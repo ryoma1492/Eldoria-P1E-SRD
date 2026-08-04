@@ -12,7 +12,10 @@ aliases:
   - The Tree-Man
   - Baobab Pierre
 ---
-**Role**: [[Leon]]’s father. Researcher. Accidental Baobab Primal. Living archive of the [[Savage Lands]]’ greatest secret.  
+
+# Pierre
+
+**Role**: [[Leon]]’s father. Researcher. Accidental [[Baobab Tree Primal]]. Living archive of the [[Savage Lands]]’ greatest secret.  
 **Current Status**: Rooted near the wounded [[Gold Dragon]]. Immobile. Fully conscious. Still researching.
 
 ---
@@ -173,7 +176,7 @@ He lacks the necessary connection to [[Malazar]].
 
 Only [[Malazar]]’s own magical signature can safely interact with the obstruction.
 
-Ironically, the heroes now possess fragments of that signature through [[Killian’s Curse]].
+Ironically, the heroes now possess fragments of that signature through [[Killian’s Curse]] / the draconic aspects.
 
 These fragments are the only means of grasping and removing the magical “knife.”
 
