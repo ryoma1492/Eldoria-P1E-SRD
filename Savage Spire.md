@@ -66,7 +66,7 @@ Located at the summit, these hyper-conductive waters are the means of **Primal I
 The [[Savage Spire]] represents a critical turning point for the [[Heroes]]. It is a **live containment structure** that has become an ecosystem. 
 
 **The Moral/Mechanical Trade:**
-The Spire is no longer stable in isolation; it is fading. The [[Heroes]] possess an overwhelming Primal force that is killing one of their own. By performing the **Water Ritual** at the Spire:
+The Spire is no longer stable in isolation; it is fading. The [[Heroes]] possess an overwhelming Primal force that is killing one of their own. By performing the [[Temple Water Ritual|Water Ritual]] at the Spire:
 1.  The **Infested Hero**  [[Captain Killian]] is relieved as the burden is thinned and shared.
 2.  The **Spire Kin** are reinvigorated, halting the "Fade" and regaining their specialized forms.
 3.  The **Spire** itself is stabilized as the new Primal energy reinforces the Mycelial Network.
