@@ -11,6 +11,7 @@ aliases:
   - Leon’s Father
   - The Tree-Man
   - Baobab Pierre
+draft: true
 ---
 
 # Pierre
@@ -35,7 +36,7 @@ He is a man who found the answer and now needs the only people who can act on it
 ### The Research
 Pierre spent years studying the physical and magical composition of the [[Fool’s Curtain]].
 
-He discovered that a paste made from **[[Voidcap]] mushrooms** neutralizes the first two layers — the same principle later used by the [[Curtain splitter]] of [[Zarthas]].
+He discovered that a paste made from **[[Voidcap]] mushrooms** neutralizes the first two layers — the same principle later used by the [[Curtain  Splitter]] of [[Zarthas]].
 
 ### The Three Layers
 1. **First Layer** – neutralized by [[Voidcap]] paste  

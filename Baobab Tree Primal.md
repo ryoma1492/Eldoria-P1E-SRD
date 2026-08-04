@@ -5,11 +5,12 @@ tags:
   - savage-lands
 aliases:
   - Baobab Primal
+draft: true
 ---
 
 # Baobab Tree Primal
 
-The specific plant Primal with which [[Pierre]] accidentally bonded near the wounded [[Gold Dragon]].
+The specific plant Primal with which [[(Pierre) - Piero Fruosino di Antonio da Vinci]] accidentally bonded near the wounded [[Gold Dragon]].
 
 Because tree Primals change and grow extremely slowly, Pierre retained far more of his original human appearance, mind, memory, and personality than is typical for most bonded individuals.
 

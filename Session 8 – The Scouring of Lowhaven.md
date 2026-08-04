@@ -5,7 +5,7 @@ draft: true
 ---
 
 ## Pre-Text
-With the [[Curtain Splitter]] active and [[Lowhaven]] bathed in sunlight for the first time in a century, hope briefly took root. Crops recovered, spirits lifted, and the [[Heroes]] were hailed as saviors. That hope lasted less than a day.
+With the [[Curtain  Splitter]] active and [[Lowhaven]] bathed in sunlight for the first time in a century, hope briefly took root. Crops recovered, spirits lifted, and the [[Heroes]] were hailed as saviors. That hope lasted less than a day.
 
 At dawn, the [[Royal Crown of Eldoria]] arrived.
 
@@ -25,7 +25,7 @@ The morning bell rang in panic. Three Crown warships anchored offshore, their ba
 With moments to spare, Jellybean began organizing what defenses he could — ballistas dragged into position, watch posts manned, and [[Nibwick]] armed with flasks of alchemical fire under strict instructions to wait for orders.
 
 A diplomatic envoy arrived, led by [[Caldus]], a sincere and disciplined Crown paladin. His demands were precise:
-- Immediate surrender of the [[Curtain Splitter]]
+- Immediate surrender of the [[Curtain  Splitter]]
 - Arrest and transfer of [[Finn]] and [[Atticus]]
 
 Tension hung heavy as negotiations began.
@@ -66,7 +66,7 @@ Both Leon and Gargon escaped the blast unharmed.
 
 ## Act IV – The Siege Beast
 
-Within the city, [[Finn]], [[Atticus]], and Jellybean worked frantically to repair ballistas as the elephantine siege creature advanced on the [[Curtain Splitter]]. Their efforts drew the attention of Crown-trained [[Worg]]s.
+Within the city, [[Finn]], [[Atticus]], and Jellybean worked frantically to repair ballistas as the elephantine siege creature advanced on the [[Curtain  Splitter]]. Their efforts drew the attention of Crown-trained [[Worg]]s.
 
 A brutal tower fight followed. Jellybean was nearly killed. Despite this, the defenders succeeded — slaying the worgs and bringing down the massive creature before it could reach the Splitter.
 
