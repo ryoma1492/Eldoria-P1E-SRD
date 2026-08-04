@@ -27,7 +27,7 @@ Key features:
 Following recent events, much of the farmland has been restored, though its stability depends on continued access to sunlight.
 
 ## The Curtain Splitter
-Lowhaven is uniquely dependent on the [[Curtain Splitter]].
+Lowhaven is uniquely dependent on the [[Curtain  Splitter]].
 
 Effects:
 - Forced back the fog surrounding the town
@@ -46,7 +46,7 @@ Lowhaven traditionally maintained a simple civic structure.
 Recent crises have strained these systems severely.
 
 ## The Scouring
-Lowhaven was the site of a devastating Crown military action following the installation of the [[Curtain Splitter]].  In this event, the [[Royal Crown of Eldoria]] utilized both the [[Sunlance Crystal]] and the [[Peace Ordinance]]
+Lowhaven was the site of a devastating Crown military action following the installation of the [[Curtain  Splitter]].  In this event, the [[Royal Crown of Eldoria]] utilized both the [[Sunlance Crystal]] and the [[Peace Ordinance]]
 
 The event resulted in:
 - Destruction of the northern quarter
@@ -60,7 +60,7 @@ The long-term political and social consequences remain unresolved.
 - Portions of the town lie in ruins
 - Farms are productive but vulnerable
 - Undead roam freely but pose little threat
-- Fortifications surround the [[Curtain Splitter]]
+- Fortifications surround the [[Curtain  Splitter]]
 
 Despite this, morale remains cautiously hopeful.
 
@@ -73,7 +73,7 @@ Lowhaven is increasingly viewed as:
 Travelers speak its name with equal parts awe and fear.
 
 ## See Also
-- [[Curtain Splitter]]
+- [[Curtain  Splitter]]
 - [[Wicklow Estate]]
 - [[Royal Crown of Eldoria]]
 - [[The Scouring of Lowhaven]]

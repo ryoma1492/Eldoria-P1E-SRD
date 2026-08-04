@@ -22,7 +22,7 @@ The true source of this heightened state is a continual leak of raw [[Primal Ene
 ## Key Locations
 
 - [[Savage Spire]] — the primary Kin settlement and the surface expression of the primal leak
-- The inland region surrounding the [[Gold Dragon]] — where [[Pierre]] is rooted
+- The inland region surrounding the [[Gold Dragon]] — where [[(Pierre) - Piero Fruosino di Antonio da Vinci]] is rooted
 - Various hunting grounds and migratory paths used by the Kin
 
 ---
@@ -38,7 +38,7 @@ Herd movements have grown more frequent and larger in recent times — a direct 
 ## Related Pages
 - [[Savage Spire]]
 - [[The Mycelial Elder]]
-- [[Pierre]]
+- [[(Pierre) - Piero Fruosino di Antonio da Vinci]]
 - [[Gold Dragon]]
 - [[Primal Energy]]
 - [[Primal Bond]]

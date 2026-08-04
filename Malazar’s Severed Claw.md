@@ -7,6 +7,7 @@ tags:
   - savage-lands
   - malazar
 aliases:
+draft: true
 ---
 
 ```statblock

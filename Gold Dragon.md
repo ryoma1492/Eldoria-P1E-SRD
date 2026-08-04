@@ -7,6 +7,7 @@ tags:
 aliases:
   - The Gold Dragon
   - Wounded Gold Dragon
+draft: true
 ---
 
 # Gold Dragon
@@ -53,7 +54,7 @@ Only someone carrying fragments of [[Malazar]]’s own magical signature (curren
 ---
 
 ## Related Pages
-- [[Pierre]]
+- [[(Pierre) - Piero Fruosino di Antonio da Vinci]]
 - [[Malazar]]
 - [[Savage Spire]]
 - [[Primal Energy]]

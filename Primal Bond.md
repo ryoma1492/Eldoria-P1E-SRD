@@ -44,6 +44,6 @@ To the Kin this is not viewed as loss of power. It is the return of a sacred gif
 - [[Primals]]
 - [[Savage Spire]]
 - [[The Mycelial Elder]]
-- [[Pierre]]
+- [[(Pierre) - Piero Fruosino di Antonio da Vinci]]
 - [[Gold Dragon]]
 - [[Primal Energy]]

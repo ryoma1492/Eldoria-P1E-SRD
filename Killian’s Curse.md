@@ -36,7 +36,7 @@ The fragments of [[Malazar]]’s signature now carried by the [[Heroes]] are the
 
 To do so, the party must willingly embrace further corruption and deepen their attunement.
 
-This is the price of helping the dragon — and of finishing what [[Pierre]] began.
+This is the price of helping the dragon — and of finishing what [[(Pierre) - Piero Fruosino di Antonio da Vinci]] began.
 
 ---
 
@@ -45,5 +45,5 @@ This is the price of helping the dragon — and of finishing what [[Pierre]] beg
 - [[Malazar]]
 - [[Captain Killian]]
 - [[Gold Dragon]]
-- [[Pierre]]
+- [[(Pierre) - Piero Fruosino di Antonio da Vinci]]
 - [[Deck of Draconic Will]]

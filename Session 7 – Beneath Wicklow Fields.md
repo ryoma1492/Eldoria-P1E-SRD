@@ -5,7 +5,7 @@ draft: true
 ---
 
 ## Pre-Text
-With the [[Curtain Splitter]] active and [[Lowhaven]] bathed in true sunlight for the first time in a century, the [[Heroes]] turned their attention to lingering corruption beneath the land itself. Though the fog had retreated, something still poisoned the soil — a quieter rot tied to the same forces as the [[Crystal Cultists]] and their strange [[black crystals]].
+With the [[Curtain  Splitter]] active and [[Lowhaven]] bathed in true sunlight for the first time in a century, the [[Heroes]] turned their attention to lingering corruption beneath the land itself. Though the fog had retreated, something still poisoned the soil — a quieter rot tied to the same forces as the [[Crystal Cultists]] and their strange [[black crystals]].
 
 ## Current State
 Lowhaven farms recovering unevenly  

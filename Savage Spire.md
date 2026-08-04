@@ -88,7 +88,7 @@ The Spire is no longer stable in isolation; it is fading. The [[Heroes]] possess
 
 ## Key Figures
 - [[The Mycelial Elder]] — primary interface consciousness of the upper vertical ecology; speaks for the Spire.
-- [[Pierre]] — the “tree-man” rooted near the [[Gold Dragon]]; former researcher who crossed the [[Fool’s Curtain]].
+- [[(Pierre) - Piero Fruosino di Antonio da Vinci]] — the “tree-man” rooted near the [[Gold Dragon]]; former researcher who crossed the [[Fool’s Curtain]].
 
 ---
 
@@ -112,7 +112,7 @@ To them this is not loss of power. It is returning a sacred gift to its rightful
 
 ## Related Pages
 - [[The Mycelial Elder]]
-- [[Pierre]]
+- [[(Pierre) - Piero Fruosino di Antonio da Vinci]]
 - [[Gold Dragon]]
 - [[Primal Bond]]
 - [[Primal Energy]]
