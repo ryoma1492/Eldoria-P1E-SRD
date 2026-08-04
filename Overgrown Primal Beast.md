@@ -1,4 +1,5 @@
 ---
+statblock: inline
 tags:
   - monster
   - session-14

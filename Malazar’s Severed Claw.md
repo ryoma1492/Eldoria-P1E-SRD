@@ -1,10 +1,12 @@
 ---
+statblock: inline
 tags:
   - monster
   - encounter
   - session-14
   - savage-lands
   - malazar
+aliases:
 ---
 
 ```statblock
