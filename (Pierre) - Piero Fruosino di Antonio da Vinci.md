@@ -11,7 +11,7 @@ aliases:
   - Leon’s Father
   - The Tree-Man
   - Baobab Pierre
-draft: true
+draft: false
 ---
 
 # Pierre

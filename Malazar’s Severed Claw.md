@@ -7,7 +7,7 @@ tags:
   - savage-lands
   - malazar
 aliases:
-draft: true
+draft: false
 ---
 
 ```statblock
@@ -24,13 +24,13 @@ INI: +7
 perception: +8
 senses: darkvision 60 ft., blindsense 30 ft.
 AC: 23, touch 12, flat-footed 20 (+3 Dex, +11 natural, -1 size)
-HP: 76
-hit_dice: 9d10+27
+HP: 44
+hit_dice: 5d10+27
 saves: Fort +3, Ref +6, Will +5
 immune: construct traits, acid
-DR: 12/—
+DR: 8/—
 speed: fly 50 ft. (perfect)
-melee: claw +17 (2d8+12/19-20 plus 2d6 acid and reopen)
+melee: claw +7 (2d8+12/19-20 plus 2d6 acid and reopen)
 special_attacks: malice pulse, reopen the wound, Power Attack
 space: 10 ft.
 reach: 10 ft.
