@@ -7,7 +7,7 @@ tags:
 aliases:
   - The Gold Dragon
   - Wounded Gold Dragon
-draft: true
+draft: false
 ---
 
 # Gold Dragon
