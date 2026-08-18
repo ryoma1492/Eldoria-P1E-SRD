@@ -1,6 +1,11 @@
 ---
 type: plant
+tags:
+  - poisons
 ---
+
+known sightings at [[Savage Spire|Savage Spire]] and known by [[The Mycelial Elder]]  
+
 
 Source Custom (Based on Jinmenju Ecology)
 Price 15,000 gp; Slot none; CL 11th; Weight —
